@@ -1,925 +1,177 @@
-## EEE Faculty Directory Across Academic Years (2020–2024)
+# EEE
 
-# MSAJCE — Mohamed Sathak A.J. College of EngineeringDepartment of Electrical and Electronics Engineering — Complete Data Extract for RAG Model
+## Overview
 
-## 1. Department Overview — B.E. EEE Programme Details, Vision and Mission
+Electrical engineering is a dynamic field of study that encompasses the design, installation, and operation of a wide range of equipment and machines, from small motors to massive generators and turbines. This discipline plays a significant role in the job market, accounting for over 25% of all available engineering positions. In India, electrical engineering sectors make up a substantial 30% of government jobs, offering numerous opportunities for those pursuing a career in this field.
 
-■ This chunk covers the EEE department overview, programme details (duration, seats, eligibility, curriculum links), and the department vision and mission statements.
+Electrical and electronics engineers possess a unique advantage in the job market, as they can transition into various sectors, including Computer Science and Engineering (CSE), Electronics and Communication Engineering (ECE), Instrumentation and Control Engineering (ICE), Robotics, Mechanical Engineering, and even Healthcare. However, engineers from other branches often find it challenging to enter the electrical engineering job market, highlighting the specialized nature of this field.
 
-Department of Electrical and Electronics Engineering — MSAJCE:
+Beyond traditional electrical engineering roles in power generation, transmission, distribution, manufacturing, and utilization, this field is well-positioned to address a multitude of critical engineering issues. The anticipated growth of the electric vehicle sector in the near future is expected to significantly boost the demand for electrical engineers, contributing substantially to the development of India and its economy. In line with this, the Government of India has established policies and set targets for the implementation of renewable energy sources, such as solar and wind power, to reduce carbon footprint and stimulate economic growth.
 
-Electrical engineering is concerned with the study, design, installation and operation of equipment and machines ranging from small motors to heavy generators and turbines. Electrical engineering jobs represent over 25% of all available engineering jobs. In India, 30% of government jobs are from the electrical engineering sector. Electrical and electronics engineers can enter job markets of CSE, ECE, ICE, Robotics, Mechanical Engineering, and Healthcare sectors. Engineers from other branches cannot enter electrical engineering job markets. Conventional EEE jobs include power generation, transmission, distribution, manufacturing and utilization. With the expected boom in the electric vehicle sector, the demand and contribution of electrical engineers to Indian economy will be tremendous. The Government of India has set targets for renewable energy (solar, wind) to reduce carbon footprint and boost economy.
+At its core, the electrical engineering program is grounded in science and mathematics. For those who enjoy these subjects, electrical engineering can be a highly rewarding field of study, offering numerous opportunities to solve real-time problems and make a meaningful impact.
 
-B.E. — Electrical and Electronics Engineering:
+The B.E. in Electrical and Electronics Engineering is a four-year undergraduate program for regular students, while those opting for lateral entry can complete it in three years. The program is divided into eight semesters for regular students and six semesters for lateral entry students. The total intake for this program is 30 students, with 15 seats allocated under the government quota and the remaining 15 under the management quota.
 
-Duration: 4 years (Regular) / 3 years (Lateral Entry)
+To be eligible for this program, applicants must have completed their 10+2 education and secured a pass in Physics, Chemistry, and Mathematics in their qualifying examination. The curriculum and syllabus for this program are available in two regulations: 2017 and 2021. 
 
-No. of Semesters: 8 (Regular) / 6 (Lateral Entry)
+Upon completing the B.E. in Electrical and Electronics Engineering, graduates can pursue various career opportunities, including roles such as Circuit Designers, Energy Efficiency Engineers, Distribution Planning Engineers, Power System Engineers, Research Engineers, Electrical Safety Engineers, and Power Plant Engineers. Additionally, this program also provides a solid foundation for higher studies, offering students a wide range of options to further their academic pursuits.
 
-Intake / No. of Seats: Total — 30 (Government — 15, Management — 15)
+## Vision
 
-Eligibility: 10+2 system of Education. Must have secured a pass in Physics, Chemistry and Mathematics in the qualifying examination.
+At Mohamed Sathak A.J. College of Engineering, the Electrical and Electronics Engineering department envisions itself as a centre of excellence, transforming students into proficient engineers through sustainable practices. This vision is supported by the department's mission, which is comprised of three key objectives. Firstly, the department aims to impart core fundamental knowledge and necessary skills in Electrical and Electronics Engineering through innovative teaching and learning methodologies. Secondly, it seeks to inculcate critical thinking, ethics, lifelong learning, and creativity in its students, essential qualities for success in both industry and society. Lastly, the department strives to cultivate all-round competencies in its students, preparing them for career advancement, higher education, and self-employability.
 
-Curriculum & Syllabus:
 
-2021 Regulation: <https://www.msjace-edu.in/uploads/academics/2021Regulation.pdf>
+The department's Programme Educational Objectives (PEOs) are designed to ensure that its graduates are well-equipped to succeed in their chosen careers. Specifically, PEO1 states that graduates will be prepared to design Electrical and Electronics components and systems with creativity and sustainability. PEO2 emphasizes the importance of developing skills in the use of modern tools for critical problem-solving and analyzing industrial and societal requirements. Meanwhile, PEO3 focuses on preparing graduates with managerial and leadership skills, essential for career advancement and starting their own firms.
 
-2017 Regulation: <https://www.msjace-edu.in/uploads/academics/2017Regulation.pdf>
 
-Career Opportunities: Circuit Designers, Energy Efficiency Engineer, Distribution Planning Engineer, Power System Engineer, Research Engineer, Electrical Safety Engineer, Power Plant Engineer
+In addition to the PEOs, the department has also established Program Specific Outcomes (PSOs) that are unique to the Electrical and Electronics Engineering programme. PSO1 highlights the importance of applying acquired knowledge in conventional and non-conventional energy systems to provide acceptable solutions for industrial, societal, and entrepreneurial needs. PSO2 emphasizes the need to evaluate, analyze, and design components and systems for electric vehicles and hybrid vehicles that are sustainable and eco-friendly.
 
-Scope for Higher Studies: M.E. / M.Tech. / M.B.A.
 
-Department Vision:
+The department's Programme Outcomes (PO) are designed to ensure that its graduates possess the necessary knowledge and skills to succeed in their chosen careers. Specifically, PO1 states that graduates will be able to apply their knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
 
-To be a centre of excellence for transforming students into proficient Electrical and Electronics Engineers through sustainable practices.
+The vision of the institution encompasses a comprehensive set of program outcomes that aim to equip students with a wide range of skills and knowledge. One of the primary objectives, PO2, is to enable students to analyze complex engineering problems by identifying, formulating, and reviewing research literature, ultimately leading to substantiated conclusions based on the fundamental principles of mathematics, natural sciences, and engineering sciences.
 
-Department Mission:
+Another crucial aspect, PO3, involves designing solutions for intricate engineering problems, taking into account the specified needs, public health and safety, as well as cultural, societal, and environmental considerations. This outcome emphasizes the importance of designing system components or processes that cater to the diverse needs of the community.
 
-M1. Impart core fundamental knowledge and necessary skills in Electrical and Electronics Engineering through innovative teaching and learning methodology.
+PO4 focuses on conducting investigations of complex problems, utilizing research-based knowledge and methods, including the design of experiments, data analysis, and interpretation, to provide valid conclusions. This outcome highlights the significance of applying research skills to resolve complex engineering problems.
 
-M2. Inculcate critical thinking, ethics, lifelong learning and creativity needed for industry and society.
+In addition to these skills, PO5 emphasizes the importance of modern tool usage, where students learn to create, select, and apply suitable techniques, resources, and modern engineering and IT tools, including prediction and modeling, to complex engineering activities. This outcome also stresses the need to understand the limitations of these tools.
 
-M3. Cultivate the students with all-round competencies, for career, higher education and self-employability.
+PO6, The Engineer and Society, encourages students to apply contextual knowledge to assess societal, health, safety, legal, and cultural issues relevant to professional engineering practice. This outcome underscores the engineer's responsibility to consider the broader implications of their work.
 
-### B.E. EEE Programme — Key Details
+Lastly, PO7, Environment and Sustainability, aims to instill in students an understanding of the impact of professional engineering solutions on societal and environmental contexts. This outcome emphasizes the need for sustainable development and encourages students to demonstrate their knowledge of this critical aspect.
 
-- **B.E. — Electrical and Electronics Engineering** (Parameter: Programme).
+The vision of the institution encompasses a multifaceted approach to engineering education, with a strong emphasis on ethics. This is reflected in PO8, which highlights the importance of applying ethical principles and adhering to professional ethics and responsibilities, as well as the norms of engineering practice. By instilling these values, the institution aims to produce engineers who are not only technically proficient but also morally grounded.
 
-- **4 years (Regular) / 3 years (Lateral Entry)** (Parameter: Duration).
+In addition to ethics, the vision also emphasizes the importance of individual and team work, as outlined in PO9. This involves functioning effectively as an individual, as well as a member or leader in diverse teams, and in multidisciplinary settings. By fostering this ability, the institution seeks to produce engineers who are adaptable, collaborative, and able to thrive in a wide range of environments.
 
-- **8 (Regular) / 6 (Lateral Entry)** (Parameter: Semesters).
+Effective communication is another key aspect of the vision, as stated in PO10. This involves communicating complex engineering activities with the engineering community and with society at large, through a range of mediums, including reports, design documentation, presentations, and clear instructions. By developing these skills, the institution aims to produce engineers who are able to convey their ideas and expertise with clarity and precision.
 
-- **Total Intake** (Parameter: Total Intake).
+The vision also places a strong emphasis on project management and finance, as outlined in PO11. This involves demonstrating knowledge and understanding of engineering and management principles, and applying these to one's own work, as a member and leader in a team, to manage projects and in multidisciplinary environments. By equipping engineers with these skills, the institution seeks to produce professionals who are able to navigate the complexities of project management and finance with confidence and expertise.
 
-- **Government Quota** (Parameter: Government Quota).
+Finally, the vision highlights the importance of life-long learning, as stated in PO12. This involves recognizing the need for, and having the preparation and ability to engage in independent and life-long learning, in the broadest context of technological change. By instilling this mindset, the institution aims to produce engineers who are adaptable, curious, and committed to ongoing learning and professional development.
 
-- **Management Quota** (Parameter: Management Quota).
+## Job Profiles
 
-- **10+2 with pass in Physics, Chemistry and Mathematics** (Parameter: Eligibility).
+Electrical and Electronics Engineering graduates from Mohamed Sathak A.J. College of Engineering have a wide range of job opportunities in both India and abroad, spanning across public and private sectors. They can find employment in various fields such as electrical motors and generators, manufacturing, consultancy services specializing in electrical engineering, and companies that produce electrical appliances and components. Additionally, they can explore opportunities in the lighting and luminaries sector, power generation, electric wires and cables, electrical exporters, measurements and instrumentation, power distribution, transformers, and manufacturing industries. Furthermore, green energy companies in India also offer promising career prospects for these graduates.
 
-- **<a href="https://www.msajce-edu.in/uploads/academics/2021Regulation.pdf">https://www.msajce-edu.in/uploads/academics/2021Regulation.pdf</a>** (Parameter: Curriculum 2021).
+Looking ahead to the future, the employment forecast for Electrical and Electronics Engineering in India from 2025 to 2030 appears promising. Based on current trends, government policies, industry shifts, and emerging technologies, this field is expected to experience significant growth. Several key growth drivers are anticipated to contribute to this expansion, although the specific details of these drivers have yet to be outlined.
 
-- **<a href="https://www.msajce-edu.in/uploads/academics/2017Regulation.pdf">https://www.msajce-edu.in/uploads/academics/2017Regulation.pdf</a>** (Parameter: Curriculum 2017).
+The energy sector is witnessing a significant transformation, with a major national investment in solar, wind, and hybrid energy, aiming to reach a target of 500 GW by 2030. This shift has led to a rise in demand for skilled professionals, including Power systems engineers, Grid integrators, and Solar plant Designers. 
 
-- **M.E. / M.Tech. / M.B.A.** (Parameter: Higher Studies).
+In the realm of Electric Vehicles, India's EV market is projected to grow at a remarkable 40% Compound Annual Growth Rate (CAGR). As a result, there is a strong demand for engineers specializing in Power electronics, Battery management systems (BMS), Motor control, and Embedded systems. 
 
-## 2. OBE — PEOs, PSO and Programme Outcomes (PO1–PO12)
+The deployment of Smart Grids and Energy Automation has also created a need for Electrical and Electronics Engineers (EEE) with expertise in IoT, Data analytics, and AI integration. Furthermore, the implementation of Smart meters, IoT in transmission, and load balancing algorithms has opened up opportunities for skilled engineers in this field.
 
-■ This chunk covers all Outcome Based Education details for the EEE department — Programme Educational Objectives (PEOs), Programme Specific Outcomes (PSOs), and all 12 Programme Outcomes (POs).
+The government's Production-Linked Incentive (PLI) scheme has given a significant boost to the Semiconductor and Electronics Manufacturing sector. This has led to a rise in job demand in areas such as PCB design, VLSI, microelectronics, and hardware design. 
 
-Programme Educational Objectives (PEOs) — EEE Department, MSJCE:
+The rollout of Digital India and 5G has resulted in massive growth in Telecom infrastructure, Optical fiber networks, and IoT ecosystems. Consequently, there is a high demand for skilled professionals, including RF engineers, signal processing experts, and embedded firmware developers.
 
-PEO1. Graduates will be prepared for designing Electrical and Electronics components and systems with creativity and sustainability.
+Sector-wise employment growth projections indicate that the Renewable Energy sector is expected to grow at a rate of 10-12% per year, with key roles in demand including Grid engineers, inverter designers, and SCADA engineers. The Electric Vehicles and Mobility sector is projected to grow at a rate of 15-18% per year, with a high demand for BMS, Motor control, and Embedded systems engineers.
 
-PEO2. Graduates will be skilled in the use of modern tools for critical problem solving and analyzing industrial and societal requirements.
+The Power Transmission and Utilities sector is expected to grow at a rate of 5-7% per year, with key roles in demand including Substation engineers, load dispatch engineers, and Protection systems engineers. The Semiconductor and Electronics sector is projected to grow at a rate of 12-15% per year, with a high demand for VLSI, PCB design, and ASIC/FPGA engineers.
 
-PEO3. Graduates will be prepared with managerial and leadership skills for career and starting up own firms.
+The Automation/Industry 4.0 sector is expected to grow at a rate of 8-10% per year, with key roles in demand including PLC/SCADA engineers, Robotics integration engineers, and IIoT engineers. The Telecom and 5G sector is projected to grow at a rate of 10-12% per year, with a high demand for RF engineers, Embedded C engineers, DSP engineers, and IoT firmware engineers.
 
-Programme Specific Outcomes (PSOs):
+In terms of education level, B.Tech/B.E. graduates have numerous opportunities in design, systems, and product development, with a job growth rate of 7-9%. It is recommended that they focus on developing skills in IoT, Power electronics, MATLAB, Embedded Systems, AI, and IoT to remain competitive in the job market.
 
-PSO1. Apply the acquired knowledge in conventional and non-conventional energy systems to provide acceptable solutions for industrial, societal and entrepreneurial needs.
+The renewable energy sector is expected to experience significant growth, with projected job growth rates of 10-12% per year from 2025 to 2030. In this sector, key roles in demand include grid engineers, inverter designers, and SCADA engineers, who play crucial roles in designing and maintaining the infrastructure that supports the integration of renewable energy sources into the grid.
 
-PSO2. Evaluate, analyze and design components and systems for electric vehicles and hybrid vehicles that are sustainable and eco-friendly.
+The electric vehicles and mobility sector is also poised for substantial growth, with projected job growth rates of 15-18% per year. In this sector, professionals with expertise in battery management systems (BMS), motor control, and embedded systems are in high demand, as they are essential for the development and manufacturing of electric vehicles.
 
-Programme Outcomes (POs):
+In contrast, the power transmission and utilities sector is expected to experience more modest growth, with projected job growth rates of 5-7% per year. However, professionals with expertise in substation engineering, load dispatch, and protection systems will continue to be in demand, as they are critical to the safe and efficient transmission of electricity.
 
-PO1. Engineering Knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
+The semiconductor and electronics sector is expected to experience significant growth, with projected job growth rates of 12-15% per year. In this sector, professionals with expertise in VLSI design, PCB design, and ASIC/FPGA engineering are in high demand, as they are essential for the development and manufacturing of advanced semiconductor devices.
 
-PO2. Problem Analysis: Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+The automation and industry 4.0 sector is also expected to experience significant growth, with projected job growth rates of 8-10% per year. In this sector, professionals with expertise in PLC/SCADA systems, robotics integration, and IIoT are in high demand, as they are essential for the development and implementation of automation solutions.
 
-PO3. Design/Development Of Solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for public health and safety, and cultural, societal, and environmental considerations.
+The telecom and 5G sector is expected to experience significant growth, with projected job growth rates of 10-12% per year. In this sector, professionals with expertise in RF engineering, embedded C programming, DSP, and IoT firmware development are in high demand, as they are essential for the development and deployment of 5G networks.
 
-PO4. Conduct Investigations of Complex Problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+According to forecasts by education level, B.Tech/B.E. graduates will have opportunities in design, systems, and product development, with job growth rates of 7-9%. To remain competitive, it is recommended that these graduates focus on developing skills in IoT, power electronics, MATLAB, embedded systems, AI, and IoT.
 
-PO5. Modern Tool Usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.
+## Faculty
 
-PO6. The Engineer and Society: Apply reasoning informed by contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+The faculty at Mohamed Sathak A.J. College of Engineering comprises a team of highly qualified and experienced individuals. Dr. Jeha J, a Professor, joined the institution on 17th August 2022, bringing with him a strong academic background of M.E. and Ph.D. qualifications. He is a regular member of the faculty and has been designated as an Associate Professor with a specialization in Power Systems.
 
-PO7. Environment and Sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+Another Professor, Dr. Devikala S, joined the college on 13th March 2023, also holding M.E. and Ph.D. qualifications. She is a regular member of the faculty. Dr. Kamalaselan A, an Assistant Professor, has been a part of the institution since 13th May 2022, with M.E. and Ph.D. qualifications, and specializes in High Voltage Engineering. He is a regular member of the faculty.
 
-PO8. Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+Mr. Chintala Venkatesh, an Assistant Professor, joined the college on 18th December 2019, with M.E. and Ph.D. (pursuing) qualifications. He specializes in Power Electronics and Drives and is a regular member of the faculty. Mr. Suresh N, another Assistant Professor, joined on 1st August 2022, with M.E. and Ph.D. (pursuing) qualifications, and specializes in Control and Instrumentation Engineering. He is also a regular member of the faculty.
 
-PO9. Individual and Team Work: Function effectively as an individual, and as a member or leader in diverse teams, and in multi-disciplinary settings.
+Other faculty members include Mr. Vinodh S V, who joined on 1st August 2023, with M.E. qualifications, and is a regular member of the faculty. Ms. Anupreyaa K, an Assistant Professor, joined on 2nd January 2023, with M.E. qualifications, and is a regular member of the faculty. Ms. Gayathri Achanta, also an Assistant Professor, joined on 21st July 2023, with M.E. qualifications, and is a regular member of the faculty.
 
-PO10. Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+In addition to these faculty members, there are others who contribute to the academic excellence of the institution. Mr. Mahadevan J, an Assistant Professor, specializes in Power Electronics, while Mrs. Suguna Devi R, an Assistant Professor, specializes in Communication Systems. Mrs. Brindha H, an Assistant Professor, specializes in Power Systems, and Mrs. Archana C, an Assistant Professor, specializes in High Voltage Engineering.
 
-PO11. Project Management and Finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one's own work, as a member and leader in a team, to manage projects and in multi-disciplinary environments.
+The faculty at Mohamed Sathak A.J. College of Engineering comprises a team of highly qualified and experienced individuals. Mr. Mahadevan J, who holds an M.E. and is currently pursuing his Ph.D., serves as an Assistant Professor specializing in Power Electronics. Mrs. Dharageshwari K, with her M.E. in High Voltage Engineering, also holds the position of Assistant Professor. 
 
-PO12. Life-long Learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+Mrs. Brindha H, another Assistant Professor, has an M.E. in Power Systems, while Mr. Chintala Venkatesh, who holds an M.E. and is pursuing his Ph.D., specializes in Power Electronics and Drives. Mrs. Suguna Devi R, with her M.Tech. and Ph.D., serves as an Assistant Professor in Communication Systems. Mrs. Nisha P, who holds an M.E. and Ph.D., is an Assistant Professor specializing in Power Electronics.
 
-### PEOs — Programme Educational Objectives
+In addition to these faculty members, Mr. Vairaperumal K, with his M.E. in Power Systems, serves as an Assistant Professor. Other notable faculty members include Mr. Vinodh S V, who holds an M.E. and serves as an Assistant Professor in Control and Instrumentation Engineering, and Mr. Rajendran V, who holds an M.E. and serves as an Assistant Professor in Power Electronics. Furthermore, Mrs. Hema Sumitha D, with her M.E. in Applied Electronics, and Mrs. Abirami R, with her M.E. in Power Management, also hold the position of Assistant Professor.
 
-- **Graduates will be prepared for designing Electrical and Electronics components and systems with creativity and sustainability.** (Peo: PEO1).
+It is worth noting that some faculty members are listed multiple times, indicating their expertise in multiple areas or their involvement in different departments within the college.
 
-- **Graduates will be skilled in the use of modern tools for critical problem solving and analyzing industrial and societal requirements.** (Peo: PEO2).
+Mr. Rajendran V holds the position of Assistant Professor, specializing in Power Electronics. He has earned a Master's degree in Engineering, denoted as M.E.
 
-- **Graduates will be prepared with managerial and leadership skills for career and starting up own firms.** (Peo: PEO3).
+Mrs. Hema Sumitha D is another faculty member who serves as an Assistant Professor, focusing on Applied Electronics. Her academic credentials include a Master's degree in Engineering, or M.E.
 
-### PSOs — Programme Specific Outcomes
+Mrs. Abirami R is also an Assistant Professor, with her area of expertise being Power Management. She too has obtained a Master's degree in Engineering, abbreviated as M.E.
 
-- **Apply the acquired knowledge in conventional and non-conventional energy systems to provide acceptable solutions for industrial, societal and entrepreneurial needs.** (Pso: PSO1).
+## Section 5
 
-- **Evaluate, analyze and design components and systems for electric vehicles and hybrid vehicles that are sustainable and eco-friendly.** (Pso: PSO2).
+The Control & Instrumentation Lab is equipped with various facilities, catering to the needs of students enrolled in the EE8511 - Control & Instrumentation course. This lab provides hands-on experience, allowing students to apply theoretical concepts to real-world problems. The lab's facilities and details can be viewed online, and students can also access the virtual link for additional resources. Furthermore, a soft copy of the lab record is available for download.
 
-- What are the PEOs of the EEE department at MSJCE?
-- What are the PSOs of EEE at MSJCE?
-- What are the programme outcomes of EEE at MSJCE?
-- Does EEE at MSJCE cover electric vehicles?
-- What skills will I gain from the EEE programme at MSJCE?
-- What is PO12 in EEE at MSJCE?
-- What is the OBE framework for EEE at MSJCE?
+The Engineering Practices Lab is another facility that offers a comprehensive learning environment, specifically designed for students taking the GE8261 - Engineering Practices course. By visiting the lab's webpage, students can gain insight into the available facilities and resources. The lab record can also be downloaded for reference purposes.
 
-[Overlap → next chunk]: B.E. EEE at MSJCE: Total 30 seats (Government 15, Management 15). Duration 4 years (8 semesters) or 3 years Lateral Entry (6 semesters). Eligibility: 10+2 with Physics, Chemistry and Mathematics. 2021 Regulation syllabus at
+The Power Electronics Lab is dedicated to providing students with practical experience in power electronics, as part of the EE8661 - Power Electronics course. The lab's facilities can be explored online, and students can access virtual resources through the provided link. Additionally, the lab record is available for download.
 
-## 3. Job Profiles — Employment Forecast 2025–2030, Sector-Wise Growth Projections
+The Power System Simulation Lab is a specialized facility that caters to the needs of students enrolled in the EE8711 - Power System Simulation course. The lab's facilities and resources can be viewed online, and students can access the virtual link for further learning. The lab record can also be downloaded for reference.
 
-■ This chunk covers the EEE job market overview, key growth drivers (EVs, renewable energy, semiconductors, 5G), sector-wise employment growth projections for 2025–2030, and education-level forecast for B.E./B.Tech graduates.
+The Renewable Energy Lab is designed to provide students with hands-on experience in renewable energy systems, as part of the EE8712 - Renewable Energy course. The lab's facilities and resources can be explored online, and students can access virtual resources through the provided link. Furthermore, the lab record is available for download.
 
-EEE Job Profiles — India and Abroad (Public and Private Sectors):
+The Electrical Machines Lab is a comprehensive facility that offers a wide range of resources and equipment, catering to the needs of students enrolled in various courses, including EE8261 - Basic Electrical Electronics and Instrumentation Engineering, EE8311 - Electrical Machines - I, EE8411 - Electrical Machines - II, and EE8361 - Electrical Engineering. The lab's facilities and resources can be viewed online, and students can access virtual resources through the provided links. The lab record can also be downloaded for reference.
 
-Electrical motors and Generators, Manufacturing, Consultancy (Electrical Engineering), Electrical appliances, Electrical components companies, Lighting and luminaries, Power Generation, Electric wires and Cables, Electrical exporters, Measurements and Instrumentation, Power Distribution, Transformers, Manufacturing Industries, Green Energy Companies in India.
+The Electronics Lab is a specialized facility that provides students with practical experience in electronics, as part of the EC8311 - Electronics and EE8261 - ELECTRIC CIRCUITS courses. The lab's facilities and resources can be explored online, and students can access virtual resources through the provided links. Furthermore, the lab record is available for download.
 
-Employment Forecast: Electrical and Electronics Engineering — 2025–2030 in India (Based on current trends, government policy, industry shifts, and emerging technologies):
+## Academics
 
-Key Growth Drivers:
+The Mohamed Sathak A.J. College of Engineering follows the Anna University Regulation and Syllabus for its BE programs. Specifically, the college adheres to the BE - 2021 Syllabus, as well as the BE - 2017 Syllabus, including the Open Electives offered under the 2017 regulation. 
 
-1. Energy Transition and Renewable Energy: Major national investment in solar, wind, and hybrid energy (target: 500 GW by 2030). Rise in demand for Power systems engineers, Grid integrators, and Solar plant Designers.
-2. Electric Vehicles (EVs): India's EV market projected to grow at 40% CAGR. Strong demand for Power electronics, Battery management systems (BMS), Motor control, and Embedded system engineers.
-3. Smart Grids and Energy Automation: Deployment of Smart meters, IoT in transmission, and load balancing algorithms. Need for EEE engineers with knowledge in IoT, Data analytics, and AI integration.
-4. Semiconductor and Electronics Manufacturing (PLI Scheme): Boost from government's Production-Linked Incentive (PLI) scheme for electronics and chip manufacturing. Rise in job demand in PCB design, VLSI, microelectronics, and hardware design.
-5. Digital India and 5G Rollout: Massive growth in Telecom infrastructure, Optical fiber networks, and IoT ecosystems. High demand for RF engineers, signal processing, and embedded firmware developers.
+In Semester III, students take a range of courses, including MA3303 Probability and Complex Functions, EE3301 Electromagnetic Fields, EE3302 Digital Logic Circuits, EE3303 Electrical Machines - I, EC3301 Electron Devices and Circuites, and CS3353 C Programming and Data Structures. Each of these courses has a lesson plan, question bank, lecture notes, and ICT tools available for students to access.
 
-Sector-Wise Employment Growth Projections (2025–2030):
+Moving on to Semester IV, the curriculum includes GE3451 Environmental Sciences and Sustainability, EE3401 Transmission and Distribution, EE3402 Linear Integrated Circuits, EE3403 Measurements and Instrumentation, EE3404 Microprocessor and Microcontroller, and EE3405 Electrical Machines II. Like the Semester III courses, these subjects also have lesson plans, question banks, lecture notes, and ICT tools available for students.
 
-Sector | Projected Job Growth | Key Roles In Demand
+In Semester V, students delve into more specialized topics, including EE3501 Power System Analysis, EE3591 Power Electronics, EE3503 Control Systems, EE3001 Utilization and Conservation of Electrical Energy, EE3006 Power Quality, and EE3012 Electrical Drives. Each of these courses is supported by a range of learning resources, including lesson plans, question banks, lecture notes, and ICT tools.
 
-Renewable Energy | 10–12% per year | Grid engineer, inverter designer, SCADA
+The course MX3084, titled Disaster Management, is offered under the 2017 regulation. This course is part of the curriculum for various semesters, including Semester III, Semester IV, and Semester V.
 
-Electric Vehicles and Mobility | 15–18% per year | BMS, Motor control, Embedded systems
+In Semester III, students can access course materials for several subjects, including MA3303, Probability and Complex Functions, taught by an instructor whose name is not specified. Other subjects in this semester include EE3301, Electromagnetic Fields, EE3302, Digital Logic Circuits, EC3301, Electron Devices and Circuites, EE3303, Electrical Machines - I, and CS3353, C Programming and Data Structures.
 
-Power Transmission and Utilities | 5–7% per year | Substation, load dispatch, Protection systems
+Moving on to Semester V, the course materials are available for subjects such as EE8501, Power System Analysis, EE8551, Microprocessor and Microcontrollers, EE8552, Power Electronics, EE8591, Digital Signal Processing, CS8392, Object Oriented Programming, and OMD551, Basics of Biomedical Instrumentation.
 
-Semiconductor and Electronics | 12–15% per year | VLSI, PCB design, ASIC/FPGA engineers
+In the final semester, Semester VII, students can access materials for EE8701, High Voltage Engineering, EE8702, Power System Operation and Control, EE8703, Renewable Energy Systems, GE8071, Disaster Management, and GE8077, Total Quality Management.
 
-Automation / Industry 4.0 | 8–10% per year | PLC/SCADA, Robotics integration, IIoT
+The Introduction to C Programming course, denoted by the course code OCS752, is a fundamental academic offering at Mohamed Sathak A.J. College of Engineering. This course is available to students across multiple semesters, specifically Semester III, Semester V, and Semester VII, providing a broad range of students with the opportunity to develop their programming skills in C.
 
-Telecom and 5G | 10–12% per year | RF, Embedded C, DSP, IoT firmware
+## Research
 
-Forecast by Education Level:
+The Research section at Mohamed Sathak A.J. College of Engineering encompasses various aspects, including MOU Details and Industrial Projects. The college has established partnerships with industries, as evident from the MOU Details, which highlights the collaborations and agreements made with external organizations. Furthermore, the Industrial Projects section showcases the college's involvement in real-world projects, demonstrating its commitment to practical applications of theoretical knowledge.
 
-Education Level | Opportunities | Job Growth Rate | Recommendations
+In addition to these partnerships and projects, the college has a strong focus on publications. The academic year 2022-2023 saw the publication of several research papers and articles, contributing to the college's growing body of research work. Similarly, the previous academic years, including 2021-2022, 2019-2020, and 2016-2018, also witnessed a significant number of publications, showcasing the college's consistent efforts in research and development.
 
-B.Tech/B.E. | Design, systems, product development | 7–9% | Focus on IoT, Power electronics, MATLAB, Embedded Systems, AI and IoT
+The college's research endeavors have also led to the filing of patents, as detailed in the Patent Details section. This highlights the innovative and creative work being undertaken by the faculty and students at the college.
 
-### Sector-Wise Employment Growth Projections 2025–2030
+Faculty Development Programs (FDPs) are an essential aspect of the college's research initiatives. The academic year 2022-2023 saw the attendance of several FDPs, which provided opportunities for faculty members to enhance their knowledge and skills. Similarly, FDPs were attended in the previous academic years, including 2021-2022, 2020-2021, 2019-2020, 2018-2019, 2017-2018, and 2016-2017, demonstrating the college's commitment to ongoing professional development.
 
-- **10–12% per year** serves as **Grid engineer, inverter designer, SCADA** (Sector: Renewable Energy).
+## PLACEMENT DETAILS
 
-- **15–18% per year** serves as **BMS, Motor control, Embedded systems** (Sector: Electric Vehicles and Mobility).
+## NEWS & EVENTS
 
-- **5–7% per year** serves as **Substation, load dispatch, Protection systems** (Sector: Power Transmission and Utilities).
+The NEWS & EVENTS section of Mohamed Sathak A.J. College of Engineering recently featured a list of innovative events conducted by the institution. One of the notable events was the Electric 3 Wheeler, which showcased the students' ingenuity in designing and developing eco-friendly vehicles. 
 
-- **12–15% per year** serves as **VLSI, PCB design, ASIC/FPGA engineers** (Sector: Semiconductor and Electronics).
+Another event that garnered attention was the Electric Cycle, where students demonstrated their skills in creating sustainable transportation solutions. The Solar Iron Cart was also a highlight of the events, as it exemplified the students' ability to harness renewable energy sources for practical applications.
 
-- **8–10% per year** serves as **PLC/SCADA, Robotics integration, IIoT** (Sector: Automation / Industry 4.0).
+## Student Activities
 
-- **10–12% per year** serves as **RF, Embedded C, DSP, IoT firmware** (Sector: Telecom and 5G).
+The college offers a wide range of activities beyond academics, catering to the diverse interests of its students. These activities are broadly classified into Co-Curricular Activities, Internship Details, Industrial Visits, Professional Society Activities, and Extra Curricular Activities.
 
-### EEE Employment Forecast by Education Level
+## Members of Alumni Association
 
-- **Design, systems, product development** serves as **7–9%** (Education Level: B.Tech/ B.E.; Recommendations: Focus on IoT, Power electronics, MATLAB, Embedded Systems, AI and IoT).
-
-- What are the job opportunities for EEE graduates?
-- What is the employment forecast for EEE in India?
-- What is the growth rate in the electric vehicle sector for EEE engineers?
-- What is the job growth in renewable energy for EEE graduates?
-- What skills should EEE students focus on?
-- What is the PLI scheme impact on EEE jobs?
-- What is the job growth rate for EEE in semiconductor sector?
-- What roles are in demand in Automation and Industry 4.0 for EEE?
-
-[Overlap → next chunk]: EEE Programme Outcomes cover 12 POs (PO1 Engineering Knowledge through PO12 Life-long Learning). PSO1 covers conventional and non-conventional energy systems. PSO2 covers electric vehicles and hybrid vehicles that are sustainable and eco-friendly.
-
-## 4. EEE Faculty — 2023-2024 and 2022-2023 Academic Years
-
-■ This chunk lists all EEE faculty members for 2023-2024 (8 staff) with joining dates, qualifications and nature of association, and the 2022-2023 faculty (9 staff) with specializations.
-
-EEE Faculty 2023-2024:
-
-S.No. | Name | Designation | Date of Joining | Qualification | Nature of Association
-
-1 | Dr. JEHA J | Professor | 17.08.2022 | M.E., Ph.D. | Regular
-
-2 | Dr. DEVIKALA S | Professor | 13.03.2023 | M.E., Ph.D. | Regular
-
-3 | Dr. KAMALASELVAN A | Assistant Professor | 13.05.2022 | M.E., Ph.D. | Regular
-
-4 | Mr. CHINTALA VENKATESH | Assistant Professor | 18.12.2019 | M.E., (Ph.D.) | Regular
-
-5 | Mr. SURESH N | Assistant Professor | 01.08.2022 | M.E., (Ph.D.) | Regular
-
-6 | Mr. VINODH S V | Assistant Professor | 01.08.2023 | M.E. | Regular
-
-7 | Ms. ANUPREYAA K | Assistant Professor | 02.01.2023 | M.E. | Regular
-
-8 | Ms. GAYATHRI ACHANTA | Assistant Professor | 21.07.2023 | M.E. | Regular
-
-EEE Faculty 2022-2023 (with Specializations):
-
-S.No. | Name | Qualification | Designation | Area of Specialization
-
-1 | Dr. JEHA J | M.E., Ph.D. | Associate Professor | Power Systems
-
-2 | Dr. KAMALASELVAN A | M.E., Ph.D. | Assistant Professor | High Voltage Engineering
-
-3 | Mr. MAHADEVAN J | M.E., (Ph.D.) | Assistant Professor | Power Electronics
-
-4 | Mr. CHINTALA VENKATESH | M.E., (Ph.D.) | Assistant Professor | Power Electronics and Drives
-
-5 | Mrs. SUGUNA DEVI R | M.Tech., (Ph.D.) | Assistant Professor | Communication Systems
-
-6 | Mrs. BRINDHA H | M.E. | Assistant Professor | Power Systems
-
-7 | Mr. SURESH N | M.E., (Ph.D.) | Assistant Professor | Control and Instrumentation Engineering
-
-8 | Mrs. ARCHANA C | M.E., (Ph.D.) | Assistant Professor | High Voltage Engineering
-
-9 | Mr. VINODH S V | M.E. | Assistant Professor | Control and Instrumentation Engineering
-
-### EEE Faculty 2023-2024
-
-- **Dr. JEHA J** serves as **Professor** (Date Of Joining: 17.08.2022; Qualification: M.E., Ph.D.; Nature Of Association: Regular).
-
-- **Dr. DEVIKALA S** serves as **Professor** (Date Of Joining: 13.03.2023; Qualification: M.E., Ph.D.; Nature Of Association: Regular).
-
-- **Dr. KAMALASELVAN A** serves as **Assistant Professor** (Date Of Joining: 13.05.2022; Qualification: M.E., Ph.D.; Nature Of Association: Regular).
-
-- **Mr. CHINTALA VENKATESH** serves as **Assistant Professor** (Date Of Joining: 18.12.2019; Qualification: M.E., (Ph.D.); Nature Of Association: Regular).
-
-- **Mr. SURESH N** serves as **Assistant Professor** (Date Of Joining: 01.08.2022; Qualification: M.E., (Ph.D.); Nature Of Association: Regular).
-
-- **Mr. VINODH S V** serves as **Assistant Professor** (Date Of Joining: 01.08.2023; Qualification: M.E.; Nature Of Association: Regular).
-
-- **Ms. ANUPREYAA K** serves as **Assistant Professor** (Date Of Joining: 02.01.2023; Qualification: M.E.; Nature Of Association: Regular).
-
-- **Ms. GAYATHRI ACHANTA** serves as **Assistant Professor** (Date Of Joining: 21.07.2023; Qualification: M.E.; Nature Of Association: Regular).
-
-### EEE Faculty 2022-2023 with Specializations
-
-- **Dr. JEHA J** serves as **Associate Professor** (Qualification: M.E., Ph.D.; Specialization: Power Systems).
-
-- **Dr. KAMALASELVAN A** serves as **Assistant Professor** (Qualification: M.E., Ph.D.; Specialization: High Voltage Engineering).
-
-- **Mr. MAHADEVAN J** serves as **Assistant Professor** (Qualification: M.E., (Ph.D.); Specialization: Power Electronics).
-
-- **Mr. CHINTALA VENKATESH** serves as **Assistant Professor** (Qualification: M.E., (Ph.D.); Specialization: Power Electronics and Drives).
-
-- **Mrs. SUGUNA DEVI R** serves as **Assistant Professor** (Qualification: M.Tech., (Ph.D.); Specialization: Communication Systems).
-
-- **Mrs. BRINDHA H** serves as **Assistant Professor** (Qualification: M.E.; Specialization: Power Systems).
-
-- **Mr. SURESH N** serves as **Assistant Professor** (Qualification: M.E., (Ph.D.); Specialization: Control and Instrumentation Engineering).
-
-- **Mrs. ARCHANA C** serves as **Assistant Professor** (Qualification: M.E., (Ph.D.); Specialization: High Voltage Engineering).
-
-- **Mr. VINODH S V** serves as **Assistant Professor** (Qualification: M.E.; Specialization: Control and Instrumentation Engineering).
-
-- Who are the EEE faculty at MSJCE?
-- Who is Dr. Jeha J at MSJCE EEE?
-- Who teaches Power Electronics at MSJCE EEE?
-- Who teaches High Voltage Engineering at MSJCE EEE?
-- How many faculty are in the EEE department at MSJCE?
-- Who is Dr. Devikala S at MSJCE?
-- Who is Dr. Kamalaselvan A at MSJCE EEE?
-- Who teaches Control and Instrumentation at MSJCE EEE?
-
-[Overlap → next chunk]: EEE Employment Forecast: EV sector 15-18% growth per year, Renewable Energy 10-12%, Semiconductor 12-15%, Automation Industry 4.0 at 8-10%, Telecom 5G at 10-12%. B.E. graduates should focus on IoT, Power electronics, MATLAB, Embedded Systems. Key growth: India target 500 GW renewable by 2030, EV market 40% CAGR.
-
-## 5. EEE Faculty — 2021-2022 and 2020-2021 Academic Years
-
-■ This chunk lists EEE faculty members for 2021-2022 (9 staff) and 2020-2021 (9 staff) with their qualifications, designations and areas of specialization.
-
-EEE Faculty 2021-2022:
-
-1 | Mr. MAHADEVAN J | M.E., (Ph.D.) | Assistant Professor | Power Electronics
-
-2 | Mrs. DHARAGESHWARI K | M.E. | Assistant Professor | High Voltage Engineering
-
-3 | Mrs. BRINDHA H | M.E. | Assistant Professor | Power Systems
-
-6 | Mrs. NISHA P | M.E., Ph.D. | Assistant Professor | Power Electronics
-
-7 | Mr. VAIRAPERUMAL K | M.E. | Assistant Professor | Power Systems
-
-8 | Mr. RAJENDRAN V | M.E. | Assistant Professor | Power Electronics
-
-9 | Mrs. HEMA SUMITHA D | M.E. | Assistant Professor | Applied Electronics
-
-10 | Mrs. ABIRAMI R | M.E. | Assistant Professor | Power Management
-
-### **EEE Faculty 2020-2021:**
-
-1 | Mrs. DHARAGESHWARI K | M.E. | Assistant Professor | High Voltage Engineering
-
-2 | Mrs. BRINDHA H | M.E. | Assistant Professor | Power Systems
-
-3 | Mr. CHINTALA VENKATESH | M.E., (Ph.D.) | Assistant Professor | Power Electronics and Drives
-
-4 | Mrs. SUGUNA DEVI R | M.Tech., (Ph.D.) | Assistant Professor | Communication Systems
-
-5 | Mrs. NISHA P | M.E., Ph.D. | Assistant Professor | Power Electronics
-
-6 | Mr. VAIRAPERUMAL K | M.E. | Assistant Professor | Power Systems
-
-7 | Mr. RAJENDRAN V | M.E. | Assistant Professor | Power Electronics
-
-8 | Mrs. HEMA SUMITHA D | M.E. | Assistant Professor | Applied Electronics
-
-9 | Mrs. ABIRAMI R | M.E. | Assistant Professor | Power Management
-
-### **EEE Faculty 2021-2022**
-
-- **Mr. MAHADEVAN J** serves as **Assistant Professor** (Qualification: M.E., (Ph.D.); Specialization: Power Electronics).
-
-- **Mrs. DHARAGESHWARI K** serves as **Assistant Professor** (Qualification: M.E.; Specialization: High Voltage Engineering).
-
-- **Mrs. BRINDHA H** serves as **Assistant Professor** (Qualification: M.E.; Specialization: Power Systems).
-
-- **Mr. CHINTALA VENKATESH** serves as **Assistant Professor** (Qualification: M.E., (Ph.D.); Specialization: Power Electronics and Drives).
-
-- **Mrs. SUGUNA DEVI R** serves as **Assistant Professor** (Qualification: M.Tech., (Ph.D.); Specialization: Communication Systems).
-
-- **Mrs. NISHA P** serves as **Assistant Professor** (Qualification: M.E., Ph.D.; Specialization: Power Electronics).
-
-- **Mr. VAIRAPERUMAL K** serves as **Assistant Professor** (Qualification: M.E.; Specialization: Power Systems).
-
-- **Mr. RAJENDRAN V** serves as **Assistant Professor** (Qualification: M.E.; Specialization: Power Electronics).
-
-- **Mrs. HEMA SUMITHA D** serves as **Assistant Professor** (Qualification: M.E.; Specialization: Applied Electronics).
-
-- **Mrs. ABIRAMI R** serves as **Assistant Professor** (Qualification: M.E.; Specialization: Power Management).
-
-### **EEE Faculty 2020-2021**
-
-- **Mrs. DHARAGESHWARI K** serves as **Assistant Professor** (Qualification: M.E.; Specialization: High Voltage Engineering).
-
-- **Mrs. BRINDHA H** serves as **Assistant Professor** (Qualification: M.E.; Specialization: Power Systems).
-
-- **Mr. CHINTALA VENKATESH** serves as **Assistant Professor** (Qualification: M.E., (Ph.D.); Specialization: Power Electronics and Drives).
-
-- **Mrs. SUGUNA DEVI R** serves as **Assistant Professor** (Qualification: M.Tech., (Ph.D.); Specialization: Communication Systems).
-
-- **Mrs. NISHA P** serves as **Assistant Professor** (Qualification: M.E., Ph.D.; Specialization: Power Electronics).
-
-- **Mr. VAIRAPERUMAL K** serves as **Assistant Professor** (Qualification: M.E.; Specialization: Power Systems).
-
-- **Mr. RAJENDRAN V** serves as **Assistant Professor** (Qualification: M.E.; Specialization: Power Electronics).
-
-- **Mrs. HEMA SUMITHA D** serves as **Assistant Professor** (Qualification: M.E.; Specialization: Applied Electronics).
-
-- **Mrs. ABIRAMI R** serves as **Assistant Professor** (Qualification: M.E.; Specialization: Power Management).
-
-- Who taught EEE at MSJCE in 2021-2022?
-- Who is Mrs. Nisha P at MSJCE EEE?
-- Who teaches Applied Electronics at MSJCE?
-- Who teaches Power Management at MSJCE EEE?
-- Who is Mrs. Dharageshwari K at MSJCE EEE?
-- Who is Mr. Vairaperumal K at MSJCE EEE?
-- Who is Mrs. Abirami R at MSJCE EEE?
-
-[Overlap → next chunk]: EEE Faculty 2023-2024: Dr. Jeha J (Professor, joined 17.08.2022), Dr. Devikala S (Professor, joined 13.03.2023), Dr. Kamalaselvan A (Asst Prof, High Voltage Engg), Mr. Chintala Venkatesh (Asst Prof, Power Electronics Drives), Mr. Suresh N (Control and Instrumentation), Mr. Vinodh S V, Ms. Anupreyya K, Ms. Gayathri Achanta.
-
-## 6. Department Facilities — 7 Laboratories with Courses and Resource Links
-
-■ This chunk lists all 7 EEE department laboratories with their associated courses, equipment details links, virtual lab links and soft copy lab record download links.
-
-EEE Department Laboratories — MSJCE (7 Labs):
-
-### 1. Control and Instrumentation Lab
-
-Objectives: <https://www.msajce-edu.in/images/departments/eee/Lab/Control-Objectives.pdf>
-
-Equipment Details: <https://www.msajce-edu.in/images/departments/eee/Lab/Control-Equipment.pdf>
-
-Course: EE8511 — Control and Instrumentation: <https://www.msajce-edu.in/images/departments/eee/Lab/EE8511.pdf>
-
-Virtual Link: <https://www.msajce-edu.in/images/departments/eee/Lab/Control-Virtual-link.pdf>
-
-### 2. Engineering Practices Lab
-
-Objectives: <https://www.msajce-edu.in/images/departments/eee/Lab/EPL-Objectives.pdf>
-
-Equipment Details: <https://www.msajce-edu.in/images/departments/eee/Lab/EPL-Equipments.pdf>
-
-Course: GE8261 — Engineering Practices: <https://www.msajce-edu.in/images/departments/eee/Lab/GE8261-EPL.pdf>
-
-Virtual Link: <https://www.msajce-edu.in/images/departments/eee/Lab/EPL-Virtual-link.pdf>
-
-### 3. Power Electronics Lab
-
-Objectives: <https://www.msajce-edu.in/images/departments/eee/Lab/PE-Objectives.pdf>
-
-Equipment Details: <https://www.msajce-edu.in/images/departments/eee/Lab/PE-equipment.pdf>
-
-Course: EE8661 — Power Electronics: <https://www.msajce-edu.in/images/departments/eee/Lab/EE8661-PE.pdf>
-
-Virtual Link: <https://www.msajce-edu.in/images/departments/eee/Lab/PE-Virtual-Link.pdf>
-
-### 4. Power System Simulation Lab
-
-Objectives: <https://www.msjace-edu.in/images/departments/eee/Lab/PSS-Objectives.pdf>
-
-Equipment Details: <https://www.msjace-edu.in/images/departments/eee/Lab/PSS-Equipments.pdf>
-
-Course: EE8711 — Power System Simulation: <https://www.msjace-edu.in/images/departments/eee/Lab/EE8711.pdf>
-
-Virtual Link: <https://www.msjace-edu.in/images/departments/eee/Lab/PSS-Virtual-Link.pdf>
-
-### 5. Renewable Energy Lab
-
-Objectives: <https://www.msjace-edu.in/images/departments/eee/Lab/RES-Objectives.pdf>
-
-Equipment Details: <https://www.msjace-edu.in/images/departments/eee/Lab/EE8712.pdf>
-
-Course: EE8712 — Renewable Energy: <https://www.msjace-edu.in/images/departments/eee/Lab/RES-EXPERIMENTS.pdf>
-
-Virtual Link: <https://www.msjace-edu.in/images/departments/eee/Lab/RES-Virtual-Link.pdf>
-
-### 6. Electrical Machines Lab
-
-Objectives: <https://www.msjace-edu.in/images/departments/eee/Lab/Electrical-Objectives.pdf>
-
-Equipment Details: <https://www.msjace-edu.in/images/departments/eee/Lab/Electrical-Equipments.pdf>
-
-Courses: EE8261 — Basic Electrical Electronics and Instrumentation Engineering; EE8311 — Electrical Machines I; EE8411 — Electrical Machines II; EE8361 — Electrical Engineering
-
-Virtual Links: EE8261: <https://www.msjace-edu.in/images/departments/eee/Lab/EE8261-Virtual.pdf>; EE8311:
-
-<https://www.msjace-edu.in/images/departments/eee/Lab/EE8311-EM-I-Virtual-link.pdf>; EE8411:
-
-<https://www.msjace-edu.in/images/departments/eee/Lab/EE8411-EM-II-Virtual-Link.pdf>; EE8361:
-
-<https://www.msjace-edu.in/images/departments/eee/Lab/EE8361-EE-Virtua-Link.pdf>
-
-### 7. Electronics Lab
-
-Objectives: <https://www.msjace-edu.in/images/departments/eee/Lab/Electronics-Objective.pdf>
-
-Equipment Details: <https://www.msjace-edu.in/images/departments/eee/Lab/Electronics-Equipments.pdf>
-
-Courses: EC8311 — Electronics; EE8261 — Electric Circuits
-
-Virtual Links: EC8311: <https://www.msjace-edu.in/images/departments/eee/Lab/EC8311-Virtual.pdf>; EE8261:
-
-<https://www.msjace-edu.in/images/departments/eee/Lab/EE8261-VIRTUAL1.pdf>
-
-### EEE Department Laboratories
-
-- **Control and Instrumentation Lab** serves as **EE8511 — Control and Instrumentation**.
-
-- **Engineering Practices Lab** serves as **GE8261 — Engineering Practices**.
-
-- **Power Electronics Lab** serves as **EE8661 — Power Electronics**.
-
-- **Power System Simulation Lab** serves as **EE8711 — Power System Simulation**.
-
-- **Renewable Energy Lab** serves as **EE8712 — Renewable Energy**.
-
-- **Electrical Machines Lab** serves as **EE8261, EE8311 (EM-I), EE8411 (EM-II), EE8361 — Electrical Engineering**.
-
-- **Electronics Lab** serves as **EC8311 — Electronics; EE8261 — Electric Circuits**.
-
-- What labs are available in the EEE department at MSJACE?
-- Does MSJACE EEE have a Renewable Energy Lab?
-- Does MSJACE EEE have a Power Electronics Lab?
-- What is EE8511 at MSJACE EEE?
-
-- What is the Electrical Machines Lab at MSAJCE EEE?
-- Does MSAJCE EEE have virtual lab links?
-- What courses are covered in the Electrical Machines Lab?
-- How many labs are in the MSAJCE EEE department?
-
-[Overlap → next chunk]: EEE Faculty 2020-2021 included Mrs. Dharageshwari K (High Voltage Engineering), Mrs. Nisha P (Power Electronics PhD), Mr. Vairaperumal K (Power Systems), Mr. Rajendran V (Power Electronics), Mrs. Hema Sumitha D (Applied Electronics), Mrs. Abirami R (Power Management).
-
-## 7. Academics — 2021 Regulation Course Materials (Semester III, IV and V)
-
-■ This chunk lists all 2021 Regulation course materials for EEE Semesters III, IV and V — including subject codes, names, and direct links to Lesson Plans, Question Banks, Lecture Notes and ICT Tools.
-
-EEE Academics — 2021 Regulation Course Materials:
-
-Semester III:
-
-1. MA3303 — Probability and Complex Functions
-
-Lesson Plan: <https://www.msajce-edu.in/academics/eee/2021/LessonPlan/MA3303-LP.pdf>
-
-Question Bank: <https://www.msajce-edu.in/academics/eee/2021/QuestionBank/MA3303-QB.pdf>
-
-Lecture Notes: <https://www.msajce-edu.in/academics/eee/2021/LectureNote/MA3303-LN.pdf>
-
-ICT Tools: <https://www.msajce-edu.in/academics/eee/2021/ICTTools/MA3303-ICT.pdf>
-
-2. EE3301 — Electromagnetic Fields
-
-Lesson Plan: <https://www.msajce-edu.in/academics/eee/2021/LessonPlan/EE3301-LP.pdf>
-
-Question Bank: <https://www.msajce-edu.in/academics/eee/2021/QuestionBank/EE3301-QB.pdf>
-
-Lecture Notes: <https://www.msajce-edu.in/academics/eee/2021/LectureNote/EE3301-LN.pdf>
-
-ICT Tools: <https://www.msajce-edu.in/academics/eee/2021/ICTTools/EE3301-ICT.pdf>
-
-3. EE3302 — Digital Logic Circuits
-
-Lesson Plan: <https://www.msajce-edu.in/academics/eee/2021/LessonPlan/EE3302-LP.pdf>
-
-Question Bank: <https://www.msajce-edu.in/academics/eee/2021/QuestionBank/EE3302-QB.pdf>
-
-Lecture Notes: <https://www.msajce-edu.in/academics/eee/2021/LectureNote/EE3302-LN.pdf>
-
-4. EE3303 — Electrical Machines I
-
-Lesson Plan: <https://www.msajce-edu.in/academics/eee/2021/LessonPlan/EE3303-LP.pdf>
-
-Question Bank: <https://www.msajce-edu.in/academics/eee/2021/QuestionBank/EE3303-QB.pdf>
-
-Lecture Notes: <https://www.msajce-edu.in/academics/eee/2021/LectureNote/EE3303-LN.pdf>
-
-5. EC3301 — Electron Devices and Circuits
-
-Lesson Plan: <https://www.msajce-edu.in/academics/eee/2021/LessonPlan/EC3301-LP.pdf>
-
-Question Bank: <https://www.msajce-edu.in/academics/eee/2021/QuestionBank/EC3301-QB.pdf>
-
-6. CS3353 — C Programming and Data Structures
-
-Lesson Plan: <https://www.msajce-edu.in/academics/eee/2021/LessonPlan/CS3353-LP.pdf>
-
-Question Bank: <https://www.msajce-edu.in/academics/eee/2021/QuestionBank/CS3353-QB.pdf>
-
-Semester IV:
-
-1. GE3451 — Environmental Sciences and Sustainability
-2. EE3401 — Transmission and Distribution
-3. EE3402 — Linear Integrated Circuits
-4. EE3403 — Measurements and Instrumentation
-
-5. EE3404 — Microprocessor and Microcontroller
-6. EE3405 — Electrical Machines II
-
-(All have Lesson Plan, Question Bank, Lecture Notes and ICT Tools at <https://www.msjce-edu.in/academics/eee/2021/>)
-
-Semester V:
-
-1. EE3501 — Power System Analysis
-2. EE3591 — Power Electronics
-3. EE3503 — Control Systems
-4. EE3001 — Utilization and Conservation of Electrical Energy
-5. EE3006 — Power Quality
-6. EE3012 — Electrical Drives
-7. MX3084 — Disaster Management
-
-(All available at: [https://www.msjce-edu.in/academics/eee/2021/LessonPlan/\[SubjectCode\]-LP.pdf](https://www.msjce-edu.in/academics/eee/2021/LessonPlan/[SubjectCode]-LP.pdf))
-
-### 2021 Regulation — Semester III Subjects
-
-- **Probability and Complex Functions** serves as **Probability and Complex Functions** (Subject Code: MA3303).
-
-- **Electromagnetic Fields** serves as **Electromagnetic Fields** (Subject Code: EE3301).
-
-- **Digital Logic Circuits** serves as **Digital Logic Circuits** (Subject Code: EE3302).
-
-- **Electrical Machines I** serves as **Electrical Machines I** (Subject Code: EE3303).
-
-- **Electron Devices and Circuits** serves as **Electron Devices and Circuits** (Subject Code: EC3301).
-
-- **C Programming and Data Structures** serves as **C Programming and Data Structures** (Subject Code: CS3353).
-
-### 2021 Regulation — Semester IV Subjects
-
-- **Environmental Sciences and Sustainability** serves as **Environmental Sciences and Sustainability** (Subject Code: GE3451).
-
-- **Transmission and Distribution** serves as **Transmission and Distribution** (Subject Code: EE3401).
-
-- **Linear Integrated Circuits** serves as **Linear Integrated Circuits** (Subject Code: EE3402).
-
-- **Measurements and Instrumentation** serves as **Measurements and Instrumentation** (Subject Code: EE3403).
-
-- **Microprocessor and Microcontroller** serves as **Microprocessor and Microcontroller** (Subject Code: EE3404).
-
-- **Electrical Machines II** serves as **Electrical Machines II** (Subject Code: EE3405).
-
-### 2021 Regulation — Semester V Subjects
-
-- **Power System Analysis** serves as **Power System Analysis** (Subject Code: EE3501).
-
-- **Power Electronics** serves as **Power Electronics** (Subject Code: EE3591).
-
-- **Control Systems** serves as **Control Systems** (Subject Code: EE3503).
-
-- **Utilization and Conservation of Electrical Energy** serves as **Utilization and Conservation of Electrical Energy** (Subject Code: EE3001).
-
-- **Power Quality** serves as **Power Quality** (Subject Code: EE3006).
-
-- **Electrical Drives** serves as **Electrical Drives** (Subject Code: EE3012).
-
-- **Disaster Management** serves as **Disaster Management** (Subject Code: MX3084).
-
-- What subjects are in Semester 3 of EEE 2021 regulation at MSJCE?
-- Where can I download EE3301 lecture notes?
-- What is MA3303 in EEE at MSJCE?
-- What subjects are in Semester 5 of EEE at MSJCE?
-- Where can I get the question bank for EE3303?
-- What is EE3591 at MSJCE EEE?
-- Is Power Quality taught in EEE at MSJCE?
-- Where to get lesson plan for EEE 2021 regulation subjects?
-
-[Overlap → next chunk]: EEE Laboratories: 7 labs — Control and Instrumentation (EE8511), Engineering Practices (GE8261), Power Electronics (EE8661), Power System Simulation (EE8711), Renewable Energy (EE8712), Electrical Machines (EE8261/EE8311/EE8411/EE8361), Electronics (EC8311/EE8261). All labs have virtual lab links available.
-
-## 8. Academics — 2017 Regulation Course Materials (Semester III, V and VII)
-
-■ This chunk lists all 2017 Regulation EEE course materials for Semesters III, V and VII with subject codes, names and download links for Lesson Plans, Question Banks, Lecture Notes and ICT Tools.
-
-EEE Academics — 2017 Regulation Course Materials:
-
-Lesson Plan: <https://www.msajce-edu.in/academics/eee/LessonPlan/MA3303-LP.pdf>
-
-Question Bank: <https://www.msajce-edu.in/academics/eee/QuestionBank/MA3303-QB.pdf>
-
-Lecture Notes: <https://www.msajce-edu.in/academics/eee/LectureNote/MA3303-LN.pdf>
-
-ICT Tools: <https://www.msajce-edu.in/academics/eee/ICTTools/MA3303-ICT.pdf>
-
-4. EC3301 — Electron Devices and Circuits
-
-5. EE3303 — Electrical Machines I
-
-(All available at <https://www.msajce-edu.in/academics/eee/> with LP, QB, LN, ICT suffixes)
-
-1. EE8501 — Power System Analysis
-
-Lesson Plan: <https://www.msajce-edu.in/academics/eee/LessonPlan/EE8501-LP.pdf>
-
-Question Bank: <https://www.msajce-edu.in/academics/eee/QuestionBank/EE8501-QB.pdf>
-
-Lecture Notes: <https://www.msajce-edu.in/academics/eee/LectureNote/EE8501-LN.pdf>
-
-ICT Tools: <https://www.msajce-edu.in/academics/eee/ICTTools/EE8501-ICT.pdf>
-
-2. EE8551 — Microprocessor and Microcontrollers
-
-3. EE8552 — Power Electronics
-
-4. EE8591 — Digital Signal Processing
-5. CS8392 — Object Oriented Programming
-6. OMD551 — Basics of Biomedical Instrumentation
-
-Semester VII:
-
-1. EE8701 — High Voltage Engineering
-
-Lesson Plan: <https://www.msjce-edu.in/academics/eee/LessonPlan/EE8701-LP.pdf>
-
-Question Bank: <https://www.msjce-edu.in/academics/eee/QuestionBank/EE8701-QB.pdf>
-
-Lecture Notes: <https://www.msjce-edu.in/academics/eee/LectureNote/EE8701-LN.pdf>
-
-ICT Tools: <https://www.msjce-edu.in/academics/eee/ICTTools/EE8701-ICT.pdf>
-
-2. EE8702 — Power System Operation and Control
-
-3. EE8703 — Renewable Energy Systems
-
-4. GE8071 — Disaster Management
-
-5. GE8077 — Total Quality Management
-
-6. OCS752 — Introduction to C Programming
-
-(All available at [https://www.msjce-edu.in/academics/eee/LessonPlan/\[SubjectCode\]-LP.pdf](https://www.msjce-edu.in/academics/eee/LessonPlan/[SubjectCode]-LP.pdf))
-
-Anna University Regulation Syllabus Downloads:
-
-BE 2021 Syllabus: <https://www.msjce-edu.in/uploads/academics/2021Regulation.pdf>
-
-BE 2017 Syllabus: <https://www.msjce-edu.in/uploads/academics/2017Regulation.pdf>
-
-### 2017 Regulation — Semester V Subjects
-
-- **Power System Analysis** serves as **Power System Analysis** (Subject Code: EE8501).
-
-- **Microprocessor and Microcontrollers** serves as **Microprocessor and Microcontrollers** (Subject Code: EE8551).
-
-- **Power Electronics** serves as **Power Electronics** (Subject Code: EE8552).
-
-- **Digital Signal Processing** serves as **Digital Signal Processing** (Subject Code: EE8591).
-
-- **Object Oriented Programming** serves as **Object Oriented Programming** (Subject Code: CS8392).
-
-- **Basics of Biomedical Instrumentation** serves as **Basics of Biomedical Instrumentation** (Subject Code: OMD551).
-
-### 2017 Regulation — Semester VII Subjects
-
-- **High Voltage Engineering** serves as **High Voltage Engineering** (Subject Code: EE8701).
-
-- **Power System Operation and Control** serves as **Power System Operation and Control** (Subject Code: EE8702).
-
-- **Renewable Energy Systems** serves as **Renewable Energy Systems** (Subject Code: EE8703).
-
-- **Disaster Management** serves as **Disaster Management** (Subject Code: GE8071).
-
-- **Total Quality Management** serves as **Total Quality Management** (Subject Code: GE8077).
-
-- **Introduction to C Programming** serves as **Introduction to C Programming** (Subject Code: OCS752).
-
-- What subjects are in Semester 7 of EEE 2017 regulation at MSJCE?
-- Where can I download EE8701 lecture notes?
-- What is EE8703 at MSJCE EEE?
-- What is EE8551 at MSJCE EEE?
-
-- Where to get question bank for EE8552 Power Electronics?
-- Is High Voltage Engineering taught in EEE 2017 regulation at MSAJCE?
-- What is OMD551 at MSAJCE EEE?
-- Where to download the 2017 regulation EEE syllabus?
-
-[Overlap → next chunk]: 2021 Regulation EEE Semester V subjects: EE3501 Power System Analysis, EE3591 Power Electronics, EE3503 Control Systems, EE3001 Utilization and Conservation of Electrical Energy, EE3006 Power Quality, EE3012 Electrical Drives, MX3084 Disaster Management. All materials at <https://www.msjace-edu.in/academics/eee/2021/>
-
-## 9. Research — Publications, FDP Downloads and Student Projects
-
-■ This chunk covers the EEE department research publications, Faculty Development Programme (FDP) download links, and notable student projects including the Electric 3-Wheeler, Electric Cycle, and Solar Iron Cart.
-
-EEE Department Research — Publications:
-
-Publication 2022-2023: <https://www.msjace-edu.in/images/departments/eee/Publications2022-2023.pdf>
-
-Publication 2021-2022: <https://www.msjace-edu.in/images/departments/eee/Publications2021-2022.pdf>
-
-Publication 2019-2020: <https://www.msjace-edu.in/images/departments/eee/Publications2019-2020.pdf>
-
-Publication 2016-2018: <https://www.msjace-edu.in/images/departments/eee/Publications2016-2018.pdf>
-
-Faculty Development Programme (FDP) — Attended Details:
-
-FDP 2022-2023: <https://www.msjace-edu.in/images/departments/eee/FDP2022-2023.pdf>
-
-FDP 2021-2022: <https://www.msjace-edu.in/images/departments/eee/FDP2021-2022.pdf>
-
-FDP 2020-2021: <https://www.msjace-edu.in/images/departments/eee/FDP2020-2021.pdf>
-
-FDP 2019-2020: <https://www.msjace-edu.in/images/departments/eee/FDP2019-2020.pdf>
-
-FDP 2018-2019: <https://www.msjace-edu.in/images/departments/eee/FDP2018-2019.pdf>
-
-FDP 2017-2018: <https://www.msjace-edu.in/images/departments/eee/FDP2017-2018.pdf>
-
-FDP 2016-2017: <https://www.msjace-edu.in/images/departments/eee/FDP2016-2017.pdf>
-
-Student Projects — EEE Department:
-
-1. Electric 3-Wheeler: Students developed a working electric three-wheeled vehicle as a departmental project. This demonstrates the application of power electronics, motor control and battery systems.
-2. Electric Cycle: Students built a functional electric cycle, applying knowledge of electric drives, embedded systems and motor control.
-3. Solar Iron Cart: Students developed a solar-powered iron cart, demonstrating application of renewable energy, solar panels and power management systems.
-
-Student Activities:
-
-Co-Curricular Activities: Internship Details, Industrial Visits, Professional Society Activities.
-
-Extra Curricular Activities: Various events and competitions.
-
-Members of Alumni Association: Alumni network maintained by the EEE department.
-
-### EEE Research Publications — Download Links
-
-- **<a href="https://www.msjace-edu.in/images/departments/eee/Publications2022-2023.pdf">https://www.msjace-edu.in/images/departments/eee/Publications2022-2023.pdf</a>** (Year: 2022-2023).
-
-- **<a href="https://www.msjace-edu.in/images/departments/eee/Publications2021-2022.pdf">https://www.msjace-edu.in/images/departments/eee/Publications2021-2022.pdf</a>** (Year: 2021-2022).
-
-- **<a href="https://www.msajce-edu.in/images/departments/eee/Publications2019-2020.pdf">https://www.msajce-edu.in/images/departments/eee/Publications2019-2020.pdf</a>** (Year: 2019-2020).
-
-- **<a href="https://www.msajce-edu.in/images/departments/eee/Publications2016-2018.pdf">https://www.msajce-edu.in/images/departments/eee/Publications2016-2018.pdf</a>** (Year: 2016-2018).
-
-### EEE FDP Attended — Download Links
-
-- **<a href="https://www.msajce-edu.in/images/departments/eee/FDP2022-2023.pdf">https://www.msajce-edu.in/images/departments/eee/FDP2022-2023.pdf</a>** (Year: 2022-2023).
-
-- **<a href="https://www.msajce-edu.in/images/departments/eee/FDP2021-2022.pdf">https://www.msajce-edu.in/images/departments/eee/FDP2021-2022.pdf</a>** (Year: 2021-2022).
-
-- **<a href="https://www.msajce-edu.in/images/departments/eee/FDP2020-2021.pdf">https://www.msajce-edu.in/images/departments/eee/FDP2020-2021.pdf</a>** (Year: 2020-2021).
-
-- **<a href="https://www.msajce-edu.in/images/departments/eee/FDP2019-2020.pdf">https://www.msajce-edu.in/images/departments/eee/FDP2019-2020.pdf</a>** (Year: 2019-2020).
-
-- **<a href="https://www.msajce-edu.in/images/departments/eee/FDP2018-2019.pdf">https://www.msajce-edu.in/images/departments/eee/FDP2018-2019.pdf</a>** (Year: 2018-2019).
-
-- **<a href="https://www.msajce-edu.in/images/departments/eee/FDP2017-2018.pdf">https://www.msajce-edu.in/images/departments/eee/FDP2017-2018.pdf</a>** (Year: 2017-2018).
-
-- **<a href="https://www.msajce-edu.in/images/departments/eee/FDP2016-2017.pdf">https://www.msajce-edu.in/images/departments/eee/FDP2016-2017.pdf</a>** (Year: 2016-2017).
-
-- Has MSAJCE EEE department published research papers?
-- Where can I download EEE research publications from MSAJCE?
-- Did MSAJCE EEE students build an electric vehicle?
-- What student projects did EEE students build at MSAJCE?
-- Does MSAJCE EEE have a solar project?
-- Where can I download EEE FDP details from MSAJCE?
-- Did MSAJCE EEE students build an electric cycle?
-- What is the Solar Iron Cart project at MSAJCE EEE?
-
-[Overlap → next chunk]: 2017 Regulation EEE Semester VII subjects: EE8701 High Voltage Engineering, EE8702 Power System Operation and Control, EE8703 Renewable Energy Systems, GE8071 Disaster Management, GE8077 Total Quality Management, OCS752 Introduction to C Programming. All materials available at <https://www.msajce-edu.in/academics/eee/>
-
-## 10. General Contact Details and Key Links — MSAJCE EEE Department
-
-■ This chunk provides the complete general contact details for MSAJCE, important links for admissions, fee payment, grievance cell, and all key institutional URLs relevant to the EEE department.
-
-MSAJCE General Contact Details:
-
-Institution: Mohamed Sathak A.J. College of Engineering
-
-Address: 34, Rajiv Gandhi Salai (OMR), Siruseri IT Park, Siruseri, Chennai – 603103
-
-Phone: +91 99400 04500
-
-Email: [msajce.office@gmail.com](mailto:msajce.office@gmail.com)
-
-Grievance Cell: [grievance@msajce-edu.in](mailto:grievance@msajce-edu.in)
-
-Website: [www.msajce-edu.in](http://www.msajce-edu.in)
-
-Key Links:
-
-Online Application Form (Admission): <https://enrollonline.co.in/Registration/Apply/MSAJCE>
-
-Online Fee Payment: <https://www.feepayr.com/>
-
-College Management System: <https://cims.mastersoferp.in/>
-
-AIMS NAAC: <https://www.msajce-edu.in/naac.php>
-
-IQAC: <https://www.msajce-edu.in/iqac.php>
-
-NIRF: <https://www.msajce-edu.in/nirf.php>
-
-ARIAA Certificate 2021: <https://www.msajce-edu.in/uploads/ariaa/ARIAA-2021-CERTIFICATE.pdf>
-
-Anna University Approval: <https://www.msajce-edu.in/uploads/AnnaUnivApproval.pdf>
-
-AICTE Approval: <https://www.msajce-edu.in/uploads/AICTE-APPROVAL.pdf>
-
-AICTE Scholarship / Fellowship Schemes: <https://www.aicte.gov.in/schemes/students-development-schemes>
-
-Mandatory Disclosure: <http://msajce-edu.in/uploads/MandatoryDisclosure.pdf>
-
-Code of Conduct: <https://www.msajce-edu.in/uploads/naac/cdeofconduct.pdf>
-
-Best Practices: <https://www.msajce-edu.in/uploads/naac/bestpractices.pdf>
-
-Annual Report AY2023-2024: <https://www.msajce-edu.in/uploads/aqar/AnnualReport2023-2024.pdf>
-
-EEE Department Placement Details: Available on <https://www.msajce-edu.in/eee.php#tab9>
-
-EEE 2021 Regulation Syllabus: <https://www.msajce-edu.in/uploads/academics/2021Regulation.pdf>
-
-EEE 2017 Regulation Syllabus: <https://www.msajce-edu.in/uploads/academics/2017Regulation.pdf>
-
-College Video: <https://youtu.be/aNVaQWh1Pp4>
-
-### MSAJCE Key Contact and Links
-
-- **+91 99400 04500** (Item: Phone).
-
-- **msajce.office@gmail.com**, Contact Email: `msajce.office@gmail.com` (Item: Email).
-
-- **grievance@msajce-edu.in**, Contact Email: `grievance@msajce-edu.in` (Item: Grievance).
-
-- **34, Rajiv Gandhi Salai (OMR), Siruseri IT Park, Siruseri, Chennai – 603103** (Item: Address).
-
-- **<a href="https://enrollonline.co.in/Registration/Apply/MSAJCE">https://enrollonline.co.in/Registration/Apply/MSAJCE</a>** (Item: Online Admission).
-
-- **<a href="https://www.feepayr.com/">https://www.feepayr.com/</a>** (Item: Online Fee Payment).
-
-- **<a href="https://www.aicte.gov.in/schemes/students-development-schemes">https://www.aicte.gov.in/schemes/students-development-schemes</a>** (Item: AICTE Scholarship).
-
-- **<a href="https://www.msajce-edu.in/uploads/placement/internship/Intership Report 2025.pdf">https://www.msajce-edu.in/uploads/placement/internship/Intership Report 2025.pdf</a>** (Item: Internship Report 2025).
-
-- **<a href="https://www.msajce-edu.in/uploads/academics/2021Regulation.pdf">https://www.msajce-edu.in/uploads/academics/2021Regulation.pdf</a>** (Item: 2021 EEE Syllabus).
-
-- **<a href="https://www.msajce-edu.in/uploads/academics/2017Regulation.pdf">https://www.msajce-edu.in/uploads/academics/2017Regulation.pdf</a>** (Item: 2017 EEE Syllabus).
-
-- What is the contact number of MSAJCE?
-- What is the email address of MSAJCE?
-- How to apply online for admission to MSAJCE EEE?
-- How to pay fees online at MSAJCE?
-- What is the address of MSAJCE?
-- Where can I find the MSAJCE AICTE approval?
-- Where can I download the MSAJCE 
-
-#### - What is the grievance email of MSJCE?
-
-[Overlap → next chunk]: EEE Student Projects: Electric 3-Wheeler (power electronics, motor control, battery systems), Electric Cycle (electric drives, embedded systems), Solar Iron Cart (renewable energy, solar panels, power management). Publications available for 2022-23, 2021-22, 2019-20, 2016-18. FDP details available for 2016-2023.
-
-#### --- | <b>MSJCE — Department of Electrical and Electronics Engineering — Contact</b> | |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | Address: 34, Rajiv Gandhi Salai (OMR), Siruseri IT Park, Siruseri, Chennai – 603103 | | Phone: +91 99400 04500 Email: msajce.office@gmail.com Website: <a href="http://www.msajce-edu.in">www.msajce-edu.in</a> | | Grievance: <a href="mailto:grievance@msajce-edu.in">grievance@msajce-edu.in</a> Online Admission: <a href="https://enrollonline.co.in/Registration/Apply/MSJCE">https://enrollonline.co.in/Registration/Apply/MSJCE</a> | | Online Fee Payment: <a href="https://www.feepayr.com/">https://www.feepayr.com/</a> EEE 2021 Syllabus:<br><a href="https://www.msajce-edu.in/uploads/academics/2021Regulation.pdf">https://www.msajce-edu.in/uploads/academics/2021Regulation.pdf</a> |
-
-MSJCE | 34, Rajiv Gandhi Salai (OMR), Siruseri IT Park, Siruseri, Chennai – 603103 | +91 99400 04500 | [msajce.office@gmail.com](mailto:msajce.office@gmail.com) | [www.msajce-edu.in](http://www.msajce-edu.in) | RAG Extract: msajce\_eee | 10 Chunks | 2026-04-28
-
-## Related Notes
-[[msajce_admission]]
-[[msajce_placement]]
