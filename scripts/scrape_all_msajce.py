@@ -10,16 +10,15 @@ if not NVIDIA_API_KEY:
     sys.exit(1)
 
 urls = [
-    'alumni.php', 'eee.php', 'clubssocieties.php', 'campusradio.php', 
-    'ourhistory.php', 'transport.php', 'socialservices.php', 'admission.php', 
+    'eee.php', 'clubssocieties.php', 'campusradio.php', 
+    'ourhistory.php', 'transport.php', 'socialservices.php', 
     'library.php', 'iqac.php', 'sports.php', 'ece.php', 'womensempowermentcell.php', 
-    'ac.php', 'karma.php', 'anti-ragging.php', 'mech.php', 'nirf.php', 'it.php', 
+    'karma.php', 'mech.php', 'nirf.php', 'it.php', 
     'incubation&startup.php', 'ece-vlsi.php', 'ece-act.php', 'graduationday.php', 
-    'bs.php', 'aids.php', 'about.php', 'civil.php', 'technologycentre.php', 
-    'naac.php', 'cyber.php', 'governingcouncil.php', 'planningmonitoringboard.php', 
+    'technologycentre.php', 'naac.php', 'cyber.php', 'governingcouncil.php', 'planningmonitoringboard.php', 
     'mandatorydisclosure.php', 'principal.php', 'grievanceredressalcommittee.php', 
-    'cse.php', 'ebsb.php', 'newsletter.php', 'academicadvisorycommitte.php', 
-    'curriculm.php', 'ese-timetable.php', 'hostel.php', 'aiml.php', 'placement.php', 
+    'cse.php', 'ebsb.php', 'newsletter.php', 
+    'curriculm.php', 'ese-timetable.php', 'hostel.php', 'placement.php', 
     'csbs.php', 'research.php', 'sh.php', 'studentscorner.php', 'functionalcommittees.php'
 ]
 
@@ -123,7 +122,7 @@ Read the provided chunk of data and transform all the factual data into beautifu
                         with open(out_path, 'a', encoding='utf-8') as f:
                             f.write(part_text + '\n\n')
                         success = True
-                        time.sleep(1.0)
+                        time.sleep(5.0)  # Wait 5 seconds to strictly manage rate limits
                         break
                     except Exception as e:
                         print(f'      [RETRY {attempt+1}/3] {e}')
