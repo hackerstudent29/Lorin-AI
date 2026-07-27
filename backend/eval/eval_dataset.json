@@ -1,0 +1,422 @@
+[
+  {
+    "question": "What departments are offered at MSAJCE?",
+    "expected_answer": "MSAJCE offers B.E. programs in CSE, ECE, EEE, IT, Cyber Security, AI & DS, AI & ML, and CS & Business Systems, along with M.E. and MBA programs.",
+    "category": "About MSAJCE",
+    "source_file": "msajce_about.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What are the admission fees for CSE at MSAJCE?",
+    "expected_answer": "The tuition fee for B.E Computer Science Engineering at MSAJCE is specified in the admission brochure. Please contact the admission office for exact fee details.",
+    "category": "Admission & Fees",
+    "source_file": "msajce_admission.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the TNEA cutoff for CSE at MSAJCE?",
+    "expected_answer": "The TNEA cutoff for CSE at MSAJCE varies by year and reservation category. Check the latest TNEA counselling results for current cutoff marks.",
+    "category": "Admission & Fees",
+    "source_file": "msajce_admission.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What are the hostel facilities at MSAJCE?",
+    "expected_answer": "MSAJCE provides separate hostel facilities for boys and girls with rooms, mess facilities, Wi-Fi, and 24-hour security.",
+    "category": "Hostel & Accommodation",
+    "source_file": "msajce_hostel.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the hostel fee per year at MSAJCE?",
+    "expected_answer": "The hostel fee at MSAJCE covers accommodation and mess charges. Contact the hostel office for exact fee structure.",
+    "category": "Hostel & Accommodation",
+    "source_file": "msajce_hostel.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "Which companies visit MSAJCE for campus placement?",
+    "expected_answer": "Companies like TCS, Infosys, Wipro, HCL, Cognizant, and many other IT and core engineering companies visit MSAJCE for campus placements.",
+    "category": "Placement & Careers",
+    "source_file": "msajce_placement.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the highest package offered at MSAJCE placement?",
+    "expected_answer": "The highest package offered during MSAJCE campus placement is mentioned in the placement records available with the Training and Placement Cell.",
+    "category": "Placement & Careers",
+    "source_file": "msajce_placement.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What bus routes are available from MSAJCE?",
+    "expected_answer": "MSAJCE operates multiple bus routes (AR 1 through AR 9) covering areas like Chennai Central, Tambaram, Velachery, Chrompet, Pallavaram, and surrounding areas.",
+    "category": "Transport & Bus Routes",
+    "source_file": "msajce_transport.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What are the stops on bus route AR 8?",
+    "expected_answer": "Bus route AR 8 covers stops from Manjambakkam area through Sholinganallur, OMR, and other areas on the route to MSAJCE campus.",
+    "category": "Transport & Bus Routes",
+    "source_file": "msajce_transport.pdf",
+    "has_exact_identifier": true
+  },
+  {
+    "question": "What is the timing of the AR 1 bus from MSAJCE?",
+    "expected_answer": "The AR 1 bus route timing from MSAJCE is available in the transport schedule. Contact the transport office for exact departure times.",
+    "category": "Transport & Bus Routes",
+    "source_file": "msajce_transport.pdf",
+    "has_exact_identifier": true
+  },
+  {
+    "question": "What research facilities are available at MSAJCE?",
+    "expected_answer": "MSAJCE has research labs, a dedicated research center, and faculty engaged in research publications and funded projects.",
+    "category": "Research & Publications",
+    "source_file": "msajce_research.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the NBA accreditation status of MSAJCE?",
+    "expected_answer": "MSAJCE programs have NBA accreditation. Check the IQAC office for the current accreditation status of individual programs.",
+    "category": "IQAC & Accreditation",
+    "source_file": "msajce_iqac.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is MSAJCE's NAAC grade?",
+    "expected_answer": "MSAJCE has been accredited by NAAC. Check the IQAC office for the current grade and accreditation details.",
+    "category": "IQAC & Accreditation",
+    "source_file": "msajce_iqac.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the NIRF ranking of MSAJCE?",
+    "expected_answer": "MSAJCE participates in NIRF ranking. The current ranking details are available in the NIRF report submitted by the institution.",
+    "category": "NIRF Ranking",
+    "source_file": "msajce_nirf.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What sports facilities are available at MSAJCE?",
+    "expected_answer": "MSAJCE has sports facilities including cricket ground, basketball court, volleyball court, indoor games room, and a gymnasium.",
+    "category": "Sports & Athletics",
+    "source_file": "msajce_sports.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What clubs and societies are there in MSAJCE?",
+    "expected_answer": "MSAJCE has various clubs including NSS, NCC, Rotaract Club, cultural clubs, technical clubs, and department-specific societies.",
+    "category": "Clubs & Societies",
+    "source_file": "msajce_clubssocieties.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What professional societies are active at MSAJCE?",
+    "expected_answer": "MSAJCE has student chapters of IEEE, CSI, ISTE, and other professional societies conducting technical events and workshops.",
+    "category": "Clubs & Societies",
+    "source_file": "MSAJCE_Professional_Societies.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the intake for ECE department at MSAJCE?",
+    "expected_answer": "The intake for Electronics and Communication Engineering (ECE) at MSAJCE is specified in the AICTE approved seats. Check the admission office for current intake.",
+    "category": "Department — Electronics & Communication",
+    "source_file": "msajce_ece-act.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What are the labs available in the CSE department?",
+    "expected_answer": "The CSE department at MSAJCE has programming labs, networking labs, software engineering lab, AI/ML lab, and other specialized laboratories.",
+    "category": "Department — Computer Science & Engineering",
+    "source_file": "msajce_cse.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What programs does the AI & Data Science department offer?",
+    "expected_answer": "The AI & Data Science (AIDS) department at MSAJCE offers B.E. in Artificial Intelligence and Data Science with a focus on machine learning, deep learning, and data analytics.",
+    "category": "Department — AI & Data Science",
+    "source_file": "msajce_aids.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the library timing at MSAJCE?",
+    "expected_answer": "The MSAJCE library is open during college working hours, typically from 8:30 AM to 5:00 PM on working days.",
+    "category": "Library",
+    "source_file": "msajce_library.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "How many books are in the MSAJCE library?",
+    "expected_answer": "The MSAJCE library has a large collection of textbooks, reference books, journals, and digital resources. Check the library for the exact count.",
+    "category": "Library",
+    "source_file": "msajce_library.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the alumni association of MSAJCE?",
+    "expected_answer": "MSAJCE has an active alumni association that organizes annual meets, provides mentoring to students, and contributes to college development activities.",
+    "category": "Alumni Association",
+    "source_file": "msajce_alumni.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What incubation facilities does MSAJCE offer for startups?",
+    "expected_answer": "MSAJCE has an incubation centre that supports student and faculty startups with workspace, mentoring, and networking opportunities.",
+    "category": "Incubation Centre",
+    "source_file": "msajce_incubation.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What technology centres are available at MSAJCE?",
+    "expected_answer": "MSAJCE has technology centres with advanced equipment and infrastructure to support research and industry collaboration.",
+    "category": "About MSAJCE",
+    "source_file": "msajce_technologycentre.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the address of MSAJCE?",
+    "expected_answer": "Mohamed Sathak A.J. College of Engineering is located in Chennai, Tamil Nadu, India. The exact address is available on the college website.",
+    "category": "About MSAJCE",
+    "source_file": "msajce_about.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the CSE department intake at MSAJCE?",
+    "expected_answer": "The CSE department at MSAJCE has an AICTE approved intake of seats. Check with the admission office for the current year intake.",
+    "category": "Department — Computer Science & Engineering",
+    "source_file": "msajce_cse.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is bus route AR 3 from MSAJCE?",
+    "expected_answer": "Bus route AR 3 from MSAJCE covers specific stops along its route. Check the transport schedule for complete stop details and timings.",
+    "category": "Transport & Bus Routes",
+    "source_file": "msajce_transport.pdf",
+    "has_exact_identifier": true
+  },
+  {
+    "question": "What is the CSBS program at MSAJCE?",
+    "expected_answer": "CSBS (Computer Science and Business Systems) at MSAJCE is a B.E. program that combines computer science with business and management subjects, offered in collaboration with TCS.",
+    "category": "Department — CS & Business Systems",
+    "source_file": "msajce_csbs.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What EEE department labs are available at MSAJCE?",
+    "expected_answer": "The EEE department at MSAJCE has electrical machines lab, power electronics lab, control systems lab, and other specialized laboratories.",
+    "category": "Department — Electrical & Electronics",
+    "source_file": "msajce_eee.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What cyber security courses are offered at MSAJCE?",
+    "expected_answer": "MSAJCE offers B.E. in Computer Science and Cyber Security, covering network security, ethical hacking, cryptography, and forensics.",
+    "category": "Department — CS & Cyber Security",
+    "source_file": "msajce_cyber.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the AI & Machine Learning program at MSAJCE?",
+    "expected_answer": "The AI & ML (Artificial Intelligence and Machine Learning) program at MSAJCE is a B.E. degree focusing on machine learning algorithms, neural networks, and AI applications.",
+    "category": "Department — AI & Machine Learning",
+    "source_file": "msajce_aiml.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What IT department programs are offered at MSAJCE?",
+    "expected_answer": "The Information Technology (IT) department at MSAJCE offers B.E. in Information Technology with focus on software development, networking, and web technologies.",
+    "category": "Department — Information Technology",
+    "source_file": "msajce_it.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the AR 5 bus route at MSAJCE?",
+    "expected_answer": "Bus route AR 5 from MSAJCE covers stops along its designated route. Refer to the college transport schedule for complete stop list and timings.",
+    "category": "Transport & Bus Routes",
+    "source_file": "msajce_transport.pdf",
+    "has_exact_identifier": true
+  },
+  {
+    "question": "What placement statistics does MSAJCE report?",
+    "expected_answer": "MSAJCE reports placement statistics including the number of students placed, companies that visited, and package ranges offered during campus recruitment.",
+    "category": "Placement & Careers",
+    "source_file": "msajce_placement.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "Does MSAJCE have a Science and Humanities department?",
+    "expected_answer": "Yes, MSAJCE has a Science and Humanities (S&H) department that handles foundational subjects in mathematics, physics, chemistry, and English for all engineering programs.",
+    "category": "Department — Science & Humanities",
+    "source_file": "msajce_sh.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the AR 2 bus route at MSAJCE?",
+    "expected_answer": "Bus route AR 2 from MSAJCE covers specific boarding points along its route. See the transport schedule for full stop details.",
+    "category": "Transport & Bus Routes",
+    "source_file": "msajce_transport.pdf",
+    "has_exact_identifier": true
+  },
+  {
+    "question": "What hostel accommodation types are available at MSAJCE?",
+    "expected_answer": "MSAJCE hostel provides single and shared room accommodations for boys and girls separately, with all basic amenities included.",
+    "category": "Hostel & Accommodation",
+    "source_file": "msajce_hostel.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What are the research publications from MSAJCE faculty?",
+    "expected_answer": "MSAJCE faculty have published research papers in national and international journals and conferences. The research department maintains a record of these publications.",
+    "category": "Research & Publications",
+    "source_file": "msajce_research.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What scholarships are available for MSAJCE students?",
+    "expected_answer": "MSAJCE students are eligible for government scholarships (BC, MBC, SC/ST), merit scholarships, and management scholarships based on eligibility criteria.",
+    "category": "Admission & Fees",
+    "source_file": "msajce_admission.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the total sanctioned intake of seats for the B.E. Artificial Intelligence & Machine Learning program at MSAJCE?",
+    "expected_answer": "60 seats",
+    "category": "Department — AI & Machine Learning",
+    "source_file": "msajce_aiml.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What are the career opportunities available to graduates of the B.E. Artificial Intelligence & Machine Learning program at MSAJCE?",
+    "expected_answer": "Diverse career opportunities across technology, analytics, research, and corporate sectors, including job roles such as Big Data Engineer",
+    "category": "Department — AI & Machine Learning",
+    "source_file": "msajce_aiml.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the URL of the official R&D web portal at MSAJCE?",
+    "expected_answer": "https://www.msajce-edu.in/research.php",
+    "category": "Research & Publications",
+    "source_file": "msajce_research.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What are the primary objectives of the R&D Cell at MSAJCE?",
+    "expected_answer": "The primary objectives of the R&D Cell include providing state-of-the-art laboratory infrastructure, assisting faculty and students in publishing research in peer-reviewed journals and international conferences, guiding student projects to secure external funding, fostering industry-institution collaborative research, acquiring government-sponsored projects, and facilitating patent and copyright registrations.",
+    "category": "Research & Publications",
+    "source_file": "msajce_research.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the primary task of the Internal Quality Assurance Cell (IQAC) at Mohamed Sathak A.J. College of Engineering (MSAJCE)?",
+    "expected_answer": "The prime task of the IQAC is to develop a system for conscious, consistent, and catalytic improvement in the academic and administrative performance of the institution.",
+    "category": "IQAC & Accreditation",
+    "source_file": "msajce_iqac.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the URL of the official IQAC webpage at MSAJCE?",
+    "expected_answer": "https://www.msjace-edu.in/iqac.php",
+    "category": "IQAC & Accreditation",
+    "source_file": "msajce_iqac.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the URL of the official Technology Centre portal at MSAJCE?",
+    "expected_answer": "https://www.msajce-edu.in/technologycentre.php",
+    "category": "General — MSAJCE",
+    "source_file": "msajce_technology_centres.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the main goal of the Technology Centres at MSAJCE?",
+    "expected_answer": "The main goal of these centers is to align engineering students with emerging industry demands, AICTE recommendations, and India Skill Report guidelines.",
+    "category": "General — MSAJCE",
+    "source_file": "msajce_technology_centres.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "Who is the chairperson of the Planning and Monitoring Board at Mohamed Sathak A.J. College of Engineering (MSAJCE)?",
+    "expected_answer": "Mr. Mohamed Sathak, Campus Director of the Mohamed Sathak Trust",
+    "category": "General — MSAJCE",
+    "source_file": "msajce_planningmonitoringboard.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the role of the Planning and Monitoring Board at Mohamed Sathak A.J. College of Engineering (MSAJCE)?",
+    "expected_answer": "The board evaluates and steers strategic growth, infrastructure expansion, and institutional programs at MSAJCE",
+    "category": "General — MSAJCE",
+    "source_file": "msajce_planningmonitoringboard.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the date of the 18th Graduation Day convocation of Mohamed Sathak A.J. College of Engineering (MSAJCE)?",
+    "expected_answer": "February 22, 2025",
+    "category": "General — MSAJCE",
+    "source_file": "msajce_graduationday.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the purpose of the annual Graduation Day convocation ceremonies at Mohamed Sathak A.J. College of Engineering (MSAJCE)?",
+    "expected_answer": "To confer undergraduate (B.E./B.Tech) and postgraduate (M.E.) degrees upon graduating cohorts of students.",
+    "category": "General — MSAJCE",
+    "source_file": "msajce_graduationday.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the name of the cell that operates the Stakeholder Feedback System at MSAJCE?",
+    "expected_answer": "Internal Quality Assurance Cell (IQAC)",
+    "category": "General — MSAJCE",
+    "source_file": "msajce_feedbackform.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the purpose of the Stakeholder Feedback System at MSAJCE?",
+    "expected_answer": "To ensure continuous curriculum enhancement, infrastructure evaluation, and teaching quality in alignment with NAAC accreditation requirements.",
+    "category": "General — MSAJCE",
+    "source_file": "msajce_feedbackform.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the name of the department headed by the Convener of the Minority Cell at MSAJCE, and where can the official AICTE Mandatory Disclosure document be viewed and downloaded?",
+    "expected_answer": "Electronics and Communication Engineering (ECE), and the official AICTE Mandatory Disclosure document can be viewed and downloaded at https://www.msajce-edu.in/uploads/Mandatory-Disclosure.pdf",
+    "category": "General — MSAJCE",
+    "source_file": "msajce_mandatorydisclosure.pdf, msajce_minoritycell.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "How does the Minority Cell at MSAJCE compare to the institutional governance and transparency provided by the AICTE Mandatory Disclosure reports?",
+    "expected_answer": "The Minority Cell at MSAJCE is a statutory committee that protects rights and addresses complaints of minority students and staff, whereas the AICTE Mandatory Disclosure reports provide transparent details regarding institutional governance, academic degree programs, faculty strength, laboratory infrastructure, campus facilities, and admissions.",
+    "category": "General — MSAJCE",
+    "source_file": "msajce_mandatorydisclosure.pdf, msajce_minoritycell.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the downloadable link for Anna University Academic Schedule for April/May 2022 (First Year) and what is the primary objective of the R&D Cell at MSAJCE?",
+    "expected_answer": "The downloadable link for Anna University Academic Schedule for April/May 2022 (First Year) is https://www.msajce-edu.in/uploads/StudentsCorner/ASESFirstYear.pdf. The primary objectives of the R&D Cell include providing state-of-the-art laboratory infrastructure, assisting faculty and students in publishing research in peer-reviewed journals and international conferences, guiding student projects to secure external funding, fostering industry-institution collaborative research, acquiring government-sponsored projects, and facilitating patent and copyright registrations.",
+    "category": "General — MSAJCE",
+    "source_file": "msajce_studentscorner.pdf, msajce_research.pdf",
+    "has_exact_identifier": true
+  },
+  {
+    "question": "How does the R&D Cell at MSAJCE support students in their academic pursuits, and what type of schedules can students find in the Students Corner?",
+    "expected_answer": "The R&D Cell at MSAJCE supports students by guiding student projects to secure external funding and providing state-of-the-art laboratory infrastructure. Students can find academic schedules, examination timetables, certificate guidelines, and reopening notices in the Students Corner.",
+    "category": "General — MSAJCE",
+    "source_file": "msajce_studentscorner.pdf, msajce_research.pdf",
+    "has_exact_identifier": false
+  },
+  {
+    "question": "What is the name of the principal and professor at MSAJCE, and where can the academic calendar for the 2023-2024 academic year be downloaded from?",
+    "expected_answer": "Dr. K.S. Srinivasan, and the academic calendar can be downloaded from https://www.msajce-edu.in/uploads/AcademicCalender2023-24odd.pdf",
+    "category": "General — MSAJCE",
+    "source_file": "msajce_ac.pdf, msajce_listofsupervisors.pdf",
+    "has_exact_identifier": true
+  },
+  {
+    "question": "How does the availability of research supervisors at MSAJCE relate to the academic calendar, and what is the common thread between the two?",
+    "expected_answer": "The availability of research supervisors at MSAJCE is related to the academic calendar in that both are essential components of the college's academic ecosystem. The common thread between the two is that they both contribute to the overall academic experience and research opportunities available to students at MSAJCE.",
+    "category": "General — MSAJCE",
+    "source_file": "msajce_ac.pdf, msajce_listofsupervisors.pdf",
+    "has_exact_identifier": false
+  }
+]

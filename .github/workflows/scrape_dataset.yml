@@ -1,0 +1,44 @@
+name: Scrape MSAJCE Dataset
+
+on:
+  workflow_dispatch:
+    inputs:
+      nvidia_api_key:
+        description: 'Your NVIDIA API Key'
+        required: true
+        type: string
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Run Scraper
+        env:
+          NVIDIA_API_KEY: ${{ inputs.nvidia_api_key }}
+        run: |
+          python scripts/scrape_all_msajce.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add backend/dataset/
+          # If there are no changes, this will silently do nothing instead of failing
+          git commit -m "Auto-generated RAG dataset updates from web scraper" || echo "No changes to commit"
+          git push
