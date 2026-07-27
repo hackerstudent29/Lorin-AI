@@ -1,690 +1,208 @@
-# Research and Development (R&D) Cell Objectives and Funding Agencies at MSAJCE
+# RESEARCH
 
-# MSAJCE — Mohamed Sathak A.J. College of EngineeringResearch and Development — Complete Data Extract for RAG Model
+## Objectives
 
-## 1. R&D Cell — Objectives
+The Research and Development Cell at Mohamed Sathak A.J. College of Engineering strives to cultivate a vibrant research culture within the institution by actively promoting research in emerging and challenging areas of Engineering, Technology, Science, and Humanities. To achieve this, the cell aims to encourage students and faculty members to engage in research endeavors by providing them with the necessary facilities and infrastructure required for conducting research in these fields.
 
-Describes the purpose and objectives of the MSAJCE Research and Development Cell, including focus areas, funding agency support, and activities promoted.
+By fostering a culture of research and innovation, the cell seeks to instill a sense of enthusiasm among students and faculty, motivating them to publish their findings in reputable conferences and journals. Furthermore, the cell offers assistance to students in applying for funding to support their research projects under the student project scheme, targeting funding agencies such as the Tamil Nadu State Council for Science and Technology (TNSCST), the Micro, Small and Medium Enterprises (MSME), and the Institution of Engineers (India) (IEI).
 
-Research and Development — MSAJCE
+In addition to its academic pursuits, the Research and Development Cell also seeks to collaborate closely with industry partners to understand their needs and develop innovative solutions that can enhance their productivity. This synergy between the institution and industry is expected to yield new or improved products, processes, systems, or services, ultimately promoting a culture of Institute-Industry Collaboration.
 
-The Research and Development Cell aims to nurture research culture in the College by promoting research in newly emerging and challenging areas of Engineering, Technology, Science and Humanities.
+The cell also extends its support to the government by undertaking sponsored projects offered by agencies such as the TNSCST, the Department of Science and Technology (DST), the All India Council for Technical Education (AICTE), the University Grants Commission (UGC), the Indian Space Research Organisation (ISRO), the Defence Research and Development Organisation (DRDO), the Council of Scientific and Industrial Research (CSIR), and the Department of Biotechnology (DBT). By participating in conferences, seminars, workshops, and project competitions, the cell aims to enhance the research capabilities of budding engineers.
 
-Objectives:
+To promote research and innovation, the Research and Development Cell organizes various workshops, seminars, and training programs, providing a platform for students and faculty to engage with experts and peers in their respective fields.
 
-1. To encourage students and faculty to carry out research in Engineering, Technology, Science and Humanities by providing necessary facilities and infrastructure.
-2. To create zeal among students and faculty towards research and innovation and to encourage them to publish findings in conferences and journals.
-3. To assist students to apply for funding under the student project scheme to funding agencies like TNSCST, MSME, IEI (I) etc.
-4. To work closely with industry to understand their needs, resulting in new or improved products, processes, systems or services, and to promote Institute-Industry Collaboration.
-5. To support the government by taking up sponsored projects offered by agencies such as TNSCST, DST, AICTE, UGC, ISRO, DRDO, CSIR, DBT etc.
-6. To enhance the general research capability of budding engineers by participating in conferences, seminars, workshops, and project competitions.
-7. To organize workshops, seminars, and trainings related to promotion of research.
-8. To encourage both students and faculty to apply for copyrights and patents.
+The primary objective of Mohamed Sathak A.J. College of Engineering is to foster a culture of innovation and intellectual property protection among its students and faculty members. To achieve this, the institution aims to encourage both students and faculty to apply for copyrights and patents, thereby promoting a spirit of creativity and entrepreneurship within the academic community.
 
-Key funding agencies supported: TNSCST, MSME, IEI (I), DST, AICTE, UGC, ISRO, DRDO, CSIR, DBT.
+## Research Advisory Committee
 
-List of Supervisors page: <https://www.msjace-edu.in/listofsupervisors.php>
+The Research Advisory Committee at Mohamed Sathak A.J. College of Engineering is led by Dr. B. Janarthanan, who serves as the Convener and Head of Research at the institution in Chennai. 
 
-## 2. Research Advisory Committee
+Dr. Srinivasan, the Secretary of the Tamil Nadu State Council for Science and Technology in Chennai, brings his expertise to the committee as an Advisor. He can be reached at 044-22301428 or via email at ms.tanscst@nic.in.
 
-Lists all members of the MSAJCE Research Advisory Committee with their designations, contact numbers, and email addresses.
+The committee also benefits from the guidance of Dr. Parthiban, an Associate Professor in the Production Department at the National Institute of Technology in Trichy. Dr. Parthiban can be contacted at 9443430246 or through his email address parthiban@nitt.edu.
 
-Research Advisory Committee — MSAJCE
+Another key Advisor is Dr. Somashekhar S Hiremath, who is an Associate Professor in the Manufacturing Engineering Section of the Department of Mechanical Engineering at the Indian Institute of Technology Madras in Chennai. His profile can be accessed at https://iitm.irins.org/profile/61849#personal_information_panel.
 
-- 1 | Dr. B. Janarthanan, Head-Research, MSAJCE, Chennai | Convener
-- 2 | Dr. Srinivasan, Secretary TNSCST, Chennai. Phone: 044-22301428, Email: ms.tanscst@nic.in | Advisor
-- 3 | Dr. Parthiban, Asso. Prof / Prod. NIT, Trichy. Phone: 9443430246, Email: parthiban@nitt.edu | Advisor
+Dr. Sabitha Ramakrishnan, a Professor in the Department of Instrumentation at MIT in Chennai, also lends her expertise to the committee as an Advisor. She can be reached at 9789977989 or via email at sabitha.ramakrishnan@gmail.com.
 
-4 | Dr. Somashekhar S Hiremath, Associate Professor, MSB 310, Manufacturing Engineering Section, Dept of Mechanical Engineering, IIT Madras, Chennai. Profile: [https://iitm.irins.org/profile/61849#personal\\_information\\_panel](https://iitm.irins.org/profile/61849#personal_information_panel) | Advisor
+In addition to these esteemed Advisors, the Research Advisory Committee comprises all Ph.D-qualified faculty members from the institution, who contribute their knowledge and experience as Members.
 
-5 | Dr. Sabitha Ramakrishnan, Professor, Dept of Instrumentation MIT, Chennai. Phone: 9789977989, Email: [sabitha.ramakrishnan@gmail.com](mailto:sabitha.ramakrishnan@gmail.com) | Advisor
+## List of Supervisors
 
-6 | All Ph.D qualified faculty | Members
+## Publications Faculty & Students
 
-Note: An alternate listing from <listofsupervisors.php> includes Dr. B. Sheela Rani, Dean Research, Sathyabama University, Chennai. Phone: 9840941389, Email: [directorresearch@sathyabama.ac.in](mailto:directorresearch@sathyabama.ac.in) as Advisor (replacing Dr. Somashekhar S Hiremath in that version).
+The Mohamed Sathak A.J. College of Engineering has a rich history of publications by its faculty and students, showcasing their academic and research endeavors. 
 
-### Research Advisory Committee
+In the academic year 2023-2024, the college witnessed a surge in publications by its faculty and students, with numerous papers and articles being published in renowned journals and conferences. 
 
-- **Dr. B. Janarthanan, Head-Research, MSJCE, Chennai** serves as **Convener**.
+The previous year, 2022-2023, also saw a significant number of publications by the college's faculty and students, demonstrating their commitment to research and academic excellence. 
 
-- **Dr. Srinivasan, Secretary TNSCST, Chennai. Ph: 044-22301428, <a href="mailto:ms.tanscst@nic.in">ms.tanscst@nic.in</a>** serves as **Advisor**.
+Going further back, the academic year 2021-2022 was marked by a notable increase in publications, with faculty and students from various departments contributing to the college's research output. 
 
-- **Dr. Parthiban, Asso., Professor, Prod. NIT, Trichy. Ph: 9443430246, <a href="mailto:parthiban@nitt.edu">parthiban@nitt.edu</a>** serves as **Advisor**.
+In 2020-2021, the college continued to build on its research momentum, with faculty and students publishing papers and articles in various fields of engineering and technology. 
 
-- **Dr. Somashekhar S Hiremath, Associate Professor, IIT Madras, Chennai. <a href="https://iitm.irins.org/profile/61849">https://iitm.irins.org/profile/61849</a>** serves as **Advisor**.
+The academic year 2019-2020 was a significant one for the college, with a substantial number of publications by its faculty and students, highlighting their expertise in various areas of engineering. 
 
-- **Dr. Sabitha Ramakrishnan, Professor, Dept of Instrumentation MIT, Chennai. Ph: 9789977989, <a href="mailto:sabitha.ramakrishnan@gmail.com">sabitha.ramakrishnan@gmail.com</a>** serves as **Advisor**.
+The year 2018-2019 saw a steady stream of publications by the college's faculty and students, with many papers and articles being published in national and international journals. 
 
-- **All Ph.D qualified faculty** serves as **Members**.
+In 2017-2018, the college's faculty and students made notable contributions to the field of engineering, with several publications in reputable journals and conferences. 
 
-- Who is the convener of the MSJCE Research Advisory Committee?
-- Who are the advisors in the MSJCE Research Advisory Committee?
-- What is Dr. B. Janarthanan's role at MSJCE?
-- How can I contact the Research Advisory Committee at MSJCE?
-- Who from IIT Madras is an advisor to MSJCE research?
-- Who is Dr. Sabitha Ramakrishnan and what is her role at MSJCE?
-- What is the Research Advisory Committee structure at MSJCE?
-- What are the contact details for TNSCST related to MSJCE research?
+Going back to 2016-2017, the college's research output was marked by a series of publications by its faculty and students, laying the foundation for future research endeavors.
 
-[Overlap carry-forward] To encourage both students and faculty to apply for copyrights and patents. Key funding agencies supported: TNSCST, MSME, IEI (I), DST, AICTE, UGC, ISRO, DRDO, CSIR, DBT. List of Supervisors page: <https://www.msjce-edu.in/listofsupervisors.php>
+## Patent Filed
 
-## 3. List of Supervisors — PhD Research Supervisors
-
-Lists all MSJCE faculty approved as PhD research supervisors under Anna University, with their reference numbers and research areas.
-
-List of Supervisors — MSJCE (Anna University Approved PhD Supervisors)
-
-1 | Dr. K.S. Srinivasan | 1440364 | VLSI Design, Digital Signal and Image Processing
-
-2 | Dr. I. Manju | 3040008 | VLSI Design, Video Processing
-
-3 | Dr. B. Janarthanan | 2620054 | Machine Design, Mechanical Vibrations, Vehicle Dynamics
-
-4 | Dr. G. Ramesh | 4120175 | Natural Fiber, Composite Material, Mathematical Modeling
-
-5 | Dr. S. Prasath | 4220015 | Welding Technology, Materials Engineering, Manufacturing Engineering
-
-6 | Dr. A. Suvitha | 2070720 | Inorganic Chemistry
-
-7 | Dr. M. Vigneshkumar | 3910019 | Remote Sensing, GIS, Survey & Geology, Environmental Engineering
-
-Full page 
-
-IIC Contact Details:
-
-Head of Institution: Dr. K.S. Srinivasan, Principal, MSAJCE, Chennai-603103. Email: [principal@msajce-edu.in](mailto:principal@msajce-edu.in)
-
-IIC President: Dr. B. Janarthanan, Professor, Dept of Mechanical Engineering, MSAJCE, Chennai-603103. Email: [mech.janarthanan@msajce-edu.in](mailto:mech.janarthanan@msajce-edu.in)
-
-IIC Vice President: Dr. I. Manju, Professor and Head, Dept of Electrical and Electronics Engineering, MSAJCE, Chennai-603103. Email: [headir@msajce-edu.in](mailto:headir@msajce-edu.in)
-
-### List of PhD Supervisors
-
-- **Dr. K.S. Srinivasan** serves as **1440364** (Research Area: VLSI Design, Digital Signal and Image Processing).
-
-- **Dr. I. Manju** serves as **3040008** (Research Area: VLSI Design, Video Processing).
-
-- **Dr. B. Janarthanan** serves as **2620054** (Research Area: Machine Design, Mechanical Vibrations, Vehicle Dynamics).
-
-- **Dr. G. Ramesh** serves as **4120175** (Research Area: Natural Fiber, Composite Material, Mathematical Modeling).
-
-- **Dr. S. Prasath** serves as **4220015** (Research Area: Welding Technology, Materials Engineering, Manufacturing Engineering).
-
-- **Dr. A. Suvitha** serves as **2070720** (Research Area: Inorganic Chemistry).
-
-- **Dr. M. Vigneshkumar** serves as **3910019** (Research Area: Remote Sensing, GIS, Survey & Geology, Environmental Engineering).
-
-- Who are the PhD supervisors at MSAJCE?
-- Which MSAJCE faculty can guide PhD research?
-- What is Dr. K.S. Srinivasan's research area at MSAJCE?
-- What is Dr. B. Janarthanan's Anna University reference number?
-- Does MSAJCE have a supervisor for VLSI research?
-- Who supervises mechanical engineering PhD at MSAJCE?
-- What is the Anna University ref no for Dr. I. Manju?
-- Can I do PhD in Environmental Engineering at MSAJCE?
-- Who is the IIC President at MSAJCE?
-- What is the email of the Principal of MSAJCE?
-
-[Overlap carry-forward] Note: An alternate listing from listofsupervisors.php includes Dr. B. Sheela Rani, Dean Research, Sathyabama University, Chennai. Phone: 9840941389, Email: directorresearch@sathyabama.ac.in as Advisor. All Ph.D qualified faculty are members of the Research Advisory Committee.
-
-## 4. Publications — Faculty and Students (2016–2024)
-
-Lists all available publication PDF downloads for MSAJCE faculty and students from 2016-17 to 2023-24, with direct download links.
-
-Publications — Faculty and Students, MSAJCE
-
-MSAJCE maintains year-wise publications records for faculty and students. The following annual publication lists are available for download:
-
-- Publications 2023-2024: <https://www.msajce-edu.in/images/research/Publications23-24.pdf>
-- Publications 2022-2023: <https://www.msajce-edu.in/images/research/Publications22-23.pdf>
-- Publications 2021-2022: <https://www.msajce-edu.in/images/research/Publications21-22.pdf>
-- Publications 2020-2021: <https://www.msajce-edu.in/images/research/Publications20-21.pdf>
-- Publications 2019-2020: <https://www.msajce-edu.in/images/research/Publications19-20.pdf>
-- Publications 2018-2019: <https://www.msajce-edu.in/images/research/Publications18-19.pdf>
-- Publications 2017-2018: <https://www.msajce-edu.in/images/research/Publications17-18.pdf>
-- Publications 2016-2017: <https://www.msajce-edu.in/images/research/Publications16-17.pdf>
-
-All publication files are in PDF format and accessible directly from the Research page at <https://www.msajce-edu.in/research.php>
-
-- Where can I find MSAJCE faculty publications?
-- Does MSAJCE publish a list of research papers by faculty and students?
-- How many years of publications does MSAJCE maintain?
-- Where can I download the 2023-2024 publications list of MSAJCE?
-- What is the link to MSAJCE research publications PDF?
-- Does MSAJCE have a record of student research publications?
-- Which journals have MSAJCE faculty published in?
-- How do I access MSAJCE publication records?
-
-[Overlap carry-forward] Can I do PhD in Environmental Engineering at MSAJCE? Who is the IIC President at MSAJCE? Dr. B. Janarthanan is the IIC President. Dr. I. Manju is the IIC Vice President. The list of supervisors is at <https://www.msajce-edu.in/listofsupervisors.php>
-
-## 5. Patents Filed and Published
-
-Complete list of patents filed and published by MSAJCE faculty members, with inventor names, patent titles, and patent numbers.
-
-Patents Filed — MSAJCE Faculty
-
-- 1 | Dr. E. Dhiravidachelvi | Design and implementation of a disaster management system using IoT and cloud computing techniques for a connected building to save lives with early warnings | 2020101867
-- 2 | Dr. E. Dhiravidachelvi, Mrs. E. Jayanthi, Mrs. I. Suganthi, Mr. J. Raja, Mr. S. Naveenkumar | Vehicular Edge Computing Using A Smart Embedded System For Intelligent Transportation | 202041033273
-- 3 | Mr. K. Vairaperumal | Battery Swapping Smart Station for Future E-Vehicle Transportation | 202141021897 A
-- 4 | Mr. Chintala Venkatesh | A Vehicle Tire Control System at curved roads using intelligent interfaces and support vector machines | 202141025111 A
-- 5 | Mrs. D. Hema Sumitha | Real time based IOT Enabled Smart Metering System | 202141026200 A
-- 6 | Mrs. G. Premalatha, Dr. E. Dhiravidachelvi | Fundamentals of Electrical Measuring Instruments | 202141014294 A
-
-7 | Mr. M. Kamarajan, Mr. M. Ashokkumar | Wireless sensor network for long-term environmental checking for internet of things application | 202141061248
-
+S.No | Name | Title of the Patent | Patent Number
+1 | Dr. E. Dhiravidachelvi | Design and implementation of a disaster management system using IoT and 
+													cloud computing techniques for a connected building to save lives with early warnings. | 2020101867
+2 | Dr. E. Dhiravidachelvi Mrs. E. Jayanthi Mrs. I. Suganthi Mr. J. Raja Mr.S. Naveenkumar | Vehicular Edge Computing Using A Smart Embedded System For Intelligent Transportation | 202041033273
+3 | Mr. K. Vairaperumal | Battery Swapping Smart Station for Future E-Vehicle Transportation | 202141021897 A
+4 | Mr. Chintala Venkatesh | A Vehicle Tire Control System at curved roads using intelligent interfaces and support vector machines | 202141025111 A
+5 | Mrs. D. Hema Sumitha | Real time based IOT Enabled Smart Metering System. | 202141026200 A
+6 | Mrs. G. Premalatha Dr.E.Dhiravidachelvi | Fundamentals of Electrical Measuring Instruments | 202141014294 A
+7 | Mr. M. Kamarajan Mr.M. Ashokkumar | Wireless sensor network for long- term environmental checking
+													for internet of things application | 202141061248
 8 | Mr. M. Kamarajan | Deep learning based automatic eye cataract detection algorithm using MATLAB | 202141061583A
-
 9 | Mr. S.R. Mohan | Refrigerator with food warming apparatus attachment | 365189001
+10 | Mr.D.Weslin Mr. V.Vigneshwaran | A method and a device of Wireless Master Joystick Controller for Robotics | 202241071210
 
-10 | Mr. D. Weslin, Mr. V. Vigneshwaran | A method and a device of Wireless Master Joystick Controller for Robotics | 202241071210
+Dr. K S Srinivasan and Mrs. Jayanthi have filed a patent for a smart device designed to monitor optic cables and inform users of any discrepancies. The patent, titled "A Smart Device to Monitoring the Optic Cable and Inform the Users in Case of any Discrepancies," has been assigned the number 202241071306.
 
-11 | Dr. K S Srinivasan, Mrs. Jayanthi | A Smart Device to Monitoring the Optic Cable and Inform the Users in Case of any Discrepancies | 202241071306
+Dr. Someshwaran and Mr. Tharani Kumar have also filed a patent, titled "Machine Learning - based closed-loop mixture of concrete equipment and the method." Their patent has been assigned the number 202241071309. Another patent, filed by Dr. Balakrishnan and Mr. Vinothkumar, is titled "Dedicated drone-based testing of building's strength located in a hazardous environment" and has been assigned the number 202241071308.
 
-12 | Dr. Someshwaran, Mr. Tharani Kumar | Machine Learning-based closed-loop mixture of concrete equipment and the method | 202241071309
+In addition to these filings, several patents have been published. Dr. E. Dhiravidachelvi has published a patent titled "Design and implementation of a disaster management system using IoT and cloud computing techniques for a connected building to save lives with early warnings." This patent has been assigned the number 2020101867.
 
-13 | Dr. Balakrishnan, Mr. Vinothkumar | Dedicated drone-based testing of building's strength located in a hazardous environment | 202241071308
+Dr. E. Dhiravidachelvi, along with Mrs. E. Jayanthi, Mrs. I. Suganthi, Mr. J. Raja, and Mr. S. Naveenkumar, have also published a patent titled "Vehicular Edge Computing Using A Smart Embedded System For Intelligent Transportation." This patent has been assigned the number 202041033273. Furthermore, Mr. K. Vairaperumal has published a patent titled "Battery Swapping Smart Station for Future E-Vehicle Transportation," which has been assigned the number 202141021897 A.
 
-Patent Search Reference: <https://lpindiaservices.Gov.In/Patentsearch/Patentsearch/Viewapplicationstatus>
+Another published patent is titled "A Vehicle Tire Control System at curved roads using intelligent interfaces and support vector machines" by Mr. Chintala Venkatesh. This patent has been assigned the number 202141025111 A.
 
-### Patents Filed
+Mrs. D. Hema Sumitha has filed a patent for a Real time based IOT Enabled Smart Metering System, bearing the application number 202141026200 A. 
 
-- **Dr. E. Dhiravidachelvi** serves as **Design and implementation of a disaster management system using IoT and cloud computing techniques for a connected building to save lives with early warnings**.
+Mrs. G. Premalatha and Dr. E. Dhiravidachelvi have collaborated on a patent titled Fundamentals of Electrical Measuring Instruments, with the application number 202141014294 A. 
 
-- **Dr. E. Dhiravidachelvi, Mrs. E. Jayanthi, Mrs. I. Suganthi, Mr. J. Raja, Mr. S. Naveenkumar** serves as **Vehicular Edge Computing Using A Smart Embedded System For Intelligent Transportation**.
+Mr. M. Kamarajan and Mr. M. Ashokkumar have jointly filed a patent for a Wireless sensor network for long-term environmental checking for internet of things application, which has been assigned the application number 202141061248. Additionally, Mr. M. Kamarajan has also filed a patent for a Deep learning based automatic eye cataract detection algorithm using MATLAB, bearing the application number 202141061583A.
 
-- **Mr. K. Vairaperumal** serves as **Battery Swapping Smart Station for Future E-Vehicle Transportation** (Patent Number: 202141021897 A).
+Mr. S.R. Mohan has filed a patent for a Refrigerator with food warming apparatus attachment, with the application number 365189001. 
 
-- **Mr. Chintala Venkatesh** serves as **A Vehicle Tire Control System at curved roads using intelligent interfaces and support vector machines** (Patent Number: 202141025111 A).
+Mr. D. Weslin and Mr. V. Vigneshwaran have collaborated on a patent titled A method and a device of Wireless Master Joystick Controller for Robotics, which has been assigned the application number 202241071210. 
 
-- **Mrs. D. Hema Sumitha** serves as **Real time based IOT Enabled Smart Metering System** (Patent Number: 202141026200 A).
+Dr. K.S. Srinivasan and Mrs. Jayanthi have jointly filed a patent for A Smart Device to Monitoring the Optic Cable and Inform the Users in Case of any Discrepancies, bearing the application number 202241071306. 
 
-- **Mrs. G. Premalatha, Dr. E. Dhiravidachelvi** serves as **Fundamentals of Electrical Measuring Instruments** (Patent Number: 202141014294 A).
+Dr. Someshwaran and Mr. Tharani Kumar have collaborated on a patent titled Machine Learning-based closed-loop mixture of concrete equipment and the method, with the application number 202241071309. 
 
-- **Mr. M. Kamarajan, Mr. M. Ashokkumar** serves as **Wireless sensor network for long-term environmental checking for IoT application**.
+Dr. Balakrishnan and Mr. Vinothkumar have jointly filed a patent for Dedicated drone-based testing of building's strength located in a hazardous environment, bearing the application number 202241071308. 
 
-- **Mr. M. Kamarajan** serves as **Deep learning based automatic eye cataract detection algorithm using MATLAB** (Patent Number: 202141061583A).
+Dr. B. Janarthanam has filed a patent for an Unmanned Aerial Vehicle, with the application number 202041047806 A. 
 
-- **Mr. S.R. Mohan** serves as **Refrigerator with food warming apparatus attachment**.
+Mr. S. Senthil Pandi Sankareswaran has filed a patent for a Computer implemented method of image classification with extreme learning machine, bearing the application number 201941054497 A. 
 
-- **Mr. D. Weslin, Mr. V. Vigneshwaran** serves as **A method and a device of Wireless Master Joystick Controller for Robotics**.
+Mr. A. Syed Ismail has filed a patent for An AI & ML based system for building architecture & map designing, with the application number 202141050400.
 
-- **Dr. K S Srinivasan, Mrs. Jayanthi** serves as **A Smart Device to Monitoring the Optic Cable and Inform the Users in Case of any Discrepancies**.
+Mrs. G. Premalatha and Dr. E. Dhiravidachelvi have filed a patent for their innovative project, "Real time crowd analysis using static video surveillance," which has been assigned the patent number 202141014294. 
 
-- **Dr. Someshwaran, Mr. Tharani Kumar** serves as **Machine Learning-based closed-loop mixture of concrete equipment and the method**.
+Mr. S.R. Mohan, Mr. V. Vigneshwaran, and Mr. D. Sakthivel have collaborated on a research project titled "Study on Mechanical Characterization of Graphene reinforced Aluminium Metal Matrix Composites," and their patent application bears the number 202141012155. 
 
-- **Dr. Balakrishnan, Mr. Vinothkumar** serves as **Dedicated drone-based testing of building's strength located in a hazardous environment**.
+Dr. S. Prasath has made significant contributions to the field of materials science with his patent filing for "Friction stir welding of dissimilar aluminium alloys using tapered threaded tool profile," which has been assigned the patent number 202141005812. 
 
-- How many patents has MSAJCE filed?
-- What patents has Dr. E. Dhiravidachelvi filed?
-- Does MSAJCE have patents in IoT?
-- Who filed a patent for EV battery swapping at MSAJCE?
-- What is the patent number for the MSAJCE disaster management IoT patent?
-- Has MSAJCE filed patents in machine learning?
-- Where can I verify MSAJCE patent application status?
-- What patents has Mr. M. Kamarajan filed at MSAJCE?
+Dr. B. Muthu Kumar has developed a novel approach to healthcare with his patent application for "Type – 2 Diabetes detection and estimation from glucose levels by feature detection using machine learning algorithm," bearing the patent number 202041023885. 
 
-[Overlap carry-forward] All publication files are in PDF format and accessible directly from the Research page at <https://www.msjce-edu.in/research.php>. Publications span 2016-2017 to 2023-2024.
+Dr. G. Ramesh and Mr. S. Syed Abudhahir have designed an innovative product, "Smart Painting Roller with Temperature Sensor to Detect the Temperature of Wall and Paint," which has been assigned the patent number 202241071203. 
 
-## 6. Patents Published and Copyrights Filed
+Mrs. I.S. Suganthi and Mrs. Priyadharshini have worked together on a project titled "Design a Micro Strip Patch for Spectrum Utilization in Cognitive Radio Networks," and their patent application bears the number 202241071307. 
 
-Complete list of additional patents published (beyond those filed) and all copyrights filed by MSAJCE faculty, with inventor names and reference numbers.
+Dr. I. Manju and Mr. C. Venkatesh have developed a machine learning strategy for enhancing the performance of phase change materials in smart solar applications, with their patent application assigned the number 202241071305.
 
-#### Patents Published (Additional entries beyond Patents Filed list) — MSAJCE
+The patent search and application status can be viewed on the official website of the Indian Patent Office at https://ipindiaservices.gov.in/patentsearch/patentsearch/viewapplicationstatus.
 
-14 | Dr. B. Janarthanam | Unmanned Aerial Vehicle | 202041047806 A
+In addition to these patent filings, the institution has also filed copyrights for various academic resources. Dr. R. Senthilkumar and G. Ramesh have filed a copyright for their work on "Engineering Practices Lab," which has been assigned the copyright number L - 78730 / 2018. 
 
-15 | Mr. S. Senthil Pandi, Sankareswaran | Computer implemented method of image classification with extreme learning machine | 201941054497 A
+Mr. Chintala Venkatesh and Mrs. R. Abirami have collaborated on a "Labview Manual," and their copyright application bears the number 7675/2022-CO.
 
-16 | Mr. A. Syed Ismail | An AI & ML based system for building architecture & map designing | 202141050400
+Dr. R. Senthil Kumar, Mr. P. Saravanan, and Mr. D. Sakthivel collaborated on a project titled "Computer Aided Design - Course Manual," which was assigned the reference number 11415/2022-CO. Similarly, Dr. G. Ramesh, Mr. S.R. Mohan, and Mr. V. Vigneswara worked together on "Computer Aided Design And Manufacturing - Laboratory Manual," bearing the reference number 11417/2022-CO.
 
-17 | Mrs. G. Premalatha, Dr. E. Dhiravidachelvi | Real time crowd analysis using static video surveillance | 202141014294
+Dr. S. Prasath, Mr. A. Muhammed Ifran, and Mr. J. Rajesh co-authored "Meterology And Measurements - Laboratory Manual," which was given the reference number 11418/2022-CO. Dr. R. Senthil Kumar, Dr. S. Prasath, and Mr. J. Rajesh also collaborated on "Manufacturing Technology - Laboratory Manual," assigned the reference number 11420/2022-CO.
 
-18 | Mr. S.R. Mohan, Mr. V. Vigneshwaran, Mr. D. Sakthivel | Study on Mechanical Characterization of Graphene reinforced Aluminium Metal Matrix Composites | 202141012155
+In another project, Dr. B. Janarthanan, Mr. P. Saravanan, and Mr. S.R. Mohan worked together on "Computer Aided Simulation And Analysis - Laboratory Manual," which was given the reference number 11412/2022-CO. Dr. R. Senthil Kumar, Mr. P. Saravanan, and Mr. D. Sakthivel also co-authored "Computer Aided Machine Drawing - Laboratory Manual," bearing the reference number 11409/2022-CO.
 
-19 | Dr. S. Prasath | Friction stir welding of dissimilar aluminium alloys using tapered threaded tool profile | 202141005812
+Dr. K.S. Srinivasan, Dr. I. Manju, and Ms. K. Gayathri collaborated on "Revit Architecture Lab Manual," assigned the reference number 22218/2021-CO. Dr. K. S. Srinivasan, Dr. I. Manju, and Mr. K. Vairaperumal also worked together on "Bot Lab Manual," which was given the reference number 22219/2021-CO.
 
-20 | Dr. B. Muthu Kumar | Type-2 Diabetes detection and estimation from glucose levels by feature detection using machine learning algorithm | 202041023885
+Dr. K.S. Srinivasan authored several books, including "Communication Theory" with the ISBN 978-81-89638-43-6, "Principles of Communication Engineering" with the ISBN 978-81-87721-95-6, "Electric Circuits and Electronic Devices" with the ISBN 978-81-8472-085-3, and "Basic Electrical and Electronics Engineering" with the ISBN 978-81-8472-086-0.
 
-21 | Dr. G Ramesh, Mr. S Syed Abudhahir | Smart Painting Roller with Temperature Sensor to Detect the Temperature of Wall and Paint | 202241071203
+Dr. K.S. Srinivasan has authored several books, including Digital Communication, which bears the ISBN 978-81-89638-19-1. He has also written Electronic Devices, with the ISBN 978-81-8472-254-3, as well as Electronic Devices and Circuits, which has the ISBN 978-81-8472-101-0. Furthermore, Dr. Srinivasan has penned Electronic Circuits I, with the ISBN 978-81-8472-100-3, and Electronic Circuits II, bearing the ISBN 978-81-89638-16-0. His other notable works include Electronics and Microprocessors, which shares the same ISBN 978-81-89638-19-1 with Digital Communication, and Digital Signal Processing, with the ISBN 81-87721-46-4.
 
-22 | Mrs. I.S. Suganthi, Mrs. Priyadharshini | Design a Micro Strip Patch for Spectrum Utilization in Cognitive Radio Networks | 202241071307
+In addition to the aforementioned books, Dr. Srinivasan has also written Electric Circuit Theory, which has the ISBN 978-81-938894-2-8, and Electronic Devices and Circuits, specifically tailored to the JNTU Syllabus, with the ISBN 978-81-89638-08-5. Dr. Srinivasan's extensive contributions to the field of electronics and communication are evident in his numerous publications.
 
-23 | Dr. I Manju, Mr. C. Venkatesh | ML Strategy for Performance Enhancement of Phase Change Material for a Smart Control Solar Application | 202241071305
+Dr. E. Dhiravidachelvi has made significant contributions to the field of electrical engineering, with publications such as Fundamentals of Electrical Measuring Instruments, bearing the ISBN 1-978-93-83409-35-8. She has also co-authored Data Science for COVID-19, published by Elsevier, with the ISBN 978-0-12-824536-1. Furthermore, Dr. Dhiravidachelvi has written Applications of Big Data in Health Care, with the ISBN 978-0-820203-6, and a monograph on Fundamentals of Electrical Measuring Instruments, sharing the same ISBN 978-93-83409-35-8.
 
-#### Copyright Filed — MSAJCE
+Dr. K.S. Srinivasan, Dr. P. Subramanian, and Mr. D. Weslin have collaborated on the book Wireless Sensor Networks, which has the ISBN 978-81-954927-4-9. Mr. C. Daniel has authored Impact of Lockdown for Research Scholars, with the ISBN 978-93-90853-50-2. Mr. S. Senthil Pandi has written Machine Learning, bearing the ISBN 978-93-91373-85-6.
 
-1 | Dr. R. Senthilkumar, G. Ramesh | Engineering Practices Lab | L-78730/2018
+Two patent filings have been made by the faculty members of Mohamed Sathak A.J. College of Engineering. Mr. S. Senthil Pandi, a member of the faculty, has filed a patent for his work in the field of Computer Networks, with the patent number 202041033273.
 
-2 | Mr. Chintala Venkatesh, Mrs. R. Abirami | Labview Manual | 7675/2022-CO
+A collaborative effort by Dr. I. Manju, Dr. E. Dhiravidachelvi, and Mrs. G. Premalatha has led to the filing of a patent for their work in the area of Digital Communication and Computer Networks, with the patent number 819549276-2.
 
-- 3 | Dr. R. Senthil Kumar, Mr. P. Saravanan, Mr. D. Sakthivel | Computer Aided Design - Course Manual | 11415/2022-CO
-- 4 | Dr. G. Ramesh, Mr. S.R. Mohan, Mr. V. Vigneswara | Computer Aided Design And Manufacturing - Laboratory Manual | 11417/2022-CO
-- 5 | Dr. S. Prasath, Mr. A. Muhammed Ifran, Mr. J. Rajesh | Meterology And Measurements - Laboratory Manual | 11418/2022-CO
-- 6 | Dr. R. Senthil Kumar, Dr. S. Prasath, Mr. J. Rajesh | Manufacturing Technology - Laboratory Manual | 11420/2022-CO
-- 7 | Dr. B. Janarthanan, Mr. P. Saravanan, Mr. S.R. Mohan | Computer Aided Simulation And Analysis - Laboratory Manual | 11412/2022-CO
-- 8 | Dr. R. Senthil Kumar, Mr. P. Saravanan, Mr. D. Sakthivel | Computer Aided Machine Drawing - Laboratory Manual | 11409/2022-CO
-- 9 | Dr. K.S. Srinivasan, Dr. I. Manju, Ms. K. Gayathri | Revit Architecture Lab Manual | 22218/2021-CO
-- 10 | Dr. K. S. Srinivasan, Dr. I. Manju, Mr. K. Vairaperumal | Bot Lab Manual | 22219/2021-CO
-- Copyright Reference: <https://Copyright.Gov.In/Frmstatusgenuser.Aspx>
+## National Innovation and Start-up Policy (NISP)
 
-#### Patents Published (Additional)
+At Mohamed Sathak A.J. College of Engineering, the National Innovation and Start-up Policy (NISP) envisions a campus culture that fosters entrepreneurship, thereby enhancing the education system and contributing to national economic and social growth. This vision is driven by the needs of student entrepreneurs who possess innovative ideas.
 
-- **Dr. B. Janarthanam** serves as **Unmanned Aerial Vehicle** (Patent Number: 202041047806 A).
+The mission of NISP is to establish an ecosystem equipped with the necessary infrastructure, enabling students and faculty to innovate and prototype their ideas in accordance with industrial standards. This ecosystem will be supported by the government, industry, and renowned academic institutions worldwide, ultimately helping individuals realize their full potential.
 
-- **Mr. S. Senthil Pandi, Sankareswaran** serves as **Computer implemented method of image classification with extreme learning machine** (Patent Number: 201941054497 A).
+In the short term, NISP aims to assist student groups in prototyping their ideas, while also promoting innovation, creative thinking, and design thinking among the student community. To achieve this, the college will provide incubation facilities for faculty-driven start-ups and student/alumni start-ups. Furthermore, the college will organize faculty development programs, seminars, workshops, and distinguished talks for students, faculty, and alumni, all of which will contribute to the promotion of an entrepreneurial culture.
 
-- **Mr. A. Syed Ismail** serves as **An AI & ML based system for building architecture & map designing**.
+Additionally, the college will strengthen its institute-industry interaction cell activity, effectively utilizing the outcomes to achieve its mission.
 
-- **Mrs. G. Premalatha, Dr. E. Dhiravidachelvi** serves as **Real time crowd analysis using static video surveillance**.
+Mohamed Sathak A.J. College of Engineering (MSAJCE) has established partnerships with esteemed organizations such as the Department of Science and Technology (DST), Confederation of Indian Industry (CII), and Micro, Small and Medium Enterprises (MSME), as well as other academic institutions, to provide world-class facilities for its Innovation and Entrepreneurship Development Cell (IEDC) activities.
 
-- **Mr. S.R. Mohan, Mr. V. Vigneshwaran, Mr. D. Sakthivel** serves as **Study on Mechanical Characterization of Graphene reinforced Aluminium Metal Matrix Composites**.
+The primary objectives of MSAJCE's IEDC are to enhance the quality of research work among students, with a focus on attaining patents that can be commercially utilized in production. Additionally, the IEDC aims to provide a platform for students to develop innovative products with global recognition, generating business opportunities in the process. The cell also seeks to generate revenue through consultancy work and student start-ups.
 
-- **Dr. S. Prasath** serves as **Friction stir welding of dissimilar aluminium alloys using tapered threaded tool profile**.
+To promote awareness about Intellectual Property Rights (IPR) among students and faculty, MSAJCE has established strategic partnerships with the Entrepreneurship Development Institute of India (EDII) in Chennai and the National Innovation Foundation (NIF) of India. The college also procures funds from the All India Council for Technical Education (AICTE) to support its Entrepreneurship Development Cell.
 
-- **Dr. B. Muthu Kumar** serves as **Type-2 Diabetes detection using machine learning algorithm**.
+The IEDC committee at MSAJCE comprises a team of distinguished members, including Dr. K.S. Srinivasan, the Principal of MSAJCE, who serves as the President. Other notable members include Mr. Prakadesh Subramanian, Strategic Partner at SIIF, Chennai, who is the Incubation Coordinator, and Mr. Parvez Aalam, CEO of Crescent Innovation Incubation Council, Chennai, who also holds the position of Incubation Coordinator. The committee also includes Mr. Thiyagaraja Gupta, Deputy Controller of Patents and Designs, who serves as the Patent Expert.
 
-- **Dr. G Ramesh, Mr. S Syed Abudhahir** serves as **Smart Painting Roller with Temperature Sensor**.
+Furthermore, the IEDC committee has alumni entrepreneurs as members, including Ahamed Jamel, AMT IT consultant at 4A technology, Abdur Rahim Salih, Director and CEO of V5 Innovations Pvt. Ltd, and Asim Ali, CMO at Customer Labs.
 
-- **Mrs. I.S. Suganthi, Mrs. Priyadharshini** serves as **Design a Micro Strip Patch for Spectrum Utilization in Cognitive Radio Networks**.
+The thrust area of MSAJCE's IEDC is to develop strategies and governance for promoting innovation and entrepreneurship within the institute.
 
-- **Dr. I Manju, Mr. C. Venkatesh** serves as **ML Strategy for Performance Enhancement of Phase Change Material for Smart Control Solar Application**.
+The National Innovation and Start-up Policy (NISP) at Mohamed Sathak A.J. College of Engineering (MSAJCE) encompasses a comprehensive framework to foster innovation and entrepreneurship. This framework is built around eight key pillars, starting with the creation of an innovation pipeline and pathways for entrepreneurs and startups. 
 
-#### Copyrights Filed
+Another crucial aspect is building organizational capacity, human resources, and incentives to support the growth of startups. Collaboration, co-creation, business relationships, and knowledge exchange are also vital components of the policy, aimed at facilitating a conducive environment for innovation and entrepreneurship. 
 
-- **Dr. R. Senthilkumar, G. Ramesh** serves as **Engineering Practices Lab** (Copy Right Number: L-78730/2018).
+The college's Startup and Innovation Incubation Foundation (SIIF) plays a pivotal role in providing incubation and pre-incubation support to budding entrepreneurs. Furthermore, the policy ensures that innovators and researchers at MSAJCE and SIIF retain ownership rights for the technologies they develop. 
 
-- **Mr. Chintala Venkatesh, Mrs. R. Abirami** serves as **Labview Manual** (Copy Right Number: 7675/2022-CO).
+To support innovations and startups, the college has introduced pedagogy and learning interventions that focus on entrepreneurship and innovation. The Entrepreneurial Performance Impact Assessment is a key tool used to monitor and evaluate the effectiveness of these initiatives, with a clear hierarchy of objectives, key performance indicators (KPIs), and means of verification. 
 
-- **Dr. R. Senthil Kumar, Mr. P. Saravanan, Mr. D. Sakthivel** serves as **Computer Aided Design - Course Manual** (Copy Right Number: 11415/2022-CO).
+The ultimate vision of the NISP is to increase the self-employment rate, with a goal of establishing at least five startups per year. The college also aims to improve its rankings in the National Institutional Ranking Framework (NIRF) and the Atal Ranking of Institutions on Innovation Achievements (ARIIA). By achieving these objectives, MSAJCE hopes to create an environment that offers multiple levels of support for innovation, entrepreneurship, and startups, ultimately encouraging students to choose entrepreneurship as a career path.
 
-- **Dr. G. Ramesh, Mr. S.R. Mohan, Mr. V. Vigneswara** serves as **Computer Aided Design And Manufacturing - Laboratory Manual** (Copy Right Number: 11417/2022-CO).
+The National Innovation and Start-up Policy (NISP) at Mohamed Sathak A.J. College of Engineering has yielded several notable outcomes. All students and faculty members with an entrepreneurial orientation have been motivated to start their own entrepreneurial activities. On average, five innovative ideas are developed every year, and five student or early-stage start-ups are formed annually.
 
-- **Dr. S. Prasath, Mr. A. Muhammed Ifran, Mr. J. Rajesh** serves as **Meterology And Measurements - Laboratory Manual** (Copy Right Number: 11418/2022-CO).
+The institution offers in-house expert capacity facilities for advisory services, ensuring that 25% of the student and faculty population is exposed to awareness and orientation-building programs. These programs include entrepreneurship education through Massive Open Online Courses (MOOCs), classroom learning, and experiential learning initiatives. As a result, a significant number of students have been covered under these programs.
 
-- **Dr. R. Senthil Kumar, Dr. S. Prasath, Mr. J. Rajesh** serves as **Manufacturing Technology - Laboratory Manual** (Copy Right Number: 11420/2022-CO).
+The infrastructure and facilities provided by the institution are being utilized by 250 beneficiaries on a daily, monthly, and yearly basis. Furthermore, 25% of innovators have been identified, and 25 of them have been awarded or recognized for their contributions. Additionally, 25 innovators have received support for their projects.
 
-- **Dr. B. Janarthanan, Mr. P. Saravanan, Mr. S.R. Mohan** serves as **Computer Aided Simulation And Analysis - Laboratory Manual** (Copy Right Number: 11412/2022-CO).
+A notable achievement is that 5% of student projects have been commercialized, resulting in the generation of five Intellectual Property Rights (IPR)-based products and services, for which registration has been filed. The institution has also developed in-house trained professionals to provide advisory services.
 
-- **Dr. R. Senthil Kumar, Mr. P. Saravanan, Mr. D. Sakthivel** serves as **Computer Aided Machine Drawing - Laboratory Manual** (Copy Right Number: 11409/2022-CO).
+In terms of research, five studies on entrepreneurship have been published, and two regional, national, and international linkages have been established to support start-ups and innovation. Moreover, 5% of representatives from various departments and disciplines, comprising experts and entrepreneurial students, have been involved in these initiatives.
 
-- **Dr. K.S. Srinivasan, Dr. I. Manju, Ms. K. Gayathri** serves as **Revit Architecture Lab Manual** (Copy Right Number: 22218/2021-CO).
+The institution's Start-up Cell has referred five beneficiaries to incubators and investors for further support. Moreover, 10 beneficiaries have been generated under various schemes and programs, which have been leveraged and converged at the Start-up Cell.
 
-- **Dr. K. S. Srinivasan, Dr. I. Manju, Mr. K. Vairaperumal** serves as **Bot Lab Manual** (Copy Right Number: 22219/2021-CO).
+To track progress and outcomes, the institution publishes a quarterly newsletter, conducts biannual surveys, and submits monthly progress reports.
 
-- How many copyrights has MSAJCE filed?
-- Who filed a patent for an Unmanned Aerial Vehicle at MSAJCE?
-- What is the copyright number for the Engineering Practices Lab manual at MSAJCE?
-- Has MSAJCE filed patents in diabetes detection?
-- What is the copyright reference website for MSAJCE?
-- Who filed the copyright for the Revit Architecture Lab Manual?
-- Does MSAJCE have a copyright for Computer Aided Design manual?
-- What is the patent for UAV at MSAJCE and who filed it?
+The National Innovation and Start-up Policy (NISP) at Mohamed Sathak A.J. College of Engineering has been actively promoting entrepreneurship and innovation through various activities. As part of its education and skill certification programs, the institution has conducted 25 workshops, awareness, and market outreach events, orientation, and advocacy meetings to foster a culture of entrepreneurship among its students. Additionally, 12 networking events have been organized, both intra and inter-institutional, to bring together enablers, stakeholders, and students to facilitate collaboration and knowledge sharing.
 
-[Overlap carry-forward] Patent Search Reference: <https://lpindiaservices.Gov.In/Patentsearch/Patentsearch/Viewapplicationstatus>. Dr. Balakrishnan and Mr. Vinothkumar filed patent 202241071308 for dedicated drone-based testing of building strength in hazardous environments.
+The institution has also organized five skill and competency development training programs, including Faculty Development Programs (FDPs) and Entrepreneurship Development Programs (EDPs), to equip students and faculty with the necessary skills to pursue entrepreneurial ventures. Furthermore, five research studies related to entrepreneurship have been conducted to gain a deeper understanding of the challenges and opportunities in this field. To encourage innovation and entrepreneurship, the institution has organized one national and regional award and campus Hackathon-like event, providing a platform for students to showcase their innovative ideas and projects.
 
-## 7. Books and Book Chapters by MSAJCE Faculty
+To support start-ups, the institution has allocated 1% of its total budget per year, which is spent against the total institution revenue for start-up initiatives. This budget allocation and spend ratio are reviewed biannually, and a quarterly newsletter and monthly progress report are published to track the progress of start-up initiatives. Review meetings are also held regularly to assess the effectiveness of these initiatives and plan for the next five years.
 
-Complete list of books and book chapters authored by MSAJCE faculty members, with author names, titles, and ISBN/ISSN numbers.
+As part of its annual activities, the institution organizes a one-day workshop on "Entrepreneurship and Innovation as Career Opportunity" to inspire students to pursue entrepreneurship as a career. Another one-day workshop is conducted annually on problem-solving, design thinking, ideation, and campus Hackathon to encourage students to think creatively and develop innovative solutions. A field or exposure visit to a village, society, school, industry, or market is also organized annually to help students identify real-life problems and develop practical solutions.
 
-### Books / Book Chapters — MSAJCE Faculty
+Throughout the year, special talks are organized, where entrepreneurs share their life stories and experiences, providing motivational speeches to inspire students. These talks are held twice a year, and product development phases are also showcased through storytelling sessions, where innovators on campus share their experiences and successes. These sessions are also held twice a year, providing a platform for students to learn from each other and from experienced entrepreneurs.
 
-- 1 | Dr. K.S. Srinivasan | Communication Theory | 978-81-89638-43-6
-- 2 | Dr. K.S. Srinivasan | Principles of Communication Engineering | 978-81-87721-95-6
-- 3 | Dr. K.S. Srinivasan | Electric Circuits and Electronic Devices | 978-81-8472-085-3
-- 4 | Dr. K.S. Srinivasan | Basic Electrical and Electronics Engineering | 978-81-8472-086-0
-- 5 | Dr. K.S. Srinivasan | Digital Communication | 978-81-89638-19-1
-- 6 | Dr. K.S. Srinivasan | Electronic Devices | 978-81-8472-254-3
-- 7 | Dr. K.S. Srinivasan | Electronic Devices and Circuits | 978-81-8472-101-0
-- 8 | Dr. K.S. Srinivasan | Electronic Circuits I | 978-81-8472-100-3
-- 9 | Dr. K.S. Srinivasan | Electronic Circuits II | 978-81-89638-16-0
-- 10 | Dr. K.S. Srinivasan | Electronics and Microprocessors | 978-81-89638-19-1
+The National Innovation and Start-up Policy (NISP) at Mohamed Sathak A.J. College of Engineering encompasses a wide range of activities aimed at fostering innovation and entrepreneurship among students. To begin with, the college organizes a National Conference or workshop on Start-up and Social Innovation & Entrepreneurship once a year, providing a platform for students to engage with industry experts and thought leaders.
 
-- 11 | Dr. K.S. Srinivasan | Digital Signal Processing | 81-87721-46-4
-- 12 | Dr. K.S. Srinivasan | Electric Circuit Theory | 978-81-938894-2-8
-- 13 | Dr. K.S. Srinivasan | Electronic Devices and Circuits (As per the JNTU Syllabus) | 978-81-89638-08-5
-- 14 | Dr. E. Dhiravidachelvi | Fundamentals of Electrical Measuring Instruments | 1-978-93-83409-35-8
-- 15 | Dr. E. Dhiravidachelvi | Data Science for COVID-19 (Elsevier) | 978-0-12-824536-1
-- 16 | Dr. E. Dhiravidachelvi | Applications of Big Data in Health Care | 978-0-820203-6
-- 17 | Dr. E. Dhiravidachelvi | Monograph on Fundamentals of electrical measuring instruments | 978-93-83409-35-8
-- 18 | Dr. K.S. Srinivasan, Dr. P. Subramanian, Mr. D. Weslin | Wireless Sensor Networks | 978-81-954927-4-9
-- 19 | Mr. C. Daniel | Impact of Lockdown for Research Scholars | 978-93-90853-50-2
-- 20 | Mr. S. Senthil Pandi | Machine Learning | 978-93-91373-85-6
-- 21 | Mr. S. Senthil Pandi | Computer Networks | 202041033273
-- 22 | Dr. I. Manju, Dr. E. Dhiravidachelvi, Mrs. G. Premalatha | Digital Communication and Computer Networks | 819549276-2
-- 23 | Dr. K.S. Srinivasan | Electronics and Microprocessors | 978-81-89638-19-1
-- 24 | Dr. K.S. Srinivasan | Digital Signal Processing | 81-87721-46-4
+In addition to the conference, the college hosts Demo Day, an exhibition cum demo for Proof of Concepts (PoCs) and mentorship sessions for innovators and student entrepreneurs, twice a year. This event allows students to showcase their innovative ideas and receive valuable feedback from mentors. Furthermore, the college offers internship opportunities at the Innovation & Start-up Centre, startups, and incubation units during semester breaks, once a year, to provide students with hands-on experience in the industry.
 
-### Books and Book Chapters
+The college also organizes field and exposure visits to incubation units, patent facilitation centers, technology transfer centers, design centers, makers' spaces, fab labs, prototype labs, and tinkering labs, once a year. These visits aim to expose students to the latest technologies and innovations in the industry. Moreover, the college conducts a Business Plan Contest once a year, encouraging students to develop and pitch their business ideas.
 
-- **Dr. K.S. Srinivasan** serves as **Communication Theory** (Isbn/Issn/Number: 978-81-89638-43-6).
+To promote awareness about intellectual property rights (IPR) and IP management, the college organizes a one-day awareness and mentoring session once a year. The college also hosts seminars on various topics, including accelerator and incubation opportunities for student faculty and early-stage entrepreneurs, understanding angel and venture capital funding, and what it entails for early-stage innovators and entrepreneurs, once a year.
 
-- **Dr. K.S. Srinivasan** serves as **Principles of Communication Engineering** (Isbn/Issn/Number: 978-81-87721-95-6).
+Other events and activities under the NISP include a boot camp for innovation product development, Innovation Day celebrations, and National Science Day, all of which are held once a year. The college also conducts a workshop on funding opportunities for innovation and entrepreneurship development, a CITBIF Hackathon, and a short-term training course on innovation, start-up, and entrepreneurship, once a year.
 
-- **Dr. K.S. Srinivasan** serves as **Electric Circuits and Electronic Devices** (Isbn/Issn/Number: 978-81-8472-085-3).
-
-- **Dr. K.S. Srinivasan** serves as **Basic Electrical and Electronics Engineering** (Isbn/Issn/Number: 978-81-8472-086-0).
-
-- **Dr. K.S. Srinivasan** serves as **Digital Communication** (Isbn/Issn/Number: 978-81-89638-19-1).
-
-- **Dr. K.S. Srinivasan** serves as **Electronic Devices** (Isbn/Issn/Number: 978-81-8472-254-3).
-
-- **Dr. K.S. Srinivasan** serves as **Electronic Devices and Circuits** (Isbn/Issn/Number: 978-81-8472-101-0).
-
-- **Dr. K.S. Srinivasan** serves as **Electronic Circuits I** (Isbn/Issn/Number: 978-81-8472-100-3).
-
-- **Dr. K.S. Srinivasan** serves as **Electronic Circuits II** (Isbn/Issn/Number: 978-81-89638-16-0).
-
-- **Dr. K.S. Srinivasan** serves as **Electronics and Microprocessors** (Isbn/Issn/Number: 978-81-89638-19-1).
-
-- **Dr. K.S. Srinivasan** serves as **Digital Signal Processing** (Isbn/Issn/Number: 81-87721-46-4).
-
-- **Dr. K.S. Srinivasan** serves as **Electric Circuit Theory** (Isbn/Issn/Number: 978-81-938894-2-8).
-
-- **Dr. K.S. Srinivasan** serves as **Electronic Devices and Circuits (JNTU)** (Isbn/Issn/Number: 978-81-89638-08-5).
-
-- **Dr. E. Dhiravidachelvi** serves as **Fundamentals of Electrical Measuring Instruments** (Isbn/Issn/Number: 1-978-93-83409-35-8).
-
-- **Dr. E. Dhiravidachelvi** serves as **Data Science for COVID-19 (Elsevier)** (Isbn/Issn/Number: 978-0-12-824536-1).
-
-- **Dr. E. Dhiravidachelvi** serves as **Applications of Big Data in Health Care** (Isbn/Issn/Number: 978-0-820203-6).
-
-- **Dr. E. Dhiravidachelvi** serves as **Monograph on Fundamentals of electrical measuring instruments** (Isbn/Issn/Number: 978-93-83409-35-8).
-
-- **Dr. K.S. Srinivasan, Dr. P. Subramanian, Mr. D. Weslin** serves as **Wireless Sensor Networks** (Isbn/Issn/Number: 978-81-954927-4-9).
-
-- **Mr. C. Daniel** serves as **Impact of Lockdown for Research Scholars** (Isbn/Issn/Number: 978-93-90853-50-2).
-
-- **Mr. S. Senthil Pandi** serves as **Machine Learning** (Isbn/Issn/Number: 978-93-91373-85-6).
-
-- **Mr. S. Senthil Pandi** serves as **Computer Networks**.
-
-- **Dr. I. Manju, Dr. E. Dhiravidachelvi, Mrs. G. Premalatha** serves as **Digital Communication and Computer Networks** (Isbn/Issn/Number: 819549276-2).
-
-- How many books has Dr. K.S. Srinivasan authored?
-- Has MSAJCE faculty published books with Elsevier?
-- What is the ISBN of the MSAJCE book on Wireless Sensor Networks?
-- Who authored the book on Data Science for COVID-19 at MSAJCE?
-- What books has Dr. E. Dhiravidachelvi written?
-- Is there a textbook on Digital Signal Processing by MSAJCE faculty?
-- What is the ISBN for the book on Machine Learning by MSAJCE?
-- Has MSAJCE faculty authored books on healthcare and big data?
-
-[Overlap carry-forward] Copyright Reference: <https://Copyright.Gov.In/Frmstatusgenuser.Aspx>. MSAJCE has filed 10 copyrights including Engineering Practices Lab (L-78730/2018) and multiple laboratory manuals for Computer Aided Design, Manufacturing Technology, and Revit Architecture.
-
-## 8. National Innovation and Start-up Policy (NISP) — Vision, Mission, Objectives and Committee
-
-Details the MSAJCE National Innovation and Start-up Policy including vision, mission, short/long-term objectives, and the NISP committee members with designations.
-
-### National Innovation and Start-up Policy (NISP) — MSAJCE
-
-#### Vision:
-
-To cater to the needs of student entrepreneurs with innovative ideas, thereby introducing a culture of entrepreneurship inside campus which will strengthen the education system and promote national economic and social growth.
-
-#### Mission:
-
-To develop an ecosystem with required infrastructure that can enable students and faculty to innovate and prototype their potential ideas with industrial standards and support from Government, industry and reputed academic institutions around the world, and help them to realize their potentials.
-
-#### Short Term Objectives:
-
-1. To help student groups to prototype their ideas.
-2. To improve innovation, creative and design thinking among student community.
-3. Incubation facility for faculty-driven start-up and student/Alumni start-up.
-4. Organize FDP, seminars, workshops, and distinguished talks for students, Faculty and Alumni to promote entrepreneurial culture.
-5. Strengthen institute-industry interaction cell activity and effectively use outcomes for achieving the mission.
-
-#### Long Term Objectives:
-
-1. Associate with DST, CII, MSME and other academic institutions for transferring world-class facility for MSAJCE IEDC activities.
-
-2. Improve quality of research work among students and attain patents that can be commercially used in production.
-3. Provide a platform for students to develop innovative products with global recognition and generate business opportunities.
-4. Generate revenues through consultancy work and student start-ups.
-5. Spread awareness to students and faculty regarding IPR related activities.
-6. Strategic partnership linkage with:
-  - a. Entrepreneurship Development Institute of India (EDII), Chennai.
-  - b. National Innovation Foundation (NIF) of India to submit ideas and apply for schemes.
-  - c. Procure fund from AICTE for Entrepreneurship Development Cell.
-
-#### **NISP Committee Members:**
-
-- 1 | Dr. K.S. Srinivasan, Principal, MSAJCE, Chennai | President
-- 2 | Mr. Prakadesh Subramanian, Strategic Partner, SIIF, Chennai | Incubation Coordinator
-- 3 | Mr. Parvez Aalam, CEO, Crescent Innovation Incubation Council, Chennai | Incubation Coordinator
-- 4 | Mr. Thiyagaraja Gupta, Deputy Controller of Patents and Designs | Patent Expert
-- 5 | Ahmed Jamel AMT, IT Consultant, 4A Technology | Alumni Entrepreneur
-- 6 | Abdur Rahim Salih, Director & CEO V5 Innovations Pvt. Ltd | Alumni Entrepreneur
-- 7 | Asim Ali. L, CMO, Customer Labs | Alumni Entrepreneur
-
-#### **NISP Committee Members**
-
-- **Dr. K.S. Srinivasan, Principal, MSAJCE, Chennai** serves as **President**.
-
-- **Mr. Prakadesh Subramanian, Strategic Partner, SIIF, Chennai** serves as **Incubation Coordinator**.
-
-- **Mr. Parvez Aalam, CEO, Crescent Innovation Incubation Council, Chennai** serves as **Incubation Coordinator**.
-
-- **Mr. Thiyagaraja Gupta, Deputy Controller of Patents and Designs** serves as **Patent Expert**.
-
-- **Ahamed Jamel AMT, IT Consultant, 4A Technology** serves as **Alumni Entrepreneur**.
-
-- **Abdur Rahim Salih, Director & CEO V5 Innovations Pvt. Ltd** serves as **Alumni Entrepreneur**.
-
-- **Asim Ali. L, CMO, Customer Labs** serves as **Alumni Entrepreneur**.
-
-### **Sample Questions this chunk answers:**
-
-- What is the NISP policy at MSAJCE?
-- Who is the president of the NISP committee at MSAJCE?
-- Does MSAJCE have an incubation facility for student start-ups?
-- What are the long-term objectives of MSAJCE NISP?
-- Who is the patent expert in the MSAJCE NISP committee?
-- Does MSAJCE have partnerships for entrepreneurship development?
-- What is the vision of MSAJCE for innovation and start-ups?
-- Who are the alumni entrepreneurs in the MSAJCE NISP committee?
-- Does MSAJCE support student start-ups through EDII or NIF?
-- What is IEDC at MSAJCE?
-
-[Overlap carry-forward] MSAJCE has authored 24 books and book chapters. Dr. K.S. Srinivasan has authored 13+ books covering Communication Theory, Digital Signal Processing, Electronic Circuits. Dr. E. Dhiravidachelvi has authored books including Data Science for COVID-19 (Elsevier, ISBN: 978-0-12-824536-1).
-
-## **9. NISP Thrust Areas, KPI Monitoring and 5-Year Activity Plan**
-
-Details the NISP strategic thrust areas, key performance indicators for monitoring innovation and entrepreneurship outcomes, and the tentative 5-year activity plan.
-
-### NISP Thrust Areas — MSNJCE
-
-- 1 | To develop Strategies and governance for Promoting Innovation Entrepreneurship in the institute
-- 2 | Creating Innovation Pipeline and Pathways for Entrepreneurs and Startups
-- 3 | Building Organizational Capacity, Human Resources and Incentive
-- 4 | Collaboration, Co-creation, Business Relationship and Knowledge Exchange
-- 5 | Incubation & Pre-Incubation support at SIIF
-- 6 | IP Ownership Rights for Technologies Developed at MSNJCE and SIIF
-- 7 | Pedagogy & Learning Interventions for Supporting Innovations & Start-ups
-- 8 | Entrepreneurial Performance Impact Assessment
-
-#### KPI Monitor & Evaluation:
-
-Hierarchy | Key Performance Indicators (KPIs) | Means and Verification
-
-Vision | Increase in Self-Employment Rate; 5 Established Start-ups per year | NIRF Rankings
-
-Goal | Establish environment with multiple levels of support for Innovation, Entrepreneurship & Start-ups; Students will choose Entrepreneurship as career | ARIIA Rankings
-
-Outcomes | 5 IPR/Innovations developed per year; 5 Student/Early-Stage Start-ups to be formed per year; 25% of student & faculty mass exposed to awareness programs; 250 beneficiaries accessing infrastructure per day/month/year; 5% student projects turned to innovations; 5 IPR-based products generated per year; 5 Research Studies on Entrepreneurship published; 2 Regional, National and International linkages established; 5 Beneficiaries referred to incubators/investors | Quarterly Newsletter; Biannual Survey; Monthly progress report
-
-Activities | 5 Education/Skill certification programs on Entrepreneurship/IPR/Innovation; 25 workshops/awareness/market outreach events; 12 networking events per year; 5 skill/FDP/EDP programs; 1 National Hackathon organized; 1% of total budget/year spent on start-up mandate | Biannual Survey; Quarterly Newsletter; Monthly progress report
-
-#### Tentative Plan for the Next 5 Years (selected activities):
-
-- Entrepreneurship and Innovation as Career Opportunity Workshop — 1 per year
-- Problem Solving/Design Thinking/Ideation/Campus Hackathon Workshop — 1 per year
-- Field/Exposure Visit to Village/Society/School/Industry — 1 per year
-- Special Talk on My Story - Entrepreneur's Life — 2 per year
-- National Conference/Workshop on Start-up/Social Innovation & Entrepreneurship — 1 per year
-- Demo Day – Exhibition Cum Demo for PoCs & Mentorship Session — 2 per year
-- Internship at Innovation & Start-up Centre/Startups during Semester Break — 1 per year
-- Business Plan Contest — 1 per year
-- One Day Awareness/Mentoring on IPR & IP Management — 1 per year
-- Boot camp for Innovation product development — 1 per year
-- Innovation Day Celebrations — 1 per year
-- National Science Day — 1 per year
-- CITBIF Hackathon — 1 per year
-- Short Term Training course on Innovation/Start-up & Entrepreneurship — 1 per year
-
-### NISP KPI Monitor and Evaluation
-
-- **5 Established Start-ups per year; Increase in Self-Employment Rate** serves as **NIRF Rankings** (Hierarchy: Vision).
-
-- **Multiple level support for innovation; Students choose Entrepreneurship as career** serves as **ARIIA Rankings** (Hierarchy: Goal).
-
-- **5 IPR/Innovations/year; 5 Start-ups/year; 25% student & faculty exposed to awareness; 250 beneficiaries/day; 5% student projects commercialized** serves as **Quarterly Newsletter; Biannual Survey; Monthly progress report** (Hierarchy: Outcomes).
-
-- **5 certification programs; 25 workshops/year; 12 networking events/year; 1 National Hackathon; 1% budget for start-ups** serves as **Biannual Survey; Quarterly Newsletter; Monthly progress report** (Hierarchy: Activities).
-
-- What are the KPIs for MSBJCE innovation and start-up policy?
-- How many start-ups does MSBJCE aim to establish per year?
-- What is the 5-year plan for innovation activities at MSBJCE?
-- Does MSBJCE organize hackathons?
-- What is the CITBIF Hackathon at MSBJCE?
-- Does MSBJCE conduct business plan contests?
-- How does MSBJCE measure entrepreneurship outcomes?
-- What percentage of MSBJCE student projects are targeted to be commercialized?
-- What events does MSBJCE organize for start-ups and entrepreneurs?
-- Does MSBJCE have a Demo Day for student innovations?
-
-[Overlap carry-forward] NISP Long Term Objective: Strategic partnership with EDII Chennai, NIF of India, and AICTE Entrepreneurship Development Cell. NISP Committee President: Dr. K.S. Srinivasan. Patent Expert: Mr. Thiyagaraja Gupta, Deputy Controller of Patents and Designs.
-
-## 10. Institution Innovation Council (IIC-MSBJCE) — About, Members and Events
-
-Describes the Institution Innovation Council (IIC-MSBJCE) constituted under MHRD, its focus areas, council members with designations, and the full list of IIC events conducted.
-
-### Institution Innovation Council (IIC-MSBJCE)
-
-IIC-MSBJCE was constituted as per the guidelines of the Ministry of Human Resource Development (MHRD) Innovation Cell (MIC).
-
-#### Introduction:
-
-MHRD, Govt. of India established 'MHRD's Innovation Cell (MIC)' to systematically foster the culture of Innovation amongst all Higher Education Institutions (HEIs). MIC's primary mandate is to encourage, inspire and nurture young students by supporting them to work with new ideas and transform them into prototypes during their formative years.
-
-MIC has envisioned creating 'Institution's Innovation Council (IICs)' across selected HEIs to promote a local innovation ecosystem.
-
-#### Major Focus of IIC:
-
-- Create a vibrant local innovation ecosystem
-- Start-up supporting mechanism in HEIs
-- Prepare institute for Atal Ranking of Institutions on Innovation Achievements (ARIIA)
-- Establish functional ecosystem for scouting ideas and pre-incubation of ideas
-- Develop better Cognitive Ability for Technology Students
-
-#### Functions of IICs:
-
-- Identify and reward innovations and share success stories
-- Organize periodic workshops/seminars/interactions with entrepreneurs, investors and professionals
-- Network with peers and national entrepreneurship development organizations
-- Create an Institution's Innovation portal to highlight innovative projects
-
-- Organize Hackathons, idea competitions, mini-challenges with industry involvement
-
-#### **IIC Council Members:**
-
-- 1 | Dr. K. S. Srinivasan, Principal | Head of the Institution
-- 2 | Dr. B. Janarthanan, Professor, MSJCE | President
-- 3 | Dr. I. Manju, Professor, MSJCE | Vice President
-- 4 | Dr. M. Kanthababu, Professor, Anna University | External Member
-- 5 | Dr. N. Alagumurthi, Professor, Pondicherry Engineering College | External Member
-- 6 | Mr. N. S. Srinivasan, DGM, L&T Infrastructure Development Projects Ltd | External Member
-- 7 | Venkatakrishnan Sankaran, Vice-President, Levergent Technologies | External Member
-- 8 | Mr. D. Gowri Shankar, Asst. Professor, New Prince Shri Bhanavani College of Engineering | External Member from Mentor Institute
-- 9 | Dr. R. Senthilkumar, Associate Professor | Member
-- 10 | Dr. G. Ramesh, Associate Professor | Member
-- 11 | Dr. A. Balakrishnan, Associate Professor | Member
-- 12 | Dr. G. Premalatha, Associate Professor | Member
-- 13 | Dr. B. Devibala, Assistant Professor | Member
-
-#### **IIC Contact:**
-
-Head of Institution: Dr. K.S. Srinivasan, Principal, MSJCE, Chennai-603103. Email: principal@msajce-edu.in
-
-IIC President: Dr. B. Janarthanan, Dept of Mechanical Engineering, MSJCE. Email: mech.janarthanan@msajce-edu.in
-
-IIC Vice President: Dr. I. Manju, Professor & Head, Dept of EEE, MSJCE. Email: headir@msajce-edu.in
-
-#### **Selected IIC Events:**
-
-1. Design of Flexible Pavement using IRC — Self-Driven Activity
-2. Virtual Workshop on Machine Learning — Self-Driven Activity
-3. Online Workshop on Programming Skills — Self-Driven Activity
-4. Technological Innovation and Academia-Industry Collaboration under Self-Reliant India — Self-Driven Activity
-5. FDP on Kinematics of Machinery — Self-Driven Activity
-6. FDP on Teaching Engineering Graphics using ICT Tools — Self-Driven Activity
-7. Virtual Workshop on Research Methodologies — Self-Driven Activity
-8. National Webinar on Research, Innovation and Ranking — MIC Driven Activity
-9. Orientation session for all students & faculties by Innovation Ambassador — IIC Calendar Activity
-10. Session on How to plan for Start-up and Legal & Ethical Steps — IIC Calendar Activity
-11. Workshop on Design Thinking, Critical Thinking and Innovation Design — IIC Calendar Activity
-12. Workshop on Entrepreneurship and Innovation as Career Opportunity — IIC Calendar Activity
-13. Awareness Programme on IPR — Self-Driven Activity
-14. Session on Problem Solving and Ideation Workshop — IIC Calendar Activity
-15. Internal Hackathon to select team for SIH-2022 — Self-Driven Activity
-16. Workshop on Entrepreneurship Skill, Attitude and Behaviour Development — IIC Calendar Activity
-17. Alumni Talk and Interaction — Self-Driven Activity
-18. AKAM — MIC Driven Activity
-19. IIC Annual Report — MIC Driven Activity
-
-### **IIC Council Members**
-
-- **Dr. K. S. Srinivasan, Principal, MSJCE** serves as **Head of the Institution**.
-
-- **Dr. B. Janarthanan, Professor, MSJCE** serves as **President**.
-
-- **Dr. I. Manju, Professor, MSJCE** serves as **Vice President**.
-
-- **Dr. M. Kanthababu, Professor, Anna University** serves as **External Member**.
-
-- **Dr. N. Alagumurthi, Professor, Pondicherry Engineering College** serves as **External Member**.
-
-- **Mr. N. S. Srinivasan, DGM, L&T Infrastructure Development Projects Ltd** serves as **External Member**.
-
-- **Venkatakrishnan Sankaran, Vice-President, Levergent Technologies** serves as **External Member**.
-
-- **Mr. D. Gowri Shankar, Asst. Professor, New Prince Shri Bhanavani College of Engineering** serves as **External Member from Mentor Institute**.
-
-- **Dr. R. Senthilkumar, Associate Professor** serves as **Member**.
-
-- **Dr. G. Ramesh, Associate Professor** serves as **Member**.
-
-- **Dr. A. Balakrishnan, Associate Professor** serves as **Member**.
-
-- **Dr. G. Premalatha, Associate Professor** serves as **Member**.
-
-- **Dr. B. Devibala, Assistant Professor** serves as **Member**.
-
-- What is the IIC at MSJCE?
-- Who is the IIC President at MSJCE?
-- What events does the IIC-MSJCE organize?
-- Who are the external members of the IIC at MSJCE?
-- Does MSJCE participate in the Smart India Hackathon?
-- What is the role of MHRD Innovation Cell at MSJCE?
-- Who is the IIC Vice President at MSJCE?
-- What is ARIIA and how is MSJCE involved?
-- Does MSJCE have an innovation portal?
-- What workshops has the IIC at MSJCE conducted?
-
-[Overlap carry-forward] NISP 5-year plan targets 5 start-ups per year, 5 IPR innovations per year, 12 networking events per year, Business Plan Contest (1/year), Innovation Day Celebrations (1/year), CITBIF Hackathon (1/year). 1% of total institution budget/year to be spent on start-up mandate.
-
-#### MSJCE — Research & Development Contact
-
-Head of Research: Dr. B. Janarthanan, Professor, Dept of Mechanical Engineering, MSJCE | Email: mech.janarthanan@msajce-edu.in
-
-IIC President: Dr. B. Janarthanan | IIC Vice President: Dr. I. Manju | Email: headir@msajce-edu.in
-
-Principal: Dr. K.S. Srinivasan | Email: principal@msajce-edu.in | Phone: +91 99400 04500
-
-Address: 34, Rajiv Gandhi Salai (OMR), Siruseri IT Park, Siruseri, Chennai – 603103
-
-Phone: +91 99400 04500 | Email: msajce.office@gmail.com | Website: www.msajce-edu.in
-
-## Related Notes
-[[msajce_cse]]
-[[msajce_aiml]]
-[[msajce_iqac]]
