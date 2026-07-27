@@ -10,16 +10,22 @@ if not NVIDIA_API_KEY:
     sys.exit(1)
 
 urls = [
-    'eee.php', 'clubssocieties.php', 'campusradio.php', 
-    'ourhistory.php', 'transport.php', 'socialservices.php', 
-    'library.php', 'iqac.php', 'sports.php', 'ece.php', 'womensempowermentcell.php', 
-    'karma.php', 'mech.php', 'nirf.php', 'it.php', 
-    'incubation&startup.php', 'ece-vlsi.php', 'ece-act.php', 'graduationday.php', 
-    'technologycentre.php', 'naac.php', 'cyber.php', 'governingcouncil.php', 'planningmonitoringboard.php', 
+    # Major Departments First
+    'cse.php', 'it.php', 'ece.php', 'mech.php', 'eee.php', 
+    'ece-vlsi.php', 'ece-act.php', 'csbs.php', 'aids.php',
+    
+    # Academics & Syllabi
+    'curriculm.php', 'ese-timetable.php', 'placement.php', 'research.php',
+    
+    # Campus Facilities & Committees
+    'hostel.php', 'library.php', 'transport.php', 'sports.php', 'iqac.php',
+    'clubssocieties.php', 'campusradio.php', 'socialservices.php',
+    'womensempowermentcell.php', 'karma.php', 'nirf.php', 
+    'incubation&startup.php', 'graduationday.php', 'technologycentre.php', 
+    'naac.php', 'cyber.php', 'governingcouncil.php', 'planningmonitoringboard.php', 
     'mandatorydisclosure.php', 'principal.php', 'grievanceredressalcommittee.php', 
-    'cse.php', 'ebsb.php', 'newsletter.php', 
-    'curriculm.php', 'ese-timetable.php', 'hostel.php', 'placement.php', 
-    'csbs.php', 'research.php', 'sh.php', 'studentscorner.php', 'functionalcommittees.php'
+    'ebsb.php', 'newsletter.php', 'sh.php', 'studentscorner.php', 
+    'functionalcommittees.php', 'ourhistory.php'
 ]
 
 base_url = 'https://www.msajce-edu.in/'
