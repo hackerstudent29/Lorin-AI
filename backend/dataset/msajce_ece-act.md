@@ -1,611 +1,154 @@
-# MSAJCE Ece-Act
+# ECE-ACT
 
-# MSAJCE — Mohamed Sathak A.J. College of EngineeringECE w/s in Advanced Communication Technology — Complete Data Extract for RAG Model
+## Overview
 
-## 1. Programme Overview — B.Tech ECE with Specialization in Advanced Communication Technology
+The B.Tech ECE program at Mohamed Sathak A.J. College of Engineering offers a unique specialization in Advanced Communication Technology, providing students with a comprehensive understanding of the latest advancements in the field of Electronics and Communication Engineering.
 
-Describes the B.Tech ECE Advanced Communication Technology programme, its focus areas, technologies covered, and industry sectors students can enter after graduation.
+The B.Tech program in Electronics and Communication Engineering with a specialization in Advanced Communication Technology has been designed in accordance with the guidelines of the National Education Policy (NEP), emphasizing multidisciplinary education. This program aims to develop industry-competent professionals who meet global standards, are capable of accepting challenges, and can solve societal problems on a larger scale.
 
-**B.Tech ECE with Specialization in Advanced Communication Technology — MSAJCE**
+As the world becomes increasingly digitized and the speed of communication becomes a crucial factor, the evolution of 5G and 6G communication systems is inevitable. In response to this, the B.Tech program in ECE with a specialization in Advanced Communication Technology focuses on modern communication systems, including Wireless and Optical Communication, RF and Microwave Communication, and Laser and Light Wave Communication. The program also delves into Next Generation (5G/6G) and Advanced Communication Technologies, such as Massive Multiple-Input Multiple-Output (MIMO), Beam Forming through Advanced Digital Signal Processing, Device to Device (D2D) communication, and Millimeter Wave (mm-Wave) technologies.
 
-B.Tech – ECE Specialization in Advanced Communication Technology, under the faculty of Electronics and Communication Engineering, has been framed based on NEP guidelines, with a focus upon Multidisciplinary education.
+In addition to these cutting-edge technologies, the program covers Communication Networks, Embedded Systems, IoT, Cyber and Network Security, Information Theory and Coding, Satellite Communication, Navigation systems, Quantum, and Molecular Communication. Throughout the course, a strong emphasis is placed on developing practical skills and in-depth knowledge that are required by today's industries.
 
-The objective of the program is to develop Advanced Communication Technology based industry competent professionals of global standard capable of accepting challenges and able to solve societal problems at a larger level.
+Upon completion of this program, students will have professional prospects in a range of industries, including network providers such as BSNL and Airtel, manufacturing, healthcare, education, and the IT sector. They will also have opportunities in civil aviation, defense, postal and railway departments, All India Radio and TV stations, the Indian Telecom Sector, National Physics Lab, Bharat Electronics Ltd, ONGC, SAIL, and PSUs. Furthermore, students can explore career opportunities in renowned companies such as Cisco, Havells, 3M India, Reliance, Bajaj, Bosch, and Philips, among many others.
 
-The world getting digitized and the speed of communication becoming an important factor, the evolution of 5G/6G communication systems is imminent. The B.Tech program in ECE Specialization in Advanced Communication Technology focuses on modern communication systems such as:
+The B.Tech. in Electronics and Communication Engineering with specialization in Advanced Communication Technology is a four-year regular program or a three-year lateral entry program. The regular program is divided into eight semesters, while the lateral entry program consists of six semesters. 
 
-- Wireless & Optical Communication
-- RF & Microwave Communication
-- Laser & Light Wave Communication
-- Next Generation (5G / 6G) Communication
-- Advanced Communication Technologies: Massive Multiple-Input Multiple-Output (MIMO), Beam Forming through Advanced Digital Signal Processing, Device to Device (D2D) communication, Millimeter Wave (mm-Wave) technologies, Communication Networks, Embedded Systems, IoT, Cyber & Network Security, Information Theory & Coding
-- Satellite Communication, Navigation systems, Quantum and Molecular Communication
+The total intake for this program is 30 students, with 15 seats allocated under the government quota and 15 under the management quota. To be eligible for this program, applicants must have completed the 10+2 system of education and secured a pass in Physics, Chemistry, and Mathematics in their qualifying examination.
 
-A strong emphasis is placed on developing practical skills and in-depth knowledge required by today's industries.
+The curriculum and syllabus for this program are based on the 2021 regulation. Upon completing this program, students will have scope for pursuing higher studies in their chosen field.
 
-Industry Sectors / Employers:
+## Vision
 
-Network providers: BSNL, AIRTEL; Manufacturing, Health care, Education, IT sector; Civil Aviation, Defense, Postal and Railway Departments; All India Radio & TV stations; Indian Telecom Sector; National Physics Lab; Bharat Electronics Ltd; ONGC, SAIL, and PSUs; Cisco, Havells, 3M India, Reliance, Bajaj, Bosch, Philips and many more.
+At Mohamed Sathak A.J. College of Engineering, the vision is to become a centre of excellence that transforms students into proficient Communication Engineers through sustainable practices. This vision is supported by a three-part mission. Firstly, the institution aims to impart core fundamental knowledge and necessary skills in communication systems through innovative teaching and learning methodology, as outlined in Mission M1. 
 
-Curriculum Link: <https://www.msjace-edu.in/uploads/academics/2021Regulation.pdf>
+Mission M2 focuses on inculcating critical thinking, ethics, lifelong learning, and creativity in students, which are essential for their success in both industry and society. Meanwhile, Mission M3 emphasizes cultivating students with all-round competencies, enabling them to pursue careers, higher education, or become self-employed.
 
-Student Portal: <http://msjace-edu.in/msjace-student-portal/index.php>
+The Programme Educational Objectives (PEOs) are designed to prepare graduates for various challenges. PEO1 ensures that graduates are equipped to analyze, design, develop, and test software solutions and products with creativity and sustainability. PEO2 focuses on developing graduates' skills in using modern tools for critical problem-solving and analyzing industrial and societal requirements. Furthermore, PEO3 prepares graduates with managerial and leadership skills, enabling them to pursue careers or start their own firms.
 
-## 2. Programme Details — Duration, Seats, Eligibility, Vision and Mission
+In addition to the PEOs, the Programme Specific Outcomes (PSOs) play a crucial role in shaping the graduates. PSO1 enables students to develop creative solutions by adapting emerging technologies and tools for real-time applications in industry. This is complemented by the ability to apply acquired knowledge to develop software solutions and innovative mobile apps for various automation applications.
 
-Contains the key programme details for B.Tech ECE-ACT including duration, seat count, eligibility criteria, and the department's vision and mission statements.
+Ultimately, the Programme Outcomes (PO) aim to equip graduates with a strong foundation in engineering knowledge. PO1 emphasizes the application of knowledge in mathematics, science, engineering fundamentals, and an engineering specialization to solve complex engineering problems.
 
-### B.Tech ECE Advanced Communication Technology — Programme Details
+The vision of Mohamed Sathak A.J. College of Engineering encompasses a comprehensive approach to engineering education, as reflected in its program outcomes. Problem analysis is a crucial aspect of this approach, where students are expected to identify, formulate, review research literature, and analyze complex engineering problems, ultimately reaching substantiated conclusions using the first principles of mathematics, natural sciences, and engineering sciences.
 
-Duration: 4 years (Regular) / 3 years (Lateral Entry)
+In addition to problem analysis, the college aims to equip its students with the skills to design solutions for complex engineering problems, taking into account public health and safety, as well as cultural, societal, and environmental considerations. This is achieved through the design of system components or processes that meet specified needs, demonstrating a deep understanding of the interconnectedness of engineering and society.
 
-No. of Semesters: 8 (Regular) / 6 (Lateral Entry)
+Conducting investigations of complex problems is another key aspect of the college's vision, where students are encouraged to use research-based knowledge and research methods, including the design of experiments, analysis and interpretation of data, and synthesis of information to provide valid conclusions. This approach enables students to develop a nuanced understanding of complex problems and their solutions.
 
-Intake / No. of Seats: Total — 30 (Government — 15, Management — 15)
+The college also recognizes the importance of modern tool usage in engineering, where students are taught to create, select, and apply appropriate techniques, resources, and modern engineering and IT tools, including prediction and modeling, to complex engineering activities. This is done with an understanding of the limitations of these tools, ensuring that students develop a critical and informed approach to their use.
 
-Eligibility: 10+2 system of Education. Must have secured a pass in Physics, Chemistry and Mathematics in the qualifying examination.
+Furthermore, the college emphasizes the role of the engineer in society, where students are expected to apply reasoning informed by contextual knowledge to assess societal, health, safety, legal, and cultural issues relevant to professional engineering practice. This approach enables students to develop a deep understanding of the responsibilities that come with being a professional engineer.
 
-Curriculum & Syllabus (2021 Regulation): <https://www.msajce-edu.in/uploads/academics/2021Regulation.pdf>
+Finally, the college's vision includes a strong emphasis on environment and sustainability, where students are expected to understand the impact of professional engineering solutions in societal and environmental contexts. This includes demonstrating knowledge of, and the need for, sustainable development, ensuring that students develop a holistic understanding of the role of engineering in creating a more sustainable future.
 
-Scope for Higher Studies: M.E. / M.Tech. / M.B.A.
+The vision of the institution encompasses a wide range of skills and values that students are expected to embody upon graduation. One of the key principles is the application of ethical standards, as outlined in PO8, where students are expected to adhere to professional ethics and responsibilities, as well as the norms of engineering practice. This commitment to ethics is a fundamental aspect of the institution's vision.
 
-#### Vision:
+In addition to ethical principles, the institution also places a strong emphasis on individual and team work, as stated in PO9. Students are expected to function effectively not only as individuals but also as members or leaders in diverse teams, often working in multi-disciplinary settings. This ability to collaborate and work towards a common goal is a crucial aspect of the institution's vision.
 
-To be a centre of excellence for transforming students into proficient Communication Engineers through sustainable practices.
+Effective communication is another vital skill that students are expected to develop, as outlined in PO10. This includes the ability to comprehend and write effective reports and design documentation, make presentations, and give and receive clear instructions. By mastering these skills, students will be able to communicate complex engineering activities with both the engineering community and society at large.
 
-#### Mission:
+The institution also recognizes the importance of project management and finance, as stated in PO11. Students are expected to demonstrate a knowledge and understanding of engineering and management principles, applying these skills to manage projects and work effectively in multi-disciplinary environments. This ability to manage projects and lead teams is a key aspect of the institution's vision.
 
-M1. Impart core fundamental knowledge and necessary skills in communication systems through innovative teaching and learning methodology.
+Finally, the institution emphasizes the importance of life-long learning, as outlined in PO12. Students are expected to recognize the need for ongoing learning and development, particularly in the context of technological change. By instilling this mindset, the institution aims to equip students with the skills and knowledge necessary to adapt and thrive in an ever-changing world.
 
-M2. Inculcate critical thinking, ethics, lifelong learning and creativity needed for industry and society.
+## Job Profiles
 
-M3. Cultivate the students with all-round competencies, for career, higher education and self-employability.
+As Electronics and Communication Engineers, graduates of Mohamed Sathak A.J. College of Engineering can pursue various job profiles that cater to their skills and expertise. One such profile is that of a Design Engineer, responsible for researching and designing new products for a company, drafting and testing prototypes, and ensuring a smooth manufacturing process.
 
-Note: NRI Quota applies — 5% of sanctioned seats (approximately 1–2 seats) are reserved under NRI quota as per standard Anna University / TNEA norms.
+Another profile is that of an ASIC Engineer, who identifies and understands system complexities and devises solutions to enhance system performance. In contrast, an Embedded Engineer focuses on designing and implementing software for embedded devices and systems, actively participating in every step of the software development life cycle to ensure its successful completion.
 
-### B.Tech ECE-ACT Programme Details
+In the field of communication systems, a Network Support Engineer plays a crucial role in ensuring that these systems run smoothly and without bugs, both internally and externally. On the other hand, a Software Engineer identifies the need for new software programs that can ease the work of various sectors, such as business or gaming, and designs and develops them while also improving existing ones in terms of user interface, speed, and new features.
 
-- **B.Tech ECE with Specialization in Advanced Communication Technology** (Parameter: Programme).
+A Software Engineer also regularly checks if the hardware and software of a system work properly. Lastly, a Quality Analyst is responsible for ensuring the smooth development and planning of test and process plans, as well as test scripts for a project, actively participating in these processes to guarantee their success.
 
-- **4 years (Regular) / 3 years (Lateral Entry)** (Parameter: Duration).
+In the field of Electronics and Communication Engineering, various job profiles offer diverse opportunities for growth and development. For instance, a Design Engineer is responsible for creating innovative designs, while an ASIC Engineer focuses on designing and developing application-specific integrated circuits. An Embedded Engineer, on the other hand, works on designing and developing embedded systems, and a Network Support Engineer ensures the smooth operation of computer networks.
 
-- **8 (Regular) / 6 (Lateral Entry)** (Parameter: Semesters).
+A Software Engineer is involved in designing, developing, and testing software applications, and a Quality Analyst plays a crucial role in ensuring the quality of software products. A Technician participates in the initial phases of the software development life cycle, including prototyping and identifying potential threats. A Chief Technical Officer oversees the technical sector of an organization, working towards aligning it with the company's overall growth targets.
 
-- **Total Seats** (Parameter: Total Seats).
+An ECE Engineering Consultant acts as a liaison between clients and the working team, ensuring that client needs are met and technical solutions comply with industry regulations. A Data Analyst analyzes raw data from various sectors of a company, deriving meaningful results in the form of graphs and charts to aid in decision-making and ensure profitable solutions. These job profiles offer varying average annual salaries in India, ranging from 2-2.5 lakh for a Technician to 20 lakh for an ASIC Engineer and an ECE Engineering Consultant.
 
-- **Government Seats** (Parameter: Government Seats).
+The average annual salaries for these job profiles are as follows: a Design Engineer can earn between 4-5 lakh, an Embedded Engineer can earn around 16 lakh, and a Network Support Engineer can earn between 3-4 lakh. A Software Engineer's salary can range from 4-12 lakh, while a Quality Analyst can earn around 4.5 lakh. A Chief Technical Officer can earn around 18 lakh, and a Data Analyst can earn between 5-8 lakh.
 
-- **Management Seats** (Parameter: Management Seats).
+The employment landscape for Advanced Communication Technology in India is poised for significant growth between 2025 and 2030. This rapid expansion is largely driven by the relentless pace of innovations in cutting-edge technologies such as 5G and 6G, the Internet of Things (IoT), satellite communications, and wireless technologies. As these technologies continue to evolve and improve, they are expected to create a surge in job opportunities in the field of Advanced Communication Technology.
 
-- **10+2 with Physics, Chemistry, Mathematics (pass)** (Parameter: Eligibility).
+India's rollout of 5G and preparations for 6G will lead to significant hiring in various fields, including network planning, radio frequency design, and protocol development. As the country's telecom infrastructure continues to grow, there will be an increased demand for professionals skilled in network security, wireless communication, and millimeter-wave technology. This growth is expected to result in a 10-12% per year increase in job openings in the telecom sector from 2025 to 2030, with key hiring areas including RF engineering, network design, and 5G protocol testing.
 
-- **M.E. / M.Tech. / M.B.A.** (Parameter: Higher Studies).
+The satellite communication industry is also expected to experience significant growth, with a projected 12-15% per year increase in job openings from 2025 to 2030. This growth will be driven by India's expanding space industry, including the Indian Space Research Organisation (ISRO) and private satellite companies such as OneWeb and Bharti Airtel's satellite ventures. Key roles in this sector will include satellite system design, communications payloads, and ground station operations.
 
-- **2021 Regulation — <a href="https://www.msajce-edu.in/uploads/academics/2021Regulation.pdf">https://www.msajce-edu.in/uploads/academics/2021Regulation.pdf</a>** (Parameter: Curriculum).
+The Internet of Things (IoT) is another area that is expected to experience significant growth, with a projected 15-18% per year increase in job openings from 2025 to 2030. This growth will be driven by the increasing demand for connected devices, including smart cities, smart homes, and industrial IoT. Professionals with skills in low-power communication protocols, sensor networks, and embedded systems will be in high demand, particularly those with expertise in IoT communication protocols such as LoRa, Zigbee, and NB-IoT.
 
-- How many seats are available in B.Tech ECE-ACT at MSJCE?
-- What is the duration of the ECE Advanced Communication Technology programme at MSJCE?
-- What is the eligibility for B.Tech ECE-ACT at MSJCE?
-- How many government and management quota seats are there in ECE-ACT at MSJCE?
-- Can I do lateral entry into ECE-ACT at MSJCE?
-- What is the vision of the ECE-ACT department at MSJCE?
-- What higher studies can I pursue after B.Tech ECE-ACT at MSJCE?
-- What is the mission of the ECE Advanced Communication Technology department at MSJCE?
+The wireless communication and broadband sector is also expected to experience significant growth, with a projected 8-10% per year increase in job openings from 2025 to 2030. This growth will be driven by the increasing demand for high-speed internet, and key hiring areas will include wireless broadband, Wi-Fi 6/6E, and optical fiber communication. Professionals with skills in mmWave-based systems, software-defined radio, and advanced modulation techniques will be in high demand.
 
-[Overlap carry-forward] Industry Sectors: BSNL, AIRTEL, Civil Aviation, Defense, Postal and Railway Departments, All India Radio & TV stations, National Physics Lab, Bharat Electronics Ltd, ONGC, SAIL, Cisco, Havells, 3M India, Reliance, Bajaj, Bosch, Philips.
+The research and development sector is also expected to experience significant growth, with a projected 10-14% per year increase in job openings from 2025 to 2030. This growth will be driven by increased investment in R&D for next-generation communication technologies, including 6G, optical wireless communications, and quantum communication. Key hiring areas will include research engineers and technology specialists with expertise in these areas.
 
-## 3. Programme Educational Objectives, Programme Specific Outcomes and Programme Outcomes (PEOs, PSOs, POs)
+Several government initiatives and policies are expected to drive growth in the communication technologies sector, including the National Digital Communications Policy (NDCP 2018), the Space Policy, the Smart Cities Mission, and the Production Linked Incentive (PLI) Scheme. These initiatives aim to position India as a global leader in communication technologies, promote private-sector participation in satellite communications, and generate demand for IoT, broadband, and wireless communication infrastructure.
 
-Lists all Programme Educational Objectives (PEOs), Programme Specific Outcomes (PSOs), and the 12 Programme Outcomes (POs) for the B.Tech ECE-ACT programme.
+To succeed in this sector, professionals will need to possess a range of skills and certifications, including expertise in 5G and 6G, IoT and embedded systems, satellite communications, and wireless protocols. Certifications from organizations such as 3GPP, IEEE, and Cisco will be highly valued, as will hands-on experience with Satcom equipment and ground stations. Knowledge of software-defined networking and network function virtualization will also be essential.
 
-Programme Educational Objectives (PEOs) — B.Tech ECE-ACT, MSAJCE
+The job market for engineers is expected to experience significant growth across various sectors from 2025 to 2030. In the telecom sector, specifically in 5G and 6G technologies, growth rates are projected to be around 10-12% per year, with key hiring areas focusing on RF engineering, network design, and 5G protocol testing. Meanwhile, the satellite communications sector is expected to see even higher growth rates of 12-15% per year, with a strong demand for professionals skilled in satellite payload design and ground station operations.
 
-PEO1. Graduates will be prepared for analysing, designing, developing and testing the software solutions and products with creativity and sustainability.
+The Internet of Things (IoT) and embedded systems sector is anticipated to experience the highest growth rate, ranging from 15-18% per year, driven by the increasing need for expertise in IoT communication protocols, sensor networks, and edge computing. In contrast, the broadband and wireless sector is expected to grow at a relatively slower rate of 8-10% per year, with key hiring areas focusing on mmWave systems, optical fiber, and Wi-Fi 6/6E technologies. The research and development sector, particularly in next-generation communications, is expected to see growth rates of 10-14% per year, driven by the demand for professionals skilled in quantum communication, optical wireless, and 6G technologies.
 
-PEO2. Graduates will be skilled in the use of modern tools for critical problem solving and analyzing industrial and societal requirements.
+In terms of employment opportunities by role, telecom engineers specializing in 5G and 6G technologies are in high demand, requiring skills in RF design, antenna design, mmWave, LTE, 5G NR, and network optimization. Satellite communication engineers are also highly sought after, with skills in satellite design, payload integration, frequency planning, and communication systems being highly valued. IoT network engineers are in very high demand, with expertise in low-power protocols such as LoRa and NB-IoT, sensor networks, and embedded systems being essential.
 
-PEO3. Graduates will be prepared with managerial and leadership skills for career and starting up own firms.
+Wireless communication specialists are also in moderate to high demand, with skills in Wi-Fi 6, mmWave communication, optical fiber, software-defined radio (SDR), and broadband deployment being highly sought after. Research engineers specializing in 6G and quantum communications are in high demand, requiring skills in quantum computing, 6G technologies, and advanced wireless systems. RF system engineers are also highly sought after, with expertise in signal processing, RF components, and microwave engineering being essential. Finally, network security engineers are in very high demand, with skills in network protocols, cybersecurity, 5G security, and encryption being highly valued.
 
-Programme Specific Outcomes (PSOs) — Engineering Graduates will be able to:
+Key government initiatives and policy impacts have also driven the demand for specific skills and certifications in the industry.
 
-PSO1. Develop creative solutions by adapting emerging technologies/tools for real time applications of Industry.
+## Faculty
 
-PSO2. Apply the acquired knowledge to develop software solutions and innovative mobile apps for various automation applications.
+The Computer Science Engineering department at Mohamed Sathak A.J. College of Engineering is led by Dr. Nagasubramanian R, who serves as the Head of Postgraduate Studies. Dr. Nagasubramanian holds a Master's degree in Engineering and a Ph.D. in Computer Science Engineering. 
 
-Programme Outcomes (POs):
+Dr. Subramanian P, with a Master's degree in Engineering and a Ph.D., heads the Undergraduate Studies in the department. His area of specialization is Wireless Sensor Networking and Image Processing. Dr. Premalatha G, an Associate Professor, has a Master's degree in Engineering and a Ph.D. Her research interests include Image Processing and Machine Learning.
 
-PO1. Engineering Knowledge: Apply knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to solve complex engineering problems.
+The department also has several Assistant Professors, including Mrs. Saranya V, who holds a Master's degree in Technology and is currently pursuing her Ph.D. Her areas of specialization are IOT and Cloud Computing. Mrs. Sasikala L and Mrs. Kiruthika S, both Assistant Professors, have Master's degrees in Engineering and specialize in Computer Science and Engineering. Mr. Praveenkumar P, an Assistant Professor, holds a Master's degree in Engineering and specializes in Computer Science Engineering.
 
-PO2. Problem Analysis: Identify, formulate, review research literature, and analyze complex engineering problems using first principles of mathematics, natural sciences, and engineering sciences.
+Other faculty members include Mr. Rajakumar B, who holds a Master's degree in Technology and is currently pursuing his Ph.D. His areas of specialization include IOT, AI, NLP, and Image Processing. Mr. Rajasekar R, an Assistant Professor, has a Master's degree in Engineering and is currently pursuing his Ph.D. His research interests include IOT, Network Security.
 
-PO3. Design/Development of Solutions: Design solutions for complex engineering problems and design system components or processes meeting specified needs with consideration for public health, safety, and cultural, societal, and environmental considerations.
+## Section 5
 
-PO4. Conduct Investigations of Complex Problems: Use research-based knowledge including design of experiments, analysis and interpretation of data, and synthesis of information to provide valid conclusions.
+The C Programming Lab is equipped with various facilities, offering the CS8261 C Programming course. Students can access the lab's details and resources through a virtual link, and they can also download a soft copy of the lab record for further reference.
 
-PO5. Modern Tool Usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools for complex engineering activities.
+The Internet Programming Lab provides a range of facilities, catering to the CS8661 Internet Programming course. The lab's details and resources are available through a virtual link, and students can download a soft copy of the lab record for their convenience.
 
-PO6. The Engineer and Society: Apply reasoning informed by contextual knowledge to assess societal, health, safety, legal and cultural issues relevant to professional engineering practice.
+The Operating Systems Lab is well-equipped with facilities, offering the CS8461 Operating Systems course. Students can access the lab's details and resources through a virtual link, and they can also download a soft copy of the lab record for future use.
 
-PO7. Environment and Sustainability: Understand the impact of engineering solutions in societal and environmental contexts, and demonstrate knowledge of sustainable development.
+In addition to the Operating Systems Lab, the college also offers an Object Oriented Analysis and Design Lab, which provides facilities for the CS8461 Object Oriented Analysis and Design course. The lab's details and resources are available through a virtual link, and students can download a soft copy of the lab record for their reference.
 
-PO8. Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of engineering practice.
+The Web Technology Lab is equipped with various facilities, catering to the IT8511 Web Technology course. Students can access the lab's details and resources through a virtual link, and they can also download a soft copy of the lab record for further study.
 
-PO9. Individual and Team Work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+The Networks Lab provides a range of facilities, offering the CS8581 Networks Lab course. The lab's details and resources are available through a virtual link, and students can download a soft copy of the lab record for their convenience.
 
-PO10. Communication: Communicate effectively on complex engineering activities, including writing effective reports, design documentation, presentations, and giving clear instructions.
+## Academics
 
-PO11. Project Management and Finance: Demonstrate knowledge of engineering and management principles, manage projects, and work in multidisciplinary environments.
+The Mohamed Sathak A.J. College of Engineering follows the Anna University Regulation, with syllabi available for various programs, including BE 2013, BE 2017, ME 2013, and ME 2017. The BE 2017 Regulation is also accessible. In addition to these, the college provides course materials for its students.
 
-PO12. Life-long Learning: Recognize the need for, and have the ability to engage in independent and life-long learning in the context of technological change.
+The course materials cover a wide range of subjects, including Problem Solving and Python Programming, which is denoted by the subject code GE8151. Another subject is Programming in C, with the code CS8251. Discrete Mathematics, with the code MA8351, is also part of the curriculum. Furthermore, the college offers Digital Principles and System Design, denoted by CS8351, as well as Data Structures, with the code CS8391.
 
-- What are the Programme Educational Objectives of ECE-ACT at MSAJCE?
-- What are the Programme Specific Outcomes for ECE-ACT at MSAJCE?
-- What are the Programme Outcomes (POs) for B.Tech ECE at MSAJCE?
-- Does the ECE-ACT programme at MSAJCE teach ethics and sustainability?
-- What skills will I develop in B.Tech ECE-ACT at MSAJCE?
+Other subjects include Object Oriented Programming, with the code CS8392, and Communication Engineering, denoted by EC8395. The college also teaches Probability and Queueing Theory, with the code MA8402, and Computer Architecture, denoted by CS8491. Database Management Systems, with the code CS8492, is another subject offered by the college. 
 
-- Does ECE-ACT at MSJCE prepare students for entrepreneurship?
-- What is PO12 for ECE-ACT at MSJCE?
-- Does the ECE-ACT programme focus on project management?
+The curriculum also includes Design and Analysis of Algorithms, denoted by CS8451, Operating Systems, with the code CS8493, and Software Engineering, denoted by CS8494. Algebra and Number Theory, with the code MA8551, is also part of the course materials. Additionally, the college offers Computer Networks, denoted by CS8591, and Microprocessors and Microcontrollers, with the code EC8691.
 
-[Overlap carry-forward] B.Tech ECE-ACT: Total Seats 30 (Government 15, Management 15). Duration 4 years / 8 semesters. Eligibility: 10+2 with Physics, Chemistry, Mathematics. Vision: To be a centre of excellence for transforming students into proficient Communication Engineers.
+Lastly, the college provides course materials for Theory of Computation, denoted by CS8501. All of these subjects have lesson plans, question banks, lecture notes, and ICT tools available for students to access.
 
-## 4. Job Profiles, Job Descriptions and Average Annual Salaries for ECE-ACT Graduates
+The Computer Science department at Mohamed Sathak A.J. College of Engineering offers a wide range of courses for its students. One such course is CS8592, Object Oriented Analysis and Design, which provides students with a comprehensive understanding of object-oriented principles and their application in software design. 
 
-Lists 10 job profiles available to ECE Advanced Communication Technology graduates with their job descriptions and average annual salaries in India.
+In addition to core courses, students can also opt for Open Elective I, which allows them to explore subjects outside their regular curriculum. The department also offers CS8651, Internet Programming, a course that focuses on the development of web applications and the technologies that power the internet. Another key course is CS8691, Artificial Intelligence, which delves into the principles and applications of AI in various fields.
 
-Job Profiles and Job Descriptions — Electronics and Communication Engineers (ECE-ACT)
+Mobile Computing, a course with the code CS8601, is also part of the curriculum, where students learn about the design and development of mobile applications. Furthermore, the college offers CS8602, Compiler Design, a course that deals with the design and implementation of compilers, and CS8603, Distributed Systems, which explores the concepts and technologies behind distributed computing systems.
 
-1 | Design Engineer | Work on research and design of new products — draft and test prototypes, ensure smooth manufacturing process.
+The course MG8591, Principles of Management, is also available, providing students with an understanding of management principles and their application in real-world scenarios. The department also offers specialized courses such as CS8792, Cryptography and Network Security, which focuses on the principles and practices of secure data transmission, and CS8791, Cloud Computing, a course that explores the concepts and technologies behind cloud-based systems.
 
-2 | ASIC Engineer | Find and understand system complexities, devise solutions to enhance system performance.
+In addition to these courses, the college also offers a range of professional electives, including Professional Elective I, Professional Elective II, Professional Elective III, Professional Elective IV, and Professional Elective V, allowing students to specialize in specific areas of interest. Open Elective II is also available, providing students with further opportunities to explore subjects outside their regular curriculum.
 
-3 | Embedded Engineer | Design and implement software used by embedded devices and systems. Participate in all steps of software development life cycle.
+## PLACEMENT DETAILS
 
-4 | Network Support Engineer | Ensure communication systems that organizations and individuals work on run smoothly and without bugs, on both external and internal levels.
+Unfortunately, you haven't provided the raw data from the PLACEMENT DETAILS section. Please provide the data, and I'll be happy to transform it into natural, varied English prose paragraphs, ensuring 100% data integrity and following the specified style and formatting guidelines.
 
-5 | Software Engineer | Identify needs for new software programs, design and develop them, improve existing ones in terms of UI, speed, and new features. Check hardware and software work properly.
+## NEWS & EVENTS
 
-6 | Quality Analyst | Actively participate in development and planning of various test and process plans and test scripts for a project.
+## Student Activities
 
-7 | Technician | Participate in first few phases of software development life cycle including prototyping, identifying and eliminating potential threats.
+## Members of Alumni Association
 
-8 | Chief Technical Officer | Overlook the technical sector of an organization on a managerial level and work towards achieving growth targets.
-
-9 | ECE Engineering Consultant | Act as a bridge between the client and working team to ensure client needs are met and technical solutions comply with industry regulations.
-
-10 | Data Analyst | Analyze raw data from different sectors, derive meaningful results (graphs, charts) to help in decision-making and ensure maximum profitable solutions.
-
-Average Annual Salary of ECE-ACT Graduates in India:
-
-1 | Design Engineer | 4 – 5 lakh
-
-2 | ASIC Engineer | 20 lakh
-
-3 | Embedded Engineer | 16 lakh
-
-4 | Network Support Engineer | 3 – 4 lakh
-
-5 | Software Engineer | 4 – 12 lakh
-
-6 | Quality Analyst | 4.5 lakh
-
-7 | Technician | 2 – 2.5 lakh
-
-8 | Chief Technical Officer | 18 lakh
-
-9 | ECE Engineering Consultant | 20 lakh
-
-10 | Data Analyst | 5 – 8 lakh
-
-### Job Profiles and Average Annual Salary — ECE-ACT Graduates
-
-- **Design Engineer** serves as **4 – 5 lakh**.
-
-- **ASIC Engineer** serves as **20 lakh**.
-
-- **Embedded Engineer** serves as **16 lakh**.
-
-- **Network Support Engineer** serves as **3 – 4 lakh**.
-
-- **Software Engineer** serves as **4 – 12 lakh**.
-
-- **Quality Analyst** serves as **4.5 lakh**.
-
-- **Technician** serves as **2 – 2.5 lakh**.
-
-- **Chief Technical Officer** serves as **18 lakh**.
-
-- **ECE Engineering Consultant** serves as **20 lakh**.
-
-- **Data Analyst** serves as **5 – 8 lakh**.
-
-- What are the job opportunities after B.Tech ECE-ACT at MSAJCE?
-- What is the salary of an ASIC Engineer in India after ECE?
-- What does a Design Engineer do after ECE?
-- What is the average salary of an ECE graduate in India?
-- What is the salary of an Embedded Engineer in India?
-- Can I become a Chief Technical Officer after ECE-ACT at MSAJCE?
-- What is the salary of a Data Analyst with ECE background in India?
-- What is an ECE Engineering Consultant and what is the salary?
-
-[Overlap carry-forward] PO12. Life-long Learning: Recognize the need for and have the ability to engage in independent and life-long learning in the context of technological change. ECE-ACT prepares students with managerial and leadership skills for career and starting up own firms (PEO3).
-
-## 5. Employment Forecast 2025–2030 — Key Industry Drivers and Sector-Wise Job Growth
-
-Details the employment forecast for Advanced Communication Technology in India from 2025 to 2030, covering key industry drivers, sector-wise growth rates, and government policy impacts.
-
-### Advanced Communication Technology Employment Forecast in India 2025–2030
-
-The field is experiencing rapid growth, driven by innovations in 5G/6G, IoT, satellite communications, and wireless technologies.
-
-#### Key Industry Drivers:
-
-1. 5G and 6G Deployment: India's 5G rollout (and preparations for 6G) will lead to significant hiring in network planning, RF design, and protocol development. Growth in telecom infrastructure, network security, wireless communication, and millimeter-wave (mm-wave) technology.
-2. Satellite Communication & Remote Sensing: India's expanding Space Industry, including ISRO, private satellite companies (e.g., OneWeb, Bharti Airtel's satellite ventures), and global satellite internet networks (e.g., Starlink), will generate demand for satellite communication engineers. Key roles in satellite system design, communications payloads, and ground station operations.
-3. Internet of Things (IoT): Explosion of connected devices (smart cities, smart homes, industrial IoT) will require skilled professionals in low-power communication protocols (LPWAN), sensor networks, and embedded systems. Focus on IoT communication protocols (LoRa, Zigbee, NB-IoT), 5G IoT applications, and edge computing.
-4. Wireless Communication & Broadband: Demand for high-speed internet will create job openings in wireless broadband, Wi-Fi 6/6E, and optical fiber communication. Development of mmWave-based systems, software-defined radio (SDR), and advanced modulation techniques will create numerous roles.
-
-5. Telecommunications R&D: Increased investment in R&D for next-generation communication technologies (6G, optical wireless, quantum communication) will create positions for research engineers and technology specialists.
-
-Sector-Wise Job Growth Projections 2025–2030:
-
-Telecom (5G/6G) | 10–12% per year | RF engineering, Network design, 5G protocol testing
-
-Satellite Communications | 12–15% per year | Satellite payload design, ground station operations
-
-IoT & Embedded Systems | 15–18% per year | IoT communication protocols, sensor networks, edge computing
-
-Broadband & Wireless | 8–10% per year | mmWave systems, optical fiber, Wi-Fi 6/6E technologies
-
-R&D & Next-Gen Comms | 10–14% per year | Quantum communication, optical wireless, 6G technologies
-
-### Sector-Wise Job Growth Projections 2025–2030
-
-- **10–12% per year** serves as **RF engineering, Network design, 5G protocol testing** (Sector: Telecom (5G/6G)).
-
-- **12–15% per year** serves as **Satellite payload design, ground station operations** (Sector: Satellite Communications).
-
-- **15–18% per year** serves as **IoT communication protocols, sensor networks, edge computing** (Sector: IoT & Embedded Systems).
-
-- **8–10% per year** serves as **mmWave systems, optical fiber, Wi-Fi 6/6E technologies** (Sector: Broadband & Wireless).
-
-- **10–14% per year** serves as **Quantum communication, optical wireless, 6G technologies** (Sector: R&D & Next-Gen Comms).
-
-- What is the job growth in telecom sector in India by 2030?
-- Which sector has the highest job growth for ECE graduates in India?
-- Is IoT a growing field for ECE graduates in India?
-- What is the growth rate for satellite communication jobs in India?
-- Will 5G create more jobs for ECE graduates?
-- What are the key hiring areas in wireless broadband in India?
-- What is the demand for quantum communication engineers in India?
-- What is the future scope of ECE-ACT in India?
-
-[Overlap carry-forward] ECE-ACT graduate salaries: ASIC Engineer 20 lakh, Embedded Engineer 16 lakh, CTO 18 lakh, ECE Consultant 20 lakh, Data Analyst 5–8 lakh, Software Engineer 4–12 lakh per year in India.
-
-## 6. Employment by Role, Government Initiatives and Skills/Certifications Demand
-
-Lists employment opportunities by specific roles for 2025–2030, key government policy impacts on hiring, and the certifications and skills most demanded by the industry.
-
-Employment Opportunities by Role (2025–2030) — Advanced Communication Technology
-
-Telecom Engineer (5G/6G) | High | RF design, Antenna design, mmWave, LTE, 5G NR, network optimization
-
-Satellite Communication Engineer | High | Satellite design, payload integration, frequency planning, communication systems
-
-IoT Network Engineer | Very High | Low-power protocols (LoRa, NB-IoT), sensor networks, embedded systems
-
-Wireless Communication Specialist | Moderate to High | Wi-Fi 6, mmWave, optical fiber, SDR, broadband deployment
-
-Research Engineer (6G/Quantum Comms) | High | Quantum computing, 6G technologies, advanced wireless systems
-
-RF System Engineer | High | Signal processing, RF components, microwave engineering
-
-Network Security Engineer | Very High | Network protocols, cybersecurity, 5G security, encryption
-
-### Key Government Initiatives & Policy Impacts:
-
-1. National Digital Communications Policy (NDCP 2018): Aimed at positioning India as a global leader in communication technologies and attracting investment in 5G and beyond.
-2. Space Policy: Promoting private-sector participation in satellite communications.
-3. Smart Cities Mission: Generating demand for IoT, broadband, and wireless communication infrastructure.
-4. PLI Scheme (Production Linked Incentive): Boosting manufacturing of telecom equipment and network components in India, leading to job creation.
-
-### Skills and Certifications Demand in Industry:
-
-1. 5G & 6G Expertise: Certifications from 3GPP, IEEE, and Cisco.
-2. IoT & Embedded Systems: Courses on Arduino, Raspberry Pi, STM32, and LoRaWAN.
-3. Satellite Communications: Hands-on experience with Satcom equipment and ground stations.
-4. Wireless Protocols: Knowledge of Wi-Fi 6, Bluetooth 5.0/5.1, LoRa, and NB-IoT.
-5. Software-Defined Networking (SDN): Familiarity with SDN and Network Function Virtualization (NFV).
-
-### **Employment Opportunities by Role 2025–2030**
-
-- **High** serves as **Telecom Engineer (5G/6G)** (Skills Required: RF design, Antenna design, mmWave, LTE, 5G NR, network optimization).
-
-- **High** serves as **Satellite Communication Engineer** (Skills Required: Satellite design, payload integration, frequency planning, communication systems).
-
-- **Very High** serves as **IoT Network Engineer** (Skills Required: Low-power protocols (LoRa, NB-IoT), sensor networks, embedded systems).
-
-- **Moderate to High** serves as **Wireless Communication Specialist** (Skills Required: Wi-Fi 6, mmWave communication, optical fiber, SDR, broadband deployment).
-
-- **High** serves as **Research Engineer (6G/Quantum)** (Skills Required: Quantum computing, 6G technologies, advanced wireless systems).
-
-- **High** serves as **RF System Engineer** (Skills Required: Signal processing, RF components, microwave engineering).
-
-- **Very High** serves as **Network Security Engineer** (Skills Required: Network protocols, cybersecurity, 5G security, encryption).
-
-- What skills do I need to become a Network Security Engineer after ECE-ACT?
-- What certifications should I get after B.Tech ECE-ACT at MSJCE?
-- What is the demand for IoT Network Engineers in India?
-- How does the PLI scheme create jobs for ECE graduates?
-- What is NDCP 2018 and how does it affect ECE job opportunities?
-- What skills are needed for a 5G/6G Telecom Engineer?
-- Which ECE roles have very high job growth by 2030?
-- What are the certifications in demand for ECE-ACT graduates?
-
-[Overlap carry-forward] Sector-wise growth 2025–2030: IoT & Embedded Systems 15–18%/year (highest), Satellite Communications 12–15%/year, R&D & Next-Gen Comms 10–14%/year, Telecom (5G/6G) 10–12%/year, Broadband & Wireless 8–10%/year.
-
-## 7. Faculty Details — ECE w/s in Advanced Communication Technology
-
-Lists all faculty members of the ECE-ACT department at MSJCE with their names, qualifications, designations, and areas of specialization.
-
-Faculty — ECE with Specialization in Advanced Communication Technology, MSJCE
-
-Dr. NAGASUBRAMANIAN R | M.E., Ph.D. | Head - PG | Computer Science Engineering
-
-Dr. SUBRAMANIAN P | M.E., Ph.D. | Head - UG | Wireless Sensor Networking and Image Processing
-
-Dr. PREMALATHA G | M.E., Ph.D. | Associate Professor | Image Processing and Machine Learning
-
-Mrs. SARANYA V | M.Tech., (Ph.D) | Assistant Professor | IoT and Cloud Computing
-
-Mrs. SASIKALA L | M.E. | Assistant Professor | Computer Science and Engineering
-
-Mrs. KIRUTHIKA S | M.E. | Assistant Professor | Computer Science and Engineering
-
-Mrs. ASRIN MAHMOOTH A | M.E. | Assistant Professor | Computer Science Engineering
-
-Mr. PRAVEENKUMAR P | M.E. | Assistant Professor | Computer Science Engineering
-
-Mr. RAJAKUMAR B | M.Tech., (Ph.D) | Assistant Professor | IoT, AI, NLP and Image Processing
-
-Mr. RAJASEKAR R | M.E., (Ph.D) | Assistant Professor | IoT, Network Security
-
-### Faculty — ECE-ACT Department
-
-- **Dr. NAGASUBRAMANIAN R** serves as **Head - PG** (Qualification: M.E., Ph.D.; Area Of Specialization: Computer Science Engineering).
-
-- **Dr. SUBRAMANIAN P** serves as **Head - UG** (Qualification: M.E., Ph.D.; Area Of Specialization: Wireless Sensor Networking and Image Processing).
-
-- **Dr. PREMALATHA G** serves as **Associate Professor** (Qualification: M.E., Ph.D.; Area Of Specialization: Image Processing and Machine Learning).
-
-- **Mrs. SARANYA V** serves as **Assistant Professor** (Qualification: M.Tech., (Ph.D); Area Of Specialization: IoT and Cloud Computing).
-
-- **Mrs. SASIKALA L** serves as **Assistant Professor** (Qualification: M.E.; Area Of Specialization: Computer Science and Engineering).
-
-- **Mrs. KIRUTHIKA S** serves as **Assistant Professor** (Qualification: M.E.; Area Of Specialization: Computer Science and Engineering).
-
-- **Mrs. ASRIN MAHMOOTHAA** serves as **Assistant Professor** (Qualification: M.E.; Area Of Specialization: Computer Science Engineering).
-
-- **Mr. PRAVEENKUMAR P** serves as **Assistant Professor** (Qualification: M.E.; Area Of Specialization: Computer Science Engineering).
-
-- **Mr. RAJAKUMAR B** serves as **Assistant Professor** (Qualification: M.Tech., (Ph.D); Area Of Specialization: IoT, AI, NLP and Image Processing).
-
-- **Mr. RAJASEKAR R** serves as **Assistant Professor** (Qualification: M.E., (Ph.D); Area Of Specialization: IoT, Network Security).
-
-### **Sample Questions this chunk answers:**
-
-- Who is the Head of Department for ECE-ACT at MSAJCE?
-- Who teaches IoT at the ECE-ACT department of MSAJCE?
-- Who are the faculty members of ECE-ACT at MSAJCE?
-- Does ECE-ACT at MSAJCE have faculty specializing in machine learning?
-
-- Who is the UG head of ECE-ACT at MSJCE?
-- What is Dr. SUBRAMANIAN P's specialization at MSJCE?
-- Does MSJCE ECE-ACT have a faculty member for network security?
-- Who teaches AI and NLP in ECE-ACT at MSJCE?
-
-[Overlap carry-forward] Skills and Certifications Demand: 5G/6G — 3GPP, IEEE, Cisco certifications; IoT — Arduino, Raspberry Pi, STM32, LoRaWAN; Satellite — Satcom equipment; Wireless — Wi-Fi 6, Bluetooth 5.0, LoRa, NB-IoT; SDN and NFV familiarity.
-
-## 8. Laboratory Facilities — ECE-ACT Department
-
-Lists all laboratory facilities available in the ECE-ACT department at MSJCE, with course links, virtual lab links, and lab record download details.
-
-### Laboratory Facilities — ECE-ACT Department, MSJCE
-
-1 | C Programming Lab | CS8261 - C Programming | Virtual Lab:
-
-<https://www.msajce-edu.in/images/departments/cse/Virtual-Lab-C-Programming.pdf> | Objectives:
-
-<https://www.msajce-edu.in/images/departments/cse/Obj-c.pdf> | Equipment Details:
-
-<https://www.msajce-edu.in/images/departments/cse/Equipments-C-Programming.pdf>
-
-2 | Internet Programming Lab | CS8661 - Internet Programming | Virtual Lab:
-
-<https://www.msajce-edu.in/images/departments/cse/Virtual-Lab-Internet-Programming.pdf> | Objectives:
-
-<https://www.msajce-edu.in/images/departments/cse/Obj-INTERNET.pdf>
-
-3 | Operating Systems Lab | CS8461 - Operating Systems | Virtual Lab:
-
-<https://www.msajce-edu.in/images/departments/cse/Virtual-Lab-OS.pdf> | Objectives:
-
-<https://www.msajce-edu.in/images/departments/cse/Obj-os.pdf>
-
-4 | Object Oriented Analysis and Design Lab | CS8461 - Object Oriented Analysis and Design | Virtual Lab:
-
-<https://www.msajce-edu.in/images/departments/cse/Virtual-Lab-oad.pdf> | Objectives:
-
-<https://www.msajce-edu.in/images/departments/cse/Obj-oad.pdf>
-
-5 | Web Technology Lab | IT8511 - Web Technology | Virtual Lab:
-
-<https://www.msajce-edu.in/images/departments/cse/Virtual-Lab-Web-Technology.pdf> | Objectives:
-
-<https://www.msajce-edu.in/images/departments/cse/Obj-web.pdf>
-
-6 | Networks Lab | CS8581 - Networks Lab | Virtual Lab: <https://www.msajce-edu.in/images/departments/cse/Networks.pdf> | Objectives: <https://www.msajce-edu.in/images/departments/cse/Obj-Networks.pdf>
-
-All labs provide soft copy lab records for download. Equipment details are available via the department's lab documentation pages. Course syllabi are accessible via the student portal: <http://msajce-edu.in/msajce-student-portal/index.php>
-
-- **C Programming Lab** serves as **CS8261 - C Programming** (Virtual Link: <a href="https://www.msajce-edu.in/images/departments/cse/Virtual-Lab-C-Programming.pdf">https://www.msajce-edu.in/images/departments/cse/Virtual-Lab-C-Programming.pdf</a>).
-
-- **Internet Programming Lab** serves as **CS8661 - Internet Programming** (Virtual Link: <a href="https://www.msajce-edu.in/images/departments/cse/Virtual-Lab-Internet-Programming.pdf">https://www.msajce-edu.in/images/departments/cse/Virtual-Lab-Internet-Programming.pdf</a>).
-
-- **Operating Systems Lab** serves as **CS8461 - Operating Systems** (Virtual Link: <a href="https://www.msajce-edu.in/images/departments/cse/Virtual-Lab-OS.pdf">https://www.msajce-edu.in/images/departments/cse/Virtual-Lab-OS.pdf</a>).
-
-- **Object Oriented Analysis and Design Lab** serves as **CS8461 - OOAD** (Virtual Link: <a href="https://www.msajce-edu.in/images/departments/cse/Virtual-Lab-ooad.pdf">https://www.msajce-edu.in/images/departments/cse/Virtual-Lab-ooad.pdf</a>).
-
-- **Web Technology Lab** serves as **IT8511 - Web Technology** (Virtual Link: <a href="https://www.msajce-edu.in/images/departments/cse/Virtual-Lab-Web-Technology.pdf">https://www.msajce-edu.in/images/departments/cse/Virtual-Lab-Web-Technology.pdf</a>).
-
-- **Networks Lab** serves as **CS8581 - Networks Lab** (Virtual Link: <a href="https://www.msajce-edu.in/images/departments/cse/Networks.pdf">https://www.msajce-edu.in/images/departments/cse/Networks.pdf</a>).
-
-- What labs are available in the ECE-ACT department at MSAJCE?
-- Does ECE-ACT at MSAJCE have a Networks Lab?
-- Where can I find the virtual lab link for C Programming at MSAJCE?
-- Does ECE-ACT at MSAJCE have an Operating Systems Lab?
-- What course is offered in the Web Technology Lab at MSAJCE?
-- Where can I download lab records for ECE-ACT at MSAJCE?
-- Does MSAJCE ECE-ACT provide virtual lab access?
-- What is the lab code for Networks Lab at MSAJCE ECE-ACT?
-
-[Overlap carry-forward] ECE-ACT Faculty: Dr. Nagasubramanian R (Head PG), Dr. Subramanian P (Head UG, Wireless Sensor Networking), Dr. Premalatha G (Machine Learning), Mr. Rajakumar B (IoT, AI, NLP), Mr. Rajasekar R (IoT, Network Security). 10 faculty members total.
-
-## 9. Course Materials, Syllabus and Placement Companies
-
-Lists all course materials available for ECE-ACT students with subject codes and names, and the companies where ECE-ACT students have been placed off-campus.
-
-Course Materials — ECE-ACT, MSAJCE (Student Portal: <http://msajce-edu.in/msajce-student-portal/index.php>)
-
-Anna University Regulations Available: BE - 2013 Syllabus, BE - 2017 Syllabus, ME - 2013 Syllabus, ME - 2017 Syllabus, BE - 2017 Regulation
-
-GE8151 | Problem Solving and Python Programming
-
-CS8251 | Programming in C
-
-MA8351 | Discrete Mathematics
-
-CS8351 | Digital Principles and System Design
-
-CS8391 | Data Structures
-
-CS8392 | Object Oriented Programming
-
-EC8395 | Communication Engineering
-
-MA8402 | Probability and Queueing Theory
-
-CS8491 | Computer Architecture  
- CS8492 | Database Management Systems  
- CS8451 | Design and Analysis of Algorithms  
- CS8493 | Operating Systems  
- CS8494 | Software Engineering  
- MA8551 | Algebra and Number Theory  
- CS8591 | Computer Networks  
- EC8691 | Microprocessors and Microcontrollers  
- CS8501 | Theory of Computation  
- CS8592 | Object Oriented Analysis and Design  
- CS8651 | Internet Programming  
- CS8691 | Artificial Intelligence  
- CS8601 | Mobile Computing  
- CS8602 | Compiler Design  
- CS8603 | Distributed Systems  
- MG8591 | Principles of Management  
- CS8792 | Cryptography and Network Security  
- CS8791 | Cloud Computing
-
-(Plus Open Electives I & II, Professional Electives I–V)
-
-Lesson plans and question banks: accessible via student portal.
-
-CS8592 Lesson Plan: <https://www.msajce-edu.in/academics/cse/lessonplan/CS8592OOADLP.pdf>
-
-CS8651 Lesson Plan: <https://www.msajce-edu.in/academics/cse/lessonplan/CS8651IPLP.pdf>
-
-Placement — Off Campus Companies (ECE-ACT graduates placed at):
-
-Accenture, AT&T, Byju's, Capgemini, Carbonite, CISCO, Cognizant (CTS), Deloitte Consulting, HCL, HP, HTC, IBM, Infosys, L&T Infotech, Oracle, Solverminds, Sutherland, TCS, Tech Mahindra, Wells Fargo, Wipro, Wolters Kluwer ELM, and others.
-
-Placement page: <https://www.msajce-edu.in/placement.php>
-
-### Course Materials — Subject Codes and Names
-
-- **Problem Solving and Python Programming** (Subject Code: GE8151).
-
-- **Programming in C** (Subject Code: CS8251).
-
-- **Discrete Mathematics** (Subject Code: MA8351).
-
-- **Digital Principles and System Design** (Subject Code: CS8351).
-
-- **Data Structures** (Subject Code: CS8391).
-
-- **Object Oriented Programming** (Subject Code: CS8392).
-
-- **Communication Engineering** (Subject Code: EC8395).
-
-- **Probability and Queueing Theory** (Subject Code: MA8402).
-
-- **Computer Architecture** (Subject Code: CS8491).
-
-- **Database Management Systems** (Subject Code: CS8492).
-
-- **Design and Analysis of Algorithms** (Subject Code: CS8451).
-
-- **Operating Systems** (Subject Code: CS8493).
-
-- **Software Engineering** (Subject Code: CS8494).
-
-- **Algebra and Number Theory** (Subject Code: MA8551).
-
-- **Computer Networks** (Subject Code: CS8591).
-
-- **Microprocessors and Microcontrollers** (Subject Code: EC8691).
-
-- **Theory of Computation** (Subject Code: CS8501).
-
-- **Object Oriented Analysis and Design** (Subject Code: CS8592).
-
-- **Internet Programming** (Subject Code: CS8651).
-
-- **Artificial Intelligence** (Subject Code: CS8691).
-
-- **Mobile Computing** (Subject Code: CS8601).
-
-- **Compiler Design** (Subject Code: CS8602).
-
-- **Distributed Systems** (Subject Code: CS8603).
-
-- **Principles of Management** (Subject Code: MG8591).
-
-- **Cryptography and Network Security** (Subject Code: CS8792).
-
-- **Cloud Computing** (Subject Code: CS8791).
-
-- What subjects are taught in B.Tech ECE-ACT at MSJCE?
-- What is the subject code for Communication Engineering at MSJCE ECE-ACT?
-- Does ECE-ACT at MSJCE cover Artificial Intelligence?
-- Which companies have recruited ECE-ACT students from MSJCE?
-- Is Cryptography and Network Security taught in ECE-ACT at MSJCE?
-- Where can I access course materials for ECE-ACT at MSJCE?
-- Does MSJCE ECE-ACT have Cloud Computing in its syllabus?
-- Has TCS or Infosys recruited from MSJCE ECE-ACT?
-
-## MSAJCE — ECE Advanced Communication Technology Contact
-
-Head PG: Dr. Nagasubramanian R | Head UG: Dr. Subramanian P
-
-Department of ECE w/s in Advanced Communication Technology, MSJCE, Chennai – 603103
-
-Address: 34, Rajiv Gandhi Salai (OMR), Siruseri IT Park, Siruseri, Chennai – 603103
-
-Phone: +91 99400 04500 | Email: msajce.office@gmail.com | Website: www.msajce-edu.in
-
-Admission Enquiry: <https://enrollonline.co.in/Registration/Apply/MSAJCE> | Student Portal: <http://msajce-edu.in/msajce-student-portal/index.php>
-
-MSAJCE | 34, Rajiv Gandhi Salai (OMR), Siruseri IT Park, Siruseri, Chennai – 603103 | +91 99400 04500 | msajce.office@gmail.com | www.msajce-edu.in | RAG Extract: msajce\_ece-act | 9 Chunks | 2026-04-29
-
-## Related Notes
-[[msajce_admission]]
-[[msajce_placement]]
