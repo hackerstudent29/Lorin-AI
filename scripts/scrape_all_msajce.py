@@ -138,6 +138,13 @@ Read the provided chunk of data and transform all the factual data into beautifu
                         f.write(chunk + '\n\n')
     except Exception as e:
         print(f'Error on {page_url}: {e}')
+        
+    print(f'   -> Auto-committing {filename} to GitHub...')
+    os.system(f'git config --global user.name "github-actions[bot]"')
+    os.system(f'git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"')
+    os.system(f'git add "{out_path}"')
+    os.system(f'git commit -m "Auto-generated prose for {filename}"')
+    os.system(f'git push')
 
 if __name__ == "__main__":
     for u in urls:
