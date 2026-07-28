@@ -42,7 +42,7 @@ QDRANT_API_KEY = os.getenv("QDRANT_API_KEY")
 DATABASE_URL   = os.getenv("DATABASE_URL")
 
 qdrant_client   = QdrantClient(url=QDRANT_URL, api_key=QDRANT_API_KEY, timeout=30.0)
-COLLECTION_NAME = "college_knowledgebase"
+COLLECTION_NAME = "college_knowledgebase_old"
 
 # ── Initialise pipeline components at startup ─────────────────────────────────
 def _make_embed_fn():

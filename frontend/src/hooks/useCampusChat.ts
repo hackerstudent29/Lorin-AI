@@ -4,6 +4,8 @@ import type { ChatMessage } from "@/types/chat";
 const CHARS_PER_TICK = 18;
 const TICK_MS = 12;
 
+const API_BASE = import.meta.env.VITE_API_URL || "";
+
 export function useCampusChat(onAnimationDone?: (userMsgId: string) => void) {
   const [messages, setMessages]   = useState<ChatMessage[]>([]);
   const [isTyping, setIsTyping]   = useState(false);
@@ -24,7 +26,7 @@ export function useCampusChat(onAnimationDone?: (userMsgId: string) => void) {
     let active = true;
     async function loadHistory() {
       try {
-        const res = await fetch(`/api/chat/history/${sessionId}`);
+        const res = await fetch(`${API_BASE}/api/chat/history/${sessionId}`);
         if (res.ok && active) {
           const data = await res.json();
           setMessages(data);
@@ -104,7 +106,7 @@ export function useCampusChat(onAnimationDone?: (userMsgId: string) => void) {
       setIsTyping(true);
 
       try {
-        const res = await fetch("/api/chat", {
+        const res = await fetch(`${API_BASE}/api/chat`, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ message: text, session_id: sessionId }),
@@ -173,7 +175,7 @@ export function useCampusChat(onAnimationDone?: (userMsgId: string) => void) {
         )
       );
       try {
-        const res = await fetch("/api/feedback", {
+        const res = await fetch(`${API_BASE}/api/feedback`, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({
