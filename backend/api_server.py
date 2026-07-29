@@ -308,6 +308,8 @@ def preprocess_query(query: str) -> dict:
         # Extract JSON object from response (in case model adds surrounding text)
         m = re.search(r'\{.*\}', raw, re.DOTALL)
         raw = m.group(0) if m else raw
+        # Remove unescaped control characters which cause json decode errors
+        raw = re.sub(r'[\x00-\x1F\x7F]', '', raw)
         data = json.loads(raw)
         data["usage"] = rj.get("usage", {"prompt_tokens":0,"completion_tokens":0,"total_tokens":0})
         return data
