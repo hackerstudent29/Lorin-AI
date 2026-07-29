@@ -132,6 +132,28 @@ export function useCampusChat(onAnimationDone?: (userMsgId: string) => void) {
             }
           ]);
 
+          const contentType = res.headers.get("content-type") || "";
+          if (contentType.includes("application/json")) {
+            const data = await res.json();
+            setMessages((prev) =>
+              prev.map((m) =>
+                m.id === aiMsgId ? {
+                  ...m,
+                  content: data.answer,
+                  citations: data.citations || [],
+                  followups: data.followups || [],
+                  message_id: data.message_id,
+                  tokenUsage: data.tokenUsage,
+                  isCached: data.isCached || false,
+                  modelUsed: data.modelUsed || "meta/llama-3.1-8b-instruct",
+                  isAnimating: false,
+                } : m
+              )
+            );
+            onAnimationDone?.(userMsgId);
+            return;
+          }
+
           if (!res.body) throw new Error("No response body");
           const reader = res.body.getReader();
           const decoder = new TextDecoder("utf-8");
