@@ -28,7 +28,7 @@ if not all([NVIDIA_API_KEY, QDRANT_URL, QDRANT_API_KEY, DATABASE_URL]):
     sys.exit(1)
 
 qdrant_client   = QdrantClient(url=QDRANT_URL, api_key=QDRANT_API_KEY, timeout=60.0)
-COLLECTION_NAME = "college_knowledgebase_old"
+COLLECTION_NAME = "college_knowledgebase"
 VECTOR_DIM      = 1024
 MIN_CHUNK_LEN   = 60    # discard chunks shorter than this
 
