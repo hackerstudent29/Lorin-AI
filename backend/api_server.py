@@ -273,6 +273,17 @@ def preprocess_query(query: str) -> dict:
     if q in thanks:
         return {"intent":"compliment","keywords":"","category":None,"category_confidence":0,"direct_response":"You're welcome! Happy to help. If you have more questions about MSAJCE, just ask! 😊","usage":{"prompt_tokens":0,"completion_tokens":0,"total_tokens":0}}
 
+    developer_keywords = ["who is ram", "who is ramanathan", "who is zendrum", "who is the developer", "who created", "who built", "creator of", "developer of", "ur host", "your host", "who made you", "tell me about ram", "tell me about the developer"]
+    if any(k in q for k in developer_keywords) or q in ["ram", "ramanathan", "zendrum", "developer", "creator"]:
+        return {
+            "intent": "developer_query",
+            "keywords": "",
+            "category": None,
+            "category_confidence": 0,
+            "direct_response": "I was developed by **Ramanathan S.** (B.Tech IT, MSAJCE Class of 2027). He is the creator of this chatbot, Lorin AI, Listen Zenify, ZenDrum Booking, and Zen Hostel. You can learn more about him and his work at his portfolio: [https://ramanathanportfolio.vercel.app](https://ramanathanportfolio.vercel.app)",
+            "usage": {"prompt_tokens":0,"completion_tokens":0,"total_tokens":0}
+        }
+
     # Compact category list (short labels save ~150 tokens per call)
     COMPACT_CATS = [
         "Department-CSE","Department-CSBS","Department-CyberSecurity",
@@ -992,8 +1003,8 @@ def chat_endpoint(req: ChatRequest, request: Request):
     if cat_conf < CATEGORY_CONFIDENCE_THRESHOLD:
         category = None
 
-    # Greetings/goodbyes/compliments: return instantly, skip cache entirely
-    if intent in ("greeting", "goodbye", "compliment"):
+    # Greetings/goodbyes/compliments/developer: return instantly, skip cache entirely
+    if intent in ("greeting", "goodbye", "compliment", "developer_query"):
         ans = prep.get("direct_response", "Hello!")
         msg_id = save_message(req.session_id, "assistant", ans, {"intent": intent})
         return ChatResponse(
