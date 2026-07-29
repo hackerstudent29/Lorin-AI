@@ -102,7 +102,10 @@ export function useCampusChat(onAnimationDone?: (userMsgId: string) => void) {
         createdAt: Date.now(),
       };
 
-      setMessages((prev) => [...prev, userMessage]);
+      setMessages((prev) => [
+        ...prev.map((m) => ({ ...m, followups: [] })),
+        userMessage
+      ]);
       setIsTyping(true);
 
       try {
