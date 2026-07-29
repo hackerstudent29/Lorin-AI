@@ -433,7 +433,7 @@ SOURCES:
         return rj["choices"][0]["message"]["content"].strip(), rj.get("usage",{})
     except Exception as e:
         logger.error(f"[LLM] Generation failed: {e}")
-        raise
+        return "I couldn't generate an answer due to a backend timeout. Please try again.", {}
 
 
 
@@ -933,7 +933,28 @@ def chat_endpoint(req: ChatRequest, request: Request):
     if not user_query:
         raise HTTPException(400, "Query cannot be empty.")
 
-    # ── Step 0: Spell correction (skip for very short queries — likely greetings) ──
+    # ── Step 0a: Exact Cache lookup (bypasses all LLM processing) ─────────────
+    q_hash = hashlib.sha256(user_query.lower().encode()).hexdigest()
+    if not getattr(req, "bypass_cache", False):
+        try:
+            conn = db_connect(); conn.autocommit = True; cur = conn.cursor()
+            cur.execute("SELECT response_text, citations FROM query_cache WHERE query_hash=%s", (q_hash,))
+            row = cur.fetchone()
+            if row:
+                cur.execute("UPDATE query_cache SET hit_count=hit_count+1, last_accessed=CURRENT_TIMESTAMP WHERE query_hash=%s", (q_hash,))
+                cur.close(); conn.close()
+                cits = json.loads(row[1]) if isinstance(row[1], str) else (row[1] or [])
+                save_message(req.session_id, "user", user_query)
+                cached_msg_id = save_message(req.session_id, "assistant", row[0], {"from_cache": True})
+                return ChatResponse(answer=row[0], citations=cits,
+                                    modelUsed="cache", isCached=True,
+                                    tokenUsage=TokenUsage(prompt_tokens=0,completion_tokens=0,total_tokens=0),
+                                    message_id=cached_msg_id)
+            cur.close(); conn.close()
+        except Exception as e:
+            logger.warning(f"[Cache] Lookup failed: {e}")
+
+    # ── Step 0b: Spell correction (skip for very short queries) ───────────────
     if len(user_query.split()) <= 2:
         # Short queries like "hi", "hello", "bye" — don't spell-correct, run intent first
         corrected_query, corrections = user_query, []
@@ -1032,29 +1053,6 @@ def chat_endpoint(req: ChatRequest, request: Request):
             message_id=msg_id,
             followups=followups,
         )
-
-    # ── Step 3: Cache lookup ──────────────────────────────────────────────────
-    q_hash = hashlib.sha256(active_query.lower().encode()).hexdigest()
-    if not req.bypass_cache:
-        try:
-            conn = db_connect(); conn.autocommit = True; cur = conn.cursor()
-            cur.execute("SELECT response_text, citations FROM query_cache WHERE query_hash=%s", (q_hash,))
-            row = cur.fetchone()
-            if row:
-                cur.execute("UPDATE query_cache SET hit_count=hit_count+1, last_accessed=CURRENT_TIMESTAMP WHERE query_hash=%s", (q_hash,))
-                cur.close(); conn.close()
-                cits = json.loads(row[1]) if isinstance(row[1], str) else (row[1] or [])
-                # Save a message row even for cached responses so feedback works
-                cached_msg_id = save_message(req.session_id, "assistant", row[0], {"from_cache": True})
-                return ChatResponse(answer=row[0], citations=cits,
-                                    modelUsed="cache", isCached=True,
-                                    tokenUsage=TokenUsage(prompt_tokens=0,completion_tokens=0,total_tokens=0),
-                                    message_id=cached_msg_id)
-            cur.close(); conn.close()
-        except Exception as e:
-            logger.warning(f"[Cache] Lookup failed: {e}")
-    else:
-        logger.debug(f"[Cache] Bypassed for query_hash={q_hash}")
 
     retrieval_query = active_query  # use rewritten active_query for embedding/BM25
 
