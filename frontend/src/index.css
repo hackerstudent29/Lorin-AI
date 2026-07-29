@@ -132,6 +132,19 @@
   animation: gradient-shift 10s ease-in-out infinite;
 }
 
+@keyframes ping {
+  75%, 100% { transform: scale(2); opacity: 0; }
+}
+.animate-ping { animation: ping 1.2s cubic-bezier(0, 0, 0.2, 1) infinite; }
+
+/* Mobile: message list left/right padding */
+@media (max-width: 640px) {
+  .message-list-padding {
+    padding-left: 0.625rem;
+    padding-right: 0.625rem;
+  }
+}
+
 /* ─── Reduced motion ─────────────────────────────────────────────── */
 @media (prefers-reduced-motion: reduce) {
   .animate-msg-in-user,
@@ -199,6 +212,20 @@
   border-radius: 0.75rem;
   overflow: hidden;
   border: 1px solid var(--border);
+}
+/* Scrollable table wrapper on mobile */
+.bot-prose .table-wrapper {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-radius: 0.75rem;
+  border: 1px solid var(--border);
+  margin: 0.5rem 0;
+}
+.bot-prose .table-wrapper table {
+  margin: 0;
+  border: none;
+  border-radius: 0;
+  min-width: 420px;
 }
 .bot-prose thead { background: oklch(from var(--secondary) l c h / 50%); }
 .bot-prose th {

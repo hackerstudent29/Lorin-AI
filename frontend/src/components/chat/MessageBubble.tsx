@@ -150,7 +150,7 @@ const mdComponents: Components = {
     return <code>{children}</code>;
   },
   pre: ({ children }) => <pre>{children}</pre>,
-  table: ({ children }) => <table>{children}</table>,
+  table: ({ children }) => <div className="table-wrapper"><table>{children}</table></div>,
   thead: ({ children }) => <thead>{children}</thead>,
   tbody: ({ children }) => <tbody>{children}</tbody>,
   tr: ({ children }) => <tr>{children}</tr>,
@@ -219,12 +219,12 @@ export function MessageBubble({ message, isGroupStart, showTimestamp, sessionId,
       >
         <div
           className={cn(
-            "relative inline-block w-fit min-w-0 max-w-[88%] sm:max-w-[80%] md:max-w-[75%] lg:max-w-[72%]",
-            "flex-none break-words rounded-2xl px-5 py-3 text-[15px] leading-[1.6]",
+            "relative inline-block w-fit min-w-0 max-w-[96%] sm:max-w-[82%] md:max-w-[75%] lg:max-w-[72%]",
+            "flex-none break-words rounded-2xl px-4 py-3 sm:px-5 text-[14.5px] sm:text-[15px] leading-[1.6]",
             "shadow-[0_2px_10px_-4px_oklch(0_0_0_/8%)] transition-shadow hover:shadow-[0_6px_20px_-8px_oklch(0_0_0_/12%)]",
             isUser
               ? "rounded-br-md animate-msg-in-user"
-              : "rounded-bl-md backdrop-blur-sm animate-msg-in-bot"
+              : "rounded-bl-md backdrop-blur-sm animate-msg-in-bot w-full"
           )}
           style={
             isUser

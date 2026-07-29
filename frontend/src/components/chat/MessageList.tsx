@@ -207,7 +207,7 @@ export const MessageList = forwardRef<HTMLDivElement, Props>(function MessageLis
     <div
       ref={ref}
       aria-live="polite"
-      className="mx-auto w-full max-w-5xl px-6 pb-4 pt-6"
+      className="mx-auto w-full max-w-5xl px-2.5 sm:px-6 pb-4 pt-4 sm:pt-6"
     >
       {messages.map((m, i) => {
         const prev = messages[i - 1];
