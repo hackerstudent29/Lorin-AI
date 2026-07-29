@@ -29,7 +29,11 @@ export function useCampusChat(onAnimationDone?: (userMsgId: string) => void) {
         const res = await fetch(`${API_BASE}/api/chat/history/${sessionId}`);
         if (res.ok && active) {
           const data = await res.json();
-          setMessages(data);
+          // Only the last message keeps its followups — strip all others
+          const cleaned = (data as ChatMessage[]).map((m, i, arr) =>
+            i < arr.length - 1 ? { ...m, followups: [] } : m
+          );
+          if (active) setMessages(cleaned);
         }
       } catch (err) {
         console.error("Failed to load chat history:", err);
@@ -135,7 +139,10 @@ export function useCampusChat(onAnimationDone?: (userMsgId: string) => void) {
             isAnimating:   true,
           };
 
-          setMessages((prev) => [...prev, aiMessage]);
+          setMessages((prev) => [
+            ...prev.map((m) => ({ ...m, followups: [] })),
+            aiMessage
+          ]);
           setIsTyping(false);
           animateMessage(aiMsgId, fullText, userMsgId);
         } else {
