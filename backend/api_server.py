@@ -64,6 +64,87 @@ def db_connect():
 query_rewriter  = QueryRewriter(NVIDIA_API_KEY, db_conn_fn=db_connect)
 hybrid_retriever = None   # initialised after app startup (needs embed_fn)
 
+SEED_CACHE: list[dict] = [
+    {
+        "query": "what courses does msajce offer",
+        "answer": """MSAJCE (Mohamed Sathak A.J. College of Engineering) offers the following programmes:
+
+## 🎓 Undergraduate B.E / B.Tech Programmes
+
+| Programme | Total Intake | Govt Quota | Mgmt Quota |
+|---|---|---|---|
+| Civil Engineering | 30 | 15 | 15 |
+| Computer Science and Engineering (CSE) | 60 | 30 | 30 |
+| Electronics and Communication Engineering (ECE) | 60 | 30 | 30 |
+| Electrical and Electronics Engineering (EEE) | 30 | 15 | 15 |
+| Mechanical Engineering | 30 | 15 | 15 |
+| Information Technology (IT) | 60 | 30 | 30 |
+| Artificial Intelligence and Data Science (AI&DS) | 60 | 30 | 30 |
+| Computer Science and Business Systems (CSBS) | 30 | 15 | 15 |
+| CSE (Cyber Security) | 30 | 15 | 15 |
+| Artificial Intelligence and Machine Learning (AI&ML) | 60 | 30 | 30 |
+| Electronics (VLSI Design and Technology) | 30 | 15 | 15 |
+| ECE (Advanced Communication Technology) | 30 | 15 | 15 |
+| Bachelor of Architecture | 40 | 20 | 20 |
+| Bachelor of Design | 30 | 15 | 15 |
+
+## 🎓 Postgraduate Programmes (M.E / M.Arch)
+
+| Programme | Total Intake |
+|---|---|
+| Computer Science and Engineering | 9 |
+| Structural Engineering | 18 |
+| Master of Architecture | 15 |
+
+## 🔬 Research Programme
+- **Ph.D** in Mechanical Engineering
+
+All programmes are approved by AICTE and affiliated to Anna University, Chennai.""",
+        "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Programmes Offered"}],
+    },
+    {
+        "query": "what are the courses in msajce",
+        "answer": """MSAJCE offers 14 UG programmes, 3 PG programmes and a Ph.D programme. The key UG courses are: CSE, IT, ECE, EEE, Mechanical, Civil, AI&DS, AI&ML, CSBS, Cyber Security, VLSI, ACT, B.Arch, and B.Design. For the full intake details ask: "What courses does MSAJCE offer?".""",
+        "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Programmes Offered"}],
+    },
+    {
+        "query": "list of departments in msajce",
+        "answer": """MSAJCE has the following departments:
+1. Computer Science and Engineering (CSE)
+2. Information Technology (IT)
+3. Electronics and Communication Engineering (ECE)
+4. Electrical and Electronics Engineering (EEE)
+5. Mechanical Engineering
+6. Civil Engineering
+7. Artificial Intelligence and Data Science (AI&DS)
+8. Artificial Intelligence and Machine Learning (AI&ML)
+9. Computer Science and Business Systems (CSBS)
+10. CSE (Cyber Security)
+11. Science and Humanities (S&H)
+
+Plus Architecture and Design programmes.""",
+        "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Programmes Offered"}],
+    },
+]
+
+def seed_cache_entries():
+    """Pre-populate query_cache with guaranteed correct answers for commonly failed queries."""
+    try:
+        conn = db_connect(); conn.autocommit = True; cur = conn.cursor()
+        for entry in SEED_CACHE:
+            q_hash = hashlib.sha256(entry["query"].encode()).hexdigest()
+            # Only seed if no entry exists (don't overwrite self-healed answers)
+            cur.execute("SELECT 1 FROM query_cache WHERE query_hash = %s", (q_hash,))
+            if not cur.fetchone():
+                cur.execute(
+                    "INSERT INTO query_cache (query_hash, query_text, response_text, citations) VALUES (%s, %s, %s, %s)",
+                    (q_hash, entry["query"], entry["answer"], json.dumps(entry["citations"]))
+                )
+                logger.info(f"[SeedCache] Seeded: '{entry['query']}'")
+        cur.close(); conn.close()
+    except Exception as e:
+        logger.warning(f"[SeedCache] Failed: {e}")
+
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     global hybrid_retriever
@@ -77,6 +158,8 @@ async def lifespan(app: FastAPI):
     )
     # Warm up spell corrector (first Levenshtein call loads the C extension — can take 500ms)
     spell_corrector.correct("warmup msajce")
+    # Seed critical Q&A pairs into cache so retriever failures never return blank answers
+    seed_cache_entries()
     logger.info("[Startup] Pipeline ready.")
     yield
 
