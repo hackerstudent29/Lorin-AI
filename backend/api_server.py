@@ -482,7 +482,43 @@ def _pick_max_tokens(user_query: str, context_blocks: list) -> int:
     return 1000       # Default
 
 
-def generate_answer(user_query: str, context_blocks: list) -> tuple:
+def get_recent_history(session_id: str, max_turns: int = 4) -> list:
+    """
+    Fetch the last N turns of conversation for a session to give the LLM memory context.
+    Returns a list of {role, content} dicts (oldest first, suitable for LLM messages array).
+    """
+    if not session_id:
+        return []
+    try:
+        conn = db_connect(); conn.autocommit = True; cur = conn.cursor()
+        cur.execute("""
+            SELECT role, content FROM chat_messages
+            WHERE session_id = %s::uuid
+            ORDER BY created_at DESC
+            LIMIT %s
+        """, (session_id, max_turns * 2 + 1))
+        rows = cur.fetchall()
+        cur.close(); conn.close()
+        # Skip the most recent user message (current query — already passed as user_query)
+        turns = []
+        skipped = False
+        for role, content in rows:
+            if not skipped and role == "user":
+                skipped = True
+                continue
+            # Smart-truncate long assistant answers to save tokens
+            if role == "assistant" and len(content) > 500:
+                content = content[:250].strip() + " ... " + content[-150:].strip()
+            turns.append({"role": role, "content": content.replace("\n", " ")})
+            if len(turns) >= max_turns * 2:
+                break
+        return list(reversed(turns))  # oldest first
+    except Exception as e:
+        logger.warning(f"[History] Failed to fetch: {e}")
+        return []
+
+
+def generate_answer(user_query: str, context_blocks: list, session_id: str = "") -> tuple:
     ctx_parts = []
     for i, blk in enumerate(context_blocks, 1):
         section  = blk.get("section_title", "")
@@ -512,13 +548,19 @@ RULES:
 SOURCES:
 {context_str}
 """
+
+    # Build messages: system prompt + prior history turns + current question
+    history_msgs = get_recent_history(session_id) if session_id else []
+    messages = [{"role": "system", "content": system_prompt}]
+    messages.extend(history_msgs)
+    messages.append({"role": "user", "content": user_query})
+
     try:
         res = requests.post(
             "https://integrate.api.nvidia.com/v1/chat/completions",
             headers={"Authorization": f"Bearer {NVIDIA_API_KEY}", "Content-Type": "application/json"},
             json={"model":"meta/llama-3.1-8b-instruct",
-                  "messages":[{"role":"system","content":system_prompt},
-                               {"role":"user","content":user_query}],
+                  "messages": messages,
                   "temperature":0.1,"max_tokens":max_tok},
             timeout=30,
         )
@@ -1286,7 +1328,7 @@ def chat_endpoint(req: ChatRequest, request: Request):
                 yield f"data: {json.dumps({'type': 'error', 'text': str(e)})}\n\n"
 
         return StreamingResponse(event_stream(), media_type="text/event-stream")
-    answer, g_usage = generate_answer(user_query, context_blocks)
+    answer, g_usage = generate_answer(user_query, context_blocks, session_id=req.session_id)
 
     # ── Step 6b: Faithfulness check (conditional on low confidence) ───────────
     context_for_check = "\n\n".join(context_str_parts)
