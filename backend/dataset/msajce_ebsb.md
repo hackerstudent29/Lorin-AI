@@ -1,38 +1,25 @@
-# EBSB
+# Ek Bharat Shreshtha Bharat
 
-## Ek Bharat Shreshtha Bharat
+## 1. Initiative Overview
+- Ek Bharat Shreshtha Bharat is an initiative launched by the Government of India to enhance unity in diversity across the nation.
+- The initiative was launched by Prime Minister Shri Narendra Modi during the Rashtriya Ekta Divas held on October 31st, 2015, to commemorate the birth anniversary of Sardar Vallabhbhai Patel.
+- The primary goal is to establish a sustained and structured cultural connection among denizens of different regions of India.
+- India is a unique nation whose fabric has been woven by diverse linguistic, cultural, and religious threads, held together into a composite national identity by a rich history of cultural evolution.
+- The program aims to enhance interaction and promote mutual understanding between people of different states and union territories through the concept of state pairing.
+- The paired states carry out activities to promote a sustained and structured cultural connection in areas such as language learning, culture, traditions, music, tourism, cuisine, sports, and the sharing of best practices.
+- Under this initiative, Tamil Nadu is paired with Jammu and Kashmir.
 
-Ek Bharat Shreshtha Bharat, an initiative launched by the Government of India, aims to enhance the unity in diversity of the nation, celebrating the rich tapestry of linguistic, cultural, and religious threads that make up India's unique fabric. This initiative was launched by Prime Minister Shri Narendra Modi on 31st October, 2015, during the Rashtriya Ekta Divas, which commemorated the birth anniversary of Sardar Vallabhbhai Patel.
+## 2. College Participation
+- Mohamed Sathak A.J. College of Engineering in Chennai has actively participated in this initiative by conducting two major programs in collaboration with SSM College of Engineering in Parihaspora, Pattan, Baramulla, Jammu and Kashmir.
+- The first activity was a Cultural Exchange Program organized under Ek Bharat Shreshtha Bharat and Azadi Ka Amrit Mahotsav, with further details accessible through the official Ek Bharat portal.
+- The second activity focused on exploring the winter iconic destination of Gulmarg, Kashmir, alongside the traditional art of Kashmiri carpet weaving, with the presentation material available via a shared Google Drive link.
 
-The programme seeks to establish a sustained and structured cultural connect between people from different regions of India, promoting mutual understanding and interaction through state and union territory pairings. As part of this initiative, various activities are undertaken to foster connections in areas such as language learning, culture, traditions, music, tourism, cuisine, sports, and sharing of best practices.
+### Sample Questions:
+- ◆ What is the Ek Bharat Shreshtha Bharat initiative?
+- ◆ Which state is Tamil Nadu paired with under the Ek Bharat Shreshtha Bharat program?
+- ◆ With which college in Jammu and Kashmir did **MSAJCE** collaborate for Ek Bharat Shreshtha Bharat activities?
 
-In this context, Tamil Nadu has been paired with Jammu-Kashmir, and Mohamed Sathak A J College of Engineering, Chennai, has collaborated with SSM College of Engineering, Parihaspora, Pattan, Baramulla, JK, to conduct two programmes under the Ek Bharat Shreshtha Bharat initiative.
-
-As part of the Ek Bharat Shreshtha Bharat initiative, Mohamed Sathak A.J. College of Engineering participated in a Cultural Exchange Program, which was also a part of the Azadi Ka Amrit Mahotsav celebrations. This program aimed to promote cultural understanding and exchange between different states, with Tamil Nadu being paired with Jammu-Kashmir and Ladakh.
-
-The college also organized a program that showcased the Winter Iconic destination of Gulmarg, Kashmir, highlighting its breathtaking beauty and significance. Additionally, the program delved into the Traditional Art of Kashmir, specifically focusing on the intricate craft of Carpet Weaving, which is an integral part of Kashmir's rich cultural heritage.
-
-## National Innovation and Startup Policy
-
-## Entrepreneurship Development Cell
-
-## Academic Schedule
-
-The Academic Calendar for the Higher Semester, specifically the Odd Semester of the 2022-2023 academic year, has been outlined. 
-
-In addition to the Odd Semester calendar, the Academic Calendar for the Higher Semester, covering the Even Semester of the 2021-2022 academic year, is also available.
-
-Furthermore, the Academic Calendar for the First Year students, covering the Even Semester of the 2021-2022 academic year, has been provided for reference.
-
-## Academic Toppers
-
-The academic toppers of Mohamed Sathak A.J. College of Engineering have demonstrated exceptional performance in their respective departments. Mohamed Jassim M, a student from the second year, has achieved top honors, while Veera Kumar M from the third year and Mohmood Naina MH from the fourth year have also excelled in their studies. Additionally, Salman from the second year and Atef Jamaludeen N from the third year have showcased their academic prowess.
-
-In the Department of Computer Science and Engineering, Vinitha M from the second year has emerged as a top performer, followed by Bhuvaneshwari B from the third year and Mahalakshmi R from the fourth year. These students have consistently demonstrated their academic excellence in the field of computer science and engineering.
-
-The Department of Information Technology has also seen outstanding performances from its students, including Shalini M from the second year, Ganga M from the third year, and Fouzia MA from the fourth year. These students have shown a deep understanding of the subject matter and have achieved top grades in their respective years.
-
-In the Department of Electronics and Communication Engineering, Satheshkumar V from the second year has achieved top honors, while Assifa A from the third year and Vigneshwaran V from the fourth year have also demonstrated their academic excellence. These students have consistently performed well in their studies and have shown a keen interest in the field of electronics and communication engineering.
-
-The Department of Electrical and Electronics Engineering has also seen exceptional performances from its students, including Divyasri S from the second year, Sathyan S from the third year, and Sanjith S from the fourth year. These students have shown a deep understanding of the subject matter and have achieved top grades in their respective years.
-
+## Related Notes
+[[msajce_clubssocieties]]
+[[msajce_karma]]
+[[msajce_socialservices]]

@@ -1,7 +1,0 @@
-# Financial Statements of Mohamed Sathak A.J. College of Engineering (MSAJCE), Siruseri, Chennai
-
-The official Financial Statements and audited Balance Sheets of Mohamed Sathak A.J. College of Engineering (MSAJCE) in Siruseri, Chennai, are publicly maintained and accessible to ensure transparency and regulatory compliance. Rather than displaying raw financial tables directly on the website pages, the college administration provides these critical documents as official, downloadable PDF audit reports for each respective academic year.
-
-For the academic year 2022 to 2023, the official Balance Sheet can be securely accessed, downloaded, and reviewed via the official document hosted at https://www.msajce-edu.in/images/office/BS2022-2023.pdf. Similarly, the audited financial records and statements for the preceding academic year, 2021 to 2022, are officially maintained and accessible at https://www.msajce-edu.in/images/office/BS2021-2022.pdf. 
-
-For historical transparency and continuous regulatory compliance, the college also provides the Balance Sheets for earlier academic periods. The comprehensive financial statement for the academic year 2020 to 2021 is available for review at https://www.msajce-edu.in/images/office/BS2020-2021.pdf, while the earliest publicly listed record currently available, covering the academic year 2019 to 2020, can be found at https://www.msajce-edu.in/images/office/BS2019-2020.pdf. These documents serve as the definitive, audited records for the institution's financial health and administrative accountability.

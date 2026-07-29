@@ -592,6 +592,7 @@ def run():
     # Build Qdrant points — deterministic ID from chunk_hash so re-runs upsert cleanly
     points = []
     for chunk, emb in zip(all_chunks, embeddings):
+        entity_ids = list(set(re.findall(r'<!--(ent_\d+)-->', chunk.text)))
         points.append(PointStruct(
             id=chunk.point_id,  # deterministic SHA-256-based ID (Req 1.10)
             vector=emb,
@@ -608,6 +609,7 @@ def run():
                 "chunk_index":   chunk.chunk_index,
                 "total_chunks":  chunk.total_chunks,
                 "entities":      chunk.entities,
+                "entity_ids":    entity_ids,
                 "keywords":      chunk.keywords,
                 "parent_id":     chunk.parent_id,
                 "chunk_hash":    chunk.chunk_hash,

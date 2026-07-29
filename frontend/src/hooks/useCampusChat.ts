@@ -109,32 +109,82 @@ export function useCampusChat(onAnimationDone?: (userMsgId: string) => void) {
         const res = await fetch(`${API_BASE}/api/chat`, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ message: text, session_id: sessionId }),
+          body: JSON.stringify({ message: text, session_id: sessionId, stream: true }),
         });
 
         if (res.ok) {
-          const data     = await res.json();
-          const aiMsgId  = "msg_" + (Date.now() + 1);
-          const fullText = data.answer ?? "";
-
-          const aiMessage: ChatMessage = {
-            id: aiMsgId,
-            role: "assistant",
-            content: "",
-            createdAt: Date.now(),
-            citations:     data.citations  || [],
-            modelUsed:     data.modelUsed  || "meta/llama-3.1-8b-instruct",
-            isCached:      data.isCached   || false,
-            tokenUsage:    data.tokenUsage,
-            message_id:    data.message_id || undefined,
-            feedbackState: "none" as const,
-            followups:     data.followups  || [],
-            isAnimating:   true,
-          };
-
-          setMessages((prev) => [...prev, aiMessage]);
           setIsTyping(false);
-          animateMessage(aiMsgId, fullText, userMsgId);
+          const aiMsgId  = "msg_" + (Date.now() + 1);
+          
+          setMessages((prev) => [
+            ...prev,
+            {
+              id: aiMsgId,
+              role: "assistant",
+              content: "",
+              createdAt: Date.now(),
+              citations: [],
+              modelUsed: "meta/llama-3.1-8b-instruct",
+              isCached: false,
+              feedbackState: "none" as const,
+              followups: [],
+              isAnimating: true,
+            }
+          ]);
+
+          if (!res.body) throw new Error("No response body");
+          const reader = res.body.getReader();
+          const decoder = new TextDecoder("utf-8");
+          let done = false;
+          let buffer = "";
+
+          while (!done) {
+            const { value, done: readerDone } = await reader.read();
+            done = readerDone;
+            if (value) {
+              buffer += decoder.decode(value, { stream: true });
+              let boundary = buffer.indexOf("\\n\\n");
+              while (boundary !== -1) {
+                const message = buffer.slice(0, boundary);
+                buffer = buffer.slice(boundary + 2);
+                
+                if (message.startsWith("data: ")) {
+                  try {
+                    const data = JSON.parse(message.slice(6));
+                    if (data.type === "content") {
+                      setMessages((prev) =>
+                        prev.map((m) =>
+                          m.id === aiMsgId ? { ...m, content: m.content + data.text } : m
+                        )
+                      );
+                    } else if (data.type === "metadata") {
+                      setMessages((prev) =>
+                        prev.map((m) =>
+                          m.id === aiMsgId ? {
+                            ...m,
+                            citations: data.citations || [],
+                            followups: data.followups || [],
+                            message_id: data.message_id,
+                            tokenUsage: data.tokenUsage,
+                            isAnimating: false,
+                          } : m
+                        )
+                      );
+                    } else if (data.type === "error") {
+                      console.error("Stream error:", data.text);
+                      setMessages((prev) => prev.map((m) => m.id === aiMsgId ? { ...m, isAnimating: false } : m));
+                    }
+                  } catch(e) {
+                     // ignore partial JSON parse errors
+                  }
+                }
+                boundary = buffer.indexOf("\\n\\n");
+              }
+            }
+          }
+          
+          onAnimationDone?.(userMsgId);
+
         } else {
           const errText = await res.text();
           console.error("API error:", res.status, errText);
@@ -163,9 +213,8 @@ export function useCampusChat(onAnimationDone?: (userMsgId: string) => void) {
         setIsTyping(false);
       }
     },
-    [animateMessage, sessionId]
+    [sessionId, onAnimationDone]
   );
-
   const submitFeedback = useCallback(
     async (messageId: string, rating: -1 | 1): Promise<void> => {
       // Optimistic update to 'submitting'

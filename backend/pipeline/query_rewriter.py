@@ -9,40 +9,26 @@ logger = logging.getLogger(__name__)
 
 # Constants (from rag_config)
 REWRITE_MIN_HISTORY_TURNS = 1    # Fire after 1 prior assistant turn
-REWRITE_MAX_CONTEXT_TURNS = 4    # How many turns (user+assistant) to include
+REWRITE_MAX_CONTEXT_TURNS = 6    # Include last 6 turns (user+assistant)
 REWRITE_TIMEOUT_SEC = 10         # LLM call timeout
-
 
 class QueryRewriter:
     """
     LLM-based condense-question rewriter for multi-turn conversations (Req 6).
-    Only rewrites when there are >=2 prior assistant turns in the session.
     """
 
     def __init__(self, nvidia_api_key: str, supabase_client=None, db_conn_fn=None):
-        """
-        Args:
-            nvidia_api_key: NVIDIA NIM API key for LLM calls
-            supabase_client: optional Supabase client (not used directly — we use db_conn_fn)
-            db_conn_fn: callable that returns a psycopg2 connection
-        """
         self._api_key   = nvidia_api_key
         self._supabase  = supabase_client
         self._db_conn   = db_conn_fn
 
     def _get_history(self, session_id: str) -> list:
-        """
-        Fetch the last REWRITE_MAX_CONTEXT_TURNS messages for this session,
-        EXCLUDING the most recent user message (which is the current query).
-        Returns list of {"role": str, "content": str} ordered oldest-first.
-        """
         if not self._db_conn or not session_id:
             return []
         try:
             conn = self._db_conn()
             conn.autocommit = True
             cur = conn.cursor()
-            # Fetch one extra so we can skip the most recent user message
             cur.execute("""
                 SELECT role, content FROM chat_messages
                 WHERE session_id = %s::uuid
@@ -52,7 +38,6 @@ class QueryRewriter:
             rows = cur.fetchall()
             cur.close()
             conn.close()
-            # Rows are newest-first; skip the most recent user message (just saved)
             filtered = []
             skipped_current = False
             for role, content in rows:
@@ -62,7 +47,6 @@ class QueryRewriter:
                 filtered.append({"role": role, "content": content})
                 if len(filtered) >= REWRITE_MAX_CONTEXT_TURNS:
                     break
-            # Reverse to oldest-first
             return list(reversed(filtered))
         except Exception as e:
             logger.warning(f"[QueryRewriter] Failed to fetch history: {e}")
@@ -71,9 +55,7 @@ class QueryRewriter:
     def rewrite(self, user_message: str, session_id: Optional[str]) -> tuple:
         """
         Rewrite a follow-up question into a standalone question.
-
-        Returns:
-            (rewritten_query: str, was_rewritten: bool)
+        Returns: (rewritten_query: str, was_rewritten: bool)
         """
         if not session_id:
             return user_message, False
@@ -84,17 +66,19 @@ class QueryRewriter:
         for msg in history:
             role_label = "User" if msg["role"] == "user" else "Assistant"
             if msg["role"] == "assistant":
-                first_sent = msg["content"].split(".")[0][:180]
-                content = first_sent + ("..." if len(msg["content"]) > 180 else "")
+                # Don't aggressively split by '.' which might cut off vital context like lists or exact names
+                content = msg["content"][:400].replace('\n', ' ')
+                if len(msg["content"]) > 400: content += "..."
             else:
-                content = msg["content"][:300]
+                content = msg["content"][:300].replace('\n', ' ')
             history_str += f"{role_label}: {content}\n"
 
         if history_str.strip():
             prompt = (
                 "You are an expert search query optimizer for a college chatbot.\n"
                 "Task: Rewrite the current user question into a clear, concise, and formal standalone search question.\n"
-                "Use the conversation history ONLY to resolve pronouns or missing context (e.g. 'it', 'that', 'the department').\n"
+                "Use the conversation history ONLY to resolve pronouns or missing context (e.g. 'it', 'that', 'the department', 'he', 'him').\n"
+                "If the user asks about a specific person discussed recently, replace 'him' or 'her' with their full name.\n"
                 f"History:\n{history_str}\n"
                 f"Current question: {user_message}\n"
                 "Output ONLY the optimized, clean rewritten question without quotation marks or extra text."

@@ -1,134 +1,113 @@
-# Civil Engineering Department
-
-## Overview
-
-Civil engineers play a vital role in conceiving, designing, constructing, supervising, operating, and maintaining infrastructure projects and systems in both the public and private sectors. Their work encompasses a wide range of projects, including roads, buildings, bridges, airports, tunnels, dams, and systems for water supply and sewerage treatment, as well as pollution controls. As one of the older engineering disciplines, civil engineering is the backbone and integral part of society, without which a society could not function.
-
-The field of civil engineering is incredibly diverse, offering a broad spectrum of activities through various disciplines such as surveying, structural engineering, transport engineering, environment and water supply engineering, Remote Sensing, and GIS. Civil engineers are the unsung heroes of the engineering world, working tirelessly to adapt infrastructures to meet the challenges of population growth and climate change, incorporating new technologies to help society thrive. Their work is never dull, and they are constantly creative in their unique way.
-
-The Department of Civil Engineering at Mohamed Sathak A.J. College of Engineering, located in Siruseri, Chennai, India, is one of the pioneer departments of the institute, established in 2007. Over the years, the department has excelled in academics, research, cultural, and sports activities, earning a prestigious reputation that meets global standards.
-
-The Civil Engineering Department at Mohamed Sathak A.J. College of Engineering offers a comprehensive range of academic programs, including a four-year undergraduate program in B.E Civil Engineering and a postgraduate program in M.E Structural Engineering. The curriculum is designed to provide students with ample opportunities to develop their skills as industrialists, researchers, or entrepreneurs, thereby equipping them to excel in their chosen careers.
-
-Over the years, the department has produced a talented pool of engineers who have consistently demonstrated the highest level of professional standards in the field of engineering and technology. The department takes immense pride in its strong alumni base, which plays a vital role in contributing to the growth and development of the department. By leveraging the expertise of its alumni network, the department provides students with frequent opportunities for interaction, enabling them to acquire valuable experimental learning exposures and enrich their careers.
-
-As the head of the department, I am honored to lead a team of dedicated and compassionate individuals who are committed to upholding the highest standards of the Civil Engineering department. Our undergraduate program in B.E Civil Engineering is a four-year regular program or a three-year lateral entry program, comprising eight semesters for regular students and six semesters for lateral entry students. The program has a total intake of 30 students, with 15 seats allocated to government quota and 15 seats to management quota. To be eligible for the program, students must have completed the 10+2 system of education and secured a pass in Physics, Chemistry, and Mathematics in their qualifying examination.
-
-The department follows the 2021 and 2017 regulations for its curriculum and syllabus, providing students with a comprehensive and industry-relevant education. Upon completion of the program, students can explore a wide range of career opportunities in the field of civil engineering.
-
-The Civil Engineering Department at Mohamed Sathak A.J. College of Engineering is dedicated to producing well-rounded professionals who excel as planners, designers, constructors, and operators, while also serving as stewards of the environment and innovators and integrators of technology. These individuals are equipped to manage risk and take on leadership roles in public policy, with opportunities to work in the public sector and government sector.
-
-The department offers a Master of Engineering (M.E.) program in Structural Engineering, which spans two years and consists of four semesters. With a total intake of 18 seats, admission to this program is based on the norms set by Anna University and the All India Council for Technical Education (AICTE). For those seeking more information on the eligibility criteria, further details are available.
-
-The curriculum and syllabus for the Civil Engineering program are based on the 2017 and 2021 regulations, providing students with a comprehensive education that prepares them for higher studies and a successful career in their chosen field.
-
-## Vision
-
-The Civil Engineering Department at MSAJCE envisions itself as a centre of excellence, transforming students into proficient civil engineers through sustainable practices. To achieve this vision, the department has outlined a mission that encompasses three key objectives. Firstly, the department aims to impart core fundamental knowledge and necessary skills in civil engineering through innovative teaching and learning methodologies. This is complemented by the goal of inculcating critical thinking, ethics, lifelong learning, and creativity in students, essential for their success in both industry and society.
-
-Furthermore, the department seeks to cultivate students with all-round competencies, enabling them to excel in their careers, pursue higher education, and become self-employed. The Employability Programme is designed to equip students with the skills and knowledge required to thrive in their chosen paths. In line with this, the department has established several Programme Educational Objectives (PEOs). For instance, graduates are expected to be able to prepare, design, and detail civil engineering components and systems with creativity and sustainability. Additionally, they will be skilled in using modern tools for critical problem-solving, analyzing industrial and societal requirements.
-
-The department also aims to prepare graduates with managerial and leadership skills, essential for their careers and for starting their own firms. To achieve these objectives, the department has outlined several Programme Specific Outcomes (PSOs). For example, graduates will be able to apply their skills to work on projects related to urban and rural planning and development, providing environmentally friendly and sustainable solutions. They will also be able to apply their acquired professional skills to design cost-effective structural components in various infrastructure development and civil engineering industries.
-
-Ultimately, the department seeks to produce graduates who possess a range of skills and knowledge, as outlined in the Programme Outcomes (PO). For instance, graduates will be able to apply their engineering knowledge to solve complex engineering problems, drawing on their understanding of mathematics, science, engineering fundamentals, and their chosen specialization.
-
-The Civil Engineering Department at MSAJCE aims to equip its students with the skills to analyze complex engineering problems, as outlined in the program outcomes. Specifically, students will learn to identify, formulate, and review research literature, ultimately reaching substantiated conclusions using the first principles of mathematics, natural sciences, and engineering sciences, as stated in PO2. This skillset will enable them to design solutions for complex engineering problems, taking into account public health and safety, as well as cultural, societal, and environmental considerations, as emphasized in PO3.
-
-In addition to designing solutions, students will also learn to conduct investigations of complex problems using research-based knowledge and methods, including the design of experiments, analysis and interpretation of data, and synthesis of information to provide valid conclusions, as outlined in PO4. Furthermore, they will be trained to create, select, and apply modern engineering and IT tools, including prediction and modeling, to complex engineering activities, while understanding the limitations of these tools, as stated in PO5.
-
-The department also recognizes the importance of the engineer's role in society, as highlighted in PO6, and will teach students to apply reasoning informed by contextual knowledge to assess societal, health, safety, legal, and cultural issues relevant to professional engineering practice. Lastly, students will gain an understanding of the impact of professional engineering solutions on societal and environmental contexts, and demonstrate knowledge of the need for sustainable development, as emphasized in PO7.
-
-The Civil Engineering Department at MSAJCE envisions its students to be well-versed in the application of ethical principles, adhering to professional ethics and responsibilities, and upholding the norms of engineering practice. This is reflected in PO8, which emphasizes the importance of ethics in the field of engineering.
-
-In addition to ethics, the department also aims to produce graduates who can function effectively as individuals and as members or leaders in diverse teams, particularly in multi-disciplinary settings. This is outlined in PO9, which highlights the significance of individual and team work in the engineering profession. Furthermore, the department seeks to equip its students with excellent communication skills, enabling them to convey complex engineering ideas effectively to both the engineering community and society at large. As stated in PO10, this includes the ability to comprehend and write effective reports and design documentation, make presentations, and give and receive clear instructions.
-
-The department also recognizes the importance of project management and finance in the engineering field. As outlined in PO11, students are expected to demonstrate knowledge and understanding of engineering and management principles, applying these to their work as members and leaders in teams, particularly in multi-disciplinary environments. Moreover, the department encourages its students to adopt a lifelong learning approach, recognizing the need for continuous learning in the context of technological change. This is reflected in PO12, which emphasizes the importance of being prepared to engage in independent and lifelong learning.
-
-## Job Profiles
-
-The employment outlook for civil engineering in India is expected to experience significant growth over the next five years, spanning from 2025 to 2030. This projection is based on current trends, government policy, industry shifts, and emerging technologies that are poised to shape the sector.
-
-The infrastructure sector is expected to continue its steady demand for civil engineers, driven by the government's investment in initiatives such as PM Gati Shakti, Smart Cities Mission, Bharat mala, and AMRUT 2.0. This demand will be fueled by a focus on high-speed rail, metro rail, expressways, and affordable housing projects. As a result, civil engineers can look forward to a wide range of job opportunities in this sector.
-
-Urbanization and housing are also expected to drive the demand for civil engineers, with India's urban population projected to reach over 600 million by 2030. This growth will create a sustained need for urban planners, construction engineers, and structural designers. Moreover, the rise of Tier 2 and Tier 3 cities will expand job locations, providing civil engineers with a wider range of options.
-
-The increasing demand for green infrastructure, energy-efficient buildings, and climate-resilient designs is creating new niches within the civil engineering field. This trend is expected to continue, driven by the need for sustainable and environmentally-friendly solutions. Private sector investment in real estate and industrial corridor developments, such as the Delhi-Mumbai Industrial Corridor, is also expected to boost employment opportunities for civil engineers.
-
-However, the civil engineering field is not without its challenges. Automation and technological disruption are increasingly affecting basic civil jobs, such as drafting and surveying, which are being automated through the use of Building Information Modelling (BIM), drones, and AI-based tools. As a result, employers are seeking multi-skilled engineers with knowledge in software tools, project management, and sustainability.
-
-According to indicative estimates, the public infrastructure sector is expected to see a job growth rate of 6-8% per year, driven by large national projects. The real estate and housing sector is expected to see a growth rate of 4-6% per year, driven by urban growth and housing demand. The transportation sector, which includes roads and rails, is expected to see a growth rate of 7-10% per year, driven by a strong boost from national highways. The green and sustainable engineering sector is expected to see a growth rate of 10-12% per year, driven by the emerging field of sustainable engineering. Finally, the BIM and smart construction sector is expected to see a growth rate of 15%+ per year, driven by the growing demand for niche skills.
-
-To remain competitive in the job market, civil engineers are advised to upskill in tech tools such as AutoCAD Civil 3D, Revit, STAAD Pro, Primavera, and BIM. They are also advised to gain project management certifications, such as PMP and PRINCE2, to move into supervisory roles. Additionally, learning about green building standards, such as IGBC and GRIHA, and sustainable practices can provide a competitive edge. Specializing in niche fields such as transportation engineering, geotechnical engineering, or environmental engineering can also provide opportunities for career advancement.
-
-Fresh graduates in civil engineering can look forward to a range of job opportunities in the government sector, including SSC JE, RRB, state PWDs, CPWD, and PSU recruitments. They can also find employment in construction and infrastructure firms, such as L&T, Shapoorji Pallonji, Tata Projects, and Afcons. Entry-level roles include site engineer, QA/QC engineer, junior design engineer, and estimator. Job growth for fresh graduates is expected to be around 5-6% annually, although this can improve if skill gaps are addressed.
-
-Postgraduates in civil engineering can look forward to specialized roles in design, R&D, structural analysis, and transportation engineering. They are sought after in consulting, research, academia, and international projects, and top recruiters include AECOM, WSP, Atkins, and NHAI consultants. High demand exists in niche fields such as geotechnical, environmental, and seismic engineering, and foreign opportunities in countries such as the UAE, Singapore, and Canada are stronger with postgraduate qualifications. Academic and research careers are also possible, especially with a PhD. Job growth for postgraduates is expected to be around 8-10% annually, with faster growth in urban planning, sustainability, and infrastructure analytics.
-
-The civil engineering sector is poised for significant growth, with various industries expected to experience substantial job demand between 2025 and 2030. In the public infrastructure sector, driven by large national projects, job growth is estimated to be around 6-8% per year. Meanwhile, the real estate and housing sector is expected to see a 4-6% annual growth rate, fueled by urban growth and housing demand.
-
-The transportation sector, particularly roads and rails, is anticipated to experience a strong boost via national highways, resulting in a 7-10% annual job growth rate. Furthermore, the emerging field of green and sustainable engineering is expected to see a remarkable 10-12% annual growth rate, offering high potential for job seekers. Another niche but rapidly growing area is BIM and smart construction, with an estimated annual job growth rate of 15% or more.
-
-In terms of employment opportunities, the civil engineering sector is expected to see around 5-6% annual job growth for qualified and skilled freshers. However, addressing skill gaps can potentially improve employability rates. Moreover, job growth is expected to be faster in certain areas, such as urban planning, sustainability, and infrastructure analytics, with an estimated annual growth rate of 8-10%.
-
-## Faculty
-
-The Civil Engineering Department at Mohamed Sathak A.J. College of Engineering is driven by a highly qualified and dedicated faculty team. Dr. Mohamed Adil Haque, who holds an M.E. and Ph.D., serves as a Professor and the Head of Postgraduate Studies (PG) with a specialization in Structural Engineering. Dr. Someswaran R, an Assistant Professor, holds an M.Tech. and Ph.D., and serves as the Head of Undergraduate Studies (UG) specializing in Water Resources Engineering. 
-
-The department features several other distinguished professors and associate professors. Dr. Elliss Yogesh R serves as a Professor specializing in Environmental Engineering with M.E. and Ph.D. credentials. Dr. Vignesh Kumar M, holding an M.E. and Ph.D., contributes as an Associate Professor.
-
-The structural engineering domain is strongly supported by Mr. Rizha Ur Rahman, an Assistant Professor holding an M.E. and currently pursuing his Ph.D., alongside Assistant Professors Ms. Gayathri K, Ms. Brinila Bright B, Mr. Navaneetha Krishnan C, Mr. Emil Reyen R, Mr. Daniel C A, Mr. Manikandan M, Ms. Kasthuri R, Ms. Divya U, Ms. Sathya Priya M, and Teaching Associate Mr. Mohamed Riyas M. 
-
-The faculty team is further strengthened by Assistant Professors Mrs. Janaki V (M.E.), Mrs. Kavithra P (M.Tech., Construction Engineering and Management), Mr. Vetrivel S C (M.E.), Mrs. Gayathri N (M.E.), Ms. Mary Praveena T (MBA), and Mrs. Preethy Mary A (M.Tech. and pursuing Ph.D.). Other key contributors include Ms. Hemavathi S and Mr. Sarangan B in Construction Engineering and Management, Mr. Shanmuharajan M B, Ms. Sharmila Ponnammal S, and Mr. Rakesh R B in Environmental Engineering, as well as Ms. Ramya D and Mr. Rakhesh R specializing in Geotechnical Engineering. All members are associated on a regular basis, providing students with a comprehensive and globally competitive education.
-
-## Section 5
-
-The Concrete and Highway Engineering Lab is equipped with state-of-the-art facilities, catering to the needs of students enrolled in CE8311 - Construction Materials and CE8611 - Highway Engineering courses. This lab provides hands-on experience, enabling students to apply theoretical concepts to real-world problems. For those interested in exploring the lab's facilities in more detail, a 'View Details' option is available. Additionally, a virtual link and ICT tools can be accessed through the 'View' option, while a soft copy of the lab record can be downloaded for reference.
-
-The Soil Mechanics Lab is another well-equipped facility, specifically designed for students taking the CE8511 - Soil Mechanics course. Similar to the Concrete and Highway Engineering Lab, the Soil Mechanics Lab offers a 'View Details' option for those seeking more information about its facilities. Furthermore, students can access virtual resources and ICT tools via the 'View' option, and a soft copy of the lab record is available for download.
-
-The Strength of Materials Lab is dedicated to providing students with practical experience in the field of strength of materials, particularly those enrolled in the CE8481 - Strength Of Materials course. This lab boasts an array of facilities, which can be explored in greater detail through the 'View Details' option. Moreover, students can utilize virtual resources and ICT tools by clicking on the 'View' option, and a soft copy of the lab record can be downloaded for future reference.
-
-The Hydraulic Engineering Lab is designed to cater to the needs of students taking the CE8461 - Hydraulic Engineering course. This lab offers a range of facilities, which can be viewed in more detail through the 'View Details' option. Students can also access virtual resources and ICT tools via the 'View' option, and a soft copy of the lab record is available for download.
-
-The Environmental Engineering Lab is equipped with facilities that support students enrolled in the CE8512 - Water and Waste Water Analysis course. This lab provides students with hands-on experience in environmental engineering, and its facilities can be explored in greater detail through the 'View Details' option. Additionally, students can access virtual resources and ICT tools via the 'View' option, and a soft copy of the lab record can be downloaded for reference.
-
-## Academics
-
-The Mohamed Sathak A.J. College of Engineering follows the Anna University Regulation and offers various courses under the 2021 syllabus, as well as the 2017 syllabus. The course materials for the 2021 regulation are available, including lesson plans, question banks, lecture notes, and ICT tools for various subjects.
-
-The course materials cover a range of subjects, including Transforms and Partial Differential Equations, which is denoted by the course code MA8353. Other subjects include Strength of Materials I, with the course code CE8301, and Fluid Mechanics, with the course code CE8302. Surveying, denoted by CE8351, Construction Materials, denoted by CE8391, and Engineering Geology, denoted by CE8392, are also part of the course materials.
-
-Numerical Methods, with the course code MA8491, is another subject for which course materials are available. Construction Techniques and Practices, denoted by CE8401, Strength of Materials II, denoted by CE8402, and Applied Hydraulic Engineering, denoted by CE8403, are also included. Concrete Technology, denoted by CE8404, and Soil Mechanics, denoted by CE8491, are part of the course materials as well.
-
-The course materials also cover Design of Reinforced Cement Concrete Elements, denoted by CE8501, and Structural Analysis I, denoted by CE8502. Water Supply Engineering, denoted by EN8491, and Foundation Engineering, denoted by CE8591, are also included. Additionally, the course materials cover Disaster Management, which is a professional elective denoted by GE8071, and Renewable Energy Sources, which is an open elective denoted by ORO551.
-
-The Civil Engineering Department at MSAJCE offers a wide range of courses for its students. Among these courses are Design of Steel Structural Elements, which is denoted by the course code CE8601, and Structural Analysis II, denoted by CE8602. Additionally, students can take Irrigation Engineering, CE8603, and Highway Engineering, CE8604. The department also offers Wastewater Engineering, EN8592, and Urban Planning and Development, CE8004, as a Professional Elective-II.
-
-Other courses available to students include Estimation, Costing and Valuation Engineering, CE8701, and Railways, Airports, Docks and Harbour Engineering, CE8702. Structural Design and Drawing, CE8703, is also part of the curriculum. Furthermore, students can opt for Total Quality Management, GE8077, as a Professional Elective-III, and Industrial Safety, OME754, as an Open Elective-II. The department also offers Professional Elective IV and Professional Elective V, providing students with a range of options to choose from.
-
-In addition to these courses, the Civil Engineering Department also handles subjects for service departments, including Disaster Management, GE8071, for III/EEE students. The department also provides course materials for the 2017 Regulation, which includes subjects such as Transforms and Partial Differential Equations, MA8353, Strength of Materials I, CE8301, and Fluid Mechanics, CE8302.
-
-The Civil Engineering Department at Mohamed Sathak A.J. College of Engineering offers a wide range of courses as part of its curriculum. Students can explore subjects such as Surveying, which is covered under the course code CE8351, and Construction Materials, denoted by the course code CE8391. Additionally, they can delve into Engineering Geology, represented by the course code CE8392, and Numerical Methods, which falls under the course code MA8491.
-
-Further, the department offers courses like Construction Techniques and Practices, with the course code CE8401, and Strength of Materials II, denoted by the course code CE8402. Applied Hydraulic Engineering, represented by the course code CE8403, and Concrete Technology, covered under the course code CE8404, are also part of the curriculum. Moreover, students can study Soil Mechanics, which is denoted by the course code CE8491, and Design of Reinforced Cement Concrete Elements, represented by the course code CE8501.
-
-The department also offers courses such as Structural Analysis I, with the course code CE8502, and Water Supply Engineering, denoted by the course code EN8491. Foundation Engineering, represented by the course code CE8591, is another subject that students can explore. Furthermore, the department provides professional electives like Disaster Management, which is denoted by the course code GE8071, and open electives such as Renewable Energy Sources, represented by the course code ORO551.
-
-In the higher semesters, students can take courses like Design of Steel Structural Elements, with the course code CE8601, and Structural Analysis II, denoted by the course code CE8602. Irrigation Engineering, represented by the course code CE8603, and Highway Engineering, covered under the course code CE8604, are also part of the curriculum. Lastly, the department offers courses like Wastewater Engineering, denoted by the course code EN8592, which provides students with a comprehensive understanding of various aspects of civil engineering.
-
-The Civil Engineering Department at MSAJCE offers a diverse range of courses, including CE8004 Urban Planning and Development, which is a Professional Elective-II. Another course available is CE8701 Estimation, Costing and Valuation Engineering, which provides students with essential knowledge in the field. Additionally, CE8702 Railways, Airports, Docks and Harbour Engineering and CE8703 Structural Design and Drawing are also part of the curriculum.
-
-Students can also opt for GE8077 Total Quality Management, a Professional Elective-III, to gain insights into quality management principles. Furthermore, OME754 Industrial Safety is available as an Open Elective-II, focusing on the importance of industrial safety. The department also offers Professional Elective IV and Professional Elective V, providing students with a wide range of choices to specialize in their area of interest.
-
-In addition to the core civil engineering courses, the department also handles subjects for service departments. For instance, GE8071 Disaster Management is offered as an Open Elective for III/EEE students, emphasizing the significance of disaster management in the field of electrical engineering.
-
-## PLACEMENT DETAILS
-
-Off-campus placements have been a significant aspect of the Civil Engineering Department at Mohamed Sathak A.J. College of Engineering. Several students have secured placements in various companies through off-campus recruitment drives.
-
-## Student Activities
-
-The Civil Engineering Department at MSAJCE offers a wide range of activities for its students to engage in beyond their academic pursuits.
-
-## Members of Alumni Association
-
+# Civil Engineering
+
+## 1. Overview
+- Civil engineers conceive, design, construct, supervise, operate, and maintain infrastructure projects and systems in the public and private sectors, including roads, buildings, bridges, airports, tunnels, dams, systems for water supply and sewerage treatment, and pollution controls.
+- Civil Engineering is one of the older engineering disciplines and serves as a backbone and integral part of society; without it, a society could not function.
+- The profession is very diverse and offers a wide range of activities through various disciplines such as surveying, structural engineering, transport engineering, environment and water supply engineering, as well as Remote Sensing and GIS.
+- Civil engineers are considered the heroes of the engineering world and play a part in helping society by adapting infrastructures with new technologies to meet population growth and climatic change.
+- They will never have a dull moment and are always creative in their own unique way.
+- Welcome to the Department of Civil Engineering at Mohamed Sathak A.J. College of Engineering in Siruseri, Chennai, India.
+- The department is one of the pioneer departments of the Institute, having been established in 2007.
+- It has excelled in the areas of academics, research, cultural, and sports activities, developing prestige up to global standards.
+- Currently, the department offers one undergraduate program, which is the B.E. in Civil Engineering, and a postgraduate program, specifically the M.E. in Structural Engineering.
+- The framework of the program provides ample opportunities for students to get trained as industrialists, researchers, or entrepreneurs.
+- The department has produced eminent engineers who are committed to the highest level of professional standards in the field of engineering and technology.
+- A strong alumni base has been created, and their contribution to the development of the department is perceived by providing ample opportunities to the students to use the expert network to enrich their careers and acquire experimental learning exposures through frequent interactions organized by the department.
+- The leadership is honored to guide the department alongside a team of committed and compassionate individuals who keep the Civil Engineering department flag flying high.
+
+## 2. Vision
+- The vision is to be a center of excellence for transforming students into proficient Civil Engineers through sustainable practices.
+
+## 3. Mission
+- The mission involves imparting core fundamental knowledge and necessary skills in Civil engineering through innovative teaching and learning methodologies.
+- It aims to inculcate the critical thinking, ethics, lifelong learning, and creativity needed for both the industry and society.
+- Furthermore, the mission cultivates the students with all-around competencies for their careers, higher education, and self-employability.
+
+## 4. Programme Educational Objectives (PEOs)
+- The Programme Educational Objectives state that graduates will be able to prepare designs and detail civil engineering components and systems with creativity and sustainability.
+- They will also be skilled in the usage of modern tools for critical problem solving and analyzing industrial and societal requirements.
+- In addition, graduates will be prepared with managerial and leadership skills for their careers and for starting up their own firms.
+
+## 5. Program Specific Outcomes (PSOs)
+- The Program Specific Outcomes emphasize that engineering graduates will be able to apply their skills to work on projects related to urban and rural planning and development, providing environment-friendly and sustainable solutions.
+- They will also apply their acquired professional skills to design cost-effective structural components in various infrastructure development and civil engineering industries.
+
+## 6. Programme Outcomes (PO)
+- The Programme Outcomes define the core capabilities expected of the students.
+- Engineering knowledge requires students to apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems. Problem analysis involves identifying, formulating, reviewing research literature, and analyzing complex engineering problems to reach substantiated conclusions using the first principles of mathematics, natural sciences, and engineering sciences.
+- **Programme Outcome (PO3) - Design/Development of Solutions**: For the design and development of solutions, students must design solutions for complex engineering problems and design system components or processes that meet specified needs with appropriate consideration for public health and safety, as well as cultural, societal, and environmental considerations.
+- Conducting investigations of complex problems mandates the use of research-based knowledge and methods, including the design of experiments, analysis, and interpretation of data, and synthesis of information to provide valid conclusions.
+- **Programme Outcome (PO5) - Modern Tool Usage**: Modern tool usage involves creating, selecting, and applying appropriate techniques, resources, and modern engineering and IT tools, including prediction and modeling, to complex engineering activities with an understanding of their limitations.
+- Further Programme Outcomes emphasize the engineer and society, where students must apply reasoning informed by contextual knowledge to assess societal, health, safety, legal, and cultural issues and the consequent responsibilities relevant to professional engineering practice.
+- **Programme Outcome (PO7) - Environment and Sustainability**: Environment and sustainability focus on understanding the impact of professional engineering solutions in societal and environmental contexts, demonstrating the knowledge of and need for sustainable development.
+- **Programme Outcome (PO8) - Ethics**: Ethics involves applying ethical principles and committing to professional ethics, responsibilities, and norms of engineering practice.
+- Individual and teamwork require students to function effectively as an individual, and as a member or leader in diverse teams and multidisciplinary settings.
+- Communication ensures that students can communicate effectively on complex engineering activities with the engineering community and with society at large, such as being able to comprehend and write effective reports, design documentation, make effective presentations, and give and receive clear instructions.
+- Project management and finance demand demonstrating knowledge and understanding of engineering and management principles and applying these to one's own work, both as a member and a leader in a team, to manage projects and work in multidisciplinary environments.
+- Finally, life-long learning requires recognizing the need for, and having the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+
+## 7. Job Profiles
+
+### Employment Outlook for Civil Engineering in India (2025–2030)
+- Based on current trends, government policies, industry shifts, and emerging technologies, the employment outlook for Civil Engineering in India over the next five years is highly promising.
+- Growth drivers in the infrastructure sector include continued government investment through initiatives like PM Gati Shakti, the Smart Cities Mission, Bharatmala, and AMRUT 2.0, which will keep the demand for civil engineers steady.
+- There is a strong focus on high-speed rail, metro rail, expressways, and affordable housing.
+- Urbanization and housing are also major factors, as India's urban population is expected to reach over 600 million by 2030, creating a sustained need for urban planners, construction engineers, and structural designers.
+- The rise in tier 2 and tier 3 city development will expand job locations significantly.
+- Furthermore, increasing demand for sustainability and green buildings, energy-efficient structures, and climate-resilient designs creates new niches within civil engineering.
+- Private sector investments in real estate and industrial corridor developments, such as the Delhi-Mumbai Industrial Corridor, are also expected to boost employment.
+
+### Challenges and Skill Requirements
+- There are challenges, such as automation and technological disruption, where basic civil jobs like drafting and surveying are increasingly being automated via Building Information Modeling, drones, and AI-based tools.
+- Employers now seek multi-skilled engineers with knowledge of software tools, project management, and sustainability.
+- To meet these requirements, professionals must upskill in tech tools like AutoCAD Civil 3D, Revit, STAAD Pro, Primavera, and BIM.
+- Gaining project management certifications such as PMP or PRINCE2 can help engineers move into supervisory roles.
+- It is also crucial to learn about green building standards like IGBC and GRIHA, along with sustainable practices.
+- Engineers should consider specializations in areas like transportation engineering, geotechnical engineering, or environmental engineering for niche opportunities.
+
+### Projected Job Demand
+- The projected job demand provides indicative estimates across various sectors.
+- Public infrastructure jobs within the government sector are expected to see a 6 to 8 percent growth per year, driven by large national projects.
+- Real estate and housing are projected to grow by 4 to 6 percent annually due to urban growth and housing demand.
+- Transportation, including roads and rails, is expected to see a 7 to 10 percent annual growth, heavily boosted by national highways.
+- Green and sustainable engineering is an emerging field with high potential, projected to grow at 10 to 12 percent per year.
+- BIM and smart construction form a niche but rapidly growing sector, expected to expand by over 15 percent annually.
+
+### Employment Opportunities for Fresh Graduates
+- Fresh graduates holding a B.E. or B.Tech in Civil Engineering have numerous opportunities.
+- In the government sector, there are recruitments for SSC JE, RRB, state PWDs, CPWD, and various PSUs.
+- Construction and infrastructure firms such as L&T, Shapoorji Pallonji, Tata Projects, and Afcons offer significant employment prospects.
+- Entry-level roles typically include Site Engineer, QA/QC Engineer, Junior Design Engineer, and Estimator.
+- The job growth for qualified and skilled freshers is approximately 5 to 6 percent annually, and the employability rate may improve if skill gaps are effectively addressed.
+
+### Employment Opportunities for Postgraduates
+- Postgraduates with an M.Tech, M.E., or specialized MSc have opportunities for specialized roles in design, research and development, structural analysis, and transportation engineering.
+- They are highly sought after in consulting, research, academia, and international projects.
+- Top recruiters include major consultancy firms like AECOM, WSP, Atkins, and NHAI consultants.
+- The trends indicate high demand in niche fields like geotechnical, environmental, and seismic engineering.
+- Foreign opportunities in regions such as the UAE, Singapore, and Canada are stronger for those with postgraduate qualifications.
+- Academic and research careers are also highly viable, especially with a PhD.
+- The job growth for postgraduates is around 8 to 10 percent annually, growing faster in urban planning, sustainability, and infrastructure analytics.
+
+## 8. Faculty (2023-2024)
+- The department boasts a dedicated faculty team for the 2023-2024 academic year.
+- The team includes Dr. Mohamed Adil Haque <!--ent_045-->, a Professor who joined on June 1, 2019, holding an M.E. and a Ph.D. Dr. Someswaran R. serves as an Assistant Professor, having joined on March 7, 2022, with an M.Tech. and a Ph.D. Dr. Elliss Yogesh R., a Professor with an M.E. and a Ph.D., joined the department on June 1, 2021.
+- Dr. Vignesh Kumar M., who joined on May 29, 2023, is an Associate Professor holding an M.E. and a Ph.D. Mr. Mr. B Rizha Ur Rahman <!--ent_252-->, an Assistant Professor pursuing his Ph.D., has been with the department since January 7, 2016, and holds an M.E. degree.
+- Mr. Navaneetha Krishnan C., holding an M.E., joined as an Assistant Professor on March 15, 2022.
+- Ms. Ms. S. Usha <!--ent_468--> joined the department on March 1, 2022, serving as an Assistant Professor with an M.E. degree.
+- Ms. Kavithra P. is an Assistant Professor who joined on August 1, 2022, holding an M.Tech.
+- Mr. S. Vimalathithan <!--ent_314-->, an Assistant Professor with an M.E., joined on July 19, 2023.
+- Ms. Gayathri <!--ent_453--> N. serves as an Assistant Professor, holding an M.E., and joined on July 21, 2023.
+- Lastly, Ms. Preethy Mary A. is an Assistant Professor pursuing her Ph.D., holding an M.Tech., and joined the faculty on July 18, 2023.
+- All members of this team have a regular nature of association with **MSAJCE**.
+
+### Sample Questions:
+- ◆ What infrastructure projects are covered in the Civil Engineering program?
+- ◆ In what year was the Department of Civil Engineering established at **MSAJCE**?
+- ◆ What postgraduate program is offered by the Civil Engineering department?
+
+## Related Notes
+[[msajce_mech]]
+[[msajce_eee]]
+[[msajce_cse]]
+[[msajce_ece]]

@@ -1,39 +1,15 @@
-# Planning and Monitoring Board Structure and Governance at MSAJCE
+# Planning and Monitoring Committee
 
-- **Mr. Mohamed Sathak Campus DirectorMohamed Sathak Trust, Chennai.** serves as **Chair Person**.
-
-- **Principal MSAJCE, Chennai.** serves as **Member Secretary**.
-
-- **Dr. K.S. Badri Nathan Dean-Educational Development Sri Venkateswara College of Engg. Chennai.** serves as **Advisor**.
-
-- **Mr. Rajesh Ramanujam General Mamager Ford - Credit IT, Chennai** serves as **Advisor**.
-
-- **Mr. Pradeep Kanagaraj Associate DirectorHitachi, Chennai** serves as **Advisor**.
-
-- **Mr. Abdul Jaleel Alumni and Supply Chain ManagerStar Bucks, Chennai.** serves as **Advisor**.
-
-- **Mr. A. Raju Infra Technology ManagerCTS, Chennai** serves as **Advisor**.
-
-- **Mr. R. Ramalingam, Manager-HRVersuni India Home Solutions Ltd, Chennai.** serves as **Advisor**.
-
-- **Head - AdministrationMSAJCE, Chennai** serves as **Member**.
-
-- **Head - IQACMSAJCE, Chennai** serves as **Member**.
-
-- **Head - Academics MSAJCE, Chennai** serves as **Member**.
-
-- **Head - Student AffairsMSAJCE, Chennai** serves as **Member**.
-
-- **Head - ResearchMSAJCE, Chennai** serves as **Member**.
-
-- **Head - Training and Placement MSAJCE, Chennai** serves as **Member**.
-
-- **Head - All the Departments MSAJCE, Chennai** serves as **Member**.
-
-- **Head - Examcell MSAJCE, Chennai** serves as **Member**.
-
-- **Head - Alumni MSAJCE, Chennai** serves as **Member**.
-
-- **Head - Admission MSAJCE, Chennai** serves as **Member**.
-
-- **Head - Hostel MSAJCE, Chennai** serves as **Member**.
+## 1. Committee Members
+- Mr. Mohamed Sathak <!--ent_232-->, the Campus Director of Mohamed Sathak Trust in Chennai, serves as the Chair Person of the Planning and Monitoring Committee.
+- The Principal of **MSAJCE** in Chennai serves as the Member Secretary.
+- The committee benefits from the guidance of several Advisors from external organizations.
+- Dr. K.S. Badri Nathan <!--ent_036-->, Dean of Educational Development at Sri Venkateswara College of Engineering in Chennai, serves as an Advisor.
+- Mr. Rajesh Ramanujam <!--ent_295-->, General Manager at Ford Credit IT in Chennai, serves as an Advisor.
+- Mr. Pradeep Kanagaraj <!--ent_281-->, Associate Director at Hitachi in Chennai, serves as an Advisor.
+- Mr. Abdul Jaleel <!--ent_099-->, an Alumni and Supply Chain Manager at Star Bucks in Chennai, serves as an Advisor.
+- Mr. A. Raju <!--ent_093-->, Infra Technology Manager at CTS in Chennai, serves as an Advisor.
+- Lastly, Mr. R. Ramalingam <!--ent_288-->, HR Manager at Versuni India Home Solutions Ltd in Chennai, serves as an Advisor.
+- Numerous internal leaders from **MSAJCE** in Chennai serve as Members of the committee.
+- This includes the Head of Administration, the Head of IQAC, the Head of Academics, the Head of Student Affairs, the Head of Research, the Head of Training and Placement, the Head of the Exam Cell, the Head of Alumni, the Head of Admission, and the Head of the Hostel.
+- Additionally, the Heads of all Departments at **MSAJCE** serve as Members of the committee.

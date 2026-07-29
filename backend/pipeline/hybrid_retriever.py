@@ -36,7 +36,7 @@ class HybridRetriever:
         self._coll     = collection
         self._filter   = MetadataFilter()
 
-    def retrieve(self, query: str, keywords: str, category: str = None) -> list:
+    def retrieve(self, query: str, keywords: str, category: str = None, entity_id: str = None) -> list:
         """
         Retrieve up to RRF_OUT (40) candidates via BM25 + dense fusion.
 
@@ -44,6 +44,7 @@ class HybridRetriever:
             query:    user query (for dense embedding)
             keywords: expanded keywords string (for BM25)
             category: optional category filter for dense search
+            entity_id: optional entity filter for dense search
 
         Returns:
             list of dicts: {"text": str, "payload": dict, "rrf_score": float,
@@ -64,7 +65,7 @@ class HybridRetriever:
         def run_dense():
             try:
                 vec = self._embed(query)
-                qdrant_filter = self._filter.build_filter(category)
+                qdrant_filter = self._filter.build_filter(category, entity_id)
 
                 hits = []
                 # Try filtered search first

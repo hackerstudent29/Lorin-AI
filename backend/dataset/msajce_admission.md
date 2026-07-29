@@ -1,304 +1,109 @@
-# Undergraduate Admission Programs at Mohamed Sathak A.J. College of Engineering (MSAJCE)
-
-# MSAJCE — Mohamed Sathak A.J. College of Engineering
-
-## Admission — Complete Data Extract for RAG Model
-
-Sections: Programmes Offered & Seats Available — UG | Programmes Offered & Seats Available — PG | Research Programs (Ph.D) | Admission through TNEA Counselling | Eligibility for Students from Other States | B.E / B.Tech Eligibility — HSC Academic | B.E / B.Tech Eligibility — HSC Vocational | Direct Second Year Lateral Entry Eligibility | Lateral Entry Minimum Eligibility Marks | M.E / M.Tech Eligibility | Ph.D Mechanical Engineering Eligibility | Skill Development Course — Model 1 | Skill Development Course — Model 2 | B.E / B.Tech Scholarships | Admission Contact
-
-## 1. Programmes Offered & Seats Available
-
-All UG/PG engineering programmes at MSAJCE with government and management quota seats.
-
-### UNDER GRADUATE PROGRAMMES (B.E. / B.Tech.)
-
-The total approved intake for Civil Engineering at MSAJCE is 15 seats.
-
-The total approved intake for Computer Science & Engineering (Permanent Affiliation) at MSAJCE is 30 seats.
-
-The total approved intake for Electronics & Communication Engineering at MSAJCE is 30 seats.
-
-The total approved intake for Electrical & Electronics Engineering at MSAJCE is 15 seats.
-
-The total approved intake for Mechanical Engineering (Permanent Affiliation) at MSAJCE is 15 seats.
-
-The total approved intake for Information Technology at MSAJCE is 30 seats.
-
-The total approved intake for Artificial Intelligence & Data Science at MSAJCE is 15 seats.
-
-The total approved intake for Computer Science & Business Systems at MSAJCE is 15 seats.
-
-The total approved intake for Computer Science & Engineering (Cyber Security) at MSAJCE is 15 seats.
-
-The total approved intake for Artificial Intelligence & Machine Learning at MSAJCE is 30 seats.
-
-The total approved intake for Electronics Engg w/s VLSI Design & Technology at MSAJCE is 15 seats.
-
-The total approved intake for ECE w/s Advanced Communication Technology at MSAJCE is 15 seats.
-
-★ 5% of seats within Approved Intake are reserved for NRI category. Unfilled NRI seats are allotted to general candidates on merit.
-
-### POST GRADUATE PROGRAMMES (M.E. / M.Tech.)
-
-The total approved intake for M.E. Computer Science & Engineering at MSAJCE is 3 seats.
-
-The total approved intake for M.E. Structural Engineering at MSAJCE is 6 seats.
-
-★ 5% NRI quota applies here too. Unfilled NRI seats revert to general merit.
-
-### RESEARCH PROGRAMMES
-
-- Ph.D — Mechanical Engineering
-
-### Sample Questions:
-
-- ◆ How many seats are available in CSE at MSJCE?
-- ◆ What is the govt/management quota for ECE?
-- ◆ Does MSJCE offer AI & Machine Learning?
-- ◆ What are the NRI seat rules at MSJCE?
-- ◆ What PG programmes does MSJCE offer?
-- ◆ Is there a Ph.D programme at MSJCE?
-
-## 2. Admission through TNEA Counselling & Other State Students
-
-TNEA counselling process for B.E/B.Tech and Q-score formula for other state candidates.
-
-### ADMISSION THROUGH TNEA COUNSELLING
-
-Students who completed Plus 2 / Diploma may apply for Tamil Nadu Engineering Admissions (TNEA Counselling) for B.E / B.Tech programmes, conducted by Directorate of Technical Education (DoTE), Chennai.
-
-The official portal for TNEA Counselling is https://tneaonline.org/.
-
-The official portal for Directorate of Technical Education (DoTE) is http://www.tndte.gov.in/site/.
-
-The official portal for Anna University is https://www.annauniv.edu/.
-
-### ELIGIBILITY FOR STUDENTS FROM OTHER STATES (Andhra Pradesh, Telangana, Kerala & all Northern States)
-
-Selection is based on qualifying marks (Q) in Mathematics, Physics and Chemistry at Plus Two / Intermediate level:
-
-**Formula:  $Q = (\text{Mathematics} \div 2) + ((\text{Physics} + \text{Chemistry}) \div 4)$**
-
-### Contact — Admission Coordinator for Other State Students
-
-**Dr. Vamsi Naga Mohan A.** (Languages: Telugu, Tamil, Malayalam, Hindi) Phone: 9043358674 / 9502687344 Email: [cse.vamsi@msajce-edu.in](mailto:cse.vamsi@msajce-edu.in)
-
-- ◆ How can I apply for MSJCE through TNEA?
-- ◆ Can students from Andhra Pradesh apply to MSJCE?
-- ◆ What is the Q score formula for other state candidates?
-- ◆ Who is the Telugu-speaking admission contact at MSJCE?
-
-## 3. B.E / B.Tech Eligibility — HSC Academic, Vocational & Lateral Entry
-
-Community-wise minimum eligibility marks for B.E/B.Tech via HSC Academic, HSC Vocational, and Lateral Entry routes.
-
-### HSC (ACADEMIC) — Minimum Eligibility Marks
-
-A pass in HSC (Academic) or equivalent with minimum average percentage in Mathematics, Physics and Chemistry combined:
-
-For HSC (Academic), the minimum eligibility marks for General Category is 45.00%.
-
-For HSC (Academic), the minimum eligibility marks for Backward Class (incl. Backward Class Muslim) is 40.00%.
-
-For HSC (Academic), the minimum eligibility marks for MBC & DNC is 40.00%.
-
-For HSC (Academic), the minimum eligibility marks for SC / SCA / ST is 40.00%.
-
-### HSC (VOCATIONAL) — Minimum Eligibility Marks
-
-A pass in HSC (Vocational) with any one Engineering-related subject (Maths, Physics or Chemistry), minimum average percentage:
-
-For HSC (Vocational), the minimum eligibility marks for General Category is 45.00%.
-
-For HSC (Vocational), the minimum eligibility marks for Backward Class (incl. Backward Class Muslim) is 40.00%.
-
-For HSC (Vocational), the minimum eligibility marks for MBC & DNC is 40.00%.
-
-For HSC (Vocational), the minimum eligibility marks for SC / SCA / ST is 40.00%.
-
-### DIRECT SECOND YEAR B.E./B.TECH. — LATERAL ENTRY
-
-**Diploma Candidates:** Pass in appropriate Diploma branch from TNSBTET or equivalent.
-
-**B.Sc. Candidates:** Recognized B.Sc. degree (min. 3 years, 10+2+3 pattern) with core Mathematics at degree level. *Note: Degrees other than B.Sc. are not eligible.*
-
-For Direct Second Year Lateral Entry, the minimum eligibility marks for General Category is 55.00%.
-
-For Direct Second Year Lateral Entry, the minimum eligibility marks for Backward Class (incl. Backward Class Muslim) is 50.00%.
-
-For Direct Second Year Lateral Entry, the minimum eligibility marks for MBC & DNC is 45.00%.
-
-For Direct Second Year Lateral Entry, the minimum eligibility marks for SC / SCA / ST is Mere pass in qualifying exam (Diploma / B.Sc.).
-
-★ When a grade certificate is produced, actual marks must also be submitted. Otherwise only minimum marks for the grade will be considered.
-
-- ◆ What is the minimum percentage for General category students in B.E?
-- ◆ What marks do SC/ST students need for B.E admission at MSAJCE?
-- ◆ Can I join MSAJCE through lateral entry with a Diploma?
-- ◆ What is the lateral entry eligibility for BC students?
-- ◆ Can B.Sc. graduates join B.E second year at MSAJCE?
-
-## 4. M.E / M.Tech & Ph.D Admission Eligibility
-
-Eligibility for M.E./M.Tech. in CSE and Structural Engineering, and Ph.D in Mechanical Engineering including CGPA requirements.
-
-### M.E. / M.TECH. PROGRAMMES (2 Years)
-
-The eligibility requirement for M.E. Computer Science & Engineering is: B.E./B.Tech. (EEE / ECE / CSE / IT / I&C; / E&I; / Electronics / Instrumentation) OR M.C.A.* or M.Sc. 5-yr integrated (IT / CSE / Software Engg.)* — 10+2+3+3 pattern.
-
-The eligibility requirement for M.E. Structural Engineering is: B.E. Degree in Civil Engineering.
-
-Admission to M.E. courses is based on qualifying examination marks and/or **TANCET** (Tamil Nadu Common Entrance Test) conducted by Anna University.
-
-### Ph.D — MECHANICAL ENGINEERING
-
-For Ph.D in Mechanical Engineering at MSAJCE, the Standard Route requirement is: M.E. / M.Tech. / M.S. (By Research) in relevant Engineering or Technology branch.
-
-For Ph.D in Mechanical Engineering at MSAJCE, the Industry Route requirement is: B.E./B.Tech. + min. 15 years R&D; in National Research Labs / PSUs + 3 publications in impact-factor journals OR 2 approved international patents (last 5 years).
-
-For Ph.D in Mechanical Engineering at MSAJCE, the Min. Marks — General requirement is: 55% marks OR CGPA $\geq$ 5.5 on 10-point scale.
-
-For Ph.D in Mechanical Engineering at MSAJCE, the Min. Marks — SC/ST / Differently-Abled requirement is: 50% marks OR CGPA $\geq$ 5.0 on 10-point scale.
-
-For Ph.D in Mechanical Engineering at MSAJCE, the Study Order Required requirement is: 10th $\rightarrow$ HSC $\rightarrow$ UG/PG Degree or equivalent.
-
-- ◆ What is the eligibility for M.E. Computer Science at MSJCE?
-- ◆ Can MCA graduates join M.E. CSE at MSJCE?
-- ◆ What is the minimum CGPA for Ph.D admission?
-- ◆ Can SC/ST candidates have a lower CGPA for Ph.D?
-- ◆ Does MSJCE accept working professionals for Ph.D?
-
-## 5. Skill Development Courses — Model 1 & Model 2
-
-Skill Development Courses with sector, job role, intake, NSQF level, and hours.
-
-### MODEL 1
-
-Under Skill Development MODEL 1, the Computer Science & Engineering department offers the 'Computer Hardware Network Maintenance' course (NSQF Level 4, 1,600 hours).
-
-Under Skill Development MODEL 1, the Mechanical Engineering department offers the 'Refrigeration & Air Conditioning Technician' course (NSQF Level 5, 3,200 hours).
-
-### MODEL 2
-
-Under Skill Development MODEL 2, the Computer Science & Engineering department offers the 'AI — Machine Learning Developer' course (NSQF Level 7).
-
-Under Skill Development MODEL 2, the Mechanical Engineering department offers the 'Refrigeration & Air Conditioning Technician' course (NSQF Level 5, 3,200 hours).
-
-Under Skill Development MODEL 2, the Mechanical Engineering department offers the 'Additive Manufacturing Technician — 3D Printing (CTS)' course (NSQF Level 4, 2,080 hours).
-
-Under Skill Development MODEL 2, the Electronics Engineering department offers the 'Embedded System Design using ARM / Cortex Microcontroller' course (NSQF Level 5).
-
-Under Skill Development MODEL 2, the Architecture Engineering department offers the 'Architectural Drafting & Basic 3D Design with Autodesk Revit (MES)' course (NSQF Level 4).
-
-- ◆ What skill development courses does MSAJCE offer?
-- ◆ Is there an AI Machine Learning skill course at MSAJCE?
-- ◆ What is the NSQF level for the 3D Printing course?
-- ◆ How many hours is the Embedded System Design course?
-- ◆ Does MSAJCE offer Architectural Drafting using Revit?
-
-## 6. B.E / B.Tech Scholarships
-
-All scholarships available to B.E/B.Tech students — scheme, eligibility, funding agency, amount, and Tamil Nadu quota.
-
-AICTE offers the 'Pragati — Girl Students' scholarship, funded under AICTE, for students who meet Max 2 girl children/family and Income < Rs.8 Lakh/yr. The scholarship amount is Rs. 50,000 per year.
-
-AICTE offers the 'Saksham — Specially Abled Students' scholarship, funded under AICTE, for students who meet Disability not less than 40% and Income < Rs.8 Lakh/yr. The scholarship amount is Rs. 50,000 per year, and the Tamil Nadu quota is All eligible.
-
-Ministry of Minority Affairs offers the 'Merit-cum-Means (Minority Community only)' scholarship, funded under Ministry of Minority Affairs, for students who meet 50% marks in final exam and Income < Rs.2.5 Lakh/yr. The scholarship amount is Rs.20,000 + Rs.12,000 Hosteller or Rs.6,000 Day Scholar per year, and the Tamil Nadu quota is 1,075 Muslim and 1,173 Christian.
-
-MHRD offers the 'Central Sector Scheme' scholarship, funded under MHRD, for students who meet 80% marks in final exam and Income < Rs.8 Lakh/yr. The scholarship amount is Rs. 10,000 per year, and the Tamil Nadu quota is 4,883.
-
-Ministry of Labour & Employment offers the 'Beedi/Mine/Cine Workers' Wards' scholarship, funded under Ministry of Labour & Employment, for students who meet Family income < Rs.10,000/month. The scholarship amount is Rs. 15,000 per year, and the Tamil Nadu quota is All eligible.
-
-AICTE Scholarship Portal: <https://www.aicte.gov.in/schemes/students-development-schemes>
-
-- ◆ What scholarships are available for girl students at MSAJCE?
-- ◆ What is the Pragati scholarship amount?
-- ◆ Is there a scholarship for disabled students?
-- ◆ What are the income limits for AICTE scholarships?
-- ◆ How much extra do hostellers get in the minority scholarship?
-
-- ◆ What marks are needed for the Central Sector Scheme?
-- ◆ Is there financial help for children of mine workers?
-
-## 7. Admission Contact Details
-
-Complete list of MSAJCE admission contacts with designations, phone numbers, and emails.
-
-Dr. K.S. Srinivasan is the Principal at MSAJCE; their email is principal@msajce-edu.in.
-
-Mr. A. Abdul Gafoor is the Administrative Officer at MSAJCE; their email is abdulgafoor@msajce-edu.in.
-
-Dr. K.P. Santhosh Nathan is the Physical Education Director & Head-Admission at MSAJCE; their email is ped.santhosh@msajce-edu.in.
-
-Mr. S. Syed Abuthahir is the Assistant Professor at MSAJCE; their email is mech.syedabuthahir@msajce-edu.in.
-
-Mr. B. Rizha Ur Rahman is the Assistant Professor at MSAJCE; their email is civil.rizha@msajce-edu.in.
-
-Mrs. I.S. Suganthi is the Assistant Professor at MSAJCE; their email is ece.suganthi@msajce-edu.in.
-
-Dr. Vamsi Naga Mohan A. is the Coordinator — Admission (Other States) at MSAJCE; their email is cse.vamsi@msajce-edu.in, and their phone number is 9043358674, 9502687344 and communicates in Telugu, Tamil, Malayalam, Hindi.
-
-- ◆ Who is the Principal of MSAJCE and what is his contact?
-- ◆ Who is the Head of Admissions at MSAJCE?
-- ◆ What is the phone number of the MSAJCE admission office?
-- ◆ Who handles admissions for students from other states?
-- ◆ What is the email of the MSAJCE Principal?
-
-## 8. Important Links & Downloads
-
-All important links for MSAJCE admission — application forms, fee payment, regulatory bodies, and approval documents.
-
-The College Application Form (Apply Online) can be accessed at https://enrollonline.co.in/Registration/Apply/MSAJCE.
-
-The College Brochure / Prospectus (Download) can be accessed at msajce-edu.in/uploads/College-Prospectus.pdf.
-
-
-The Online Fee Payment Portal (Fee Payment) can be accessed at https://www.feepayr.com/.
-
-The TNEA — Tamil Nadu Engineering Admissions (Counselling) can be accessed at https://tneaonline.org/.
-
-The Directorate of Technical Education (DoTE) (Regulatory) can be accessed at http://www.tndte.gov.in/site/.
-
-The Anna University (Regulatory) can be accessed at https://www.annauniv.edu/.
-
-The AICTE Scholarship Schemes (Scholarship) can be accessed at aictc.gov.in/schemes/students-development-schemes.
-
-The Anna University Approval (Approval) can be accessed at msajce-edu.in/uploads/AnnaUnivApproval.pdf.
-
-The AICTE Approval (Approval) can be accessed at msajce-edu.in/uploads/AICTE-APPROVAL.pdf.
-
-The Mandatory Disclosure (Disclosure) can be accessed at msajce-edu.in/uploads/MandatoryDisclosure.pdf.
-
-The Autonomous Regulations (R24) (Regulations) can be accessed at msajce-edu.in/uploads/autonomous/AutonomousR24.pdf.
-
-The Grievance Cell (Grievance) can be reached by emailing grievance@msajce-edu.in.
-
-- ◆ Where can I apply online for MSAJCE?
-- ◆ How can I download the MSAJCE college prospectus?
-- ◆ Where do I pay college fees online?
-- ◆ What is the grievance email at MSAJCE?
-- ◆ Where is the AICTE approval document for MSAJCE?
-
-## MSAJCE — Admission Contacts
-
-Dr. K.S. Srinivasan is the Principal at MSAJCE; their phone number is 9150575066, and their email is principal@msajce-edu.in.
-
-Dr. K.P. Santhosh Nathan is the Head of Admission at MSAJCE; their phone number is 9840886992, and their email is ped.santhosh@msajce-edu.in.
-
-Mr. A. Abdul Gafoor is the Admin Officer at MSAJCE; their phone number is 9940319629, and their email is abdulgafoor@msajce-edu.in.
-
-Dr. Vamsi Naga Mohan A. handles admissions for Other States at MSAJCE; their phone number is 9043358674 / 9502687344, and their email is cse.vamsi@msajce-edu.in.
-
-The official address of MSAJCE is 34, Rajiv Gandhi Salai (OMR), Siruseri IT Park, Siruseri, Chennai – 603103.
-
-For general inquiries, MSAJCE can be contacted via phone at +91 99400 04500, via email at msajce.office@gmail.com, or through their website at www.msajce-edu.in.
-
-MSAJCE | 34, Rajiv Gandhi Salai (OMR), Siruseri IT Park, Siruseri, Chennai – 603103 | +91 99400 04500 | [msajce.office@gmail.com](mailto:msajce.office@gmail.com) | [www.msajce-edu.in](http://www.msajce-edu.in) | RAG Extract: msajce\_admission | 8 Chunks | 2026-04-27
-
-## Related Notes
-[[msajce_cse]]
-[[msajce_aiml]]
-[[msajce_eee]]
-[[msajce_ece-act]]
-[[msajce_placement]]
+# Programmes Offered and Seats Available
+
+## 1. Under Graduate Programmes
+- **MSAJCE** offers various Under Graduate programmes with a total sanctioned intake for each course divided equally between the Government Quota and the Management Quota.
+- For Civil Engineering, the total sanctioned intake is 30 seats, with 15 seats under the Government Quota and 15 seats under the Management Quota.
+- For Computer Science and Engineering, which has permanent affiliation, the total sanctioned intake is 60 seats, with 30 seats for Government Quota and 30 seats for Management Quota.
+- For Electronics and Communication Engineering, the total intake is 60 seats, split as 30 for Government Quota and 30 for Management Quota.
+- For Electrical and Electronics Engineering, the total intake is 30 seats, with 15 seats for Government Quota and 15 for Management Quota.
+- For Mechanical Engineering, which also has permanent affiliation, the total intake is 30 seats, with 15 seats for Government Quota and 15 for Management Quota.
+- For Information Technology, the total intake is 60 seats, with 30 seats for Government Quota and 30 for Management Quota.
+- For Artificial Intelligence and Data Science, the total intake is 60 seats, with 30 seats for Government Quota and 30 for Management Quota.
+- For Computer Science and Business Systems, the total intake is 30 seats, with 15 seats for Government Quota and 15 for Management Quota.
+- For Computer Science and Engineering in Cyber Security, the total intake is 30 seats, with 15 seats for Government Quota and 15 for Management Quota.
+- For Artificial Intelligence and Machine Learning, the total intake is 60 seats, with 30 seats for Government Quota and 30 for Management Quota.
+- For Electronics Engineering with specialisation in VLSI Design and Technology, the total intake is 30 seats, with 15 seats for Government Quota and 15 for Management Quota.
+- For ECE with specialisation in Advanced Communication Technology, the total intake is 30 seats, with 15 seats for Government Quota and 15 for Management Quota.
+- For Bachelor of Architecture, the total intake is 40 seats, with 20 seats for Government Quota and 20 for Management Quota.
+- For Bachelor of Design, the total intake is 30 seats, with 15 seats for Government Quota and 15 for Management Quota.
+- Five percent of seats within the Approved Intake shall be allowed for admission under the NRI category, and in the event of non-availability of students in NRI seats, the seats shall be given to general candidates as per merit.
+
+## 2. Post Graduate Programmes
+- **MSAJCE** offers Post Graduate programmes where the total sanctioned intake is divided between Government and Management Quotas.
+- For Computer Science and Engineering, the total sanctioned intake is 9 seats, with 3 seats under the Government Quota and 6 seats under the Management Quota.
+- For Structural Engineering, the total intake is 18 seats, with 6 seats for Government Quota and 12 for Management Quota.
+- For Master of Architecture, the total intake is 15 seats, with 7 seats for Government Quota and 8 for Management Quota.
+- Five percent of seats within the Approved Intake shall be allowed for admission under the NRI category, and in the event of non-availability of students in NRI seats, the seats shall be given to general candidates as per merit.
+
+## 3. Research Programs
+- **MSAJCE** offers a Ph.D Research Program in Mechanical Engineering.
+
+## 4. Admission through TNEA Counselling
+- Students who have completed Plus 2 or Diploma may apply for Tamil Nadu Engineering Admissions counselling for B.E or B.Tech programmes admission conducted by the Directorate of Technical Education in Chennai.
+
+## 5. Eligibility for Students from Other States
+- For students from Andhra Pradesh, Telangana, Kerala and all Northern States, the selection of candidates will be based on the qualifying marks obtained in Mathematics, Physics and Chemistry at the Plus Two or Intermediate level.
+- The qualifying marks are calculated as Mathematics divided by two, plus the sum of Physics and Chemistry divided by four, where these represent the percentage marks in each subject respectively.
+- For assistance regarding admission for students from other states, students can contact Dr. Srinivasan <!--ent_082--> (TNSCST) who can communicate in Telugu, Tamil, Malayalam and Hindi.
+- His contact numbers are 9043358674 and 9502687344, and his email is cse.vamsi@**MSAJCE**-edu.in.
+
+## 6. Undergraduate B.E and B.Tech Admission Eligibility
+- For the four-year B.E or B.Tech Degree Programmes, a pass in the HSC Academic or its equivalent is required with a minimum average percentage in Mathematics, Physics and Chemistry put together.
+- For the General Category, a pass with a minimum average mark of 45 percent is required.
+- For the Backward Class including Backward Class Muslim, a pass with a minimum average mark of 40 percent is required.
+- For the MBC and DNC categories, a pass with a minimum average mark of 40 percent is required.
+- For the SC, SCA, and ST categories, a pass with a minimum average mark of 40 percent is required.
+- For the qualifying exam through HSC Vocational, a pass in any one of the HSC Vocational subjects with any one of the Engineering related subjects namely Mathematics, Physics or Chemistry with a minimum average percentage put together is required.
+- For the General Category, a pass with a minimum average mark of 45 percent is required.
+- For the Backward Class including Backward Class Muslim, a pass with a minimum average mark of 40 percent is required.
+- For the MBC and DNC categories, a pass with a minimum average mark of 40 percent is required.
+- For the SC, SCA, and ST categories, a pass with a minimum average mark of 40 percent is required.
+
+## 7. Direct Second Year Lateral Entry Eligibility
+- For Direct Second Year Lateral Entry Degree Courses, Diploma Candidates must have a pass with prescribed minimum eligibility marks in any one of the Diploma in appropriate branch of Engineering or Technology of the State Board of Technical Education and Training, Tamil Nadu or equivalent prescribed for admission to the Degree Course.
+- B.Sc.
+- Candidates must have a pass with prescribed minimum eligibility marks in any recognized Bachelor’s Degree in Science of minimum 3 years duration with 10 plus 2 plus 3 years pattern and studied core Mathematics as one of the subjects at degree level.
+- Candidates with a Degree other than Bachelor of Science are not eligible.
+- For any clarification with regard to Diploma qualification, students should write a letter to DOTE to get it clarified.
+- On any account, candidates without prescribed qualifications will not be given admission approval.
+- Both Diploma and B.Sc. qualified candidates have to obtain the following minimum eligibility marks for admission to Lateral Entry.
+- For the General Category, a pass with a minimum average mark of 55 percent is required.
+- For the Backward Class including Backward Class Muslim, a pass with a minimum average mark of 50 percent is required.
+- For the MBC and DNC categories, a pass with a minimum average mark of 45 percent is required.
+- For the SC, SCA, and ST categories, a mere pass in the qualifying examination for Diploma examinations as stipulated by the State Board of Technical Education and Training, Tamil Nadu or B.Sc.
+- Degree examinations or equivalent is required.
+- When candidates produce a grade certificate, they have to produce the actual marks also, otherwise only the minimum marks applicable to the grades in the subjects will be taken into account.
+
+## 8. Postgraduate M.E and M.Tech Admission Eligibility
+- For the two-year M.E or M.Tech Degree Programmes, the qualification for admission to M.E in Computer Science and Engineering requires a B.E or B.Tech in EEE, ECE, CSE, IT, I and C, E and I, IT, Electronics, or Instrumentation, or an M.C.A or an M.Sc 5 years integrated in IT, CSE, or Software Engineering in a 10 plus 2 plus 3 plus 3 years pattern.
+- The qualification for admission to M.E in Structural Engineering requires a B.E Degree in Civil Engineering.
+- For M.E Courses, students are admitted by **MSAJCE** as per Government rules and regulations on the basis of the marks obtained by the candidates in their qualifying examinations.
+- The candidates can be admitted through the Tamil Nadu Common Entrance Test conducted by Anna University.
+
+## 9. Ph.D Mechanical Engineering Admission Eligibility
+- For the Ph.D Degree in Mechanical Engineering, candidates must have a Master's Degree or any other qualification recognized as equivalent thereto in the fields of study notified from time to time by Anna University.
+- Specifically, they must hold an M.E, M.Tech, or M.S By Research in the relevant branch of Engineering or Technology.
+- Candidates should have the required qualification in the order of studies 10th, HSC, UG, and PG degree or its equivalent qualification.
+- Alternatively, a Bachelor's Degree in Engineering or Technology of the University or any other qualification recognized as equivalent thereto in the fields of study with a minimum of 15 years of R and D Experience in National Research Laboratories or Public sector undertakings and with a minimum of three publications in referred impact factor journals or two approved international patents in the last five years is accepted.
+- A minimum of 55 percent marks or a CGPA of 5.5 on a 10 point scale in the qualifying examination is required.
+- In the case of SC, ST, or Differently-Abled candidates, 50 percent marks or a CGPA of 5.0 on a 10 point scale is required.
+
+## 10. Skill Development Course Admission
+- Under Model 1, the Computer Science and Engineering sector offers a Computer Hardware Network Maintenance course for the job role of Computer Hardware Network Maintenance with an approved intake of 30, an NSQF level of 4, and 1600 hours.
+- The Mechanical Engineering sector offers a Refrigeration And Air Conditioning Technician course with an approved intake of 30, an NSQF level of 5, and 3200 hours.
+- Under Model 2, the Computer Science and Engineering sector offers an AI Machine learning Developer course with an approved intake of 30, an NSQF level of 7, and 756 hours.
+- The Mechanical Engineering sector offers a Refrigeration And Air Conditioning Technician course with an approved intake of 30, an NSQF level of 5, and 3200 hours.
+- The Mechanical Engineering sector also offers an Additive Manufacturing Technician in 3D Printing course with an approved intake of 30, an NSQF level of 4, and 2080 hours.
+- The Electronics Engineering sector offers a Certificate Course in Embedded System Design using ARM or Cortex Microcontroller with an approved intake of 30, an NSQF level of 5, and 80 hours.
+- The Architecture Engineering sector offers an Architectural Drafting and Basic 3D Design with Autodesk Revit course with an approved intake of 30, an NSQF level of 4, and 500 hours.
+
+## 11. Undergraduate Scholarships
+- The Pragati scholarship scheme for Girl Students, funded by AICTE, requires a maximum of two girl children per family and an income of less than 8 Lakh.
+- The scholarship amount is 50000 rupees per year, with 800 scholarships for Tamil Nadu.
+- The Saksham scholarship scheme for specially abled students, funded by AICTE, requires a disability of not less than 40 percent and an income of less than 8 Lakh.
+- The scholarship amount is 50000 rupees per year, and all eligible candidates in Tamil Nadu can receive it.
+- The Merit cum based Scholarship for the minority community only, funded by the Ministry of Minority Affairs, requires 50 percent marks in the final examination and an income of less than 2.5 Lakh.
+- The scholarship amount is 20000 rupees per year, plus 12000 for hostellers and 6000 for day scholars, with 1075 scholarships for Muslims and 1173 for Christians in Tamil Nadu.
+- The Central Sector Scheme, funded by MHRD, requires 80 percent marks in the final examination and an income of less than 8 Lakh.
+- The scholarship amount is 10000 rupees per year, with 4883 scholarships for Tamil Nadu.
+- Financial Assistance for Education to the wards of Beedi, Mine, and Cine workers, funded by the Ministry of Labour and Employment, requires an income of less than 10000 per month.
+- The scholarship amount is 15000 rupees per year, and all eligible candidates in Tamil Nadu can receive it.
+
+## 12. Admission Contacts
+- Dr. K.S. Srinivasan <!--ent_038--> (Principal) is the Principal of **MSAJCE** and can be reached at 9150575066 or principal@**MSAJCE**-edu.in.
+- Mr A Abdul Gafoor is the Administrative Officer of **MSAJCE** and can be reached at 9940319629 or abdulgafoor@**MSAJCE**-edu.in.
+- Dr K P Santhosh Nathan is the Physical Education Director and Head of Admission for **MSAJCE** and can be reached at 9840886992 or ped.santhosh@**MSAJCE**-edu.in.
+- Mr S Syed Abuthahir is an Assistant Professor at **MSAJCE** and can be reached at 9944127339 or mech.syedabuthahir@**MSAJCE**-edu.in.
+- Mr B Rizha Ur Rahman is an Assistant Professor at **MSAJCE** and can be reached at 9790836981 or civil.rizha@**MSAJCE**-edu.in.
+- Ms. S. Usha <!--ent_486--> is an Assistant Professor at **MSAJCE** and can be reached at 7299772958 or ece.suganthi@**MSAJCE**-edu.in.
+- Dr Vamsi Naga Mohan A is an Assistant Professor and Coordinator of Admission for Students from Other States at **MSAJCE**, and can be reached at 9043358674 or 9502687344 or cse.vamsi@**MSAJCE**-edu.in.

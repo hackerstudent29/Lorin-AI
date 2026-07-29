@@ -7,7 +7,11 @@ New endpoints: POST /api/feedback, POST /api/debug/rerank
 
 import os, re, logging, hashlib, json, requests, psycopg2
 from typing import List, Optional
-from fastapi import FastAPI, HTTPException, Query, BackgroundTasks
+from fastapi import FastAPI, HTTPException, Query, BackgroundTasks, Request
+from fastapi.responses import StreamingResponse
+from slowapi import Limiter, _rate_limit_exceeded_handler
+from slowapi.util import get_remote_address
+from slowapi.errors import RateLimitExceeded
 from contextlib import asynccontextmanager
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
@@ -76,7 +80,10 @@ async def lifespan(app: FastAPI):
     logger.info("[Startup] Pipeline ready.")
     yield
 
+limiter = Limiter(key_func=get_remote_address)
 app = FastAPI(title="MSAJCE Campus RAG API v3", lifespan=lifespan)
+app.state.limiter = limiter
+app.add_exception_handler(RateLimitExceeded, _rate_limit_exceeded_handler)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"], allow_credentials=True,
@@ -93,7 +100,8 @@ def health_check():
 class ChatRequest(BaseModel):
     message: str
     session_id: Optional[str] = None
-    bypass_cache: bool = False          # Req 5.7 — skip cache read for eval runs
+    bypass_cache: bool = False
+    stream: bool = False
 
 class Citation(BaseModel):
     source: str
@@ -188,26 +196,22 @@ def rerank_nvidia(query: str, passages: list) -> tuple:
 
 
 def generate_followup_questions(query: str, answer: str, context_blocks: Optional[list] = None) -> List[str]:
-    """Generate 3 follow-up questions that are unanswered, answerable, and self-contained."""
-    context_str = "\n\n".join(c.get("text", "")[:400] for c in context_blocks[:4]) if context_blocks else ""
-    if not context_str:
+    """Generate 3 follow-up questions based only on the query and answer to save tokens."""
+    if not answer:
         return []
+        
     system_prompt = (
-        "You are a follow-up question generator for an MSAJCE college chatbot.\n"
-        "Given the CONTEXT (retrieved facts), the USER QUESTION, and the BOT ANSWER, "
-        "generate exactly 3 follow-up questions the user might ask NEXT.\n\n"
-        "STRICT RULES:\n"
-        "1. Each question must be answerable from the CONTEXT facts — do not ask for info not in context.\n"
-        "2. Do NOT repeat or rephrase anything already answered in BOT ANSWER.\n"
-        "3. Each question must be self-contained — include the topic (e.g. 'boys hostel', 'CSE department') so it makes sense without conversation history.\n"
-        "4. Questions should be genuinely useful next steps, not trivial rephrasing.\n"
-        "5. Output ONLY a valid JSON array of 3 strings. No markdown, no explanation.\n"
-        "Example: [\"What are the fee installment options for hostel?\", \"Who is the hostel warden at MSAJCE?\"]"
+        "You are a follow-up question generator for a college chatbot.\n"
+        "Generate 3 logical follow-up questions the user might ask NEXT, based on the BOT ANSWER.\n"
+        "RULES:\n"
+        "1. Do NOT repeat anything already answered.\n"
+        "2. Keep them short, relevant, and self-contained.\n"
+        "3. Output ONLY a JSON array of 3 strings.\n"
+        "Example: [\"What is the hostel fee?\", \"Where is it located?\", \"Who is the HOD?\"]"
     )
     user_prompt = (
-        f"CONTEXT:\n{context_str}\n\n"
         f"USER QUESTION: {query}\n"
-        f"BOT ANSWER: {answer[:600]}\n\n"
+        f"BOT ANSWER: {answer[:800]}\n\n"
         "Generate 3 follow-up questions (JSON array only):"
     )
     try:
@@ -238,6 +242,22 @@ def generate_followup_questions(query: str, answer: str, context_blocks: Optiona
         logger.warning(f"[Followups] Generation failed: {e}")
     return []
 
+
+def match_entity_in_db(query_name: str) -> Optional[str]:
+    """Check if the given query matches a known entity (person) in the database."""
+    if not query_name or len(query_name) < 3:
+        return None
+    try:
+        conn = db_connect(); cur = conn.cursor()
+        cur.execute("SELECT entity_id, similarity FROM match_entity(%s)", (query_name,))
+        row = cur.fetchone()
+        cur.close(); conn.close()
+        if row and row[1] is not None and row[1] >= 0.4:
+            logger.info(f"[EntityMatch] Resolved '{query_name}' to {row[0]} (sim: {row[1]:.2f})")
+            return row[0]
+    except Exception as e:
+        logger.warning(f"[EntityMatch] Failed: {e}")
+    return None
 
 def preprocess_query(query: str) -> dict:
     """Classify intent + expand keywords + infer category with confidence."""
@@ -414,6 +434,68 @@ SOURCES:
         raise
 
 
+
+def generate_answer_stream(user_query: str, context_blocks: list):
+    ctx_parts = []
+    for i, blk in enumerate(context_blocks, 1):
+        section  = blk.get("section_title", "")
+        category = blk.get("category", "")
+        label = f"[{category}" + (f" — {section}" if section and section != "Overview" else "") + "]"
+        ctx_parts.append(f"{label}\n{blk['text']}")
+    context_str = "\n\n---\n\n".join(ctx_parts)
+
+    max_tok = _pick_max_tokens(user_query, context_blocks)
+
+    system_prompt = f"""You are Lorin, the official AI assistant for Mohamed Sathak A.J. College of Engineering (MSAJCE), Chennai.
+
+RULES:
+1. Answer directly and concisely using facts from SOURCES. State the main key answer (e.g. intake count, fee amount, exact date, link, or location) clearly upfront.
+2. For multi-item lists, routes, or full course catalogs: follow the direct answer with a complete markdown table.
+3. Never cite internal source file labels, page numbers, or raw snippet markers in the answer text.
+4. CRITICAL — Numbers & figures: Only state a number (salary, intake, cutoff, fee) if it is LITERALLY written in the SOURCES below. Never infer or estimate.
+5. Salary ranges from domain/career sections (e.g. "industry average Rs. 25 LPA") are NOT placement package facts — never present them as MSAJCE placement data.
+6. Missing info → "I couldn't find details about [topic] in college records. Contact: +91 99400 04500 or msajce.office@gmail.com."
+7. AMBIGUOUS QUERIES: If the user asks for a department-level item or position (e.g., "HOD name", "syllabus", "fees") without specifying the department, ask the user which department they are interested in (e.g., CSE, ECE, IT, AI&DS, AI&ML, Civil, Mech, EEE, CSBS) or provide a list of available department options. Never arbitrarily select a random department.
+8. DEVELOPER & CREATOR ATTRIBUTION: If the user asks who created, built, or developed this chatbot, Lorin AI, Listen Zenify, ZenDrum Booking, or Zen Hostel, OR asks about "developer", "ram", "ramanathan", or "zendrum", identify **Ramanathan S.** (B.Tech IT, MSAJCE Class of 2027, CGPA 7.75, https://ramanathanportfolio.vercel.app) as the developer and answer specifically what they asked about him.
+9. LINKS & URLS: Whenever a website link, official page URL, PDF download link, email address, or phone number is LITERALLY present in the SOURCES below, you MUST explicitly include the exact clickable link in your answer formatted as `[Link Title](https://...)` or plain URL. CRITICAL: Never invent, guess, or hallucinate links (such as LinkedIn profiles or external websites) that are NOT explicitly written in the SOURCES! If a link is not in the SOURCES, do not include a link.
+10. IMAGES & VISUAL MEDIA: If the user asks to see images, photos, or facilities, OR if image/media URLs (such as `.jpg`, `.png`, `.jpeg`, `.gif`) are present in the SOURCES for the requested topic (like sports, campus, labs, gym, events), you MUST include those image links in your answer formatted as markdown images: `![Image Description](image_url)` so they render visually in the chat!
+
+
+
+SOURCES:
+{context_str}
+"""
+    import json
+    try:
+        res = requests.post(
+            "https://integrate.api.nvidia.com/v1/chat/completions",
+            headers={"Authorization": f"Bearer {NVIDIA_API_KEY}", "Content-Type": "application/json"},
+            json={"model":"meta/llama-3.1-8b-instruct",
+                  "messages":[{"role":"system","content":system_prompt},
+                               {"role":"user","content":user_query}],
+                  "temperature":0.1,"max_tokens":max_tok, "stream": True},
+            timeout=30,
+            stream=True
+        )
+        res.raise_for_status()
+        
+        for line in res.iter_lines():
+            if line:
+                line_str = line.decode('utf-8')
+                if line_str.startswith("data: ") and line_str != "data: [DONE]":
+                    try:
+                        data = json.loads(line_str[6:])
+                        if data.get("choices") and "delta" in data["choices"][0]:
+                            content = data["choices"][0]["delta"].get("content", "")
+                            if content:
+                                yield {"type": "content", "content": content}
+                        if data.get("usage"):
+                            yield {"type": "usage", "usage": data["usage"]}
+                    except Exception:
+                        pass
+    except Exception as e:
+        logger.error(f"[LLM] Streaming failed: {e}")
+        yield {"type": "error", "content": "Error generating response."}
 def save_message(session_id: Optional[str], role: str, content: str, metadata: dict = None, prompt_tokens: int = 0, completion_tokens: int = 0, citations: list = None) -> Optional[str]:
     """Save a chat message and return its UUID. Auto-creates session row if needed."""
     if not session_id:
@@ -684,7 +766,8 @@ Respond ONLY with valid JSON matching this schema:
 
 
 @app.post("/api/feedback")
-def feedback_endpoint(req: FeedbackRequest, background_tasks: BackgroundTasks):
+@limiter.limit("10/minute")
+def feedback_endpoint(req: FeedbackRequest, background_tasks: BackgroundTasks, request: Request):
     """Thumbs up/down feedback on an assistant message with self-healing correction."""
     # Validate rating before any DB call (Req 9.4)
     if req.rating not in rag_config.FEEDBACK_VALID_RATINGS:
@@ -723,6 +806,41 @@ def feedback_endpoint(req: FeedbackRequest, background_tasks: BackgroundTasks):
         raise HTTPException(500, str(e))
 
 
+
+@app.get("/api/admin/stats")
+def admin_stats():
+    """Retrieve high-level statistics for the admin dashboard."""
+    try:
+        conn = db_connect(); cur = conn.cursor()
+        
+        # Total Queries
+        cur.execute("SELECT COUNT(*) FROM chat_messages WHERE role = 'user'")
+        total_queries = cur.fetchone()[0] or 0
+        
+        # Cache Hits
+        cur.execute("SELECT SUM(hit_count) FROM query_cache")
+        cache_hits = cur.fetchone()[0] or 0
+        
+        # Feedback Stats
+        cur.execute("SELECT COUNT(*) FROM message_feedback WHERE rating = 1")
+        thumbs_up = cur.fetchone()[0] or 0
+        
+        cur.execute("SELECT COUNT(*) FROM message_feedback WHERE rating = -1")
+        thumbs_down = cur.fetchone()[0] or 0
+        
+        cur.close(); conn.close()
+        
+        return {
+            "total_queries": total_queries,
+            "cache_hits": cache_hits,
+            "feedback": {
+                "thumbs_up": thumbs_up,
+                "thumbs_down": thumbs_down
+            }
+        }
+    except Exception as e:
+        logger.error(f"[Admin] Stats query failed: {e}")
+        raise HTTPException(500, str(e))
 @app.get("/api/feedback/log")
 def get_feedback_correction_log():
     """Retrieve self-healing feedback correction audit logs."""
@@ -806,8 +924,9 @@ def debug_rerank(req: DebugRerankRequest):
         raise HTTPException(500, str(e))
 
 
-@app.post("/api/chat", response_model=ChatResponse)
-def chat_endpoint(req: ChatRequest):
+@app.post("/api/chat")
+@limiter.limit("10/minute;25/day")
+def chat_endpoint(req: ChatRequest, request: Request):
     user_query = req.message.strip()
     if not user_query:
         raise HTTPException(400, "Query cannot be empty.")
@@ -943,11 +1062,22 @@ def chat_endpoint(req: ChatRequest):
         category = None
         keywords = f"{keywords} bus route transport timings stops AR3 AR4 AR5 AR6 AR7 AR8 AR9 AR10 R22 MTC pallikaranai medavakkam velachery guindy kathipara"
 
+    # Entity Resolution (Req 2.9)
+    # If the user is asking about a person, attempt to resolve them to an entity_id
+    entity_id = None
+    if intent == "college_query":
+        # Check the extracted keywords (which have honorifics stripped) against our Supabase entity registry
+        matched_entity = match_entity_in_db(keywords)
+        if matched_entity:
+            entity_id = matched_entity
+            # If we matched a specific person, force category to None so we don't accidentally filter out their cross-department chunks
+            category = None
+
     # ── Step 4: Hybrid retrieval (BM25 + dense + RRF) ────────────────────────
     try:
         if hybrid_retriever is None:
             raise RuntimeError("HybridRetriever not initialised")
-        candidates = hybrid_retriever.retrieve(retrieval_query, keywords, category)
+        candidates = hybrid_retriever.retrieve(retrieval_query, keywords, category, entity_id)
         passages   = [c["text"] for c in candidates]
         payloads   = [c["payload"] for c in candidates]
     except Exception as e:
@@ -1023,6 +1153,45 @@ def chat_endpoint(req: ChatRequest):
         citations_list = []
 
     # ── Step 6: LLM generation ────────────────────────────────────────────────
+    
+    if getattr(req, "stream", False):
+        # Define the streaming generator
+        def event_stream():
+            try:
+                answer_text = ""
+                g_usage = {}
+                for chunk in generate_answer_stream(user_query, context_blocks):
+                    if chunk["type"] == "content":
+                        answer_text += chunk["content"]
+                        yield f"data: {json.dumps({'type': 'content', 'text': chunk['content']})}\n\n"
+                    elif chunk["type"] == "usage":
+                        g_usage = chunk["usage"]
+
+                # Now that generation is done, generate followups and save to DB
+                followups_val = generate_followup_questions(user_query, answer_text, context_blocks=None)
+                
+                total_p = p_usage.get("prompt_tokens",0) + g_usage.get("prompt_tokens",0)
+                total_c = p_usage.get("completion_tokens",0) + g_usage.get("completion_tokens",0)
+                
+                msg_id_val = save_message(req.session_id, "assistant", answer_text, trace, prompt_tokens=total_p, completion_tokens=total_c, citations=citations_list)
+                
+                # Cache it
+                try:
+                    conn = db_connect(); conn.autocommit = True; cur = conn.cursor()
+                    cur.execute("""
+                        INSERT INTO query_cache (query_hash, query_text, response_text, citations)
+                        VALUES (%s,%s,%s,%s) ON CONFLICT (query_hash) DO NOTHING
+                    """, (q_hash, corrected_query, answer_text, json.dumps(citations_list)))
+                    cur.close(); conn.close()
+                except Exception:
+                    pass
+                
+                # Send final metadata
+                yield f"data: {json.dumps({'type': 'metadata', 'citations': citations_list, 'followups': followups_val, 'message_id': msg_id_val, 'tokenUsage': {'prompt_tokens': total_p, 'completion_tokens': total_c, 'total_tokens': total_p + total_c}})}\n\n"
+            except Exception as e:
+                yield f"data: {json.dumps({'type': 'error', 'text': str(e)})}\n\n"
+
+        return StreamingResponse(event_stream(), media_type="text/event-stream")
     answer, g_usage = generate_answer(user_query, context_blocks)
 
     # ── Step 6b: Faithfulness check (conditional on low confidence) ───────────

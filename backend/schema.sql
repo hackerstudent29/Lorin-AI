@@ -54,16 +54,16 @@ CREATE INDEX IF NOT EXISTS idx_scraped_url ON scraped_documents(source_url);
 CREATE INDEX IF NOT EXISTS idx_chat_messages_session ON chat_messages(session_id);
 CREATE INDEX IF NOT EXISTS idx_query_cache_hash ON query_cache(query_hash);
 
--- ─────────────────────────────────────────────────────────────────────────────
--- RAG Pipeline Improvements — Schema Additions
--- ─────────────────────────────────────────────────────────────────────────────
+-- -----------------------------------------------------------------------------
+-- RAG Pipeline Improvements  Schema Additions
+-- -----------------------------------------------------------------------------
 
 -- 5. Add metadata column to chat_messages for storing per-request trace data
--- (Req 6.5, Req 8.6 — stores rewritten_query, faithfulness trace, etc.)
+-- (Req 6.5, Req 8.6  stores rewritten_query, faithfulness trace, etc.)
 ALTER TABLE chat_messages 
     ADD COLUMN IF NOT EXISTS metadata JSONB DEFAULT '{}'::jsonb;
 
--- 6. Message Feedback Table (Req 9.1 — thumbs up/down per assistant message)
+-- 6. Message Feedback Table (Req 9.1  thumbs up/down per assistant message)
 -- IMPORTANT: message_id must be NOT NULL UNIQUE so ON CONFLICT (message_id) works
 CREATE TABLE IF NOT EXISTS message_feedback (
     id         UUID PRIMARY KEY DEFAULT gen_random_uuid(),
@@ -78,3 +78,46 @@ CREATE INDEX IF NOT EXISTS idx_message_feedback_message_id
     ON message_feedback(message_id);
 CREATE INDEX IF NOT EXISTS idx_message_feedback_created_at 
     ON message_feedback(created_at DESC);
+
+-- -----------------------------------------------------------------------------
+-- Entity Resolution (RAG Pipeline Update)
+-- -----------------------------------------------------------------------------
+
+-- 7. Enable pg_trgm extension for fuzzy text matching
+CREATE EXTENSION IF NOT EXISTS pg_trgm;
+
+-- 8. Create the Entity Registry table
+CREATE TABLE IF NOT EXISTS entities (
+    entity_id VARCHAR(50) PRIMARY KEY, -- String ID matching markdown tag (e.g., 'ent_001')
+    canonical_name TEXT NOT NULL,
+    roles TEXT[] DEFAULT '{}',
+    departments TEXT[] DEFAULT '{}',
+    aliases TEXT[] DEFAULT '{}', -- For typos, nicknames, or variations
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
+);
+
+-- 9. Create a GIN index to make fuzzy searching fast
+
+CREATE INDEX IF NOT EXISTS entities_name_trgm_idx ON entities USING GIN (canonical_name gin_trgm_ops);
+
+-- 10. Create a function to resolve a raw name/typo to an entity_id using fuzzy matching
+CREATE OR REPLACE FUNCTION match_entity(query_name TEXT, similarity_threshold FLOAT DEFAULT 0.4)
+RETURNS TABLE (entity_id VARCHAR(50), canonical_name TEXT, similarity REAL) AS $$
+BEGIN
+    RETURN QUERY
+    SELECT 
+        e.entity_id, 
+        e.canonical_name, 
+        -- Check similarity against the canonical name and aliases
+        GREATEST(
+            similarity(e.canonical_name, query_name),
+            (SELECT max(similarity(alias, query_name)) FROM unnest(e.aliases) as alias)
+        )::REAL as sim
+    FROM entities e
+    WHERE 
+        e.canonical_name % query_name OR 
+        EXISTS (SELECT 1 FROM unnest(e.aliases) alias WHERE alias % query_name)
+    ORDER BY sim DESC
+    LIMIT 1; -- Return the best match
+END;
+$$ LANGUAGE plpgsql;

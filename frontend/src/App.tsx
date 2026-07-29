@@ -1,20 +1,19 @@
 import { useEffect, useRef, useState, useCallback } from "react";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { ChatHeader } from "@/components/chat/ChatHeader";
 import { ChatInput } from "@/components/chat/ChatInput";
 import { MessageList } from "@/components/chat/MessageList";
 import { ScrollToBottomPill } from "@/components/chat/ScrollToBottomPill";
 import { useCampusChat } from "@/hooks/useCampusChat";
+import { AdminDashboard } from "@/components/admin/AdminDashboard";
 
-export default function App() {
+function ChatApp() {
   const scrollRef      = useRef<HTMLDivElement>(null);
   const endRef         = useRef<HTMLDivElement>(null);
   const [showPill, setShowPill] = useState(false);
   const [draft, setDraft]       = useState("");
 
-  // Map of msgId → DOM element (set by MessageList via data-msg-id)
   const msgRefs = useRef<Map<string, HTMLElement>>(new Map());
-
-  // Whether the user is near the bottom right now
   const wasNearBottom = useRef(true);
 
   const nearBottom = useCallback(() => {
@@ -23,18 +22,15 @@ export default function App() {
     return el.scrollHeight - el.scrollTop - el.clientHeight < 180;
   }, []);
 
-  /** Hard instant jump — used during typewriter so it keeps up */
   const jumpToBottom = useCallback(() => {
     const el = scrollRef.current;
     if (el) el.scrollTop = el.scrollHeight;
   }, []);
 
-  /** Smooth scroll to bottom — used when message first appears */
   const scrollToBottom = useCallback(() => {
     endRef.current?.scrollIntoView({ behavior: "smooth" });
   }, []);
 
-  /** Smooth scroll to a specific message element */
   const scrollToMsg = useCallback((msgId: string) => {
     const el = msgRefs.current.get(msgId);
     if (el) {
@@ -42,15 +38,12 @@ export default function App() {
     }
   }, []);
 
-  // Called by hook when typewriter finishes — scroll back to user question
   const onAnimationDone = useCallback((userMsgId: string) => {
-    // Small delay so the final render paints first
     setTimeout(() => scrollToMsg(userMsgId), 80);
   }, [scrollToMsg]);
 
   const { messages, isTyping, send, submitFeedback, sessionId, newChat } = useCampusChat(onAnimationDone);
 
-  // Track user scroll position
   useEffect(() => {
     const el = scrollRef.current;
     if (!el) return;
@@ -63,15 +56,12 @@ export default function App() {
     return () => el.removeEventListener("scroll", onScroll);
   }, [nearBottom]);
 
-  // When user sends a message or typing indicator appears → jump to bottom
   useEffect(() => {
-    // Always jump when a new message is added (user sends or AI reply arrives)
     jumpToBottom();
     wasNearBottom.current = true;
     setShowPill(false);
   }, [messages.length, isTyping, jumpToBottom]);
 
-  // During typewriter animation — keep scrolling down as content grows
   const lastMsg     = messages[messages.length - 1];
   const lastContent = lastMsg?.content ?? "";
   useEffect(() => {
@@ -84,7 +74,6 @@ export default function App() {
       className="relative flex h-screen flex-col transition-colors duration-200"
       style={{ backgroundColor: "var(--background)", color: "var(--foreground)" }}
     >
-      {/* Decorative background orbs */}
       <div aria-hidden className="pointer-events-none fixed inset-0 -z-10 overflow-hidden">
         <div className="absolute -top-24 -left-24 size-[420px] rounded-full blur-3xl"
           style={{ background: "oklch(from var(--primary) l c h / 20%)" }} />
@@ -124,5 +113,16 @@ export default function App() {
 
       <ChatInput onSend={send} disabled={isTyping} value={draft} onValueChange={setDraft} />
     </div>
+  );
+}
+
+export default function App() {
+  return (
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<ChatApp />} />
+        <Route path="/admin" element={<AdminDashboard />} />
+      </Routes>
+    </BrowserRouter>
   );
 }

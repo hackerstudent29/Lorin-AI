@@ -1,31 +1,28 @@
-# MSAJCE Grievanceredressalcommittee
+# Grievance Redressal Committee
 
-- **Ms.S.Usha AP / English, MSAJCE, Chennai.** serves as **Convener**, Contact Email: `sh.usha@msajce-edu.in`.
+## 1. Committee Members and Contact Information
+- The Grievance Redressal Committee, which also functions as the Disciplinary Committee, Vishaka Committee, and Posh Cell, can be contacted via email at grievance@**MSAJCE**-edu.in.
+- Ms. S. Ms. S. Usha <!--ent_483-->, Assistant Professor of English at **MSAJCE**, serves as the Convener and can be reached at sh.Ms. S. Usha <!--ent_486-->@**MSAJCE**-edu.in.
+- Dr. K.S. Srinivasan <!--ent_038--> (Principal), serves as the Co-Convener and can be contacted at Principal@**MSAJCE**-edu.in.
+- Mrs. Adhilakshmi Logamurthy <!--ent_396-->, an Advocate and Legal Consultant, serves as an External Member.
+- Mr. Hussain Basha <!--ent_167--> from NGO-1, MasterMind Consultraining in Chennai, serves as an External Member and can be contacted at info@hussainbasha.com.
+- Dr. Ushaa Eswaran <!--ent_084--> from NGO-2 serves as an External Member and can be reached at drushaaeswaran@gmail.com.
+- Mr. K. Sivaraman <!--ent_184-->, an Advocate, serves as an External Member.
+- Mr. Chandrasekaran <!--ent_139-->, Sub Inspector of Police, serves as an External Member.
+- Dr. O.S. Ayisha <!--ent_051-->, Vice Principal of MSCAS in Chennai, serves as an External Member.
+- The Head of Academics at **MSAJCE** serves as a Member and can be contacted at ac@**MSAJCE**-edu.in.
+- The Head of Administration at **MSAJCE** serves as a Member and can be reached at headadmin@**MSAJCE**-edu.in.
+- Dr. K.P. Santhoshnathan <!--ent_035-->, Physical Education Director at **MSAJCE**, serves as a Member and can be contacted at ped.santhosh@**MSAJCE**-edu.in.
+- Mr. Abdul Gafoor <!--ent_098-->, Manager of Student Affairs, serves as a Member and can be reached at abdulgafoor@**MSAJCE**-edu.in.
+- The committee also includes two Parent Representatives who serve as Members.
+- Additionally, the committee includes Student Representatives, namely Mr. S. Salman <!--ent_308--> from the fourth year of Mechanical Engineering, Mr. Poo.
+- Satheeshkumar from the fourth year of Electronics and Communication Engineering, Ms. W. Karishma <!--ent_496--> from the third year of Computer Science and Engineering, and Ms. V. Abinaya <!--ent_493--> from the third year of Electronics and Communication Engineering, all of whom serve as Members.
 
-- **Principal, MSAJCE, Chennai** serves as **Co – Convener**, Contact Email: `Principal@msajce-edu.in`.
+### Sample Questions:
+- ◆ Who is the Convener of the **MSAJCE** Grievance Redressal Committee?
+- ◆ Does the **MSAJCE** Grievance Redressal Committee include police personnel?
+- ◆ What is the contact email for the **MSAJCE** Grievance Redressal Committee?
 
-- **Mrs.Adhilakshmi Logamurthy Advocate & Legal Consultant** serves as **External Member**, Contact Email: `-`.
-
-- **Mr.Hussain Basha NGO-1, MasterMind Consultraining, Chennai** serves as **External Member**, Contact Email: `info@hussainbasha.com`.
-
-- **Dr.Ushaa Eswaran NGO-2** serves as **External Member**, Contact Email: `drushaaeswaran@gmail.com`.
-
-- **Mr.K.Sivaraman, Advocate** serves as **External Member**, Contact Email: `-`.
-
-- **Mr.ChandrasekaranSub Inspector of Police** serves as **External Member**, Contact Email: `-`.
-
-- **Dr.O.S.AyishaVice Principal, MSCAS, Chennai** serves as **External Member**, Contact Email: `-`.
-
-- **Head - AcademicsMSAJCE, Chennai** serves as **Member**, Contact Email: `ac@msajce-edu.in`.
-
-- **Head – Administration MSAJCE, Chennai** serves as **Member**, Contact Email: `headadmin@msajce-edu.in`.
-
-- **Dr.K.P.SanthoshnathanPED, MSAJCE, Chennai.** serves as **Member**, Contact Email: `ped.santhosh@msajce-edu.in`.
-
-- **Mr.Abdul Gafoor, Manager, Student Affairs** serves as **Member**, Contact Email: `abdulgafoor@msajce-edu.in`.
-
-- **Parent Representative** serves as **Member**, Contact Email: `-`.
-
-- **Parent Representative** serves as **Member**, Contact Email: `-`.
-
-- **Students Representatives:Mr.S.Salman, IV MechMr.Poo.Satheeshkumar, IV ECEMs.W.Karishma, III CSEMs.V.Abinaya, III ECE** serves as **Member**, Contact Email: `-`.
+## Related Notes
+[[msajce_edc]]
+[[msajce_womensempowermentcell]]

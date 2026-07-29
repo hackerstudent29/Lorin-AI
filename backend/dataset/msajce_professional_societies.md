@@ -1,123 +1,95 @@
-# Professional Societies Overview and Institutional Governance at MSAJCE
+# Professional Societies
 
-- **Dr. K.S. SRINIVASAN** serves as **PrincipalMohamed Sathak AJ College of Engineering**, Contact Email: `principal@msajce-edu.in`.
+## 1. Computer Society of India
+- The Computer Society of India operates with the vision of "IT for Masses." Keeping in mind the interest of IT professionals and computer users, CSI works towards making the profession an area of choice amongst all sections of society.
+- To fulfill this objective, the CSI regularly organizes conferences, conventions, lectures, projects, and awards.
+- At the same time, it ensures that regular training and skill updating are organized for IT professionals.
+- The Education Directorate of CSI helps physically challenged citizens by providing training under the 'Punarjani' initiative.
+- CSI also works towards a global approach by seeking alliances with overseas organizations willing to participate in such activities, and it assists governments in formulating IT strategies and planning.
+- **MSAJCE** falls under Region VII, which includes Tamil Nadu, Pondicherry, Andaman and Nicobar, Kerala, and Lakshadweep, and is associated with the Kanchipuram Chapter.
+- Being closely associated with students, the Society has developed a well-established network across the country.
+- Activities conducted for students include lecture meetings, seminars, conferences, training programs, programming contests, and industrial visits.
+- The CSI Educational Directorate undertakes activities related to the certification of professionals in the latest technologies.
+- Its recent initiative of distance education in the business domain offers technology-enabled learning supported by personal counseling and expert advice.
+- In an ever-changing environment, CSI offers professional counseling, which is a great need of the hour, by staying in close contact with its young members through various events, conferences, and symposia.
+- **MSAJCE** received the Best Supporting College Award from the CSI Kancheepuram Chapter.
+- Additionally, our faculty member Mr. D. Weslin <!--ent_142--> received the Active Participant Award from the CSI Kancheepuram Chapter.
+- The nomination authority for the CSI chapter includes Dr. K.S. Srinivasan <!--ent_038--> (Principal), who is the Principal of Mohamed Sathak A.J. College of Engineering and can be reached at principal@**MSAJCE**-edu.in.
+- Dr. I. Manju <!--ent_028-->, a Professor in the Department of Electronics and Communication Engineering, serves as the Nominee and can be contacted at ece.manju@**MSAJCE**-edu.in.
+- Dr. D. Weslin <!--ent_017-->, an Associate Professor in the Department of Information Technology, serves as the CSI Student Branch Counsellor and can be reached at it.weslin@**MSAJCE**-edu.in.
+- The CSI office bearers consist of students from various departments.
+- Yogesh R from the Information Technology department serves as President for the 2022-2026 batch.
+- Saqlin Mustaq M from the Artificial Intelligence and Data Science department serves as Vice President for the 2023-2027 batch.
+- Abu Jabar Mubarak from the Computer Science and Business Systems department serves as Secretary for the 2022-2026 batch.
+- Hanuram PR and Shivam Vishwakarma, both from the Computer Science and Engineering department, serve as Joint Secretaries for the 2023-2027 batch.
+- Navadharshan from the Cyber Security department serves as Treasurer for the 2023-2027 batch.
+- Akram Bilal from the Artificial Intelligence and Data Science department serves as an Executive Member for the 2022-2026 batch, and Zeenath Nisha from the Information Technology department serves as an Executive Member for the 2023-2027 batch.
+- Various activities have been conducted under the CSI banner.
+- The CSI Inaugural Function was held on February 28, 2023, with Dr. Murugan <!--ent_047-->, President of the CSI Kancheepuram Chapter and Principal of Valliammai College of Engineering, as the resource person, attracting 200 participants under the coordination of Ms. S. Usha <!--ent_486--> and Mr. Pandiyan G. A <!--ent_277--> guest lecture on Voice over IP was conducted on March 22, 2023, by Mr. Anbazhagan A T <!--ent_121-->, Technical Lead at Cognizant, with 100 participants coordinated by Ms. Gayathiri <!--ent_452--> and Ms. Aiswarya M.S. Another <!--ent_442--> guest lecture on Digital Marketing was held on March 17, 2023, by Mr. J. Mohammed Afroze <!--ent_175-->, Digital CEO in Chennai, with 110 participants under the coordination of Mr. Rajasekar R <!--ent_294--> and Ms. Aysha Surfeen M.A. An <!--ent_447--> interactive session titled Innovation and Invention in AI Technology was conducted on March 10, 2023, by Ms. Anisha Udhayakumar <!--ent_446-->, AI Evangelist at Intel Corporation, drawing 100 participants and coordinated by Mr. Vigneshwaran <!--ent_389--> and Mr. Hamer Shield J.M. Furthermore <!--ent_163-->, a session on the Benefits of CSI membership was conducted on February 20, 2020, by Dr. M. Senthil Kumar <!--ent_042-->, Secretary of the CSI Kancheepuram Chapter, with 200 participants coordinated by Ms. S. Kayalvizhi <!--ent_482--> and Ms. Bapitha Rani.
 
-- **Dr. I. Manju** serves as **NomineeProfessorDepartment of ECE**, Contact Email: `ece.manju@msajce-edu.in`.
+## 2. IETE Students Forum
+- **MSAJCE** of Electronics and Telecommunication Engineers (IETE) is one of the leading professional societies in India for electronics and communication engineers.
+- **MSAJCE** established an IETE Students Forum on August 16, 2017, and our student branches have 100 active members.
+- This forum organizes guest lectures, seminars, workshops, and conferences for the benefit of student members to exchange ideas and information on topics of their interest, such as curriculum, employment opportunities, higher educational opportunities, emerging trends, and new developments.
+- The student members are also facilitated towards technical visits, practical training, and project work in research and development laboratories and industries.
+- These activities encourage teamwork and event management, and they develop a spirit of self-reliance among the student members.
+- Our student members have actively participated and won prizes in various technical events conducted by other institutions.
+- IETE student members have the privilege of attending IETE technical programs in India at reduced registration fees.
+- The forum provides access to the IETE Journal of Education, the IETE Journal of Research, and the IETE Technical Review.
+- The goals of IETE include improving the standard of education, training students in emerging areas to meet new opportunities, encouraging outside-the-classroom studies, practical work, and seminars, and ensuring better employment for students upon completion of their courses.
+- It also aims for a substantial increase in IETE membership and its nationwide distribution.
+- The benefits of the IETE Students Forum include priority for publishing papers in the Journal of Education and the ability to subscribe to other publications such as the IETE Journal of Research and the IETE Technical Review, which are available online.
+- Students in the forum are welcome to attend IETE technical programs in India at reduced registration fees, and members will be issued an identity card.
+- The Branch Counselors for the forum are Dr. I. Manju <!--ent_028--> and Ms. S. Anusuya <!--ent_480-->.
+- The IETE has conducted several significant activities.
+- A session on Signal and Power Integrity in the Semiconductor Industry was held on June 27, 2020, by Mr. Zakir Hussain <!--ent_394-->, Analog Design Engineer at Microchip India PVT Ltd, with 65 participants.
+- A session on Cyber Physical Systems and its Applications using LABVIEW was conducted on June 24, 2020, by Mr. K. Prakash <!--ent_183-->, Application Engineer at Optithought, with 77 participants.
+- The Art of Thinking Big was presented on June 11, 2020, by Mr. Aadil Ibrahim <!--ent_096--> A <!--ent_097-->, an alumnus and entrepreneur, attracting 263 participants.
+- An Embedded and IOT Boot Camp was held from May 27 to May 29, 2020, featuring Dr. A.L. Vallikannu <!--ent_005-->, Dr. Athif Shah <!--ent_008-->, and Mr. M. Prabakaran <!--ent_201-->, with 120 participants.
+- A session on the Scope of Electronics Engineer in Various Domains was conducted on January 30, 2019, by Mr. Sankaralingam <!--ent_333--> and Mrs. Suganya <!--ent_435-->, with 70 participants.
+- An Inter-Department Technical Quiz was held on February 12, 2020, coordinated by Mr. M.L. Syed Ali <!--ent_205-->, with 200 participants and three batches winning prizes.
+- The IETE Technical and Non-Technical Connexions event took place on September 1, 2018, coordinated by Ms. E. Jayanthi <!--ent_451-->, with 300 participants and three batches winning prizes.
+- A Project Expo was organized on March 23, 2018, by Ms. I.S. Suganthi <!--ent_459-->, with 70 participants and three batches winning prizes.
+- Finally, a Seminar on Recent Trends in Optical Fibre Communication was conducted on August 16, 2017, by Dr. A. Sadagopan <!--ent_003-->, attracting 120 participants.
 
-- **Dr. D. Weslin** serves as **CSI Student Branch CounsellorAssociate ProfessorDepartment of IT**, Contact Email: `it.weslin@msajce-edu.in`.
+## 3. Society of Automotive Engineers
+- The Society of Automotive Engineers (SAE) is a globally active professional association and standards developing organization based in the United States for engineering professionals in various industries.
+- The principal emphasis is placed on global transport industries such as aerospace, automotive, and commercial vehicles.
+- Accordingly, the name SAE was established to reflect the broader emphasis on mobility.
+- SAEINDIA is India's leading resource for mobility technology.
+- As an individual member-driven society of mobility practitioners, the ownership of SAEINDIA wrests with its members, who are individuals from the mobility community, including engineers, executives from industry, government officials, academics, and students.
+- It is an affiliate society of SAE International registered in India as an Indian nonprofit engineering and scientific society dedicated to the advancement of the mobility industry in India.
+- Student clubs of SAE from various academic institutions make sure that they establish a link between the industry and the students.
+- SAE India, with its four sections covering the entirety of India, organizes various events for the benefit of the engineering student community.
+- SAE India student events include the Tractor Design Competition, Baja SAE India, Supra SAEINDIA, Aero Design Challenge, SAE India Student Convention, SAE India Bicycle Design Competition, SAE India ASOP, Electric Two Wheeler Design Competition, SAE India TIFAN for Technology Innovation Forum for Agricultural Nurturing, and SAE India Efficycle.
+- **MSAJCE** inaugurated the SAE-INDIA collegiate club associated with **MSAJCE** on February 21, 2020, and successfully conducted the SAE-INDIA Southern section TIER-II event on the same day.
+- The SAE India **MSAJCE** Collegiate Club office bearers include Mr. S. Deepakkumar <!--ent_305--> and Mr. R. Prabu <!--ent_287--> as the faculty in-charges.
+- The student members include Syed N. Zaheer Abbas serving as President, Chandrasekar G serving as Vice President, Muhammed Zahan Faaieq J serving as Secretary, Shahila P serving as Joint Secretary, and Abdullah B serving as Treasurer.
+- The SAE activities conducted during the 2019-2020 academic year include the inauguration of the SAE Collegiate Club on February 21, 2020, and the SAEISS Student Convention Tier-II Event which was also held on February 21, 2020.
 
-- **Yogesh R** serves as **IT** (: President; Batch: 2022-2026).
+## 4. The Indian Society of Heating, Refrigerating and Air Conditioning Engineers (ISHRAE)
+- The Indian Society of Heating, Refrigerating and Air Conditioning Engineers, known as ISHRAE, was founded in 1981 at New Delhi by a group of eminent heating, ventilation, air conditioning, and refrigeration professionals.
+- ISHRAE operates from 41 chapters and sub-chapters spread all over India, with its headquarters in Delhi.
+- ISHRAE works in the national interest with various government ministries and departments, such as in the development of standards, drafting the National Building Code for the Bureau of Indian Standards, working on the Energy Conservation Building Code with the Bureau of Energy Efficiency, and collaborating with the Ozone cell of the Ministry of Environment, Forest and Climate Change on refrigerant gases.
+- ISHRAE is a member and active supporter of the National Centre for Cold Chain Development, and the Ministry of Agriculture works closely with them on refrigeration.
+- ISHRAE also works in close cooperation with other similar societies and organizations, both at the national and international levels, for the promotion and development of issues like sustainability, green buildings, energy efficiency, environmental responsibility, indoor air quality, and fire safety.
+- ISHRAE is looked upon as a repository of technical knowledge in the building industry field by peer organizations and the Government of India.
+- The objectives of ISHRAE include the advancement of the arts and sciences of heating, ventilation, air conditioning, and refrigeration engineering and related services.
+- It focuses on the continuing education of members and other interested persons through lectures, workshops, product presentations, publications, and expositions.
+- The society renders career guidance and financial assistance to students of these sciences and encourages scientific research.
+- As part of its objectives to promote the interests of the industry, ISHRAE is involved in various activities.
+- It reaches out to all its members and seeks their active participation and involvement in all the events and programs organized by the society.
+- The activities of the student branch provide excellent networking opportunities to interact with other professionals, industry leaders, and key decision-makers in the profession and industry.
+- The branch provides an excellent forum for professional development and continuous training and retraining on both fundamentals and the latest products and technologies available worldwide.
+- It offers easy access to all ISHRAE technical publications, software, workshops, conferences, and training programs. Students have the opportunity to work in the chapter working committee and headquarter activities towards the mission to promote the arts and sciences of the field in India.
+- Furthermore, it provides a platform for effective marketing and the launching of new products and technologies through exhibitions, product presentations, and advertisements, while also providing international exposure through international associates.
 
-- **Saqlin Mustaq M** serves as **AI&DS** (: Vice president; Batch: 2023-2027).
+### Sample Questions:
+- ◆ What is the CSI chapter associated with at **MSAJCE**?
+- ◆ Who is the Student Branch Counsellor for the CSI chapter at **MSAJCE**?
+- ◆ What benefits do members of the IETE Students Forum receive?
 
-- **Abu Jabar Mubarak** serves as **CS&BS** (: Secretary; Batch: 2022-2026).
-
-- **Hanuram PR** serves as **CSE** (: Joint Secretary; Batch: 2023-2027).
-
-- **Shivam Vishwakarma** serves as **CSE** (: Joint Secretary; Batch: 2023-2027).
-
-- **Navadharshan** serves as **CSCS** (: Treassurer; Batch: 2023-2027).
-
-- **Akram Bilal** serves as **AI&DS** (: Executive Member; Batch: 2022-2026).
-
-- **Zeenath Nisha** serves as **IT** (: Executive Member; Batch: 2023-2027).
-
-- **CSI Inaugural Function** serves as **Dr.Murugan, President CSI Kancheepuram Chapter Principal,Valliammai College of Engineering** (Date: 28.02.23; Co-Ordinators: Mrs.Viswajaa.S, AP/IT Mr.Pandiyan.G, AP/CSE; View: View).
-
-- **Guest Lecture-voice over IP** serves as **Mr.Anbazhagan A T Technical Lead, Cognizant.** (Date: 22.03.23; Co-Ordinators: Mrs.Gayathiri, AP/CSEMrs.Aiswarya M.S, AP/IT; View: View).
-
-- **Guest lecture-Digital Marketing** serves as **Mr. J. Mohammed Afroze Digital, CEO, Chennai** (Date: 17.03.23; Co-Ordinators: Mr. Rajasekar R, AP/CSE Mrs.Aysha Surfeen.M.A , AP/IT; View: View).
-
-- **Interactive Session Innovation & Invention in AI Technology** serves as **Ms.Anisha Udhayakumar AI Evangelist, Intel Corporation** (Date: 10.03.23; Co-Ordinators: Mr.Vigneshwaran,TPO Mr.Hamer Shield.J M; View: View).
-
-- **Benefits of CSI membership** serves as **Dr.M.Senthil Kumar, Secretary, CSI Kancheepuram Chapter** (Date: 20.02.20; Co-Ordinators: Mrs.S.Kayalvizhi, Mrs.Bapitha Rani; View: View).
-
-- **Development of leadership, Interpersonal and team building skills**.
-
-- **Scholarships and project/design programs and student paper contests**.
-
-- **Establishment of a Student Branch Library with IEEE's publications**.
-
-- **Access IEEE online services and resources & Establish a website**.
-
-- **Organize various awareness programs to school students & Public**.
-
-- **Train the students in the emerging area to meet the new opportunities**.
-
-- **Encouraging outside-the-classroom studies / practical work / seminars etc**.
-
-- **Better employment of the students on completion of their courses**.
-
-- **Substantial increase of IETE membership and its nationwide distributions**.
-
-- **Can also subscribe for other publications such as IETE Journal of Research and IETE. Technical Review (available online)**.
-
-- **ISF students are welcome to attend IETE technical programs in India at reduced registration fees**.
-
-- **ISF member will be issued with an Identity Card**.
-
-- **Dr. I. Manju** (School Code: Branch Counselor 1).
-
-- **Mrs. S. Anusuya** (School Code: Branch Counselor 2).
-
-- **Signal and Power Integrity in Semiconductor Industry** serves as **Mr. ZakirHussain, M.E. Analog Design Engineer, Microchip India PVT Ltd, Bangalore** (Date Of The Event: 27-06-2020).
-
-- **Cyber Physical Systems and its Applications using LABVIEW** serves as **Mr. K. Prakash , M.E.Application Engineer, Optithought** (Date Of The Event: 24/06/20).
-
-- **Art of Thinking Big** serves as **Mr. Aadil Ibrahim .A (Alumnus) Founder of Cameraman, Entrepreneur by Profession, Public Speaker by Passion** (Date Of The Event: 11/06/20).
-
-- **Embedded & IOT Boot Camp** serves as **Day 1 - Dr.A.L. Vallikannu, Associate Professor, HITS, Chennai "Day 2 - Dr.Athif shah, Founder Managing Director , ABE semiconductor Designs, Chennai" "Day 3 - Mr. M. Prabakaran (Alumni) Senior Software Architect in Caterpillar"** (Date Of The Event: 27/05/20 to 29/05/20).
-
-- **Scope of Electronics Engineer in Various Domain** serves as **Mr.Sankaralingam Principal Engineer, Valeo & Mrs.Suganya-Jasmine Infotech** (Date Of The Event: 30/01/2019).
-
-- **Inter Department TECHNICAL QUIZ** serves as **Coordinator:Mr. M.L. Syed Ali Convenor: Dr. E. Dhiravidachelvi** (Date Of The Event: 12/02/20; Target Audience: Won prizes 3 batches).
-
-- **IETE- TECHNICAL & NON TECHNICAL CONNEXIONS** serves as **Coordinator: Ms. E. Jayanthi Convenor: Dr . E. Dhiravidachelvi** (Date Of The Event: 01/09/2018; Target Audience: Won prizes 3 batches).
-
-- **PROJECT EXPO** serves as **Coordinator: Ms. I.S. Suganthi Convenor: Dr . E. Dhiravidachelvi** (Date Of The Event: 23/03/ 2018; Target Audience: Won prizes 3 batches).
-
-- **Seminar on Recent Trends in Optical Fibre Communication** serves as **Dr A.Sadagopan , Asst.General Manager (Rtd) BSNL, IETE Professor** (Date Of The Event: 16 /08/2017).
-
-- **BAJA SAE INDIA**.
-
-- **SUPRA SAEINDIA**.
-
-- **AERO DESIGN CHALLENGE**.
-
-- **SAE INDIA STUDENT CONVENTION**.
-
-- **SAE INDIA BICYCLE DESIGN COMPETITION**.
-
-- **SAE INDIA ASOP**.
-
-- **ELECTRIC TWO WHEELER DESIGN COMPETITION**.
-
-- **SAE INDIA TIFAN(TECHNOLOGY INNOVATION FORUM FOR AGRICULTURAL NURTURING)**.
-
-- **SAE INDIA EFFICYCLE**.
-
-- **Conducted the SAE-INDIA Southern section TIER-II event dated on 21.02.2020**.
-
-- **President** serves as **Syed. N.Zaheer Abbas** (Faculty Incharge: Mr.S.Deepakkumar).
-
-- **Vice president** serves as **Chandrasekar. G** (Faculty Incharge: Mr.R.Prabu).
-
-- **Secretary** serves as **Muhammed Zahan Faaieq J**.
-
-- **Joint Secretary** serves as **Shahila P**.
-
-- **Treasurer** serves as **Abdullah B**.
-
-- **Collegiate Club** serves as **Inauguration of SAE Collegiate Club** (Date: 21.02.2020).
-
-- **Student Convention Tier - II Events** serves as **SAEISS - Student Convention Tier - II Event 2020** (Date: 21.02.2020).
-
-- **Provides an excellent forum for professional development and continuous training & Re-training on both fundamentals and latest products & technologies available worldwide**.
-
-- **Easy access to all ISHRAE Technical Publications, Software, Workshops, Conferences and Training Programs**.
-
-- **Opportunity to work in the Chapter Working Committee & Headquarter activities towards our mission to promote the arts and sciences of HVAC&R in India**.
-
-- **Provides a platform for effective marketing and launching of new products and technologies through exhibitions, product presentations and advertisements**.
-
-- **Provides an International exposure through International Associates**.
+## Related Notes
+[[msajce_clubssocieties]]
+[[msajce_sports]]
+[[msajce_placement]]

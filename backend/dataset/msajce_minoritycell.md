@@ -1,23 +1,23 @@
-# Minority Cell Mandate and Objectives at MSAJCE
+# Minority Cell
 
-- **Dr.E.Dhiravidachelvi Professor, ECE, MSAJCE,Chennai** serves as **Convener**, Contact Email: `ecehod@msajce-edu.in`.
+## 1. Committee Members
+- Dr. E. Dhiravidachelvi <!--ent_018-->, Professor in the Electronics and Communication Engineering department at **MSAJCE**, serves as the Convener and can be contacted via email at ecehod@**MSAJCE**-edu.in.
+- Ms. S. Adhilakshmi Logamurthy <!--ent_479-->, Advocate, serves as the Advocate and Legal Consultant and can be reached at advocateadhilogi@gmail.com.
+- Dr. I. Manju <!--ent_028-->, Professor in the Electrical and Electronics Engineering department at **MSAJCE**, serves as a Member and can be contacted at manjujackin@gmail.com.
+- Ms. S. Sudha <!--ent_485-->, Associate Professor in the Mathematics department at **MSAJCE**, serves as a Member and can be reached at sh.sudha@**MSAJCE**-edu.in.
+- Mr. Hussain Basha <!--ent_167--> from NGO-1, MasterMind Consultraining in Chennai, serves as a Member and can be contacted at info@hussainbasha.com.
+- Dr. Ushaa Eswaran <!--ent_084--> from NGO-2 serves as a Member and can be reached at drushaaeswaran@gmail.com.
+- Ms. S. Usha <!--ent_486-->, Assistant Professor of English at **MSAJCE**, serves as a Member and can be contacted at ushashankar77@gmail.com.
+- Mr. Ramesh <!--ent_301-->, Associate Professor in the Mechanical Engineering department at **MSAJCE**, also serves as a Member.
+- Mr. Mahboob Ali Khan <!--ent_209-->, Consultant and Service, who is the parent of Mr. Faizal Ahamed Khan <!--ent_151--> from the second year of Computer Science and Engineering, serves as a Parent and Member.
+- Mr. T. Vinayagam <!--ent_370-->, who is the parent of Mr. Vanchinathan <!--ent_381--> from the first year of Computer Science and Engineering, serves as a Parent and Member.
+- Finally, representatives from the Alumni serve as Alumni and Members.
 
-- **Mrs.Adhilakshmi Logamurthy, Advocate** serves as **Advocate & Legal Consultant**, Contact Email: `advocateadhilogi@gmail.com`.
+### Sample Questions:
+- ◆ Who is the Convener of the **MSAJCE** Minority Cell?
+- ◆ Are there NGO representatives in the **MSAJCE** Minority Cell?
+- ◆ Do parents serve as members in the **MSAJCE** Minority Cell?
 
-- **Dr.I.Manju Professor, EEE, MSAJCE, Chennai** serves as **Member**, Contact Email: `manjujackin@gmail.com`.
-
-- **Ms.S.Sudha Asso., Professor, Maths, MSAJCE, Chennai.** serves as **Member**, Contact Email: `sh,sudha@msajce-edu.in`.
-
-- **Mr.Hussain Basha NGO-1, MasterMind Consultraining, Chennai** serves as **Member**, Contact Email: `info@hussainbasha.com`.
-
-- **Dr.Ushaa Eswaran NGO-2** serves as **Member**, Contact Email: `drushaaeswaran@gmail.com`.
-
-- **Ms.S.Usha Assistant Professor, English, MSAJCE, Chennai** serves as **Member**, Contact Email: `ushashankar77@gmail.com`.
-
-- **Mr.Ramesh Asso., Professor, MECH, MSAJCE, Chennai** serves as **Member**.
-
-- **Mr.Mahboob Ali Khan, Consultant & Service, P/o Mr.Faizal Ahamed Khan-IInd Yr CSE** serves as **Parent & Member**.
-
-- **Mr.T.Vinayagam P/o Mr.Vanchinathan-Ist Yr CSE** serves as **Parent & Member**.
-
-- **Alumni** serves as **Alumni & Member**.
+## Related Notes
+[[msajce_obccell]]
+[[msajce_scstcell]]

@@ -1,19 +1,20 @@
-# Women's Empowerment Cell Structure and Objectives at MSAJCE
+# Women's Empowerment Cell
 
-- **Mrs.S.Sudha Assistant Professor, Maths, MSAJCE, Chennai** serves as **Coordinator**, Contact Email: `sh.sudha@msajce-edu.in`.
+## 1. Committee Members
+- Ms. S. Sudha <!--ent_485-->, Assistant Professor of Mathematics at **MSAJCE**, serves as the Coordinator and can be contacted via email at sh.sudha@**MSAJCE**-edu.in.
+- Mrs. Janaki <!--ent_410-->, Assistant Professor of Civil Engineering at **MSAJCE**, serves as a Member and can be reached at civil.janaki@**MSAJCE**-edu.in.
+- Ms. S. Usha <!--ent_486-->, Assistant Professor of English at **MSAJCE**, serves as a Member and can be contacted at sh.s.usha@**MSAJCE**-edu.in.
+- Mrs. S. Abida Begam <!--ent_425-->, Assistant Professor of Electronics and Communication Engineering at **MSAJCE**, serves as a Member and can be reached at ece.abida@**MSAJCE**-edu.in.
+- Mrs. Muthu Pandeeswari <!--ent_416-->, Assistant Professor of Computer Science and Engineering at **MSAJCE**, serves as a Member and can be contacted at cse.muthupandeeswari@**MSAJCE**-edu.in.
+- Mrs. N. Sathya <!--ent_419-->, Assistant Professor of Mathematics at **MSAJCE**, serves as a Member and can be reached at sh.sathya@**MSAJCE**-edu.in.
+- Ms. Gayathri <!--ent_453-->, Assistant Professor of Electrical and Electronics Engineering at **MSAJCE**, serves as a Member and can be contacted at eee.gayathri@**MSAJCE**-edu.in.
+- The committee also includes Student Members, specifically Ms. Abinaya <!--ent_438--> Bharathi <!--ent_439--> from the fourth year of Computer Science and Engineering and Ms. Abinaya <!--ent_438--> from the third year of Electronics and Communication Engineering.
 
-- **Mrs.Janaki, Assistant Professor, Civil, MSAJCE, Chennai** serves as **Member**, Contact Email: `civil.janaki@msajce-edu.in`.
+### Sample Questions:
+- ◆ Who is the Coordinator of the **MSAJCE** Women's Empowerment Cell?
+- ◆ Who are the student members in the **MSAJCE** Women's Empowerment Cell?
+- ◆ Can I contact the **MSAJCE** Women's Empowerment Cell Coordinator via email?
 
-- **Ms.S.Usha Assistant Professor, English, MSAJCE, Chennai** serves as **Member**, Contact Email: `sh.usha@msajce-edu.in`.
-
-- **Mrs.S.Abida Begam Assistant Professor, ECE, MSAJCE, Chennai.** serves as **Member**, Contact Email: `ece.abida@msajce-edu.in`.
-
-- **Mrs.Muthu Pandeeswari Assistant Professor, CSE, MSAJCE, Chennai.** serves as **Member**, Contact Email: `cse.muthupandeeswari@msajce-edu.in`.
-
-- **Mrs.N.Sathya Assistant Professor, Maths, MSAJCE, Chennai** serves as **Member**, Contact Email: `sh.sathya@msajce-edu.in`.
-
-- **Ms.Gayathri Assistant Professor, EEE, MSAJCE, Chennai** serves as **Member**, Contact Email: `eee.gayathri@msajce-edu.in`.
-
-- **Ms.Abinaya Bharathi IV/CSE, MSAJCE, Chennai** serves as **Student**, Contact Email: `-`.
-
-- **Ms.AbinayaIII/ECE, MSAJCE, Chennai** serves as **Student**, Contact Email: `-`.
+## Related Notes
+[[msajce_grievanceredressalcommittee]]
+[[msajce_internalcomplaintcommittee]]
