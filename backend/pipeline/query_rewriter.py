@@ -66,22 +66,33 @@ class QueryRewriter:
         for msg in history:
             role_label = "User" if msg["role"] == "user" else "Assistant"
             if msg["role"] == "assistant":
-                # Don't aggressively split by '.' which might cut off vital context like lists or exact names
-                content = msg["content"][:400].replace('\n', ' ')
-                if len(msg["content"]) > 400: content += "..."
+                content = msg["content"]
+                # Smart truncation: keep first 250 chars (the topic) + last 150 chars (the conclusion)
+                if len(content) > 500:
+                    first_part = content[:250].strip()
+                    last_part  = content[-150:].strip()
+                    content = first_part + " ... [content truncated] ... " + last_part
+                content = content.replace('\n', ' ')
             else:
                 content = msg["content"][:300].replace('\n', ' ')
             history_str += f"{role_label}: {content}\n"
 
         if history_str.strip():
             prompt = (
-                "You are an expert search query optimizer for a college chatbot.\n"
-                "Task: Rewrite the current user question into a clear, concise, and formal standalone search question.\n"
-                "Use the conversation history ONLY to resolve pronouns or missing context (e.g. 'it', 'that', 'the department', 'he', 'him').\n"
-                "If the user asks about a specific person discussed recently, replace 'him' or 'her' with their full name.\n"
-                f"History:\n{history_str}\n"
+                "You are a search query rewriter for a college chatbot.\n"
+                "Your ONLY job: rewrite the CURRENT question into a fully self-contained, standalone search query.\n"
+                "RULES:\n"
+                "1. Resolve ALL pronouns (he, she, him, his, they, their, it, its, that, those, this) using the conversation history.\n"
+                "   - If 'him/he' refers to a named person (e.g. Dr. K.S. Srinivasan), replace with their FULL NAME.\n"
+                "   - If 'their/they' refers to a role or subject (e.g. IT job roles), name that subject explicitly.\n"
+                "   - If 'abt' means 'about', expand it.\n"
+                "2. The rewritten question must make complete sense WITHOUT the history — it must stand alone.\n"
+                "3. Never add information that wasn't asked. Keep it focused.\n"
+                "4. If the question is already standalone, output it as-is.\n"
+                "5. Output ONLY the rewritten question, no quotes, no preamble.\n\n"
+                f"Conversation History:\n{history_str}\n"
                 f"Current question: {user_message}\n"
-                "Output ONLY the optimized, clean rewritten question without quotation marks or extra text."
+                "Rewritten standalone question:"
             )
         else:
             prompt = (
@@ -102,7 +113,7 @@ class QueryRewriter:
                     "model":       "meta/llama-3.1-8b-instruct",
                     "messages":    [{"role": "user", "content": prompt}],
                     "temperature": 0.0,
-                    "max_tokens":  120,
+                    "max_tokens":  200,
                 },
                 timeout=REWRITE_TIMEOUT_SEC,
             )
