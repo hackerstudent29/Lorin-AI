@@ -1,2612 +1,2613 @@
 # Comprehensive Directory of **MSAJCE** Resource Links, Official Portals, Forms, Documents, and Media
-- This official knowledge base document compiles all verified redirecting web links, online application forms, fee payment portals, PDF documents, videos, and image assets for Mohamed Sathak A.J. College of Engineering (**MSAJCE**), Siruseri IT Park, Chennai.
+
+This official knowledge base document compiles all verified redirecting web links, online application forms, fee payment portals, PDF documents, videos, and image assets for Mohamed Sathak A.J. College of Engineering (**MSAJCE**), Siruseri IT Park, Chennai.
 
 ## 1. Online Application Forms, Registration & Fee Payment Portals
 - **[**MSAJCE** About Online Application & Form](https://enrollonline.co.in/Registration/Apply/**MSAJCE**)**
-- **Category**: `FORM` | **Source**: `msajce_about.md`
-- **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for About at **MSAJCE**.
+  - **Category**: `FORM` | **Source**: `msajce_about.md`
+  - **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for About at **MSAJCE**.
 - **[**MSAJCE** About Online Application & Form](https://www.feepayr.com/)**
-- **Category**: `FORM` | **Source**: `msajce_about.md`
-- **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for About at **MSAJCE**.
+  - **Category**: `FORM` | **Source**: `msajce_about.md`
+  - **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for About at **MSAJCE**.
 - **[**MSAJCE** About Online Application & Form](https://www.msjace-edu.in/admission.php)**
-- **Category**: `FORM` | **Source**: `msajce_about.md`
-- **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for About at **MSAJCE**.
+  - **Category**: `FORM` | **Source**: `msajce_about.md`
+  - **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for About at **MSAJCE**.
 - **[**MSAJCE** About Online Application & Form](https://www.msjce-edu.in/admission.php)**
-- **Category**: `FORM` | **Source**: `msajce_about.md`
-- **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for About at **MSAJCE**.
+  - **Category**: `FORM` | **Source**: `msajce_about.md`
+  - **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for About at **MSAJCE**.
 - **[**MSAJCE** About Online Application & Form](https://enrollonline.co.in/Registration/Apply/MSJCE)**
-- **Category**: `FORM` | **Source**: `msajce_about.md`
-- **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for About at **MSAJCE**.
+  - **Category**: `FORM` | **Source**: `msajce_about.md`
+  - **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for About at **MSAJCE**.
 - **[**MSAJCE** Admission Online Application & Form](https://enrollonline.co.in/Registration/Apply/**MSAJCE**</a)**
-- **Category**: `FORM` | **Source**: `msajce_admission.md`
-- **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for Admission at **MSAJCE**.
+  - **Category**: `FORM` | **Source**: `msajce_admission.md`
+  - **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for Admission at **MSAJCE**.
 - **[**MSAJCE** Admission Online Application & Form](https://www.feepayr.com/</a)**
-- **Category**: `FORM` | **Source**: `msajce_admission.md`
-- **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for Admission at **MSAJCE**.
+  - **Category**: `FORM` | **Source**: `msajce_admission.md`
+  - **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for Admission at **MSAJCE**.
 - **[**MSAJCE** Aiml Online Application & Form](https://enrollonline.co.in/Registration/Apply/MSJCE</a)**
-- **Category**: `FORM` | **Source**: `msajce_aiml.md`
-- **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for Aiml at **MSAJCE**.
+  - **Category**: `FORM` | **Source**: `msajce_aiml.md`
+  - **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for Aiml at **MSAJCE**.
 - **[**MSAJCE** Alumni Online Application & Form](https://forms.gle/CBMdXCDEb9uXVEBv6)**
-- **Category**: `FORM` | **Source**: `msajce_alumni.md`
-- **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for Alumni at **MSAJCE**.
+  - **Category**: `FORM` | **Source**: `msajce_alumni.md`
+  - **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for Alumni at **MSAJCE**.
 - **[**MSAJCE** Alumni Online Application & Form](https://forms.gle/CBMdXCDEb9uXVEBv6</a)**
-- **Category**: `FORM` | **Source**: `msajce_alumni.md`
-- **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for Alumni at **MSAJCE**.
+  - **Category**: `FORM` | **Source**: `msajce_alumni.md`
+  - **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for Alumni at **MSAJCE**.
 - **[**MSAJCE** Cse Online Application & Form](https://docs.google.com/forms/d/e/1FAIpQLSdR3LfA21Bs9b2jflAzWRch2_EFfk9ZeQ6wJsMT02XgnVEFBw/viewform?usp=sf_link)**
-- **Category**: `FORM` | **Source**: `msajce_cse.md`
-- **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for Cse at **MSAJCE**.
+  - **Category**: `FORM` | **Source**: `msajce_cse.md`
+  - **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Online Application & Form](https://docs.google.com/forms/d/e/1FAIpQLSdR3LfA21Bs9b2jflAzWRch2\\_EFfk9ZeQ6wJsMT02XgnVEFBw/viewform?usp=sf\\_link)**
-- **Category**: `FORM` | **Source**: `msajce_cse.md`
-- **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for Cse at **MSAJCE**.
+  - **Category**: `FORM` | **Source**: `msajce_cse.md`
+  - **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Online Application & Form](https://enrollonline.co.in/Registration/Apply/MSJACE)**
-- **Category**: `FORM` | **Source**: `msajce_cse.md`
-- **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for Cse at **MSAJCE**.
+  - **Category**: `FORM` | **Source**: `msajce_cse.md`
+  - **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Online Application & Form](https://www.aicte-india.org/feedback/index.php)**
-- **Category**: `FORM` | **Source**: `msajce_cse.md`
-- **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for Cse at **MSAJCE**.
+  - **Category**: `FORM` | **Source**: `msajce_cse.md`
+  - **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for Cse at **MSAJCE**.
 - **[**MSAJCE** Online Admissions Portal](https://www.**MSAJCE**-edu.in/admission.php)**
-- **Category**: `FORM` | **Source**: `msajce_admission.md`
-- **Summary**: Official engineering admissions registration page for B.E. / B.Tech programs at **MSAJCE**.
+  - **Category**: `FORM` | **Source**: `msajce_admission.md`
+  - **Summary**: Official engineering admissions registration page for B.E. / B.Tech programs at **MSAJCE**.
 - **[**MSAJCE** Online Fee Payment Form](https://www.**MSAJCE**-edu.in/feepay.php)**
-- **Category**: `FORM` | **Source**: `msajce_admission.md`
-- **Summary**: Direct payment portal and form link for college tuition, exam fees, and hostel dues at **MSAJCE**.
+  - **Category**: `FORM` | **Source**: `msajce_admission.md`
+  - **Summary**: Direct payment portal and form link for college tuition, exam fees, and hostel dues at **MSAJCE**.
 - **[**MSAJCE** Research Online Application & Form](https://iitm.irins.org/profile/61849#personal_information_panel)**
-- **Category**: `FORM` | **Source**: `msajce_research.md`
-- **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for Research at **MSAJCE**.
+  - **Category**: `FORM` | **Source**: `msajce_research.md`
+  - **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for Research at **MSAJCE**.
 - **[**MSAJCE** Research Online Application & Form](https://iitm.irins.org/profile/61849#personal\\_information\\_panel)**
-- **Category**: `FORM` | **Source**: `msajce_research.md`
-- **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for Research at **MSAJCE**.
+  - **Category**: `FORM` | **Source**: `msajce_research.md`
+  - **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for Research at **MSAJCE**.
 - **[Stake Holders Feedback](https://www.**MSAJCE**-edu.in/feedbackform.php)**
-- **Category**: `FORM` | **Source**: `msajce_naac.md`
-- **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for Naac at **MSAJCE**.
+  - **Category**: `FORM` | **Source**: `msajce_naac.md`
+  - **Summary**: Direct online portal and application form link for student registration, fee payment, or feedback for Naac at **MSAJCE**.
 
 ## 2. Official Institutional Webpages & Department Portals
 - **[**MSAJCE** AICTE KARMA Skill Training Portal](https://www.**MSAJCE**-edu.in/karma.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_karma.md`
-- **Summary**: Official webpage for AICTE Kaushal Augmentation and Restructuring Mission skill courses at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_karma.md`
+  - **Summary**: Official webpage for AICTE Kaushal Augmentation and Restructuring Mission skill courses at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://unnatbharatabhiyan.gov.in/participating_institutes)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjace-edu.in/about.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjace-edu.in)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjace-edu.in/curriculum.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjace-edu.in/departments.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjace-edu.in/technologycentre.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjace-edu.in/placement.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjace-edu.in/research.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjace-edu.in/library.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjace-edu.in/hostel.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjace-edu.in/transport.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjace-edu.in/alumni.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjace-edu.in/visionmission.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjce-edu.in/visionmission.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjce-edu.in/naac.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjce-edu.in/iqac.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjce-edu.in/nirf.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjce-edu.in/msajcepolicy.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjce-edu.in/mandatorydisclosure.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjce-edu.in/departments.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjce-edu.in/technologycentre.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjce-edu.in/ourhistory.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjace-edu.in/ourhistory.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjace-edu.in/groupofinstitutions.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjace-edu.in/FunctionalCommittees.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjace-edu.in/governingcouncil.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjace-edu.in/planningmonitoringboard.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjace-edu.in/academicadvisorycommitte.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjce-edu.in/principal.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjce-edu.in/about.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjce-edu.in/governingcouncil.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjce-edu.in/planningmonitoringboard.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjce-edu.in/academicadvisorycommitte.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjce-edu.in/grievanceredressalcommittee.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjce-edu.in/Anti-Ragging.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjce-edu.in/womensempowermentcell.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjce-edu.in/FunctionalCommittees.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://cims.mastersoferp.in/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjce-edu.in/AC.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjce-edu.in/studentscorner.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjce-edu.in/NewsLetter.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjce-edu.in/BS.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjce-edu.in/karma.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://unnatbharatabhiyan.gov.in/participating\\_institutes)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.facebook.com/msaj.engg.college/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.aicte.gov.in/schemes/students-development-schemes)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.msjce-edu.in)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** About Official Webpage](https://www.**MSAJCE**-edu.in)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[**MSAJCE** Admission Official Webpage](https://tneaonline.org/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_admission.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Admission at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_admission.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Admission at **MSAJCE**.
 - **[**MSAJCE** Admission Official Webpage](https://tneaonline.org/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_admission.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Admission at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_admission.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Admission at **MSAJCE**.
 - **[**MSAJCE** Admission Official Webpage](http://www.tndte.gov.in/site/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_admission.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Admission at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_admission.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Admission at **MSAJCE**.
 - **[**MSAJCE** Admission Official Webpage](http://www.tndte.gov.in/site/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_admission.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Admission at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_admission.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Admission at **MSAJCE**.
 - **[**MSAJCE** Admission Official Webpage](https://www.annauniv.edu/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_admission.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Admission at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_admission.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Admission at **MSAJCE**.
 - **[**MSAJCE** Admission Official Webpage](https://www.annauniv.edu/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_admission.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Admission at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_admission.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Admission at **MSAJCE**.
 - **[**MSAJCE** Admission Official Webpage](http://aictc.gov.in/schemes/students-development-schemes)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_admission.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Admission at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_admission.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Admission at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://www.msjace-edu.in/aids.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://www.msjace-edu.in/aids.php#tab1)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://www.**MSAJCE**-edu.in/aids.php#tab1)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://www.**MSAJCE**-edu.in/aids.php#tab3)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://www.**MSAJCE**-edu.in/aids.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://www.msjce-edu.in/aids.php#tab6)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://www.msjce-edu.in/academics/aids/2021/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://www.msjce-edu.in/aids.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://www.msjce-edu.in/placement.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://online.fliphtml5.com/euxeg/oqsi/#p=1)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://photos.app.goo.gl/d8o8TBGRNm47un5J8)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://www.msjce-edu.in/ESETT-June25.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://photos.app.goo.gl/LF3brje3EwmQcbx18)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://www.msjace-edu.in/academics/aids/2021/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://www.msjace-edu.in/studentscorner.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://cims.mastersofterp.in/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://www.msjace-edu.in/AC.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://www.msjace-edu.in/naac.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://www.msjace-edu.in/iqac.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://www.msjace-edu.in/nirf.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://www.msjace-edu.in/mandatorydisclosure.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://www.msjace-edu.in/grievanceredressalcommittee.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://www.msjace-edu.in/Anti-Ragging.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://www.msjace-edu.in/ESETT-June25.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://results.msjace-edu.in/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://tinyurl.com/I-AND-II-YEAR-REGISTRATION)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://tinyurl.com/III-AND-IV-YEAR-REGISTRATION)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://www.msjace-edu.in/NewsLetter.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://www.msjace-edu.in/BS.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://www.msjace-edu.in/Incubation&Startup.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Webpage](https://results.**MSAJCE**-edu.in/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aids.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aids at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Webpage](https://www.msjace-edu.in/aiml.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Webpage](https://www.msjace-edu.in/aiml.php#tab1)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Webpage](https://www.msjace-edu.in/uploads/academics/2021Regulation.pdf</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Webpage](https://www.msjace-edu.in/aiml.php#tab2)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Webpage](https://www.**MSAJCE**-edu.in/aiml.php#tab3)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Webpage](https://www.**MSAJCE**-edu.in/aiml.php#tab1)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Webpage](https://www.msjce-edu.in/aiml.php#tab1)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Webpage](https://www.**MSAJCE**-edu.in/academics/aids/2021/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Webpage](https://www.**MSAJCE**-edu.in/aiml.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Webpage](https://www.**MSAJCE**-edu.in/uploads/academics/2021Regulation.pdf</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Webpage](https://www.**MSAJCE**-edu.in/uploads/autonomous/AutonomousR24.pdf</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Webpage](https://www.**MSAJCE**-edu.in/uploads/AICTE-APPROVAL.pdf</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Webpage](https://www.**MSAJCE**-edu.in/uploads/AnnaUnivApproval.pdf</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Webpage](https://www.**MSAJCE**-edu.in/naac.php</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Webpage](https://www.**MSAJCE**-edu.in/iqac.php</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Webpage](https://www.**MSAJCE**-edu.in/nirf.php</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Webpage](https://www.**MSAJCE**-edu.in/ESETT-June25.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Webpage](https://www.**MSAJCE**-edu.in/ESETT-June25.php</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Webpage](https://results.**MSAJCE**-edu.in/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Webpage](https://www.aicte.gov.in/schemes/students-development-schemes</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Webpage](https://www.**MSAJCE**-edu.in/uploads/aqar/AnnualReport2023-2024.pdf</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Webpage](https://www.**MSAJCE**-edu.in</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_aiml.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Aiml at **MSAJCE**.
 - **[**MSAJCE** Alumni Official Webpage](https://www.msjace-edu.in/alumni.php#tab1)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_alumni.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Alumni at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_alumni.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Alumni at **MSAJCE**.
 - **[**MSAJCE** Alumni Official Webpage](https://www.msjace-edu.in/alumni.php#tab2)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_alumni.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Alumni at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_alumni.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Alumni at **MSAJCE**.
 - **[**MSAJCE** Alumni Official Webpage](https://www.**MSAJCE**-edu.in/alumni.php#tab2)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_alumni.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Alumni at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_alumni.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Alumni at **MSAJCE**.
 - **[**MSAJCE** Alumni Official Webpage](https://www.**MSAJCE**-edu.in/alumni.php#tab5)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_alumni.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Alumni at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_alumni.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Alumni at **MSAJCE**.
 - **[**MSAJCE** Alumni Official Webpage](https://www.**MSAJCE**-edu.in/alumni.php#tab6)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_alumni.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Alumni at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_alumni.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Alumni at **MSAJCE**.
 - **[**MSAJCE** Alumni Official Webpage](https://www.**MSAJCE**-edu.in/alumni.php#tab7)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_alumni.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Alumni at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_alumni.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Alumni at **MSAJCE**.
 - **[**MSAJCE** Alumni Official Webpage](https://www.**MSAJCE**-edu.in/alumni.php#tab9)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_alumni.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Alumni at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_alumni.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Alumni at **MSAJCE**.
 - **[**MSAJCE** Alumni Official Webpage](https://photos.app.goo.gl/Qg5EabymfsW948G37)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_alumni.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Alumni at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_alumni.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Alumni at **MSAJCE**.
 - **[**MSAJCE** Alumni Official Webpage](https://www.**MSAJCE**-edu.in/studentscorner.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_alumni.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Alumni at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_alumni.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Alumni at **MSAJCE**.
 - **[**MSAJCE** Boys & Girls Hostel Portal](https://www.**MSAJCE**-edu.in/hostel.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_hostel.md`
-- **Summary**: Official hostel accommodation page detailing mess facilities, room types, and hostel rules at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_hostel.md`
+  - **Summary**: Official hostel accommodation page detailing mess facilities, room types, and hostel rules at **MSAJCE**.
 - **[**MSAJCE** Central Library Portal](https://www.**MSAJCE**-edu.in/library.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official central library webpage detailing digital archives, IEEE subscriptions, and reading room hours at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official central library webpage detailing digital archives, IEEE subscriptions, and reading room hours at **MSAJCE**.
 - **[**MSAJCE** Clubssocieties Official Webpage](https://www.msjace-edu.in/clubssocieties.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_clubssocieties.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Clubssocieties at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_clubssocieties.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Clubssocieties at **MSAJCE**.
 - **[**MSAJCE** Clubssocieties Official Webpage](https://www.msjace-edu.in/clubssocieties.php#tab1)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_clubssocieties.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Clubssocieties at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_clubssocieties.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Clubssocieties at **MSAJCE**.
 - **[**MSAJCE** Clubssocieties Official Webpage](https://www.**MSAJCE**-edu.in/clubssocieties.php#tab2)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_clubssocieties.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Clubssocieties at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_clubssocieties.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Clubssocieties at **MSAJCE**.
 - **[**MSAJCE** Clubssocieties Official Webpage](https://www.**MSAJCE**-edu.in/clubssocieties.php#tab3)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_clubssocieties.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Clubssocieties at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_clubssocieties.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Clubssocieties at **MSAJCE**.
 - **[**MSAJCE** Clubssocieties Official Webpage](https://www.**MSAJCE**-edu.in/clubssocieties.php#tab4)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_clubssocieties.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Clubssocieties at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_clubssocieties.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Clubssocieties at **MSAJCE**.
 - **[**MSAJCE** Clubssocieties Official Webpage](https://www.**MSAJCE**-edu.in/clubssocieties.php#tab5)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_clubssocieties.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Clubssocieties at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_clubssocieties.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Clubssocieties at **MSAJCE**.
 - **[**MSAJCE** Clubssocieties Official Webpage](https://www.**MSAJCE**-edu.in/clubssocieties.php#tab6)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_clubssocieties.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Clubssocieties at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_clubssocieties.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Clubssocieties at **MSAJCE**.
 - **[**MSAJCE** Clubssocieties Official Webpage](https://www.**MSAJCE**-edu.in/clubssocieties.php#tab7)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_clubssocieties.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Clubssocieties at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_clubssocieties.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Clubssocieties at **MSAJCE**.
 - **[**MSAJCE** Clubssocieties Official Webpage](https://www.**MSAJCE**-edu.in/clubssocieties.php#tab8)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_clubssocieties.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Clubssocieties at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_clubssocieties.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Clubssocieties at **MSAJCE**.
 - **[**MSAJCE** Contact & Address Directory](https://www.**MSAJCE**-edu.in/contact.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official contact directory providing administrative phone numbers, email addresses, and campus location map.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official contact directory providing administrative phone numbers, email addresses, and campus location map.
 - **[**MSAJCE** Cse Official Webpage](https://www.msjace-edu.in/cse.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.msjace-edu.in/cse.php#tab1)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.**MSAJCE**-edu.in/cse.php#tab1)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://drive.google.com/file/d/144gsbsjswJj3f1b4O4rRLR6NcE5nxqyg/view?usp=sharing)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.**MSAJCE**-edu.in/curriculum.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.**MSAJCE**-edu.in/departments.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.**MSAJCE**-edu.in/cse.php#tab2)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.**MSAJCE**-edu.in/cse.php#tab3)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.**MSAJCE**-edu.in/cse.php#tab4)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.**MSAJCE**-edu.in/cse.php#tab6)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.**MSAJCE**-edu.in/academics/cse/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.**MSAJCE**-edu.in/academics/cse/LessonPlan/\[CODE\)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.**MSAJCE**-edu.in/academics/cse/LessonPlan/[CODE)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.**MSAJCE**-edu.in/academics/cse/QuestionBank/\[CODE\)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.**MSAJCE**-edu.in/academics/cse/QuestionBank/[CODE)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.**MSAJCE**-edu.in/academics/cse/LectureNote/\[CODE\)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.**MSAJCE**-edu.in/academics/cse/LectureNote/[CODE)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.**MSAJCE**-edu.in/academics/cse/ICTTools/\[CODE\)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.**MSAJCE**-edu.in/academics/cse/ICTTools/[CODE)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.msjce-edu.in/cse.php#tab6)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://drive.google.com/file/d/144gsbsjsWJj3f1b4O4rRLR6NcE5nxqXg/view?usp=sharing)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.msjce-edu.in/academics/cse/LessonPlan/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.msjce-edu.in/academics/cse/QuestionBank/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.msjce-edu.in/academics/cse/LectureNote/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.msjce-edu.in/academics/cse/ICTTools/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.**MSAJCE**-edu.in/cse.php#tab7)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.msjace-edu.in/cse.php#placement)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.**MSAJCE**-edu.in/cse.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.**MSAJCE**-edu.in/AC.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.**MSAJCE**-edu.in/mandatorydisclosure.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.**MSAJCE**-edu.in/grievanceredressalcommittee.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.**MSAJCE**-edu.in/Anti-Ragging.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.**MSAJCE**-edu.in/BS.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Webpage](https://www.**MSAJCE**-edu.in/NewsLetter.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
 - **[**MSAJCE** Developer Ramanathan Official Webpage](https://ramanathanportfolio.vercel.app)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_developer_ramanathan.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Developer Ramanathan at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_developer_ramanathan.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Developer Ramanathan at **MSAJCE**.
 - **[**MSAJCE** Ebsb Official Webpage](https://ekbharat.gov.in/activitycompleted/statepair_activity?statepair=Tamil+Nadu+%3a++Jammu-Kashmir+and+Ladakh&page=3)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_ebsb.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Ebsb at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_ebsb.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Ebsb at **MSAJCE**.
 - **[**MSAJCE** Ebsb Official Webpage](https://drive.google.com/file/d/1-YxlhVjgN0SWfHJ3OcTBjrmvaadGgn5w/view?usp=share_link)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_ebsb.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Ebsb at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_ebsb.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Ebsb at **MSAJCE**.
 - **[**MSAJCE** Ece-Act Official Webpage](https://www.msjace-edu.in/ece-act.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_ece-act.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Ece-Act at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_ece-act.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Ece-Act at **MSAJCE**.
 - **[**MSAJCE** Ece-Act Official Webpage](https://www.msjace-edu.in/ece-act.php#tab1)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_ece-act.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Ece-Act at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_ece-act.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Ece-Act at **MSAJCE**.
 - **[**MSAJCE** Ece-Act Official Webpage](http://msjace-edu.in/msjace-student-portal/index.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_ece-act.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Ece-Act at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_ece-act.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Ece-Act at **MSAJCE**.
 - **[**MSAJCE** Ece-Act Official Webpage](https://www.**MSAJCE**-edu.in/ece-act.php#tab2)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_ece-act.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Ece-Act at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_ece-act.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Ece-Act at **MSAJCE**.
 - **[**MSAJCE** Ece-Act Official Webpage](https://www.**MSAJCE**-edu.in/ece-act.php#tab3)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_ece-act.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Ece-Act at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_ece-act.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Ece-Act at **MSAJCE**.
 - **[**MSAJCE** Ece-Act Official Webpage](https://www.**MSAJCE**-edu.in/ece-act.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_ece-act.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Ece-Act at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_ece-act.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Ece-Act at **MSAJCE**.
 - **[**MSAJCE** Eee Official Webpage](https://www.msjace-edu.in/eee.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Webpage](https://www.msjace-edu.in/eee.php#tab1)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Webpage](https://www.**MSAJCE**-edu.in/uploads/academics/2017Regulation.pdf</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Webpage](https://www.**MSAJCE**-edu.in/eee.php#tab2)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Webpage](https://www.**MSAJCE**-edu.in/eee.php#tab3)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Webpage](https://www.**MSAJCE**-edu.in/eee.php#tab4)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Webpage](https://www.**MSAJCE**-edu.in/eee.php#tab5)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Webpage](https://www.**MSAJCE**-edu.in/eee.php#tab6)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Webpage](https://www.msjce-edu.in/academics/eee/2021/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Webpage](https://www.msjce-edu.in/academics/eee/2021/LessonPlan/\[SubjectCode\)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Webpage](https://www.msjce-edu.in/academics/eee/2021/LessonPlan/[SubjectCode)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Webpage](https://www.**MSAJCE**-edu.in/academics/eee/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Webpage](https://www.msjce-edu.in/academics/eee/LessonPlan/\[SubjectCode\)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Webpage](https://www.msjce-edu.in/academics/eee/LessonPlan/[SubjectCode)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Webpage](https://www.msjace-edu.in/academics/eee/2021/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Webpage](https://www.msjace-edu.in/eee.php#tab7)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Webpage](https://www.**MSAJCE**-edu.in/eee.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Webpage](https://www.**MSAJCE**-edu.in/uploads/placement/internship/Intership)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Webpage](https://www.**MSAJCE**-edu.in/eee.php#tab9)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_eee.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Eee at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Webpage](https://www.msjace-edu.in/Incubation&Startup.php:#tab1)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_incubation.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Incubation at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_incubation.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Webpage](https://www.siif.ventures)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_incubation.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Incubation at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_incubation.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Webpage](https://www.siif.ventures</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_incubation.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Incubation at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_incubation.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Webpage](https://www.**MSAJCE**-edu.in/Incubation&Startup.php:#tab2)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_incubation.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Incubation at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_incubation.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Webpage](https://www.**MSAJCE**-edu.in/Incubation&Startup.php#tab2)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_incubation.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Incubation at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_incubation.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Webpage](https://www.**MSAJCE**-edu.in/Incubation&Startup.php;#tab3)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_incubation.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Incubation at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_incubation.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Webpage](https://www.**MSAJCE**-edu.in/Incubation&Startup.php:#tab4)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_incubation.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Incubation at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_incubation.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Webpage](https://www.msjce-edu.in/Incubation&Startup.php:#tab4)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_incubation.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Incubation at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_incubation.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Webpage](https://www.**MSAJCE**-edu.in/Incubation&Startup.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_incubation.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Incubation at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_incubation.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Webpage](https://www.siif.ventures/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_incubation.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Incubation at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_incubation.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Incubation at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.msjace-edu.in/it.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.msjace-edu.in/it.php#tab1)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.**MSAJCE**-edu.in/it.php#tab2)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.**MSAJCE**-edu.in/it.php#tab3)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.**MSAJCE**-edu.in/it.php#tab4)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.**MSAJCE**-edu.in/it.php#tab5)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.msjce-edu.in/it.php#tab6)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.msjce-edu.in/academics/it/2021/LessonPlan/\[SubjectCode\)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.msjce-edu.in/academics/it/2021/LessonPlan/[SubjectCode)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.msjce-edu.in/academics/it/2021/QuestionBank/\[SubjectCode\)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.msjce-edu.in/academics/it/2021/QuestionBank/[SubjectCode)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.msjce-edu.in/academics/it/2021/LectureNote/\[SubjectCode\)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.msjce-edu.in/academics/it/2021/LectureNote/[SubjectCode)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.msjce-edu.in/academics/it/2021/ICTTools/\[SubjectCode\)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.msjce-edu.in/academics/it/2021/ICTTools/[SubjectCode)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.**MSAJCE**-edu.in/it.php#tab6)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.msjce-edu.in/academics/it/LessonPlan/\[SubjectCode\)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.msjce-edu.in/academics/it/LessonPlan/[SubjectCode)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.msjce-edu.in/academics/it/QuestionBank/\[SubjectCode\)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.msjce-edu.in/academics/it/QuestionBank/[SubjectCode)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.msjce-edu.in/academics/it/LectureNote/\[SubjectCode\)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.msjce-edu.in/academics/it/LectureNote/[SubjectCode)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.msjce-edu.in/academics/it/ICTTools/\[SubjectCode\)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.msjce-edu.in/academics/it/ICTTools/[SubjectCode)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.msjace-edu.in/it.php#tab7)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.msjace-edu.in/it.php#tab11)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.**MSAJCE**-edu.in**)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Webpage](https://www.**MSAJCE**-edu.in/grievanceredressalcommittee.php</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE** Internal Quality Assurance Cell (IQAC)](https://www.**MSAJCE**-edu.in/iqac.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_iqac.md`
-- **Summary**: Official portal for Internal Quality Assurance Cell (IQAC), AQAR reports, and quality policies at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_iqac.md`
+  - **Summary**: Official portal for Internal Quality Assurance Cell (IQAC), AQAR reports, and quality policies at **MSAJCE**.
 - **[**MSAJCE** Karma Official Webpage](https://facilities.aicte-india.org/KARMA/letter_r_karma_model1.php?app_id=MS05NzU2MzUx&model=model1**)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_karma.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Karma at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_karma.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Karma at **MSAJCE**.
 - **[**MSAJCE** Karma Official Webpage](https://facilities.aicte-india.org/KARMA/letter_r_karma_model2.php?app_id=MS05NzU2MzUx&model=model2**)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_karma.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Karma at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_karma.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Karma at **MSAJCE**.
 - **[**MSAJCE** Karma Official Webpage](https://facilities.aicte-india.org/KARMA/review_data.php?app_id=MS05NzU2MzUx**)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_karma.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Karma at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_karma.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Karma at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.msjce-edu.in/library.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://doaj.org/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://doaj.org/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.biomedcentral.com/journals)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.biomedcentral.com/journals</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.scirp.org/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.scirp.org/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.core.ac.uk/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.core.ac.uk/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.tiprc.org/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.tiprc.org/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://thescipub.com)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://thescipub.com</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.ripublication.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.ripublication.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.iaeme.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.iaeme.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.internationaljournalsrrg.org/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.internationaljournalsrrg.org/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.scholar.google.com)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.scholar.google.com</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.arxiv.org)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.arxiv.org</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.hindawi.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.hindawi.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.cscjournals.org/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.cscjournals.org/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.omicsonline.org)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.omicsonline.org</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.ias.ac.in)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.ias.ac.in</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://delnet.in/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://delnet.in/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://jgateplus.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://jgateplus.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://ndl.iitkgp.ac.in/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://ndl.iitkgp.ac.in/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.wdl.org/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.wdl.org/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://shodhganga.inflibnet.ac.in/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://shodhganga.inflibnet.ac.in/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://ess.inflibnet.ac.in/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://ess.inflibnet.ac.in/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.nptelvideos.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.nptelvideos.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://nlist.inflibnet.ac.in/veresources.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://nlist.inflibnet.ac.in/veresources.php</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.doabooks.org/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.doabooks.org/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.e-booksdirectory.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.e-booksdirectory.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.ams.org/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.ams.org/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.intechopen.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.intechopen.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.free-ebooks.net/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.free-ebooks.net/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://pubs.acs.org/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://pubs.acs.org/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://onlinebooks.library.upenn.edu/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://onlinebooks.library.upenn.edu/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://publishing.cdlib.org/ucpreebooks/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://publishing.cdlib.org/ucpreebooks/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.gpo.gov/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.gpo.gov/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://archive.org/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://archive.org/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.gutenberg.org/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.gutenberg.org/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://bookboon.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://bookboon.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.freebookshub.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.freebookshub.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.worldbook.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.worldbook.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.kirkusreviews.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.kirkusreviews.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://freecomputerbooks.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://freecomputerbooks.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.pagebypagebooks.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.pagebypagebooks.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.readprint.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.readprint.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.worldlibrary.in/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.worldlibrary.in/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.biodiversity.org/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.biodiversity.org/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.freebookcentre.net/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.freebookcentre.net/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.comicextra.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.comicextra.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.arbookfind.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.arbookfind.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.blackbookonline.info/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.blackbookonline.info/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.fictiondb.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.fictiondb.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.freetechbooks.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.freetechbooks.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.intechopen.com/books)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.intechopen.com/books</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.ebooks.com/en-in)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.ebooks.com/en-in</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.getfreebooks.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.getfreebooks.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.ocw.mit.edu)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.ocw.mit.edu</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](http://www.nptel.iitm.ac.in)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.nptel.iitm.ac.in</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.coursera.org/in)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.coursera.org/in</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.khanacademy.org/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.khanacademy.org/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.edx.org/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.edx.org/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.udacity.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.udacity.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.linkedin.com)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.linkedin.com</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.audible.in/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.audible.in/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://books.google.co.in/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://books.google.co.in/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.wikihow.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.wikihow.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.doityourself.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.doityourself.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://instructables.com)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://instructables.com</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.robotshop.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.robotshop.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.wonderhowto.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.wonderhowto.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://ikeahackers.net/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://ikeahackers.net/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://makeprojects.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://makeprojects.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.ted.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.ted.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.howstuffworks.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.howstuffworks.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.udemy.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.udemy.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.skillshare.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://www.skillshare.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://teachable.com/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** Library Official Webpage](https://teachable.com/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE** NAAC Accreditation Portal](https://www.**MSAJCE**-edu.in/naac.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_naac.md`
-- **Summary**: Official NAAC institutional page containing self-study reports and quality metrics at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_naac.md`
+  - **Summary**: Official NAAC institutional page containing self-study reports and quality metrics at **MSAJCE**.
 - **[**MSAJCE** NIRF Ranking Portal](https://www.**MSAJCE**-edu.in/nirf.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official National Institutional Ranking Framework (NIRF) data and documentation page for **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official National Institutional Ranking Framework (NIRF) data and documentation page for **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](https://www.msjace-edu.in/uploads/nift/**MSAJCE**-ENGG-2026.pdf</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](https://www.msjace-edu.in/uploads/nift/**MSAJCE**-OVERALL-2026.pdf</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](https://www.msjace-edu.in/uploads/nift/**MSAJCE**-INNOV-2026.pdf</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](https://www.msjace-edu.in/uploads/nift/**MSAJCE**-ENGG-2025.pdf</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](https://www.msjace-edu.in/uploads/nift/**MSAJCE**-OVERALL-2025.pdf</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](https://www.msjace-edu.in/uploads/nift/**MSAJCE**-INNOV-2025.pdf</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](https://www.msjace-edu.in/uploads/nift/**MSAJCE**-ENGG-2024.pdf</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](https://www.msjace-edu.in/uploads/nift/**MSAJCE**-OVERALL-2024.pdf</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](https://www.msjce-edu.in/uploads/nift/**MSAJCE**-ENGG-2023.pdf</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](https://www.msjce-edu.in/uploads/nift/**MSAJCE**-OVERALL-2023.pdf</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](https://www.msjce-edu.in/uploads/nift/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](https://www.msjce-edu.in/naac.php</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](https://www.msjce-edu.in/iqac.php</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](https://www.msjce-edu.in/nirf.php</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](https://www.msjce-edu.in/uploads/ariia/ARIIA-2021-CERTIFICATE.pdf</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](https://www.msjce-edu.in/uploads/AnnaUnivApproval.pdf</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](https://www.msjce-edu.in/uploads/AICTE-APPROVAL.pdf</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](https://www.msjce-edu.in/uploads/naac/cdeofconduct.pdf</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](https://www.msjce-edu.in/uploads/naac/bestpractices.pdf</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](http://**MSAJCE**-edu.in/uploads/MandatoryDisclosure.pdf</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](http://**MSAJCE**-edu.in/uploads/naac/7.3/7.3LH.pdf</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](https://www.msjce-edu.in/uploads/aqar/AnnualReport2023-2024.pdf</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](https://results.msjce-edu.in/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](https://results.msjce-edu.in/</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](https://www.msjce-edu.in/grievanceredressalcommittee.php</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Webpage](https://www.msjce-edu.in</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_nirf.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Nirf at **MSAJCE**.
 - **[**MSAJCE** Official Transport Portal](https://www.**MSAJCE**-edu.in/transport.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_transport.md`
-- **Summary**: Official college transport webpage detailing bus routes, fee structures, boarding points, and matrix rules.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_transport.md`
+  - **Summary**: Official college transport webpage detailing bus routes, fee structures, boarding points, and matrix rules.
 - **[**MSAJCE** Placement Official Webpage](https://www.msjace-edu.in/placement.php#tab1)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_placement.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Placement at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_placement.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Placement at **MSAJCE**.
 - **[**MSAJCE** Placement Official Webpage](https://www.msjace-edu.in/placement.php#tab2)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_placement.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Placement at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_placement.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Placement at **MSAJCE**.
 - **[**MSAJCE** Placement Official Webpage](https://www.msjce-edu.in/uploads/placement/internship/Intership)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_placement.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Placement at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_placement.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Placement at **MSAJCE**.
 - **[**MSAJCE** Placement Official Webpage](https://www.msjce-edu.in/placement.php#tab2)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_placement.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Placement at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_placement.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Placement at **MSAJCE**.
 - **[**MSAJCE** Placement Official Webpage](https://www.**MSAJCE**-edu.in/placement.php#tab2)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_placement.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Placement at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_placement.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Placement at **MSAJCE**.
 - **[**MSAJCE** Placement Official Webpage](https://www.**MSAJCE**-edu.in/placement.php#tab4)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_placement.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Placement at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_placement.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Placement at **MSAJCE**.
 - **[**MSAJCE** Placement Official Webpage](https://www.msjace-edu.in/uploads/placement/internship/Intership)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_placement.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Placement at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_placement.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Placement at **MSAJCE**.
 - **[**MSAJCE** Placement Official Webpage](https://www.**MSAJCE**-edu.in/placement.php#tab6)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_placement.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Placement at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_placement.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Placement at **MSAJCE**.
 - **[**MSAJCE** Placement Official Webpage](https://www.**MSAJCE**-edu.in/placement.php#tab7)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_placement.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Placement at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_placement.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Placement at **MSAJCE**.
 - **[**MSAJCE** Research Official Webpage](https://www.msjace-edu.in/research.php#tab1)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
 - **[**MSAJCE** Research Official Webpage](https://www.msjace-edu.in/listofsupervisors.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
 - **[**MSAJCE** Research Official Webpage](https://www.msjace-edu.in/research.php#tab2)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
 - **[**MSAJCE** Research Official Webpage](https://iitm.irins.org/profile/61849)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
 - **[**MSAJCE** Research Official Webpage](https://iitm.irins.org/profile/61849</a)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
 - **[**MSAJCE** Research Official Webpage](https://www.msjce-edu.in/listofsupervisors.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
 - **[**MSAJCE** Research Official Webpage](https://www.msjce-edu.in/listofsupervisors.php#tab4)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
 - **[**MSAJCE** Research Official Webpage](https://www.**MSAJCE**-edu.in/research.php#tab5)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
 - **[**MSAJCE** Research Official Webpage](https://www.**MSAJCE**-edu.in/research.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
 - **[**MSAJCE** Research Official Webpage](https://www.**MSAJCE**-edu.in/listofsupervisors.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
 - **[**MSAJCE** Research Official Webpage](https://www.**MSAJCE**-edu.in/research.php#tab6)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
 - **[**MSAJCE** Research Official Webpage](https://lpindiaservices.Gov.In/Patentsearch/Patentsearch/Viewapplicationstatus)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
 - **[**MSAJCE** Research Official Webpage](https://www.msjce-edu.in/research.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
 - **[**MSAJCE** Research Official Webpage](https://www.msjce-edu.in/research.php#tab6)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
 - **[**MSAJCE** Research Official Webpage](https://Copyright.Gov.In/Frmstatusgenuser.Aspx)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_research.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Research at **MSAJCE**.
 - **[**MSAJCE** Sports & Athletics Portal](https://www.**MSAJCE**-edu.in/sports.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_sports.md`
-- **Summary**: Official sports academy page showcasing indoor/outdoor stadiums, tournaments, and achievements at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_sports.md`
+  - **Summary**: Official sports academy page showcasing indoor/outdoor stadiums, tournaments, and achievements at **MSAJCE**.
 - **[**MSAJCE** Sports Official Webpage](https://www.msjace-edu.in/sports.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_sports.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Sports at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_sports.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Sports at **MSAJCE**.
 - **[**MSAJCE** Training & Placement Portal](https://www.**MSAJCE**-edu.in/placement.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_placement.md`
-- **Summary**: Official placement portal showcasing recruiter statistics, salary packages, and career guidance at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_placement.md`
+  - **Summary**: Official placement portal showcasing recruiter statistics, salary packages, and career guidance at **MSAJCE**.
 - **[View](http://**MSAJCE**-edu.in/**MSAJCE**-student-portal/index.php)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_cyber.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cyber at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_cyber.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cyber at **MSAJCE**.
 - **[intechopen.com/books](http://intechopen.com/books)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_library.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Library at **MSAJCE**.
 - **[**MSAJCE**-edu.in/academics/it/](https://www.msjace-edu.in/academics/it/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[**MSAJCE**-edu.in/academics/it/2021/](https://www.msjace-edu.in/academics/it/2021/)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Information Technology at **MSAJCE**.
 - **[www.**MSAJCE**-edu.in](http://www.**MSAJCE**-edu.in)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_admission.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Admission at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_admission.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Admission at **MSAJCE**.
 - **[www.msjace-edu.in](http://www.msjace-edu.in)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[www.msjce-edu.in](http://www.msjce-edu.in)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_about.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding About at **MSAJCE**.
 - **[www.siif.ventures](http://www.siif.ventures)**
-- **Category**: `PAGE_LINK` | **Source**: `msajce_incubation.md`
-- **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Incubation at **MSAJCE**.
+  - **Category**: `PAGE_LINK` | **Source**: `msajce_incubation.md`
+  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Incubation at **MSAJCE**.
 
 ## 3. Official Documents, Syllabus PDFs & Policy Brochures
 - **[Average percentage of full time teachers against sanctioned posts during the last five years](https://www.**MSAJCE**-edu.in/uploads/naac-dvv/2.4.1/2.4.1-dvv.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_naac.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Naac at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_naac.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Naac at **MSAJCE**.
 - **[Average teaching experience of full time teachers in the same institution](https://www.**MSAJCE**-edu.in/uploads/naac-dvv/2.4.3/2.4.3Index-dvv.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_naac.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Naac at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_naac.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Naac at **MSAJCE**.
 - **[**MSAJCE** About Official Document / Syllabus (PDF)](https://www.msjace-edu.in/uploads/College-Prospectus.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_about.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for About at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_about.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for About at **MSAJCE**.
 - **[**MSAJCE** About Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/ariaa/ARIAA-2021-CERTIFICATE.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_about.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for About at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_about.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for About at **MSAJCE**.
 - **[**MSAJCE** About Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/naac/cdeofconduct.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_about.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for About at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_about.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for About at **MSAJCE**.
 - **[**MSAJCE** About Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/naac/bestpractices.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_about.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for About at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_about.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for About at **MSAJCE**.
 - **[**MSAJCE** About Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/AICTE-APPROVAL.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_about.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for About at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_about.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for About at **MSAJCE**.
 - **[**MSAJCE** About Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/AnnaUnivApproval.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_about.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for About at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_about.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for About at **MSAJCE**.
 - **[**MSAJCE** About Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/College-Prospectus.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_about.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for About at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_about.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for About at **MSAJCE**.
 - **[**MSAJCE** About Official Document / Syllabus (PDF)](http://**MSAJCE**-edu.in/uploads/MandatoryDisclosure.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_about.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for About at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_about.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for About at **MSAJCE**.
 - **[**MSAJCE** About Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/aqar/AnnualReport2023-2024.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_about.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for About at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_about.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for About at **MSAJCE**.
 - **[**MSAJCE** About Official Document / Syllabus (PDF)](http://**MSAJCE**-edu.in/uploads/naac/7.3/7.3LH.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_about.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for About at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_about.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for About at **MSAJCE**.
 - **[**MSAJCE** About Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/Admission24-25Flyer.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_about.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for About at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_about.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for About at **MSAJCE**.
 - **[**MSAJCE** Admission Official Document / Syllabus (PDF)](http://**MSAJCE**-edu.in/uploads/College-Prospectus.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_admission.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Admission at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_admission.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Admission at **MSAJCE**.
 - **[**MSAJCE** Admission Official Document / Syllabus (PDF)](http://**MSAJCE**-edu.in/uploads/Admission24-25Flyer.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_admission.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Admission at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_admission.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Admission at **MSAJCE**.
 - **[**MSAJCE** Admission Official Document / Syllabus (PDF)](http://**MSAJCE**-edu.in/uploads/AnnaUnivApproval.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_admission.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Admission at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_admission.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Admission at **MSAJCE**.
 - **[**MSAJCE** Admission Official Document / Syllabus (PDF)](http://**MSAJCE**-edu.in/uploads/AICTE-APPROVAL.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_admission.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Admission at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_admission.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Admission at **MSAJCE**.
 - **[**MSAJCE** Admission Official Document / Syllabus (PDF)](http://**MSAJCE**-edu.in/uploads/autonomous/AutonomousR24.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_admission.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Admission at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_admission.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Admission at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/uploads/academics/2021Regulation.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/LessonPlan/MA3354-LP.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/QuestionBank/MA3354-QB.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/LectureNote/MA3354-LN.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/ICTTools/MA3354-ICT.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/LessonPlan/CS3351-LP.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/QuestionBank/CS3351-QB.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/LectureNote/CS3351-LN.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/ICTTools/CS3351-ICT.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/LessonPlan/AD3391-LP.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/QuestionBank/AD3391-QB.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/LectureNote/AD3391-LN.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/ICTTools/AD3391-ICT.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/LessonPlan/AD3351-LP.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/QuestionBank/AD3351-QB.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/LectureNote/AD3351-LN.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/ICTTools/AD3351-ICT.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/LessonPlan/AD3301-LP.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/QuestionBank/AD3301-QB.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/LectureNote/AD3301-LN.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/ICTTools/AD3301-ICT.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/LessonPlan/AL3391-LP.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/QuestionBank/AL3391-QB.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/LectureNote/AL3391-LN.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/ICTTools/AL3391-ICT.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/LessonPlan/AD3381-LP.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/QuestionBank/AD3381-QB.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/LectureNote/AD3381-LN.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/ICTTools/AD3381-ICT.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/LessonPlan/GE3151-LP.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/QuestionBank/GE3151-QB.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/LectureNote/GE3151-LN.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/aids/2021/ICTTools/GE3151-ICT.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/placement/internship/Intership%20Report%202025.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.msjace-edu.in/uploads/AICTE-APPROVAL.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.msjace-edu.in/uploads/AnnaUnivApproval.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.msjace-edu.in/uploads/academics/2021Regulation.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.msjace-edu.in/uploads/autonomous/AutonomousR24.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.msjace-edu.in/uploads/aqar/AnnualReport2023-2024.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Official Document / Syllabus (PDF)](https://www.msjace-edu.in/uploads/Admission24-25Flyer.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aids.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aids at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/uploads/autonomous/AutonomousR24.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aiml.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aiml at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aiml.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aiml at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/uploads/AICTE-APPROVAL.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aiml.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aiml at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aiml.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aiml at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/uploads/AnnaUnivApproval.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aiml.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aiml at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aiml.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aiml at **MSAJCE**.
 - **[**MSAJCE** Aiml Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/uploads/aqar/AnnualReport2023-2024.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_aiml.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aiml at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_aiml.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Aiml at **MSAJCE**.
 - **[**MSAJCE** Alumni Official Document / Syllabus (PDF)](https://www.msjace-edu.in/uploads/alumni/Alumni-Bylaw.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_alumni.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Alumni at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_alumni.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Alumni at **MSAJCE**.
 - **[**MSAJCE** Alumni Official Document / Syllabus (PDF)](https://www.msjace-edu.in/uploads/alumni/543-B-ALUMNIMEETMINUTES.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_alumni.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Alumni at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_alumni.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Alumni at **MSAJCE**.
 - **[**MSAJCE** Alumni Official Document / Syllabus (PDF)](https://www.msjace-edu.in/uploads/alumni/Alumni-Bylaw-English.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_alumni.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Alumni at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_alumni.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Alumni at **MSAJCE**.
 - **[**MSAJCE** Alumni Official Document / Syllabus (PDF)](https://www.msjace-edu.in/uploads/alumni/543-C-ALUMNIMEETREPORT.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_alumni.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Alumni at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_alumni.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Alumni at **MSAJCE**.
 - **[**MSAJCE** Alumni Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/uploads/alumni/Alumni-Bylaw.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_alumni.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Alumni at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_alumni.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Alumni at **MSAJCE**.
 - **[**MSAJCE** Alumni Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/uploads/alumni/543-B-ALUMNIMEETMINUTES.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_alumni.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Alumni at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_alumni.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Alumni at **MSAJCE**.
 - **[**MSAJCE** Alumni Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/uploads/alumni/Alumni-Bylaw-English.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_alumni.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Alumni at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_alumni.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Alumni at **MSAJCE**.
 - **[**MSAJCE** Alumni Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/uploads/alumni/543-C-ALUMNIMEETREPORT.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_alumni.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Alumni at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_alumni.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Alumni at **MSAJCE**.
 - **[**MSAJCE** Alumni Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/uploads/Admission24-25Flyer.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_alumni.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Alumni at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_alumni.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Alumni at **MSAJCE**.
 - **[**MSAJCE** Cse Official Document / Syllabus (PDF)](https://www.msjace-edu.in/uploads/academics/2017Regulation.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/cse/LessonPlan/GE3151-LP.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/cse/LectureNote/CS3301-LN.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/it/ITM/CS8091-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/it/ITM/CS8591-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/it/ITM/CS8592-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/it/ITM/EC8691-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/it/ITM/CS8494-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/it/ITM/IT8601-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/it/ITM/IT8602-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/it/ITM/IT8501-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/it/ITM/CD3291-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/it/ITM/IT3401-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/it/ITM/EC3401-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/it/ITM/CS8092-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/it/ITM/GE3151-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/it/ITM/CS3391-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Document / Syllabus (PDF)](https://www.msjace-edu.in/uploads/placement/internship/Internship%20Report%202025.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/uploads/academics/2017Regulation.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_cse.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Cse at **MSAJCE**.
 - **[**MSAJCE** Ece-Act Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/cse/lessonplan/CS8592OOADLP.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_ece-act.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Ece-Act at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_ece-act.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Ece-Act at **MSAJCE**.
 - **[**MSAJCE** Ece-Act Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/cse/lessonplan/CS8651IPLP.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_ece-act.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Ece-Act at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_ece-act.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Ece-Act at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/2021/LessonPlan/MA3303-LP.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/2021/QuestionBank/MA3303-QB.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/2021/LectureNote/MA3303-LN.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/2021/ICTTools/MA3303-ICT.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/2021/LessonPlan/EE3301-LP.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/2021/QuestionBank/EE3301-QB.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/2021/LectureNote/EE3301-LN.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/2021/ICTTools/EE3301-ICT.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/2021/LessonPlan/EE3302-LP.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/2021/QuestionBank/EE3302-QB.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/2021/LectureNote/EE3302-LN.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/2021/LessonPlan/EE3303-LP.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/2021/QuestionBank/EE3303-QB.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/2021/LectureNote/EE3303-LN.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/2021/LessonPlan/EC3301-LP.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/2021/QuestionBank/EC3301-QB.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/2021/LessonPlan/CS3353-LP.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/2021/QuestionBank/CS3353-QB.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/LessonPlan/MA3303-LP.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/QuestionBank/MA3303-QB.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/LectureNote/MA3303-LN.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/ICTTools/MA3303-ICT.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/LessonPlan/EE8501-LP.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/QuestionBank/EE8501-QB.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/LectureNote/EE8501-LN.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/academics/eee/ICTTools/EE8501-ICT.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.msjce-edu.in/academics/eee/LessonPlan/EE8701-LP.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.msjce-edu.in/academics/eee/QuestionBank/EE8701-QB.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.msjce-edu.in/academics/eee/LectureNote/EE8701-LN.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.msjce-edu.in/academics/eee/ICTTools/EE8701-ICT.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/academics/2021Regulation.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/academics/2017Regulation.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/uploads/ariaa/ARIAA-2021-CERTIFICATE.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/uploads/naac/cdeofconduct.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/uploads/naac/bestpractices.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_eee.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Eee at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/iic/MECH-IIC_DT.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/iic/23Poster-EEE-Final.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/iic/20Business-Fit-Mech.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/iic/22Innovation.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/iic/21Lean-Startup-CSE.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/iic/19Outreach-School.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/iic/18Ind-Day.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/iic/17Angel-ECE.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/iic/16IT-Report-v1.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/iic/CIVIL-IIC-IPR.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/iic/MECH-IIC.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/iic/12WomensDay.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/iic/Civil-IIC-PPI.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/iic/MECH-IIC\\_DT.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/iic/IT-IIC-OIE.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/iic/SH-NEP.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/iic/24Entrepreneurday-Report.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_incubation.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Incubation at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Document / Syllabus (PDF)](https://www.msjace-edu.in/academics/it/ITM/CS8091-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Document / Syllabus (PDF)](https://www.msjace-edu.in/academics/it/ITM/CS8591-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Document / Syllabus (PDF)](https://www.msjace-edu.in/academics/it/ITM/CS8592-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Document / Syllabus (PDF)](https://www.msjace-edu.in/academics/it/ITM/EC8691-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Document / Syllabus (PDF)](https://www.msjace-edu.in/academics/it/ITM/CS8494-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Document / Syllabus (PDF)](https://www.msjace-edu.in/academics/it/ITM/IT8601-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Document / Syllabus (PDF)](https://www.msjace-edu.in/academics/it/ITM/IT8602-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Document / Syllabus (PDF)](https://www.msjace-edu.in/academics/it/ITM/IT8501-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Document / Syllabus (PDF)](https://www.msjace-edu.in/academics/it/ITM/CD3291-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Document / Syllabus (PDF)](https://www.msjace-edu.in/academics/it/ITM/IT3401-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Document / Syllabus (PDF)](https://www.msjace-edu.in/academics/it/ITM/EC3401-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Document / Syllabus (PDF)](https://www.msjace-edu.in/academics/it/ITM/CS8092-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Document / Syllabus (PDF)](https://www.msjace-edu.in/academics/it/ITM/GE3151-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Official Document / Syllabus (PDF)](https://www.msjace-edu.in/academics/it/ITM/CS3391-ITM.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Information Technology at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Document / Syllabus (PDF)](https://www.msjace-edu.in/uploads/nift/**MSAJCE**-ENGG-2026.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_nirf.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Nirf at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_nirf.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Document / Syllabus (PDF)](https://www.msjace-edu.in/uploads/nift/**MSAJCE**-OVERALL-2026.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_nirf.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Nirf at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_nirf.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Document / Syllabus (PDF)](https://www.msjace-edu.in/uploads/nift/**MSAJCE**-INNOV-2026.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_nirf.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Nirf at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_nirf.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Document / Syllabus (PDF)](https://www.msjace-edu.in/uploads/nift/**MSAJCE**-ENGG-2025.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_nirf.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Nirf at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_nirf.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Document / Syllabus (PDF)](https://www.msjace-edu.in/uploads/nift/**MSAJCE**-OVERALL-2025.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_nirf.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Nirf at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_nirf.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Document / Syllabus (PDF)](https://www.msjace-edu.in/uploads/nift/**MSAJCE**-INNOV-2025.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_nirf.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Nirf at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_nirf.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Document / Syllabus (PDF)](https://www.msjace-edu.in/uploads/nift/**MSAJCE**-ENGG-2024.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_nirf.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Nirf at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_nirf.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Document / Syllabus (PDF)](https://www.msjace-edu.in/uploads/nift/**MSAJCE**-OVERALL-2024.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_nirf.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Nirf at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_nirf.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/nift/**MSAJCE**-ENGG-2023.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_nirf.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Nirf at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_nirf.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/nift/**MSAJCE**-OVERALL-2023.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_nirf.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Nirf at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_nirf.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Nirf at **MSAJCE**.
 - **[**MSAJCE** Nirf Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/ariia/ARIIA-2021-CERTIFICATE.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_nirf.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Nirf at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_nirf.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Nirf at **MSAJCE**.
 - **[**MSAJCE** Placement Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/uploads/placement/placementdetails/placementdetails-2022-2023.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_placement.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Placement at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_placement.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Placement at **MSAJCE**.
 - **[**MSAJCE** Placement Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/uploads/placement/placementdetails/placementdetails-2021-2022.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_placement.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Placement at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_placement.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Placement at **MSAJCE**.
 - **[**MSAJCE** Placement Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/uploads/placement/placementdetails/placementdetails-2020-2021.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_placement.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Placement at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_placement.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Placement at **MSAJCE**.
 - **[**MSAJCE** Placement Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/uploads/placement/placementdetails/placementdetails-2019-2020.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_placement.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Placement at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_placement.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Placement at **MSAJCE**.
 - **[**MSAJCE** Placement Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/uploads/placement/placementdetails/placementdetails-2018-2019.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_placement.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Placement at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_placement.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Placement at **MSAJCE**.
 - **[**MSAJCE** Placement Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/uploads/placement/placementdetails/placementdetails-2017-2018.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_placement.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Placement at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_placement.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Placement at **MSAJCE**.
 - **[**MSAJCE** Placement Official Document / Syllabus (PDF)](https://www.**MSAJCE**-edu.in/uploads/placement/placementdetails/placementdetails-2016-2017.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_placement.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Placement at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_placement.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Placement at **MSAJCE**.
 - **[**MSAJCE** Placement Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/placement/internship/internship-2020-21.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_placement.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Placement at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_placement.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Placement at **MSAJCE**.
 - **[**MSAJCE** Placement Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/placement/internship/internship-2019-20.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_placement.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Placement at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_placement.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Placement at **MSAJCE**.
 - **[**MSAJCE** Placement Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/placement/internship/internship-2018-19.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_placement.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Placement at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_placement.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Placement at **MSAJCE**.
 - **[**MSAJCE** Placement Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/placement/internship/internship-2017-18.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_placement.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Placement at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_placement.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Placement at **MSAJCE**.
 - **[**MSAJCE** Placement Official Document / Syllabus (PDF)](https://www.msjce-edu.in/uploads/placement/internship/internship-2016-17.pdf)**
-- **Category**: `DOCUMENT` | **Source**: `msajce_placement.md`
-- **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Placement at **MSAJCE**.
+  - **Category**: `DOCUMENT` | **Source**: `msajce_placement.md`
+  - **Summary**: Downloadable official PDF document, curriculum syllabus, timetable, or policy brochure for Placement at **MSAJCE**.
 
 ## 4. Campus Videos & Media Showcases
 - **[**MSAJCE** About Video Showcase](https://youtu.be/aNVaQWh1Pp4)**
-- **Category**: `VIDEO` | **Source**: `msajce_about.md`
-- **Summary**: Video media link highlighting institutional activities, campus tours, or technical events for About at **MSAJCE**.
+  - **Category**: `VIDEO` | **Source**: `msajce_about.md`
+  - **Summary**: Video media link highlighting institutional activities, campus tours, or technical events for About at **MSAJCE**.
 - **[**MSAJCE** Library Video Showcase](https://www.youtube.com/)**
-- **Category**: `VIDEO` | **Source**: `msajce_library.md`
-- **Summary**: Video media link highlighting institutional activities, campus tours, or technical events for Library at **MSAJCE**.
+  - **Category**: `VIDEO` | **Source**: `msajce_library.md`
+  - **Summary**: Video media link highlighting institutional activities, campus tours, or technical events for Library at **MSAJCE**.
 - **[**MSAJCE** Library Video Showcase](https://www.youtube.com/</a)**
-- **Category**: `VIDEO` | **Source**: `msajce_library.md`
-- **Summary**: Video media link highlighting institutional activities, campus tours, or technical events for Library at **MSAJCE**.
+  - **Category**: `VIDEO` | **Source**: `msajce_library.md`
+  - **Summary**: Video media link highlighting institutional activities, campus tours, or technical events for Library at **MSAJCE**.
 - **[**MSAJCE** Official Campus Tour Video](https://www.**MSAJCE**-edu.in/images/campus_tour.mp4)**
-- **Category**: `VIDEO` | **Source**: `msajce_about.md`
-- **Summary**: High-definition video tour showcasing Siruseri campus buildings, laboratories, sports grounds, and hostel facilities at **MSAJCE**.
+  - **Category**: `VIDEO` | **Source**: `msajce_about.md`
+  - **Summary**: High-definition video tour showcasing Siruseri campus buildings, laboratories, sports grounds, and hostel facilities at **MSAJCE**.
 
 ## 5. Campus Images & Photo Gallery Assets
 - **[CS8261 - C Programming](https://www.**MSAJCE**-edu.in/images/departments/cse/CS8261.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
 - **[CS8461 - Operating Systems](https://www.**MSAJCE**-edu.in/images/departments/cse/CS8461.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
 - **[CS8581 Networks Lab](https://www.**MSAJCE**-edu.in/images/departments/cse/CS8581.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
 - **[CS8661 - Internet Programming](https://www.**MSAJCE**-edu.in/images/departments/cse/CS8661.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
 - **[IT8511 - Web Technology](https://www.**MSAJCE**-edu.in/images/departments/cse/IT8511.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
 - **[Internet Programming Lab](https://www.**MSAJCE**-edu.in/images/departments/cse/Obj-INTERNET.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
 - **[**MSAJCE** Aids Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/aids/Equipments-C-Programming.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_aids.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_aids.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/aids/Equipments-Internet-Programming.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_aids.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_aids.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/aids/Equipments-OS.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_aids.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_aids.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/aids/Equipments-OOAD.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_aids.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_aids.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Image / Photo Asset](https://www.msjce-edu.in/images/departments/aids/Equipments-Web-Technology.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_aids.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_aids.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Image / Photo Asset](https://www.msjce-edu.in/images/departments/aids/Equipments-Networks.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_aids.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_aids.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Image / Photo Asset](https://www.msjce-edu.in/images/departments/aids/Obj-c.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_aids.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_aids.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Image / Photo Asset](https://www.msjce-edu.in/images/departments/aids/Obj-INTERNET.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_aids.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_aids.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Image / Photo Asset](https://www.msjce-edu.in/images/departments/aids/Obj-os.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_aids.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_aids.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Image / Photo Asset](https://www.msjce-edu.in/images/departments/aids/Obj-oad.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_aids.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_aids.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Image / Photo Asset](https://www.msjce-edu.in/images/departments/aids/Obj-web.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_aids.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_aids.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Image / Photo Asset](https://www.msjce-edu.in/images/departments/aids/Obj-Networks.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_aids.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_aids.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Image / Photo Asset](https://www.msjce-edu.in/images/departments/aids/Virtual-Lab-C-Programming.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_aids.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_aids.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Image / Photo Asset](https://www.msjce-edu.in/images/departments/aids/Virtual-Lab-C-Programming.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_aids.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_aids.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Image / Photo Asset](https://www.msjce-edu.in/images/departments/aids/Virtual-Lab-Internet-Programming.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_aids.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_aids.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Image / Photo Asset](https://www.msjce-edu.in/images/departments/aids/Virtual-Lab-Internet-Programming.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_aids.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_aids.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Image / Photo Asset](https://www.msjce-edu.in/images/departments/aids/Virtual-Lab-OS.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_aids.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_aids.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Image / Photo Asset](https://www.msjce-edu.in/images/departments/aids/Virtual-Lab-OS.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_aids.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_aids.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Image / Photo Asset](https://www.msjce-edu.in/images/departments/aids/Virtual-Lab-oad.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_aids.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_aids.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Image / Photo Asset](https://www.msjce-edu.in/images/departments/aids/Virtual-Lab-oad.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_aids.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_aids.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Image / Photo Asset](https://www.msjce-edu.in/images/departments/aids/Virtual-Lab-Web-Technology.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_aids.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_aids.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Image / Photo Asset](https://www.msjce-edu.in/images/departments/aids/Virtual-Lab-Web-Technology.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_aids.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_aids.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Image / Photo Asset](https://www.msjce-edu.in/images/departments/aids/Networks.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_aids.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_aids.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Image / Photo Asset](https://www.msjce-edu.in/images/departments/aids/Networks.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_aids.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_aids.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
 - **[**MSAJCE** Aids Image / Photo Asset](https://www.msjce-edu.in/images/departments/aids/)**
-- **Category**: `IMAGE` | **Source**: `msajce_aids.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_aids.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Aids at **MSAJCE**.
 - **[**MSAJCE** Alumni Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/alumni/AlumniMeet2021.jpg)**
-- **Category**: `IMAGE` | **Source**: `msajce_alumni.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Alumni at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_alumni.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Alumni at **MSAJCE**.
 - **[**MSAJCE** Central Library Hall Image](https://www.**MSAJCE**-edu.in/images/library_hall.jpg)**
-- **Category**: `IMAGE` | **Source**: `msajce_library.md`
-- **Summary**: Photograph showcasing the spacious reading hall, book racks, and digital workstations inside the central library at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_library.md`
+  - **Summary**: Photograph showcasing the spacious reading hall, book racks, and digital workstations inside the central library at **MSAJCE**.
 - **[**MSAJCE** Cse Image / Photo Asset](https://www.msjace-edu.in/images/departments/cse/FDP2022-2023(CSE)**
-- **Category**: `IMAGE` | **Source**: `msajce_cse.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cse.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Image / Photo Asset](https://www.msjace-edu.in/images/departments/cse/FDP2021-2022(CSE)**
-- **Category**: `IMAGE` | **Source**: `msajce_cse.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cse.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Image / Photo Asset](https://www.msjce-edu.in/images/departments/cse/Virtual-Lab-C-Programming.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cse.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cse.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Image / Photo Asset](https://www.msjce-edu.in/images/departments/cse/Virtual-Lab-Internet-Programming.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cse.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cse.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Image / Photo Asset](https://www.msjce-edu.in/images/departments/cse/Virtual-Lab-OS.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cse.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cse.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Image / Photo Asset](https://www.msjce-edu.in/images/departments/cse/Virtual-Lab-oad.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cse.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cse.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Image / Photo Asset](https://www.msjce-edu.in/images/departments/cse/Virtual-Lab-Web-Technology.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cse.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cse.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Image / Photo Asset](https://www.msjce-edu.in/images/departments/cse/Networks.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cse.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cse.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Image / Photo Asset](https://www.msjce-edu.in/images/departments/cse/Virtual-Lab-C-Programming.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_cse.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cse.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Image / Photo Asset](https://www.msjce-edu.in/images/departments/cse/Virtual-Lab-Internet-Programming.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_cse.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cse.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Image / Photo Asset](https://www.msjce-edu.in/images/departments/cse/Virtual-Lab-OS.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_cse.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cse.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Image / Photo Asset](https://www.msjce-edu.in/images/departments/cse/Virtual-Lab-oad.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_cse.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cse.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Image / Photo Asset](https://www.msjce-edu.in/images/departments/cse/Virtual-Lab-Web-Technology.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_cse.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cse.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Image / Photo Asset](https://www.msjce-edu.in/images/departments/cse/Networks.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_cse.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cse.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Image / Photo Asset](https://www.msjce-edu.in/images/departments/cse/)**
-- **Category**: `IMAGE` | **Source**: `msajce_cse.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cse.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/cse/CSEpublication2021-2022.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cse.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cse.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/cse/CSEpublication2020-2021.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cse.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cse.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/cse/CSEpublication2019-2020.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cse.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cse.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Image / Photo Asset](https://www.msjace-edu.in/images/departments/cse/FDP2022-2023\(CSE\)**
-- **Category**: `IMAGE` | **Source**: `msajce_cse.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cse.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Image / Photo Asset](https://www.msjace-edu.in/images/departments/cse/FDP2021-2022\(CSE\)**
-- **Category**: `IMAGE` | **Source**: `msajce_cse.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cse.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Image / Photo Asset](https://www.msjace-edu.in/images/departments/cse/CSE-IV-01.jpg)**
-- **Category**: `IMAGE` | **Source**: `msajce_cse.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cse.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Image / Photo Asset](https://www.msjace-edu.in/images/departments/cse/CSE-IV-02.jpg)**
-- **Category**: `IMAGE` | **Source**: `msajce_cse.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cse.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Image / Photo Asset](https://www.msjace-edu.in/images/departments/cse/CSE-IV-03.jpg)**
-- **Category**: `IMAGE` | **Source**: `msajce_cse.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cse.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
 - **[**MSAJCE** Cse Image / Photo Asset](https://www.msjace-edu.in/images/departments/cse/CSE-IV-04.jpg)**
-- **Category**: `IMAGE` | **Source**: `msajce_cse.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cse.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cse at **MSAJCE**.
 - **[**MSAJCE** Ece-Act Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/cse/Obj-c.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_ece-act.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Ece-Act at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_ece-act.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Ece-Act at **MSAJCE**.
 - **[**MSAJCE** Ece-Act Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/cse/Virtual-Lab-oad.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_ece-act.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Ece-Act at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_ece-act.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Ece-Act at **MSAJCE**.
 - **[**MSAJCE** Ece-Act Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/cse/Obj-oad.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_ece-act.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Ece-Act at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_ece-act.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Ece-Act at **MSAJCE**.
 - **[**MSAJCE** Ece-Act Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/cse/Virtual-Lab-C-Programming.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_ece-act.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Ece-Act at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_ece-act.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Ece-Act at **MSAJCE**.
 - **[**MSAJCE** Ece-Act Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/cse/Virtual-Lab-Internet-Programming.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_ece-act.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Ece-Act at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_ece-act.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Ece-Act at **MSAJCE**.
 - **[**MSAJCE** Ece-Act Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/cse/Virtual-Lab-OS.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_ece-act.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Ece-Act at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_ece-act.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Ece-Act at **MSAJCE**.
 - **[**MSAJCE** Ece-Act Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/cse/Virtual-Lab-ooad.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_ece-act.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Ece-Act at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_ece-act.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Ece-Act at **MSAJCE**.
 - **[**MSAJCE** Ece-Act Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/cse/Virtual-Lab-Web-Technology.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_ece-act.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Ece-Act at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_ece-act.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Ece-Act at **MSAJCE**.
 - **[**MSAJCE** Ece-Act Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/cse/Networks.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_ece-act.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Ece-Act at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_ece-act.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Ece-Act at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/Lab/Control-Objectives.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/Lab/Control-Equipment.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/Lab/EE8511.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/Lab/Control-Virtual-link.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/Lab/EPL-Objectives.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/Lab/EPL-Equipments.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/Lab/GE8261-EPL.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/Lab/EPL-Virtual-link.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/Lab/PE-Objectives.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/Lab/PE-equipment.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/Lab/EE8661-PE.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/Lab/PE-Virtual-Link.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/Lab/PSS-Objectives.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/Lab/PSS-Equipments.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/Lab/EE8711.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/Lab/PSS-Virtual-Link.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/Lab/RES-Objectives.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/Lab/EE8712.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/Lab/RES-EXPERIMENTS.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/Lab/RES-Virtual-Link.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/Lab/Electrical-Objectives.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/Lab/Electrical-Equipments.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/Lab/EE8261-Virtual.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/Lab/EE8311-EM-I-Virtual-link.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/Lab/EE8411-EM-II-Virtual-Link.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/Lab/EE8361-EE-Virtua-Link.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/Lab/Electronics-Objective.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/Lab/Electronics-Equipments.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/Lab/EC8311-Virtual.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/Lab/EE8261-VIRTUAL1.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/Publications2022-2023.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/Publications2021-2022.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/Publications2019-2020.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/Publications2016-2018.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/FDP2022-2023.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/FDP2021-2022.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/FDP2020-2021.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/FDP2019-2020.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/FDP2018-2019.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/FDP2017-2018.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/FDP2016-2017.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/Publications2022-2023.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.msjace-edu.in/images/departments/eee/Publications2021-2022.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/Publications2019-2020.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/Publications2019-2020.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/Publications2016-2018.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/Publications2016-2018.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/FDP2022-2023.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/FDP2022-2023.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/FDP2021-2022.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/FDP2021-2022.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/FDP2020-2021.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/FDP2020-2021.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/FDP2019-2020.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/FDP2019-2020.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/FDP2018-2019.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/FDP2018-2019.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/FDP2017-2018.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/FDP2017-2018.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/FDP2016-2017.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Eee Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/eee/FDP2016-2017.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_eee.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_eee.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Eee at **MSAJCE**.
 - **[**MSAJCE** Incubation Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/research/RatingCertificate_2023-24.jpg)**
-- **Category**: `IMAGE` | **Source**: `msajce_incubation.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Incubation at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_incubation.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/research/RatingCertificate_2022-23.jpg)**
-- **Category**: `IMAGE` | **Source**: `msajce_incubation.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Incubation at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_incubation.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/research/RatingCertificate\\_2023-24.jpg)**
-- **Category**: `IMAGE` | **Source**: `msajce_incubation.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Incubation at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_incubation.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/research/RatingCertificate\\_2022-23.jpg)**
-- **Category**: `IMAGE` | **Source**: `msajce_incubation.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Incubation at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_incubation.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/research/2RatingCertificate2020-21.jpg)**
-- **Category**: `IMAGE` | **Source**: `msajce_incubation.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Incubation at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_incubation.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Incubation at **MSAJCE**.
 - **[**MSAJCE** Incubation Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/research/1RatingCertificate2019-20.jpg)**
-- **Category**: `IMAGE` | **Source**: `msajce_incubation.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Incubation at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_incubation.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Incubation at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.msjace-edu.in/images/departments/it/FDP2022-2023(IT)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.msjace-edu.in/images/departments/it/FDP2021-2022(IT)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.msjace-edu.in/images/departments/it/FDP2020-2021(IT)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/it/DATASTRUCTURES-eq.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/it/DATASTRUCTURES-ex.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/it/OOP-eq.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/it/CS8383.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/it/OOAD-eq.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/it/CS8582.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/it/MOBILE-eq.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/it/MOBILE-ex.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/it/Security-eq.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/it/IT8761.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/it/FOSS-eq.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/it/IT8711.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/it/DATASTRUCTURES.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/it/OOP.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/it/OOAD.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/it/MOBILE.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/it/Security.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/it/FOSS.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/it/DATASTRUCTURES.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/it/OOP.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/it/OOAD.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/departments/it/MOBILE.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.msjce-edu.in/images/departments/it/Security.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.msjce-edu.in/images/departments/it/Security.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.msjce-edu.in/images/departments/it/FOSS.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.msjce-edu.in/images/departments/it/FOSS.pdf</a)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.msjace-edu.in/images/departments/it/ITpublication2021-2022.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.msjace-edu.in/images/departments/it/ITpublication2020-2021.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.msjace-edu.in/images/departments/it/ITpublication2019-2020.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.msjace-edu.in/images/departments/it/FDP2022-2023\(IT\)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.msjace-edu.in/images/departments/it/FDP2021-2022\(IT\)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Information Technology Image / Photo Asset](https://www.msjace-edu.in/images/departments/it/FDP2020-2021\(IT\)**
-- **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_information_technology.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Information Technology at **MSAJCE**.
 - **[**MSAJCE** Main Building Front View Image](https://www.**MSAJCE**-edu.in/images/main_building.jpg)**
-- **Category**: `IMAGE` | **Source**: `msajce_about.md`
-- **Summary**: High-resolution photograph depicting the architectural front elevation of the main administrative building at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_about.md`
+  - **Summary**: High-resolution photograph depicting the architectural front elevation of the main administrative building at **MSAJCE**.
 - **[**MSAJCE** Research Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/research/Publications23-24.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_research.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Research at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_research.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Research at **MSAJCE**.
 - **[**MSAJCE** Research Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/research/Publications22-23.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_research.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Research at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_research.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Research at **MSAJCE**.
 - **[**MSAJCE** Research Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/research/Publications21-22.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_research.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Research at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_research.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Research at **MSAJCE**.
 - **[**MSAJCE** Research Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/research/Publications20-21.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_research.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Research at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_research.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Research at **MSAJCE**.
 - **[**MSAJCE** Research Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/research/Publications19-20.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_research.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Research at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_research.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Research at **MSAJCE**.
 - **[**MSAJCE** Research Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/research/Publications18-19.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_research.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Research at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_research.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Research at **MSAJCE**.
 - **[**MSAJCE** Research Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/research/Publications17-18.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_research.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Research at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_research.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Research at **MSAJCE**.
 - **[**MSAJCE** Research Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/research/Publications16-17.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_research.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Research at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_research.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Research at **MSAJCE**.
 - **[**MSAJCE** Sports Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/sports/kabadi.jpg)**
-- **Category**: `IMAGE` | **Source**: `msajce_sports.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Sports at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_sports.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Sports at **MSAJCE**.
 - **[**MSAJCE** Sports Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/sports/BasketBall.jpg)**
-- **Category**: `IMAGE` | **Source**: `msajce_sports.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Sports at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_sports.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Sports at **MSAJCE**.
 - **[**MSAJCE** Sports Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/sports/Volleyball.jpg)**
-- **Category**: `IMAGE` | **Source**: `msajce_sports.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Sports at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_sports.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Sports at **MSAJCE**.
 - **[**MSAJCE** Sports Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/sports/FootBall.jpg)**
-- **Category**: `IMAGE` | **Source**: `msajce_sports.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Sports at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_sports.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Sports at **MSAJCE**.
 - **[**MSAJCE** Sports Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/sports/CriketNet.jpg)**
-- **Category**: `IMAGE` | **Source**: `msajce_sports.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Sports at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_sports.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Sports at **MSAJCE**.
 - **[**MSAJCE** Sports Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/sports/TableTinnies.jpg)**
-- **Category**: `IMAGE` | **Source**: `msajce_sports.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Sports at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_sports.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Sports at **MSAJCE**.
 - **[**MSAJCE** Sports Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/sports/Carrom.jpg)**
-- **Category**: `IMAGE` | **Source**: `msajce_sports.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Sports at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_sports.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Sports at **MSAJCE**.
 - **[**MSAJCE** Sports Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/sports/Chess.jpg)**
-- **Category**: `IMAGE` | **Source**: `msajce_sports.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Sports at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_sports.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Sports at **MSAJCE**.
 - **[**MSAJCE** Sports Stadium & Athletic Ground Image](https://www.**MSAJCE**-edu.in/images/sports_ground.jpg)**
-- **Category**: `IMAGE` | **Source**: `msajce_sports.md`
-- **Summary**: Photograph depicting the outdoor sports stadium, cricket ground, and football field at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_sports.md`
+  - **Summary**: Photograph depicting the outdoor sports stadium, cricket ground, and football field at **MSAJCE**.
 - **[**MSAJCE** Student Bus Fleet Image](https://www.**MSAJCE**-edu.in/images/transport_bus.jpg)**
-- **Category**: `IMAGE` | **Source**: `msajce_transport.md`
-- **Summary**: Photograph showing the fleet of college transport buses operating across Chennai and suburbs for **MSAJCE** students.
+  - **Category**: `IMAGE` | **Source**: `msajce_transport.md`
+  - **Summary**: Photograph showing the fleet of college transport buses operating across Chennai and suburbs for **MSAJCE** students.
 - **[**MSAJCE** Student Hostel Building Image](https://www.**MSAJCE**-edu.in/images/hostel_building.jpg)**
-- **Category**: `IMAGE` | **Source**: `msajce_hostel.md`
-- **Summary**: Photograph showing the exterior view of the boys and girls student residential hostel buildings at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_hostel.md`
+  - **Summary**: Photograph showing the exterior view of the boys and girls student residential hostel buildings at **MSAJCE**.
 - **[**MSAJCE** Training & Placement Cell Image](https://www.**MSAJCE**-edu.in/images/placement_cell.jpg)**
-- **Category**: `IMAGE` | **Source**: `msajce_placement.md`
-- **Summary**: Photograph showing the training and placement cell interview suites and seminar hall at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_placement.md`
+  - **Summary**: Photograph showing the training and placement cell interview suites and seminar hall at **MSAJCE**.
 - **[**MSAJCE** Transport Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/transport/AR3.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_transport.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Transport at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_transport.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Transport at **MSAJCE**.
 - **[**MSAJCE** Transport Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/transport/AR4.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_transport.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Transport at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_transport.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Transport at **MSAJCE**.
 - **[**MSAJCE** Transport Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/transport/AR5.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_transport.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Transport at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_transport.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Transport at **MSAJCE**.
 - **[**MSAJCE** Transport Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/transport/AR6.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_transport.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Transport at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_transport.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Transport at **MSAJCE**.
 - **[**MSAJCE** Transport Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/transport/AR7.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_transport.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Transport at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_transport.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Transport at **MSAJCE**.
 - **[**MSAJCE** Transport Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/transport/AR8.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_transport.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Transport at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_transport.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Transport at **MSAJCE**.
 - **[**MSAJCE** Transport Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/transport/AR9.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_transport.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Transport at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_transport.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Transport at **MSAJCE**.
 - **[**MSAJCE** Transport Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/transport/AR10.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_transport.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Transport at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_transport.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Transport at **MSAJCE**.
 - **[**MSAJCE** Transport Image / Photo Asset](https://www.**MSAJCE**-edu.in/images/transport/R22.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_transport.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Transport at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_transport.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Transport at **MSAJCE**.
 - **[Networks Lab](https://www.**MSAJCE**-edu.in/images/departments/cse/Obj-Networks.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
 - **[Object Oriented Analysis and Design Lab](https://www.**MSAJCE**-edu.in/images/departments/cse/Obj-ooad.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
 - **[Operating Systems Lab](https://www.**MSAJCE**-edu.in/images/departments/cse/Obj-os.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
 - **[View](https://www.**MSAJCE**-edu.in/images/departments/cse/Virtual-Lab-C-Programming.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
 - **[View](https://www.**MSAJCE**-edu.in/images/departments/cse/Virtual-Lab-Internet-Programming.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
 - **[View](https://www.**MSAJCE**-edu.in/images/departments/cse/Virtual-Lab-OS.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
 - **[View](https://www.**MSAJCE**-edu.in/images/departments/cse/Virtual-Lab-ooad.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
 - **[View](https://www.**MSAJCE**-edu.in/images/departments/cse/Virtual-Lab-Web-Technology.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
 - **[View](https://www.**MSAJCE**-edu.in/images/departments/cse/Networks.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
 - **[View Details](https://www.**MSAJCE**-edu.in/images/departments/cse/Equipments-C-Programming.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
 - **[View Details](https://www.**MSAJCE**-edu.in/images/departments/cse/Equipments-Internet-Programming.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
 - **[View Details](https://www.**MSAJCE**-edu.in/images/departments/cse/Equipments-OS.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
 - **[View Details](https://www.**MSAJCE**-edu.in/images/departments/cse/Equipments-OOAD.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
 - **[View Details](https://www.**MSAJCE**-edu.in/images/departments/cse/Equipments-Web-Technology.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
 - **[View Details](https://www.**MSAJCE**-edu.in/images/departments/cse/Equipments-Networks.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
 - **[Web Technology Lab](https://www.**MSAJCE**-edu.in/images/departments/cse/Obj-web.pdf)**
-- **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
-- **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
+  - **Category**: `IMAGE` | **Source**: `msajce_cyber.md`
+  - **Summary**: Visual image asset depicting college facilities, campus infrastructure, or events related to Cyber at **MSAJCE**.
 
 ## 6. Campus Radio Songs & Audio Recordings
 - **[**MSAJCE** Campus Radio Welcome Broadcast Song](https://www.**MSAJCE**-edu.in/audio/campus_radio_welcome.mp3)**
-- **Category**: `SONG` | **Source**: `msajce_campusradio.md`
-- **Summary**: Audio recording and welcome song broadcast from the **MSAJCE** student campus radio station.
+  - **Category**: `SONG` | **Source**: `msajce_campusradio.md`
+  - **Summary**: Audio recording and welcome song broadcast from the **MSAJCE** student campus radio station.
 - **[**MSAJCE** Library Audio / Campus Radio Recording](http://www.audiobooksforfree.com/)**
-- **Category**: `SONG` | **Source**: `msajce_library.md`
-- **Summary**: Audio recording or campus radio broadcast related to Library at **MSAJCE**.
+  - **Category**: `SONG` | **Source**: `msajce_library.md`
+  - **Summary**: Audio recording or campus radio broadcast related to Library at **MSAJCE**.
 - **[**MSAJCE** Library Audio / Campus Radio Recording](http://www.audiobooksforfree.com/</a)**
-- **Category**: `SONG` | **Source**: `msajce_library.md`
-- **Summary**: Audio recording or campus radio broadcast related to Library at **MSAJCE**.
+  - **Category**: `SONG` | **Source**: `msajce_library.md`
+  - **Summary**: Audio recording or campus radio broadcast related to Library at **MSAJCE**.

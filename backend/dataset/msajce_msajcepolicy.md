@@ -1,782 +1,295 @@
 # E-Governance Policy
-- Objectives oftheE-Goverance Policy To provide structured and effective system of governance in all functional areas of **MSAJCE**.
-- To enable fast and easy access of institution related information.
-- To enable transparent and accountable functioning of **MSAJCE**.
-- To initiate and implement paper less administration in **MSAJCE**.
-- Policy The benefit of Information Technology is used to integrate all academic activity to ensure transparency and accountability, improve the various functions of **MSAJCE** and address the needs of stakeholders.
-- Implementation of e-governance in area of Operations of General Administration.
-- Specially designed software was put into the practice of supervising the entire service units of the office.
-- Email communication was encouraged by the administration and implemented into the system to communicate with all Statutory and Core committees, Teaching and Non Teaching Community.
-- Website is mostly used as a communicating forum through which all administrative information including notices were p u b l i s h e d .
-- Attendances of all the staff members were recorded with the help of Biometric Device.
-- CCTV Cameras are installed at various locations of the premises to ensure the safety and security.
-- E-Governance Execution in the Area of Operation of Finance and Accounts: Tally & ERP Software is used by the institute to maintain Accounts.
-- All financial matters are dealt with Indian Overseas Bank Online for transaction purposes.
-- E-Goverance Execution in the Area of Operation of Student Admission & Support: A separate module of ERP is used for maintaining the Student Admission database.
-- Admission and online Payment Facilitation On the website all Interfaces are provided.
-- E-Governance Execution in the Area of Examination ERP is used for managing the entire examination process.
-- All proceedings pertaining to examination like exam form filing, admit card generation, uploading of marks etc. are totally automated through Anna University Web portal.
-- A separate System Administrator and a developer is used in the ‘Data Centre`.
-- Alumni details are provided and maintained in the separate web portal of the Institute website.
-- Principal
+
+Objectives oftheE-Goverance Policy To provide structured and effective system of governance in all functional areas of **MSAJCE**. To enable fast and easy access of institution related information. To enable transparent and accountable functioning of **MSAJCE**. To initiate and implement paper less administration in **MSAJCE**. Policy The benefit of Information Technology is used to integrate all academic activity to ensure transparency and accountability, improve the various functions of **MSAJCE** and address the needs of stakeholders. Implementation of e-governance in area of Operations of General Administration. Specially designed software was put into the practice of supervising the entire service units of the office. Email communication was encouraged by the administration and implemented into the system to communicate with all Statutory and Core committees, Teaching and Non Teaching Community. Website is mostly used as a communicating forum through which all administrative information including notices were p u b l i s h e d . Attendances of all the staff members were recorded with the help of Biometric Device. CCTV Cameras are installed at various locations of the premises to ensure the safety and security. E-Governance Execution in the Area of Operation of Finance and Accounts: Tally & ERP Software is used by the institute to maintain Accounts. All financial matters are dealt with Indian Overseas Bank Online for transaction purposes. E-Goverance Execution in the Area of Operation of Student Admission & Support: A separate module of ERP is used for maintaining the Student Admission database. Admission and online Payment Facilitation On the website all Interfaces are provided. E-Governance Execution in the Area of Examination ERP is used for managing the entire examination process. All proceedings pertaining to examination like exam form filing, admit card generation, uploading of marks etc. are totally automated through Anna University Web portal. A separate System Administrator and a developer is used in the ‘Data Centre`. Alumni details are provided and maintained in the separate web portal of the Institute website. Principal
 
 # Feedback Policy
-- Student feedback of teaching learning process The following methods are used to collect feedbacks from the students Oral feedback is collected by the Hods at the first week of commencement of class, Feedback through class committee meeting conducted during 2nd and 10th week from the commencement of class, Online feedback is collected in middle of the semester.
-- In the online feedback, the students are required to answer the standard questions required to fulfil the quality of teaching and apprising the faculty using a scale of 5 (high) through 1 (low) (Format enclosed).
-- Feedback from Stakeholders: Feedbacks on Guest lecture/Seminar/Workshops/Industrial visit/Internship/etc are periodically collected from students and experts.
-- Feedback from parents, industry, alumni and visitors are collected and necessary actions are initiated.
-- Feedback on facilities: Feedbacks on Infrastructure , Library, Housekeeping, Transport, Hostel, etc is collected periodically.
-- Academic Audit: Lecture classes are monitored by senior Professors and the HoD of the Department.
-- They give constructive comments to improve the quality of teaching and the teaching- learning process.
-- Counselling by the respective HoD for those faculty members who have secured low scores and negative comments, if any, in the feedback.
-- They are motivated to improve their skills and abilities.
-- If any training / orientation are required they are encouraged to attend internal/external workshops / FDP conducted by the experts thus improving the efficiency of teaching-learning process.
-- Guidance for Academic Audit The primary activities to be monitored and controlled by the committee are as below During the audit of course files, the following items are verified University syllabus and lesson plan of the corresponding subjects..
-- Lecture notes / online materials/ other supporting materials of the corresponding subjects.
-- Previous university question papers along with question bank.
-- Assignment topics, Tutorial questions.
-- The log book and track record of the lab sessions.
-- CO attainment & PO attainment after the publication of results.
-- Guidance for Class Committee Meeting Every class shall have a class committee consisting of faculties of the corresponding class, student representatives and a chairperson.
-- The class committee for a class is normally constituted by the Head of the Department within a week of each semester starting.
-- At least 5 student representatives are included in the class committee.
-- The Chairperson of the class committee mayconvene the meeting by inviting the Class advisor & subject handling faculty, student representative.
-- The chairperson is required to prepare the minutes of every meeting, submit the same to the Academic review Committee within two days of the meeting and arrange to circulate it among the students and teachers concerned.
-- The first meeting of the class committee shall be held within one week from the date of commencement of the semester, in order to discuss various activities and placement training.
-- Two meetings may be held in a semester at suitable intervals.
-- The functions of the class committee include To provide a forum for students to voice their academic grievances.
-- Solving problems experienced by students in the class room and in the laboratories.
-- Informing the student representatives, the academic schedule including the dates of Assessments and the syllabus coverage for each assessment.
-- During these meetings the student members representing the entire class, shall meaningfully interact and express the opinions and suggestions of the other students of the class in order to improve the effectiveness of the teaching-learning process.
+
+Student feedback of teaching learning process The following methods are used to collect feedbacks from the students Oral feedback is collected by the Hods at the first week of commencement of class, Feedback through class committee meeting conducted during 2nd and 10th week from the commencement of class, Online feedback is collected in middle of the semester. In the online feedback, the students are required to answer the standard questions required to fulfil the quality of teaching and apprising the faculty using a scale of 5 (high) through 1 (low) (Format enclosed). Feedback from Stakeholders: Feedbacks on Guest lecture/Seminar/Workshops/Industrial visit/Internship/etc are periodically collected from students and experts. Feedback from parents, industry, alumni and visitors are collected and necessary actions are initiated. Feedback on facilities: Feedbacks on Infrastructure , Library, Housekeeping, Transport, Hostel, etc is collected periodically. Academic Audit: Lecture classes are monitored by senior Professors and the HoD of the Department. They give constructive comments to improve the quality of teaching and the teaching- learning process. Counselling by the respective HoD for those faculty members who have secured low scores and negative comments, if any, in the feedback. They are motivated to improve their skills and abilities. If any training / orientation are required they are encouraged to attend internal/external workshops / FDP conducted by the experts thus improving the efficiency of teaching-learning process. Guidance for Academic Audit The primary activities to be monitored and controlled by the committee are as below During the audit of course files, the following items are verified University syllabus and lesson plan of the corresponding subjects.. Lecture notes / online materials/ other supporting materials of the corresponding subjects. Previous university question papers along with question bank. Assignment topics, Tutorial questions. The log book and track record of the lab sessions. CO attainment & PO attainment after the publication of results. Guidance for Class Committee Meeting Every class shall have a class committee consisting of faculties of the corresponding class, student representatives and a chairperson. The class committee for a class is normally constituted by the Head of the Department within a week of each semester starting. At least 5 student representatives are included in the class committee. The Chairperson of the class committee mayconvene the meeting by inviting the Class advisor & subject handling faculty, student representative. The chairperson is required to prepare the minutes of every meeting, submit the same to the Academic review Committee within two days of the meeting and arrange to circulate it among the students and teachers concerned. The first meeting of the class committee shall be held within one week from the date of commencement of the semester, in order to discuss various activities and placement training. Two meetings may be held in a semester at suitable intervals. The functions of the class committee include To provide a forum for students to voice their academic grievances. Solving problems experienced by students in the class room and in the laboratories. Informing the student representatives, the academic schedule including the dates of Assessments and the syllabus coverage for each assessment. During these meetings the student members representing the entire class, shall meaningfully interact and express the opinions and suggestions of the other students of the class in order to improve the effectiveness of the teaching-learning process.
 
 # HR Policies
-- These rules shall be called “Mohamed Sathak AJ College of Engineering”, Chennai, Policies, Conduct Rules, and Guidelines comes into force from the month of August 2019.
-- These rules supersede all the rules put into force, previously.
-- These rules shall apply to all categories of employees (Teaching and Supporting Staff Members).
+
+These rules shall be called “Mohamed Sathak AJ College of Engineering”, Chennai, Policies, Conduct Rules, and Guidelines comes into force from the month of August 2019. These rules supersede all the rules put into force, previously. These rules shall apply to all categories of employees (Teaching and Supporting Staff Members).
 
 ## 1. Definition
-- ‘College’ means Mohamed Sathak AJ College of Engineering (**MSAJCE**), Chennai ‘Trust’ means Mohamed Sathak Trust, Chennai.
-- ‘Faculty Position’ means a faculty carrying a definite scale of pay sanctioned without limit of time and included in the cadre of sanctioned position.
-- ‘Supporting Staff Members’ means a person appointed in a non-Teaching post to which no other person holds a lien.
+
+‘College’ means Mohamed Sathak AJ College of Engineering (**MSAJCE**), Chennai ‘Trust’ means Mohamed Sathak Trust, Chennai. ‘Faculty Position’ means a faculty carrying a definite scale of pay sanctioned without limit of time and included in the cadre of sanctioned position. ‘Supporting Staff Members’ means a person appointed in a non-Teaching post to which no other person holds a lien.
 
 ## 2. Orientation
-- Every staff appointed in **MSAJCE** shall be given a brief introduction / orientation about **MSAJCE** by the Principal on the day of his / her joining.
-- The Manager (Admin) will also ensure that all the registration formalities, including submission of joining report etc., by obtaining the assistance of the Office team.
-- The Head of Department (HOD) will give a brief introduction of the department and will introduce the new incumbent to all the teaching and non-teaching members of their team.
-- HOD will also take him/her on a tour to the campus, explaining him/her the various codes of conduct observed in availing the facilities in **MSAJCE**.
-- The HOD will introduce the new faculty member in the first class he/she is going to handle in every section of his assignment.
+
+Every staff appointed in **MSAJCE** shall be given a brief introduction / orientation about **MSAJCE** by the Principal on the day of his / her joining. The Manager (Admin) will also ensure that all the registration formalities, including submission of joining report etc., by obtaining the assistance of the Office team. The Head of Department (HOD) will give a brief introduction of the department and will introduce the new incumbent to all the teaching and non-teaching members of their team. HOD will also take him/her on a tour to the campus, explaining him/her the various codes of conduct observed in availing the facilities in **MSAJCE**. The HOD will introduce the new faculty member in the first class he/she is going to handle in every section of his assignment.
 
 ## 3. Staff Dress Code
-- Men: Tucked Shirt & Trousers with shoes (Formal).
-- Women: Sari (Formal) and Chudidhar with overcoat.
-- All the staffs should wear their identity cards at all the times inside the campus, bus and hostel.
+
+Men: Tucked Shirt & Trousers with shoes (Formal). Women: Sari (Formal) and Chudidhar with overcoat. All the staffs should wear their identity cards at all the times inside the campus, bus and hostel.
 
 ## 4. Attendance Record
-- All the staff members should register their biometric and also sign in the attendance register soon after their arrival and also in the evening while leaving.
-- They are expected to be present in the department at least 10 minutes before the commencement of forenoon session.
+
+All the staff members should register their biometric and also sign in the attendance register soon after their arrival and also in the evening while leaving. They are expected to be present in the department at least 10 minutes before the commencement of forenoon session.
 
 ## 5. Recruitment / Interview Process of Staff
-- All appointments of the faculty and Staff members of **MSAJCE** shall be made by the Chairman/ Appointing Authority as per the recommendation of Selection Committee.
-- Recruitment is normally done twice in a year during May and November.
-- Number of vacancies is notified by Principal / Designated Authority based on student strength / resignations of staff members, to the management for approval / information.
-- Vacancies are advertised in leading newspapers, website and online etc. Screening of applications is done by the respective screening committee.
-- Shortlisted candidates are informed through email / over telephones by HR Department.
-- Selection committee shall be constituted by the principal as per the guidelines approved by the Governing Council.
-- Candidates shall be called for personal interview and selection will be made on merit.
-- The Selection committee consisting of Management representatives, Principal, Domain Experts from Anna University / IIT, HOD’s of respective department, will conduct interview and select the suitable candidates based on the performance and requirement.
-- The decision of the Selection committee isfinal.
-- Pay for the selected candidates shall be fixed as per the AICTE norms for the respective post, and as approved by the Governing Council based upon the qualification and experience of the candidate and other achievements.
-- The offer letter will be issued for the selected candidates with specified date of joining.
-- Photo copies of all certificates will be collected by HR / Admin Office and verified with original copy at the time of interview / joining and returned the same.
-- Teaching Non-Teaching UG, PG and Ph.D. certificates Degree or Diploma Certificate Proof of DoB / X std mark sheet DoB Proof / X std mark sheet Passport Sized photo – 4 no’s Passport Sized photo – 4 no’s Experience certificates if any Experience certificates if any Aadhar card & PAN card Aadhar card & PAN card Community Certificate (if applicable) Community Certificate (if applicable) The new faculty Joining in the institute should report to the principal and complete the joining formalities and then he / she should report to the concerned HoD`s.
+
+All appointments of the faculty and Staff members of **MSAJCE** shall be made by the Chairman/ Appointing Authority as per the recommendation of Selection Committee. Recruitment is normally done twice in a year during May and November. Number of vacancies is notified by Principal / Designated Authority based on student strength / resignations of staff members, to the management for approval / information. Vacancies are advertised in leading newspapers, website and online etc. Screening of applications is done by the respective screening committee. Shortlisted candidates are informed through email / over telephones by HR Department. Selection committee shall be constituted by the principal as per the guidelines approved by the Governing Council. Candidates shall be called for personal interview and selection will be made on merit. The Selection committee consisting of Management representatives, Principal, Domain Experts from Anna University / IIT, HOD’s of respective department, will conduct interview and select the suitable candidates based on the performance and requirement. The decision of the Selection committee isfinal. Pay for the selected candidates shall be fixed as per the AICTE norms for the respective post, and as approved by the Governing Council based upon the qualification and experience of the candidate and other achievements. The offer letter will be issued for the selected candidates with specified date of joining. Photo copies of all certificates will be collected by HR / Admin Office and verified with original copy at the time of interview / joining and returned the same. Teaching Non-Teaching UG, PG and Ph.D. certificates Degree or Diploma Certificate Proof of DoB / X std mark sheet DoB Proof / X std mark sheet Passport Sized photo – 4 no’s Passport Sized photo – 4 no’s Experience certificates if any Experience certificates if any Aadhar card & PAN card Aadhar card & PAN card Community Certificate (if applicable) Community Certificate (if applicable) The new faculty Joining in the institute should report to the principal and complete the joining formalities and then he / she should report to the concerned HoD`s.
 
 ## 6. Probation Period
-- Every Staff appointed initially to a post, other than temporary appointments, shall be put on probation for a continuous period of one year.
-- If the performance of the person appointed is not satisfactory during the period of probation, he will be issued a notice of warning at the end of the ninth month, and if his work continues to be unsatisfactory, his services will be terminated at the end of the one-year period.
-- When the incumbent of any post is promoted to a higher post, he has to undergo probation of one year in the new post also.
+
+Every Staff appointed initially to a post, other than temporary appointments, shall be put on probation for a continuous period of one year. If the performance of the person appointed is not satisfactory during the period of probation, he will be issued a notice of warning at the end of the ninth month, and if his work continues to be unsatisfactory, his services will be terminated at the end of the one-year period. When the incumbent of any post is promoted to a higher post, he has to undergo probation of one year in the new post also.
 
 ## 7. Increment / Promotions
-- Increment / Promotions will be considered for those who completed one year of successful probationary period based on Self Appraisal.
-- Promotion from Assistant Professor to Associate Professor and Associate Professor to Professor cadre is considered based on the vacancy and experience as per AICTE norms of the candidate having PhD qualification in the respective domain and the Self Appraisal.
+
+Increment / Promotions will be considered for those who completed one year of successful probationary period based on Self Appraisal. Promotion from Assistant Professor to Associate Professor and Associate Professor to Professor cadre is considered based on the vacancy and experience as per AICTE norms of the candidate having PhD qualification in the respective domain and the Self Appraisal.
 
 ## 8. Termination of Service / Resignation
-- The Chairman / Appointing Authority has the power to terminate the services of a member of **MSAJCE** for any of the following reasons: Serious misconduct and willful negligence of duty.
-- Gross insubordination.
-- Physical or mental unfitness.
-- Participation in any criminal offence involving moral turpitude.
-- The efficiency of an employee has been impaired due to any infirmity, his / her retention in service is considered undesirable, his / her services may be terminated.
-- A member of the Staff shall have his / her service terminated by giving one month notice or one month salary in lieu thereof, in case of temporary appointments or during probationary period.
-- In case of staff on permanent service, the staff shall have to tender his / her resignation by giving one month notice or one month salary in lieu thereof.
-- The notice shall be co-terminus with the end of the semester / academic year.
+
+The Chairman / Appointing Authority has the power to terminate the services of a member of **MSAJCE** for any of the following reasons: Serious misconduct and willful negligence of duty. Gross insubordination. Physical or mental unfitness. Participation in any criminal offence involving moral turpitude. The efficiency of an employee has been impaired due to any infirmity, his / her retention in service is considered undesirable, his / her services may be terminated. A member of the Staff shall have his / her service terminated by giving one month notice or one month salary in lieu thereof, in case of temporary appointments or during probationary period. In case of staff on permanent service, the staff shall have to tender his / her resignation by giving one month notice or one month salary in lieu thereof. The notice shall be co-terminus with the end of the semester / academic year.
 
 ## 9. Leave Rules
-- 1 Casual Leave (CL) 12 days per year for all the staff at the rate of 1 day per month.
-- 2 Compensation Off (C Off) Applicable only to non-residential staff.
-- 3 Sick Leave (SL) For those who have completed 5 years up to 3 days per year (Production of Medical certificate / Discharge Summary) 4 Restricted Holiday (RH) 2 days based on prior approval of the Principal Leave shall not be claimed as a matter of right and need to be granted.
-- A staff member shall not normally or on any pretense absent himself/herself from his / her duties without prior permission of his/her superior officer authorized to give permission.
-- Leave letter is to be submitted in advance and approval must be obtained prior to availing the leave.
-- In case of absence on Medical Grounds, intimation should be sent to the Principal / Designated Authority and a Medical Certificate / Discharge summary report shall be produced at the time of joining after leave.
-- Leave of any kind will not be sanctioned when the services of the staff are needed for the regular work or when there is an unfinished job involving the employee.
-- Leave taken on information; without prior written permission need to be ratified within 1 working day or else the period of leave will be treated as LOP.
-- Leave will be strictly monitored and will not be granted while class in session unless in emergencies.
+
+1 Casual Leave (CL) 12 days per year for all the staff at the rate of 1 day per month. 2 Compensation Off (C Off) Applicable only to non-residential staff. 3 Sick Leave (SL) For those who have completed 5 years up to 3 days per year (Production of Medical certificate / Discharge Summary) 4 Restricted Holiday (RH) 2 days based on prior approval of the Principal Leave shall not be claimed as a matter of right and need to be granted. A staff member shall not normally or on any pretense absent himself/herself from his / her duties without prior permission of his/her superior officer authorized to give permission. Leave letter is to be submitted in advance and approval must be obtained prior to availing the leave. In case of absence on Medical Grounds, intimation should be sent to the Principal / Designated Authority and a Medical Certificate / Discharge summary report shall be produced at the time of joining after leave. Leave of any kind will not be sanctioned when the services of the staff are needed for the regular work or when there is an unfinished job involving the employee. Leave taken on information; without prior written permission need to be ratified within 1 working day or else the period of leave will be treated as LOP. Leave will be strictly monitored and will not be granted while class in session unless in emergencies.
 
 ## 10. Casual Leave (CL)
-- All employees are eligible for 12 days of Casual leave per year at the rate of 1 day per working month during the year from 1st July to 30th June.
-- At a time, not more than 3 CL shall be granted.
-- Carryover of lapsed CL, to next academic year is not permissible.
-- Permission for short absence not exceeding one hour on any working day either at the beginning of working hour, end of working hour or in the middle may be granted at the discretion of the Principal / Designated Authority for two occurrences per month.
-- If the number of permissions for short absence exceeds more than two in a month, it shall be considered as half day (1/2 day) CL for each permission exceeding two.
-- While leaving service, any excess CL taken will be considered LOP at the time of settlement.
-- The CL cannot be combined with any other leaves except SL and Compensation Off.
+
+All employees are eligible for 12 days of Casual leave per year at the rate of 1 day per working month during the year from 1st July to 30th June. At a time, not more than 3 CL shall be granted. Carryover of lapsed CL, to next academic year is not permissible. Permission for short absence not exceeding one hour on any working day either at the beginning of working hour, end of working hour or in the middle may be granted at the discretion of the Principal / Designated Authority for two occurrences per month. If the number of permissions for short absence exceeds more than two in a month, it shall be considered as half day (1/2 day) CL for each permission exceeding two. While leaving service, any excess CL taken will be considered LOP at the time of settlement. The CL cannot be combined with any other leaves except SL and Compensation Off.
 
 ## 11. Vacation Leave (VL)
-- These rules govern the availing of vacation leave for each Academic Year from 1st June to 31st May.
-- The total number of VL days for members of faculty (teaching staff) is limited to 30 calendar days (thirty), for a continuous service of 1 year in institution as on 31st May of the respective Academic Year.
-- These 30 days can be availed for a maximum of 10 days in the winter vacation period in the months of November or December.
-- The balance days can be availed in the summer vacation period in the months of May, June or July, in two split.
-- However, vacation leave shall be availed as per the circulars issued in this regard, indicating the slots in the period identified for winter or summer vacation, to ensure smooth functioning of **MSAJCE**.
-- However, in special / deserving cases, VL can be sanctioned after 6 (six) months of continuous service, on pro rata basis.
-- In case a staff member, after availing VL does not complete the full term of 6 months or one semester, the leave availed will be treated as Leave on Loss of Pay (LOP) and proportionate salary will be deducted from any payment due to him/her.
-- If any staff member is prevented from availing VL in the interest of **MSAJCE** by the orders of the Principal / Designated Authority, Earned Leave (EL) at the rate of 1:2 i.e., one day for every two days of eligible vacation leave shall be considered subject to a cumulative maximum of 30 EL days throughout the service.
-- Any unused part of VL by faculty cannot be carried over to the next academic year.
-- While calculating the number of days of the vacation leave, all intervening declared holidays and Sundays will be included.
-- The VL normally commence on a weekday except Monday.
-- The VL cannot be combined with any other leave.
+
+These rules govern the availing of vacation leave for each Academic Year from 1st June to 31st May. The total number of VL days for members of faculty (teaching staff) is limited to 30 calendar days (thirty), for a continuous service of 1 year in institution as on 31st May of the respective Academic Year. These 30 days can be availed for a maximum of 10 days in the winter vacation period in the months of November or December. The balance days can be availed in the summer vacation period in the months of May, June or July, in two split. However, vacation leave shall be availed as per the circulars issued in this regard, indicating the slots in the period identified for winter or summer vacation, to ensure smooth functioning of **MSAJCE**. However, in special / deserving cases, VL can be sanctioned after 6 (six) months of continuous service, on pro rata basis. In case a staff member, after availing VL does not complete the full term of 6 months or one semester, the leave availed will be treated as Leave on Loss of Pay (LOP) and proportionate salary will be deducted from any payment due to him/her. If any staff member is prevented from availing VL in the interest of **MSAJCE** by the orders of the Principal / Designated Authority, Earned Leave (EL) at the rate of 1:2 i.e., one day for every two days of eligible vacation leave shall be considered subject to a cumulative maximum of 30 EL days throughout the service. Any unused part of VL by faculty cannot be carried over to the next academic year. While calculating the number of days of the vacation leave, all intervening declared holidays and Sundays will be included. The VL normally commence on a weekday except Monday. The VL cannot be combined with any other leave.
 
 ## 12. Restricted Holiday (RH)
-- List of restricted holidays in an academic year will be declared by the HR / Admin department.
-- Staff can also avail two such declared restricted holidays in a year by submitting proper leave letter after making alternation of his / her classes through HOD to the Principal.
-- The principal has the discretion of sanctioning or declining of such leave based on institution work or requirement.
+
+List of restricted holidays in an academic year will be declared by the HR / Admin department. Staff can also avail two such declared restricted holidays in a year by submitting proper leave letter after making alternation of his / her classes through HOD to the Principal. The principal has the discretion of sanctioning or declining of such leave based on institution work or requirement.
 
 ## 13. Special Leave (SL)
-- Special leave to a maximum of seven consecutive days (including holidays) may be availed for marriage of employees on production of marriage invitation and permission from the principal.
-- Special leave to a maximum of three working days can be availed in case of bereavement in the family viz. parents, parents-in-law, spouse, children.
-- This leave can be availed after completion of probation period and can be combined with CL only.
-- The individual must make alternate arrangement for his / her class during such leave.
+
+Special leave to a maximum of seven consecutive days (including holidays) may be availed for marriage of employees on production of marriage invitation and permission from the principal. Special leave to a maximum of three working days can be availed in case of bereavement in the family viz. parents, parents-in-law, spouse, children. This leave can be availed after completion of probation period and can be combined with CL only. The individual must make alternate arrangement for his / her class during such leave.
 
 ## 14. Compensation Off (C- Off)
-- The faculty can avail C -Off for genuine reason(s) for every worked day on a nonworking day.
-- Such C- Off can be availed without affecting his / her class work and preferably during winter or summer vacation.
-- C -Off cannot combine with any other leave except CL.
+
+The faculty can avail C -Off for genuine reason(s) for every worked day on a nonworking day. Such C- Off can be availed without affecting his / her class work and preferably during winter or summer vacation. C -Off cannot combine with any other leave except CL.
 
 ## 15. Maternity Leave (ML)
-- A woman employee of **MSAJCE**, on successful completion of the probation period and having at least three years of continuous and satisfactory service, is eligible for Maternity Leave (ML) for a maximum of 180 days, subject to prior approval of the Principal / Designated Authority without any pay.
-- In case of staff availing total leave exceeding 6 months, she may be sanctioned leave with condition to rejoin duty only when vacancy is available.
-- The decision of the Principal / Designated Authority will be final in sanctioning of such ML.
+
+A woman employee of **MSAJCE**, on successful completion of the probation period and having at least three years of continuous and satisfactory service, is eligible for Maternity Leave (ML) for a maximum of 180 days, subject to prior approval of the Principal / Designated Authority without any pay. In case of staff availing total leave exceeding 6 months, she may be sanctioned leave with condition to rejoin duty only when vacancy is available. The decision of the Principal / Designated Authority will be final in sanctioning of such ML.
 
 ## 16. Leave with Loss of Pay (LOP)
-- Absences without permission and without making alternative arrangement for class or other important duty will be treated as LOP.
-- If any staff member is absent from duty without prior or later permission, exceeding 7 days, such period of absence will be considered as LOP.
-- Such absence will also be considered as a Break-in-Service and in case exceeding 10 days will be considered for relieving from service.
+
+Absences without permission and without making alternative arrangement for class or other important duty will be treated as LOP. If any staff member is absent from duty without prior or later permission, exceeding 7 days, such period of absence will be considered as LOP. Such absence will also be considered as a Break-in-Service and in case exceeding 10 days will be considered for relieving from service.
 
 ## 17. On - Duty (OD)
-- Number of days for such OD for university practical exam duty, theory papers evaluation, seminar /conference / workshop participation is limited to 14 calendar days per semester and if availed in excess, the excess days shall be deducted from other eligible leave at credit of the staff and remaining days will be treated as LOP.
-- In addition to the above a faculty member is eligible for 14 calendar days of OD in a year for officially invited Anna University external examination invigilation works, AUR and examination squad duty.
-- In all above cases, an attendance certificate obtained from the respective organization need to be submitted within two working days for regularization of such OD’s.
-- The Principal / Designated Authority shall have the right to cancel the OD sanctioned earlier, for any emergency work in **MSAJCE**.
-- Under any situation he / she should avoid unnecessary arguments in the reporting college.
-- The faculty must abide to the proper dress code and ID.
-- The faculty should report to the concerned HOD daily and feedback should be given through mail.
-- If there is any allowed expense, he / she must get prior approval from the principal and detail of account should be settled on the next immediate day of reporting to duty, failing which will be adjusted in salary.
-- Attendance report must be submitted on the reporting day, otherwise OD’s will be considered as LOP.
-- Faculty Members who are deputed for specific purpose on “Other Duty” should submit a detailed report to the principal about the purpose for which they are deputed, on the next day without fail.
+
+Number of days for such OD for university practical exam duty, theory papers evaluation, seminar /conference / workshop participation is limited to 14 calendar days per semester and if availed in excess, the excess days shall be deducted from other eligible leave at credit of the staff and remaining days will be treated as LOP. In addition to the above a faculty member is eligible for 14 calendar days of OD in a year for officially invited Anna University external examination invigilation works, AUR and examination squad duty. In all above cases, an attendance certificate obtained from the respective organization need to be submitted within two working days for regularization of such OD’s. The Principal / Designated Authority shall have the right to cancel the OD sanctioned earlier, for any emergency work in **MSAJCE**. Under any situation he / she should avoid unnecessary arguments in the reporting college. The faculty must abide to the proper dress code and ID. The faculty should report to the concerned HOD daily and feedback should be given through mail. If there is any allowed expense, he / she must get prior approval from the principal and detail of account should be settled on the next immediate day of reporting to duty, failing which will be adjusted in salary. Attendance report must be submitted on the reporting day, otherwise OD’s will be considered as LOP. Faculty Members who are deputed for specific purpose on “Other Duty” should submit a detailed report to the principal about the purpose for which they are deputed, on the next day without fail.
 
 ## 18. Conduct & Discipline
-- Every employee shall, always, maintain absolute integrity and devotion to duty and do nothing which is unbecoming for an employee of an educational institution.
-- Every employee shall abide by and comply with the rules and regulations of **MSAJCE** and all orders and directions of his/her superior authorities, under whose supervision or control, he/she is placed.
-- Every employee shall extend utmost courtesy and attention to all persons with whom he/she is to deal in with the course of his/her duties.
-- Every employee shall endeavor to promote the interest of **MSAJCE** and shall not act in any manner prejudicial thereto.
-- No employee shall join, or continue to be a member of an association for the objectives or activities of which are prejudicial to the interests of the sovereignty and integrity of India or public order or morality.
-- If any question arises whether a party is a political party or whether any organization takes part in politics or whether any organization engages in activities prejudicial to the interests of sovereignty and integrity of India or public order or morality, **MSAJCE** shall follow the decision taken by the Authority.
-- No employee shall engage directly or indirectly in any trade or business or undertake any other employment.
-- An employee of **MSAJCE** shall strictly abide by any law relating to intoxicating drink or drug during course of his/her duty.
+
+Every employee shall, always, maintain absolute integrity and devotion to duty and do nothing which is unbecoming for an employee of an educational institution. Every employee shall abide by and comply with the rules and regulations of **MSAJCE** and all orders and directions of his/her superior authorities, under whose supervision or control, he/she is placed. Every employee shall extend utmost courtesy and attention to all persons with whom he/she is to deal in with the course of his/her duties. Every employee shall endeavor to promote the interest of **MSAJCE** and shall not act in any manner prejudicial thereto. No employee shall join, or continue to be a member of an association for the objectives or activities of which are prejudicial to the interests of the sovereignty and integrity of India or public order or morality. If any question arises whether a party is a political party or whether any organization takes part in politics or whether any organization engages in activities prejudicial to the interests of sovereignty and integrity of India or public order or morality, **MSAJCE** shall follow the decision taken by the Authority. No employee shall engage directly or indirectly in any trade or business or undertake any other employment. An employee of **MSAJCE** shall strictly abide by any law relating to intoxicating drink or drug during course of his/her duty.
 
 ## 19. Obligation to maintain secrecy
-- Every employee shall maintain the strictest secrecy regarding **MSAJCE**’s affairs and the affairs of its constituents and shall not divulge, directly or indirectly, any information of confidential nature either to a member of the public or of **MSAJCE**’s staff.
+
+Every employee shall maintain the strictest secrecy regarding **MSAJCE**’s affairs and the affairs of its constituents and shall not divulge, directly or indirectly, any information of confidential nature either to a member of the public or of **MSAJCE**’s staff.
 
 ## 20. Relieving Policies
-- Resignation letter should be recommended by HOD and it should be approved by the principal No staff will be permitted to leave during the middle of the semester.
-- For every staff exit feedback will be conducted before obtaining the resignation letter.
-- Experience certificate will not be issued for those who have not completed the successful probationary period.
-- Along with no due certificate, staff should submit the handing over/(list) document taken over.
-- Undertaking letter will be obtained from the staff for settlement.
+
+Resignation letter should be recommended by HOD and it should be approved by the principal No staff will be permitted to leave during the middle of the semester. For every staff exit feedback will be conducted before obtaining the resignation letter. Experience certificate will not be issued for those who have not completed the successful probationary period. Along with no due certificate, staff should submit the handing over/(list) document taken over. Undertaking letter will be obtained from the staff for settlement.
 
 ## 21. Retirement Policies
-- For Teaching Staff, as per the guidelines of UGC/AICTE at the age of 65.
-- In case of any physical problem or inability to attend his/her regular duties that time they will be given Retirement to their service as per their request. For Non-Teaching Staff, as per the government norms at the age of 58 years.
-- 2 years of extension will be considered based on their physical fitness and service records.
+
+For Teaching Staff, as per the guidelines of UGC/AICTE at the age of 65. In case of any physical problem or inability to attend his/her regular duties that time they will be given Retirement to their service as per their request. For Non-Teaching Staff, as per the government norms at the age of 58 years. 2 years of extension will be considered based on their physical fitness and service records.
 
 ## 22. Transfer within group of Institutions
-- Staff members should accept to work in any of our group institutions based on the requirement.
+
+Staff members should accept to work in any of our group institutions based on the requirement.
 
 ## 23. Awards / Incentives for faculty, staff and students
-- Students who secure 1st three place (year wise) in University Exam will be awarded with Merit Certificates, incentives / mementos.
-- Students having 100% attendance in each academic year will be issued Merit Certificates.
-- Staff Members producing 100% in the Theory Subjects during the Anna University Examinations, will be awarded with appreciation certificates, incentives / mementos..
-- Faculty / Students will be awarded merit certificates / incentives / memento for the following activities. ▪ Presenting paper in International Conference and Journals. ▪ University Rank holders & Sports Achievements ▪ Publishing books, Patents and Copy rights. ▪ Best outgoing student in UG and PG. ▪ Best alumni. ▪ Completion of Industrial consultancy projects and funded projects. ▪ Won prizes in various National and International competitions.
+
+Students who secure 1st three place (year wise) in University Exam will be awarded with Merit Certificates, incentives / mementos. Students having 100% attendance in each academic year will be issued Merit Certificates. Staff Members producing 100% in the Theory Subjects during the Anna University Examinations, will be awarded with appreciation certificates, incentives / mementos.. Faculty / Students will be awarded merit certificates / incentives / memento for the following activities. ▪ Presenting paper in International Conference and Journals. ▪ University Rank holders & Sports Achievements ▪ Publishing books, Patents and Copy rights. ▪ Best outgoing student in UG and PG. ▪ Best alumni. ▪ Completion of Industrial consultancy projects and funded projects. ▪ Won prizes in various National and International competitions.
 
 ## 24. Higher studies
-- The management shall encourage faculty members to upgrade their knowledge and in this context shall undertake to bear the cost of higher academic qualification or special training of faculty members after signing a necessary conditional bond to serve **MSAJCE** for a certain period after benefitting from such academic qualification/training.
+
+The management shall encourage faculty members to upgrade their knowledge and in this context shall undertake to bear the cost of higher academic qualification or special training of faculty members after signing a necessary conditional bond to serve **MSAJCE** for a certain period after benefitting from such academic qualification/training.
 
 ## 25. Patent and IPR
-- The inventors shall be the owner for all the intellectual property inventions, which includes patent and the inventions invented or created by the inventors/creators who include faculty members, research, scholars, students and those who make use of the resources of the Mohamed Sathak AJ College of Engineering, Chennai The inventions created by **MSAJCE** personnel without using college resources and created outside their assigned/normal duties of teaching/research shall be owned by the inventors and the revenue generated out of such inventions shall be shared in the ratio of 75:25 between the inventor and College respectively.
-- If an IP has emerged as a result of an Institutional/Industrial consultancy, sponsored to Mohamed Sathak AJ College of Engineering, Chennai the concerned industries and Mohamed Sathak AJ College of Engineering Chennai shall own the IP.
-- This however will not apply to those IP that are covered under specific Memorandum of Understandings (MoU’s) where the action shall be carried out as per the provisions of the MoU’s.
-- If the IP is a result of funds sponsored by an outside agency, then the IP will be shared the Mohamed Sathak AJ College of Engineering, Chennai and the sponsoring agency on case-by-case basis, as per MoU / Agreement/Undertaking.
+
+The inventors shall be the owner for all the intellectual property inventions, which includes patent and the inventions invented or created by the inventors/creators who include faculty members, research, scholars, students and those who make use of the resources of the Mohamed Sathak AJ College of Engineering, Chennai The inventions created by **MSAJCE** personnel without using college resources and created outside their assigned/normal duties of teaching/research shall be owned by the inventors and the revenue generated out of such inventions shall be shared in the ratio of 75:25 between the inventor and College respectively. If an IP has emerged as a result of an Institutional/Industrial consultancy, sponsored to Mohamed Sathak AJ College of Engineering, Chennai the concerned industries and Mohamed Sathak AJ College of Engineering Chennai shall own the IP. This however will not apply to those IP that are covered under specific Memorandum of Understandings (MoU’s) where the action shall be carried out as per the provisions of the MoU’s. If the IP is a result of funds sponsored by an outside agency, then the IP will be shared the Mohamed Sathak AJ College of Engineering, Chennai and the sponsoring agency on case-by-case basis, as per MoU / Agreement/Undertaking.
 
 ## 26. Patent fee
-- **MSAJCE** pay 100% of the patent registration expenditure.
-- The patent renewal fees will be paid by **MSAJCE** for the first seven years in all cases when patent is taken by college name.
-- If it is joint patent with sponsoring agency, then the patenting cost will be equally shared.
-- If the other agency does not show interest in such process, **MSAJCE** can either continue the patent by paying the fees for its full term or withdraw application for the patent protection, at its discretion.
+
+**MSAJCE** pay 100% of the patent registration expenditure. The patent renewal fees will be paid by **MSAJCE** for the first seven years in all cases when patent is taken by college name. If it is joint patent with sponsoring agency, then the patenting cost will be equally shared. If the other agency does not show interest in such process, **MSAJCE** can either continue the patent by paying the fees for its full term or withdraw application for the patent protection, at its discretion.
 
 ## 27. Revenue sharing
-- The revenue sharing arrangements are as below: 30% (Thirty Percent) of the total revenue (lump sum payment, royalty or any other form) accruing from the commercial exploitation of IP owned by **MSAJCE** shall be credited to Inventors.
-- 70 % of the revenue shall be credited to **MSAJCE**.
-- **MSAJCE** bears the charges incurred for processing and acquisition of intellectual property rights and **MSAJCE** shall bear the maintenance charges for the first 7 years or till commercialization, whatsoever is earlier.
+
+The revenue sharing arrangements are as below: 30% (Thirty Percent) of the total revenue (lump sum payment, royalty or any other form) accruing from the commercial exploitation of IP owned by **MSAJCE** shall be credited to Inventors. 70 % of the revenue shall be credited to **MSAJCE**. **MSAJCE** bears the charges incurred for processing and acquisition of intellectual property rights and **MSAJCE** shall bear the maintenance charges for the first 7 years or till commercialization, whatsoever is earlier.
 
 ## 28. Conversion/Transfer of IP
-- **MSAJCE** shall anytime share the ownership of the IP with the prior consent with the inventor.
-- In such condition inventor shall be the co-owner of the invention and **MSAJCE**, shall be instrumental in process of conversion.
+
+**MSAJCE** shall anytime share the ownership of the IP with the prior consent with the inventor. In such condition inventor shall be the co-owner of the invention and **MSAJCE**, shall be instrumental in process of conversion.
 
 # Code of Conduct (Teaching Faculty)
-- **MSAJCE** gives utmost priority for discipline and all the faculty members are bound to follow the norms of **MSAJCE** to maintain strict discipline.
-- All faculty must be punctual to duty and adhere to college timings.
-- All faculty are advised to monitor the student’s dress code.
-- Exchange of classes is not allowed, however in emergency cases can be made only with prior approval of the HODs of the concerned faculty members.
-- During the library hour the faculty –in- charge should keep the students in discipline.
-- Library should not be used for discussion between students and faculty.
-- This can be done either in the class room or in the staff room.
-- Faculty members are specially requested not to have any discussions with students standing outside the class rooms or on the way to lab.
-- Discussions should be made only in the class room or in the staff room.
-- Don`t allow the students to use the Mobile phone inside the class room / Laboratories.
-- Each student is required to bring a scientific calculator with him / her.
-- Check whether the student brings it or not randomly in the class.
-- Timely completion of Syllabus as per lesson plan, deviation if any should get approval from the HoD.
-- For each subject, a note book must be maintained by the students.
-- During class hours, verify note books of at least 5 students daily.
-- Be in the class room in time and maintain strict discipline and silent during the lecture.
-- If any student misbehaves in the class room, kindly bring to the notice of HOD / Principal immediately.
-- Be cordial and don’t be partial in the class, interact with all the students and find their expectations and sort out the issues.
-- Coordinate with all the activities of Department and Institutional development.
-- Motivate all the interested students to participate in various industrial projects and competitions.
-- Attend the FDPs to upgrade your skills, Publish minimum 3 research paper / year in the SCI the SCI / WoS /Scopus / UGC Journal.
-- Plan and coordinate / associate to conduct a workshop / seminar / FDP / conference and social activities in the department.
-- Maintain the status of the department and institute by actively involving in all the activity and maintain the self-discipline and student’s discipline.
-- All non – teaching staff are bound to follow rules and regulations of **MSAJCE** and maintain strict discipline All non – teaching staff should be punctual to duty and should adhere to **MSAJCE** timings The non – teaching staff shall stay in the campus during **MSAJCE** working hours Tea break and lunch break timings shall be strictly adhered to by the non – teaching staff Log book should be maintained for each laboratory During the practical classes, assisting the staff handling the lab classes in conducting experiments.
-- Guiding the students in the performance of practical task / exercise.
-- Ensuring the safety of the students, equipment and machinery while conducting lab class.
-- Assisting the students and faculty members in the fabrication of projects.
-- Making necessary arrangements for conducting university / model practical examinations.
-- Storage and accounting of raw materials, tools and instruments.
-- Arrangements for issuing of raw materials, tools and instruments for the experiment.
-- Take the guidance and suggestion from the Lab-In-Charge for the periodic and preventive maintenance, numbering of equipment, painting, calibration etc. Maintaining the lab by running the machinery periodically when the lab is free.
-- Any Damage of accessories and equipment’s by students must be brought to the notice of lab-in-charge and HoD.
-- Not allowing the students in lab during their theory class.
-- Providing all assistance to the Lab-in-charge in maintaining, conducting the laboratory smoothly, ensuring safety and security of the lab.
-- He / She is responsible for opening and closing of their concern Labs He / She is solely responsible for the all the equipment’s / machines and other materials available in the labs.
-- If anything is missing / lost it should be brought to the notice of concern HoD`s / Principal immediately, otherwise it will be recovered from your salary.
-- Hence, in order to ensure the safety all the lab assistants are instructed to seal your lab with your sign and date.
-- Don’t entertain any sweepers / attenders to clean the lab or machines in your absence.
+
+**MSAJCE** gives utmost priority for discipline and all the faculty members are bound to follow the norms of **MSAJCE** to maintain strict discipline. All faculty must be punctual to duty and adhere to college timings. All faculty are advised to monitor the student’s dress code. Exchange of classes is not allowed, however in emergency cases can be made only with prior approval of the HODs of the concerned faculty members. During the library hour the faculty –in- charge should keep the students in discipline. Library should not be used for discussion between students and faculty. This can be done either in the class room or in the staff room. Faculty members are specially requested not to have any discussions with students standing outside the class rooms or on the way to lab. Discussions should be made only in the class room or in the staff room. Don`t allow the students to use the Mobile phone inside the class room / Laboratories. Each student is required to bring a scientific calculator with him / her. Check whether the student brings it or not randomly in the class. Timely completion of Syllabus as per lesson plan, deviation if any should get approval from the HoD. For each subject, a note book must be maintained by the students. During class hours, verify note books of at least 5 students daily. Be in the class room in time and maintain strict discipline and silent during the lecture. If any student misbehaves in the class room, kindly bring to the notice of HOD / Principal immediately. Be cordial and don’t be partial in the class, interact with all the students and find their expectations and sort out the issues. Coordinate with all the activities of Department and Institutional development. Motivate all the interested students to participate in various industrial projects and competitions. Attend the FDPs to upgrade your skills, Publish minimum 3 research paper / year in the SCI the SCI / WoS /Scopus / UGC Journal. Plan and coordinate / associate to conduct a workshop / seminar / FDP / conference and social activities in the department. Maintain the status of the department and institute by actively involving in all the activity and maintain the self-discipline and student’s discipline. All non – teaching staff are bound to follow rules and regulations of **MSAJCE** and maintain strict discipline All non – teaching staff should be punctual to duty and should adhere to **MSAJCE** timings The non – teaching staff shall stay in the campus during **MSAJCE** working hours Tea break and lunch break timings shall be strictly adhered to by the non – teaching staff Log book should be maintained for each laboratory During the practical classes, assisting the staff handling the lab classes in conducting experiments. Guiding the students in the performance of practical task / exercise. Ensuring the safety of the students, equipment and machinery while conducting lab class. Assisting the students and faculty members in the fabrication of projects. Making necessary arrangements for conducting university / model practical examinations. Storage and accounting of raw materials, tools and instruments. Arrangements for issuing of raw materials, tools and instruments for the experiment. Take the guidance and suggestion from the Lab-In-Charge for the periodic and preventive maintenance, numbering of equipment, painting, calibration etc. Maintaining the lab by running the machinery periodically when the lab is free. Any Damage of accessories and equipment’s by students must be brought to the notice of lab-in-charge and HoD. Not allowing the students in lab during their theory class. Providing all assistance to the Lab-in-charge in maintaining, conducting the laboratory smoothly, ensuring safety and security of the lab. He / She is responsible for opening and closing of their concern Labs He / She is solely responsible for the all the equipment’s / machines and other materials available in the labs. If anything is missing / lost it should be brought to the notice of concern HoD`s / Principal immediately, otherwise it will be recovered from your salary. Hence, in order to ensure the safety all the lab assistants are instructed to seal your lab with your sign and date. Don’t entertain any sweepers / attenders to clean the lab or machines in your absence.
 
 # Code Of Conduct (Administrative / Support Staff)
-- All administrative staff are bound to follow rules and regulations of **MSAJCE** and maintain strict discipline All administrative staff must be punctual to duty and strictly adhere to **MSAJCE** timings.
-- The administrative staff shall stay in the campus during **MSAJCE** working hours Tea break and lunch break timings shall be strictly adhered to by the administrative staff Computing and communication facilities should be used only for the purpose for which they are authorized to in accomplishing the assigned work Support staff should demonstrate courtesy, respect, patience and willingness to help in all their interaction with students, teachers, parents, guardians, administrative personalities, general public in any context Administrative / support staff should maintain professional ethics in the campus and should maintain proper behavior with the authorities and students Administrative staff are not allowed to use mobile phones and listen to music, watch videos or surf into any social media inside **MSAJCE** campus during the working hours Maintain the cleanliness in their respective floor (class rooms, Labs, toilets etc..) Check if any electrical, plumbing and carpentry work is pending in the floor, action should initiate to sort out the issue immediately.
-- Monitoring deep cleaning work in their respective floors.
+
+All administrative staff are bound to follow rules and regulations of **MSAJCE** and maintain strict discipline All administrative staff must be punctual to duty and strictly adhere to **MSAJCE** timings. The administrative staff shall stay in the campus during **MSAJCE** working hours Tea break and lunch break timings shall be strictly adhered to by the administrative staff Computing and communication facilities should be used only for the purpose for which they are authorized to in accomplishing the assigned work Support staff should demonstrate courtesy, respect, patience and willingness to help in all their interaction with students, teachers, parents, guardians, administrative personalities, general public in any context Administrative / support staff should maintain professional ethics in the campus and should maintain proper behavior with the authorities and students Administrative staff are not allowed to use mobile phones and listen to music, watch videos or surf into any social media inside **MSAJCE** campus during the working hours Maintain the cleanliness in their respective floor (class rooms, Labs, toilets etc..) Check if any electrical, plumbing and carpentry work is pending in the floor, action should initiate to sort out the issue immediately. Monitoring deep cleaning work in their respective floors.
 
 # Other Terms and Conditions
-- Free transportation shall be provided to all the faculty members to and from **MSAJCE** within the city limits (inclusive of the urban agglomeration).
-- Avail leave only when it is a must and leave cannot be claimed as a matter of right Avoid taking leave when the semester classes are going on.
-- Avoid availing permission / late arrival every month as a routine habit.
-- Break of service can be availed for Less than one year, beyond which if it exceeds one year, the faculty member should reappear for Interview and join the duty.
-- The faculty should not leave the Institute without any prior information and resigning amidst the semester is strictly not permitted.
-- Promotions and Increments are given to the eligible faculty / staff members after the successful completion of one year of service based on their overall performance appraisal.
-- Staff members are permitted to pursue Higher studies, as part time program, while serving in **MSAJCE**.
-- Faculty members are allowed to do Ph.
-- D through Anna University /any other reputed Institute only.
-- Management shall bear the expenses if any for submitting proposal and getting funding from the funding agencies.
-- If found dissuading from anything listed in these Rules, the Management/Trust shall have the power and authority to decide and act upon any matter of concern that leads to chaos and arising difficulties.
-- All the faculty covered with PF and Accident Insurance.
+
+Free transportation shall be provided to all the faculty members to and from **MSAJCE** within the city limits (inclusive of the urban agglomeration). Avail leave only when it is a must and leave cannot be claimed as a matter of right Avoid taking leave when the semester classes are going on. Avoid availing permission / late arrival every month as a routine habit. Break of service can be availed for Less than one year, beyond which if it exceeds one year, the faculty member should reappear for Interview and join the duty. The faculty should not leave the Institute without any prior information and resigning amidst the semester is strictly not permitted. Promotions and Increments are given to the eligible faculty / staff members after the successful completion of one year of service based on their overall performance appraisal. Staff members are permitted to pursue Higher studies, as part time program, while serving in **MSAJCE**. Faculty members are allowed to do Ph. D through Anna University /any other reputed Institute only. Management shall bear the expenses if any for submitting proposal and getting funding from the funding agencies. If found dissuading from anything listed in these Rules, the Management/Trust shall have the power and authority to decide and act upon any matter of concern that leads to chaos and arising difficulties. All the faculty covered with PF and Accident Insurance.
 
 # Scholarship Policy
-- Mohamed Sathak Educational Trust Scholarship: Mohamed Sathak educational trust provides merit scholarship to the eligible students, throughout their course of study to support their education as per the following criteria: Students who willing to join in **MSAJCE** with cut-off mark of 180 and above out of 200 marks will be considered as eligible students to acquire the merit scholarship and it is provided only to the students those who get approval from **MSAJCE** before attending the counseling.
-- Students who are from underprivileged background, despite their aggregate marks. (Evident with the income certificate).
-- Special consideration of up to 10% in tuition fees for the girls students.
-- The following processes need to adhere to claim the merit scholarship: The students who are eligible have to fill an application form and the same has to be submitted to the Administration Office.
-- The Scholarship committee will verify the authenticity of the certificates through a transparent approach and subsequently recommend the students to the trust for providing the eligible scholarship.
-- A certificate denoting their Scholarship throughout their course of study will be provided as a documentary to the Scholarship availed students.
-- All the students should maintain their academic credentials and disciplined to continue the scholarship.
-- Government Scholarships: College creates awareness and assists students in applying for scholarships provided by Central & State government under various schemes.
-- Name of the Scheme Funding Agency Scholarship Amount in Rs Pragati scholarship scheme for Girl Students AICTE Rs.
-- 50,000 per year Saksham scholarship scheme for specially abled students AICTE Rs.
-- 50,000 per year Merit cum based Scholarship ( minority community only) Ministry of Minority Affairs Rs.
-- 20,000 per year + Rs.
-- 12000 for Hosteller, Rs.
-- 6000 for Day Scholar Central Sector Scheme MHRD Rs.
-- 10000 per year Financial Assistance for Education to the wards of Beedi/Mine/Cine workers Ministry of Labor & Employment Rs.
-- 15000 per year PRINCIPAL
+
+Mohamed Sathak Educational Trust Scholarship: Mohamed Sathak educational trust provides merit scholarship to the eligible students, throughout their course of study to support their education as per the following criteria: Students who willing to join in **MSAJCE** with cut-off mark of 180 and above out of 200 marks will be considered as eligible students to acquire the merit scholarship and it is provided only to the students those who get approval from **MSAJCE** before attending the counseling. Students who are from underprivileged background, despite their aggregate marks. (Evident with the income certificate). Special consideration of up to 10% in tuition fees for the girls students. The following processes need to adhere to claim the merit scholarship: The students who are eligible have to fill an application form and the same has to be submitted to the Administration Office. The Scholarship committee will verify the authenticity of the certificates through a transparent approach and subsequently recommend the students to the trust for providing the eligible scholarship. A certificate denoting their Scholarship throughout their course of study will be provided as a documentary to the Scholarship availed students. All the students should maintain their academic credentials and disciplined to continue the scholarship. Government Scholarships: College creates awareness and assists students in applying for scholarships provided by Central & State government under various schemes. Name of the Scheme Funding Agency Scholarship Amount in Rs Pragati scholarship scheme for Girl Students AICTE Rs. 50,000 per year Saksham scholarship scheme for specially abled students AICTE Rs. 50,000 per year Merit cum based Scholarship ( minority community only) Ministry of Minority Affairs Rs. 20,000 per year + Rs. 12000 for Hosteller, Rs. 6000 for Day Scholar Central Sector Scheme MHRD Rs. 10000 per year Financial Assistance for Education to the wards of Beedi/Mine/Cine workers Ministry of Labor & Employment Rs. 15000 per year PRINCIPAL
 
 # ANTI RAGGING POLICY
-- Ragging in any form is totally prohibited in and outside the campus of Mohamed Sathak AJ College of Engineering.
-- It is the objective of every member of **MSAJCE** community consisting of the Management, Faculty and Staff members and as well as all students and their parents / guardians to make **MSAJCE** a 'Ragging free Institution` and ensure a conducive environment for fresher’s to adapt to the changes that **MSAJCE** life may demand on them and grow up along with theirseniors.
-- **MSAJCE** is committed to follow all Regulations and Guidelines promulgated by the UGC, AICTE and Honorable Supreme Court and other higher authorities from time to time.
-- **MSAJCE** will not permit or condone any incident of ragging in any form and will take all necessary and required measures to achieve the objective of eliminating ragging, within **MSAJCE** or outside.
-- **MSAJCE** will follow the UGC Regulations on curbing the menace of ragging in Higher Educational Institutions, 2009. (F.1-16 / 2007 (CPP-dated 17th June, 2009) and take stringent action against those found guilty of ragging and/or abetting ragging, actively or passively, or being part of a conspiracy to promote ragging, in accordance with these and other Regulations in force.
-- All the students and parents should submit the affidavit at the time of admission as well as submit the online affidavit in AICTE portal withoutfail.
-- Ragging in any form is totally banned and anyone found indulging in ragging is severely punished including dismissal from **MSAJCE**.
-- Ragging constitutes one or more of any of the following acts Any conduct by any student or students whether by words spoken or written or by an act which has the effect of teasing, ill-treating or handling with rudeness a fresher or any other student.
-- Indulging any indiscipline activities by any student or students which causes or is likely to cause annoyance, hardship, physical or psychological harm or to raise fear or apprehension thereof in any fresher or any otherstudent.
-- Asking any student to do any act which such student will not in the ordinary course do and which has the effect of causing or generating a sense of shame, or torment or embarrassment so as to adversely affect the physique or psyche of a fresher or any otherstudent.
-- Any act by a senior student that prevents, disrupts or disturbs the regular academic activity of any other student or a fresher.
-- Exploiting the services of a fresher or any other student for completing the academic tasks assigned to an individual or a group of students.
-- Any act of financial extortion or forceful expenditure burden put on a fresher or any other student by students.
-- Any act of physical abuse including all variants of it: sexual abuse, homosexual assaults, stripping, forcing obscene and lewd acts, gestures, causing bodily harm or any other danger to health or person; Any act or abuse by spoken words, emails, posts, public insults which would also include deriving perverted pleasure, vicarious or sadistic thrill from actively or passively participating in the discomfiture to fresher or any otherstudent.
-- Any act that affects the mental health and self-confidence of a fresher or any other student with or without an intent to derive a sadistic pleasure or showing off power, authority or superiority by a student over any fresher or any otherstudent.
-- Don’t ‘RAG’ also Don’t be a Mute Witness to ‘RAGGING’ A Student indulging in ragging can be: Expelled from **MSAJCE** and Banned from the Mess / Hostel His / Her Scholarship can be withdrawn Debarred from Examinations & Denied Admission to any institution Prosecuted for Criminal action – Max.
-- 10 yr Jail + Rs 50000 fine Institutions have been asked to file FIR with local police against those who RAG / ABET Ragging.
-- Are You Being Ragged?
-- Immediately call UGC Anti – Ragging Helpline 1800-1805522 (24 / 7 Toll Free) Or send an e-mail to helpline@antiragging.in 27
+
+Ragging in any form is totally prohibited in and outside the campus of Mohamed Sathak AJ College of Engineering. It is the objective of every member of **MSAJCE** community consisting of the Management, Faculty and Staff members and as well as all students and their parents / guardians to make **MSAJCE** a 'Ragging free Institution` and ensure a conducive environment for fresher’s to adapt to the changes that **MSAJCE** life may demand on them and grow up along with theirseniors. **MSAJCE** is committed to follow all Regulations and Guidelines promulgated by the UGC, AICTE and Honorable Supreme Court and other higher authorities from time to time. **MSAJCE** will not permit or condone any incident of ragging in any form and will take all necessary and required measures to achieve the objective of eliminating ragging, within **MSAJCE** or outside. **MSAJCE** will follow the UGC Regulations on curbing the menace of ragging in Higher Educational Institutions, 2009. (F.1-16 / 2007 (CPP-dated 17th June, 2009) and take stringent action against those found guilty of ragging and/or abetting ragging, actively or passively, or being part of a conspiracy to promote ragging, in accordance with these and other Regulations in force. All the students and parents should submit the affidavit at the time of admission as well as submit the online affidavit in AICTE portal withoutfail. Ragging in any form is totally banned and anyone found indulging in ragging is severely punished including dismissal from **MSAJCE**. Ragging constitutes one or more of any of the following acts Any conduct by any student or students whether by words spoken or written or by an act which has the effect of teasing, ill-treating or handling with rudeness a fresher or any other student. Indulging any indiscipline activities by any student or students which causes or is likely to cause annoyance, hardship, physical or psychological harm or to raise fear or apprehension thereof in any fresher or any otherstudent. Asking any student to do any act which such student will not in the ordinary course do and which has the effect of causing or generating a sense of shame, or torment or embarrassment so as to adversely affect the physique or psyche of a fresher or any otherstudent. Any act by a senior student that prevents, disrupts or disturbs the regular academic activity of any other student or a fresher. Exploiting the services of a fresher or any other student for completing the academic tasks assigned to an individual or a group of students. Any act of financial extortion or forceful expenditure burden put on a fresher or any other student by students. Any act of physical abuse including all variants of it: sexual abuse, homosexual assaults, stripping, forcing obscene and lewd acts, gestures, causing bodily harm or any other danger to health or person; Any act or abuse by spoken words, emails, posts, public insults which would also include deriving perverted pleasure, vicarious or sadistic thrill from actively or passively participating in the discomfiture to fresher or any otherstudent. Any act that affects the mental health and self-confidence of a fresher or any other student with or without an intent to derive a sadistic pleasure or showing off power, authority or superiority by a student over any fresher or any otherstudent. Don’t ‘RAG’ also Don’t be a Mute Witness to ‘RAGGING’ A Student indulging in ragging can be: Expelled from **MSAJCE** and Banned from the Mess / Hostel His / Her Scholarship can be withdrawn Debarred from Examinations & Denied Admission to any institution Prosecuted for Criminal action – Max. 10 yr Jail + Rs 50000 fine Institutions have been asked to file FIR with local police against those who RAG / ABET Ragging. Are You Being Ragged? Immediately call UGC Anti – Ragging Helpline 1800-1805522 (24 / 7 Toll Free) Or send an e-mail to helpline@antiragging.in 27
 
 # Institutional Green Policy
-- Protect the earth for the future generation by inculcating end during initiatives for Conservation and judicious usage of water, air, soil, and other resources.
-- Objectives Integrate & implement environmental management and promote sustainable development practices in our daily activities.
-- Empowerment and motivation of staff and students through environmental awareness.
-- Conduct academic research for environmental sustainability.
-- Find an alternatives and opportunities for sustainable travel for work and business.
-- Preserve and enhance the biodiversity of the farm, use sustainable design in construction, and protect biodiversity in outdoor areas on campus.
-- Minimize energy and water consumption by implementing efficient management and technology to reduce our carbon emissions.
-- Develop our environmental management system as a mechanism to achieve the above through the adoption of formal goals and objectives.
+
+Protect the earth for the future generation by inculcating end during initiatives for Conservation and judicious usage of water, air, soil, and other resources. Objectives Integrate & implement environmental management and promote sustainable development practices in our daily activities. Empowerment and motivation of staff and students through environmental awareness. Conduct academic research for environmental sustainability. Find an alternatives and opportunities for sustainable travel for work and business. Preserve and enhance the biodiversity of the farm, use sustainable design in construction, and protect biodiversity in outdoor areas on campus. Minimize energy and water consumption by implementing efficient management and technology to reduce our carbon emissions. Develop our environmental management system as a mechanism to achieve the above through the adoption of formal goals and objectives.
 
 # Sustainability Policy
-- Develop and maintain the estate, and the surrounding landscape, with due regard to environmental impact and social value.
-- Develop and implement waste management practices that prioritize disposal in line with the waste hierarchy to reduce the institutions waste output to landfill.
+
+Develop and maintain the estate, and the surrounding landscape, with due regard to environmental impact and social value. Develop and implement waste management practices that prioritize disposal in line with the waste hierarchy to reduce the institutions waste output to landfill.
 
 # Biodiversity Policy
-- To minimize the impact on biodiversity from grounds maintenance and landscaping work and prevent pollution by keeping the use of pesticides to a minimum.
-- To consider seasonality of species during projects and campus enhancement works to reduce the risk of plant loss and minimize the use of watering.
-- Recycle green waste whenever possible.
-- Encourage the promotion of staff and student awareness of the biodiversity to be found on campus and any potential for this to be used as an educational resource, as well as the importance of biodiversity in general.
+
+To minimize the impact on biodiversity from grounds maintenance and landscaping work and prevent pollution by keeping the use of pesticides to a minimum. To consider seasonality of species during projects and campus enhancement works to reduce the risk of plant loss and minimize the use of watering. Recycle green waste whenever possible. Encourage the promotion of staff and student awareness of the biodiversity to be found on campus and any potential for this to be used as an educational resource, as well as the importance of biodiversity in general.
 
 # Environmental Policy
-- **MSAJCE** will conserve natural resources by managing water resources using renewable sources of energy, energy management, minimizing solid waste and provide eco-friendly environment for students and staff.
-- To enable this, the Institute will implement the following practices: Implement sustainable resource management practices, based on reduce, reuse & recycle principles Make efficient and environmentally responsible use of water, including identifying opportunities for water conservation.
-- Reduce and, where practicable, prevent pollution.
-- Provide appropriate environmental educational programs for students and staff Encourage and facilitate feedback and suggestions on ensuring good practice 28
+
+**MSAJCE** will conserve natural resources by managing water resources using renewable sources of energy, energy management, minimizing solid waste and provide eco-friendly environment for students and staff. To enable this, the Institute will implement the following practices: Implement sustainable resource management practices, based on reduce, reuse & recycle principles Make efficient and environmentally responsible use of water, including identifying opportunities for water conservation. Reduce and, where practicable, prevent pollution. Provide appropriate environmental educational programs for students and staff Encourage and facilitate feedback and suggestions on ensuring good practice 28
 
 # Waste Management Policy
-- To minimize waste generation at the source and facilitate repair, reuse and recycling over the disposal of wastes, where it is cost-effective.
-- To promote environmental awareness to increase and encourage waste minimization, reuse and recycling.
-- To secure where possible revenue for recyclable material to reinvest into the expansion of recycling opportunities on the campus and halls ofresidences.
-- To promote the use of recycled products.
+
+To minimize waste generation at the source and facilitate repair, reuse and recycling over the disposal of wastes, where it is cost-effective. To promote environmental awareness to increase and encourage waste minimization, reuse and recycling. To secure where possible revenue for recyclable material to reinvest into the expansion of recycling opportunities on the campus and halls ofresidences. To promote the use of recycled products.
 
 # E-Waste Policy
-- To minimize the new procurement of IT Assets, the centralized content management system department initiates the process for reusing through refurbishment/recycling of electronic and electrical components, replace the spares and repairing the nonfunctioning the IT assets to reduce the e-waste to the maximum.
+
+To minimize the new procurement of IT Assets, the centralized content management system department initiates the process for reusing through refurbishment/recycling of electronic and electrical components, replace the spares and repairing the nonfunctioning the IT assets to reduce the e-waste to the maximum.
 
 # Reducing Carbon Emissions
-- The **MSAJCE** is working hard to reduce energy consumption, increase efficiencies, use more renewable energy sources, and reduce its carbon footprint.
-- We have ambitious targets to reduce our carbon emissions from our activities to reduce our impact on the natural environment.
-- Generating our own energy from renewable sources such as Solar panels; Solar water heating and Biogas Plants Existing Lighting to be upgraded to LED lighting, Cutting down on the need for air conditioning To reduce emissions from individual vehicles to reach **MSAJCE** staff and students were encourage using public transportation.
-- PRINCIPAL
+
+The **MSAJCE** is working hard to reduce energy consumption, increase efficiencies, use more renewable energy sources, and reduce its carbon footprint. We have ambitious targets to reduce our carbon emissions from our activities to reduce our impact on the natural environment. Generating our own energy from renewable sources such as Solar panels; Solar water heating and Biogas Plants Existing Lighting to be upgraded to LED lighting, Cutting down on the need for air conditioning To reduce emissions from individual vehicles to reach **MSAJCE** staff and students were encourage using public transportation. PRINCIPAL
 
 # Institutional Green Policy
-- Protect the earth for the future generation by inculcating end during initiatives for Conservation and judicious usage of water, air, soil, and other resources.
-- Objectives Integrate & implement environmental management and promote sustainable development practices in our daily activities.
-- Empowerment and motivation of staff and students through environmental awareness.
-- Conduct academic research for environmental sustainability.
-- Find an alternatives and opportunities for sustainable travel for work and business.
-- Preserve and enhance the biodiversity of the farm, use sustainable design in construction, and protect biodiversity in outdoor areas on campus.
-- Minimize energy and water consumption by implementing efficient management and technology to reduce our carbon emissions.
-- Develop our environmental management system as a mechanism to achieve the above through the adoption of formal goals and objectives.
+
+Protect the earth for the future generation by inculcating end during initiatives for Conservation and judicious usage of water, air, soil, and other resources. Objectives Integrate & implement environmental management and promote sustainable development practices in our daily activities. Empowerment and motivation of staff and students through environmental awareness. Conduct academic research for environmental sustainability. Find an alternatives and opportunities for sustainable travel for work and business. Preserve and enhance the biodiversity of the farm, use sustainable design in construction, and protect biodiversity in outdoor areas on campus. Minimize energy and water consumption by implementing efficient management and technology to reduce our carbon emissions. Develop our environmental management system as a mechanism to achieve the above through the adoption of formal goals and objectives.
 
 # Sustainability Policy
-- Develop and maintain the estate, and the surrounding landscape, with due regard to environmental impact and social value.
-- Develop and implement waste management practices that prioritize disposal in line with the waste hierarchy to reduce the institutions waste output to landfill.
+
+Develop and maintain the estate, and the surrounding landscape, with due regard to environmental impact and social value. Develop and implement waste management practices that prioritize disposal in line with the waste hierarchy to reduce the institutions waste output to landfill.
 
 # Biodiversity Policy
-- To minimize the impact on biodiversity from grounds maintenance and landscaping work and prevent pollution by keeping the use of pesticides to a minimum.
-- To consider seasonality of species during projects and campus enhancement works to reduce the risk of plant loss and minimize the use of watering.
-- Recycle green waste whenever possible.
-- Encourage the promotion of staff and student awareness of the biodiversity to be found on campus and any potential for this to be used as an educational resource, as well as the importance of biodiversity in general.
+
+To minimize the impact on biodiversity from grounds maintenance and landscaping work and prevent pollution by keeping the use of pesticides to a minimum. To consider seasonality of species during projects and campus enhancement works to reduce the risk of plant loss and minimize the use of watering. Recycle green waste whenever possible. Encourage the promotion of staff and student awareness of the biodiversity to be found on campus and any potential for this to be used as an educational resource, as well as the importance of biodiversity in general.
 
 # Environmental Policy
-- **MSAJCE** will conserve natural resources by managing water resources using renewable sources of energy, energy management, minimizing solid waste and provide eco-friendly environment for students and staff.
-- To enable this, the Institute will implement the following practices: Implement sustainable resource management practices, based on reduce, reuse & recycle principles Make efficient and environmentally responsible use of water, including identifying opportunities for water conservation.
-- Reduce and, where practicable, prevent pollution.
-- Provide appropriate environmental educational programs for students and staff Encourage and facilitate feedback and suggestions on ensuring good practice 28
+
+**MSAJCE** will conserve natural resources by managing water resources using renewable sources of energy, energy management, minimizing solid waste and provide eco-friendly environment for students and staff. To enable this, the Institute will implement the following practices: Implement sustainable resource management practices, based on reduce, reuse & recycle principles Make efficient and environmentally responsible use of water, including identifying opportunities for water conservation. Reduce and, where practicable, prevent pollution. Provide appropriate environmental educational programs for students and staff Encourage and facilitate feedback and suggestions on ensuring good practice 28
 
 # Waste Management Policy
-- To minimize waste generation at the source and facilitate repair, reuse and recycling over the disposal of wastes, where it is cost-effective.
-- To promote environmental awareness to increase and encourage waste minimization, reuse and recycling.
-- To secure where possible revenue for recyclable material to reinvest into the expansion of recycling opportunities on the campus and halls ofresidences.
-- To promote the use of recycled products.
+
+To minimize waste generation at the source and facilitate repair, reuse and recycling over the disposal of wastes, where it is cost-effective. To promote environmental awareness to increase and encourage waste minimization, reuse and recycling. To secure where possible revenue for recyclable material to reinvest into the expansion of recycling opportunities on the campus and halls ofresidences. To promote the use of recycled products.
 
 # E-Waste Policy
-- To minimize the new procurement of IT Assets, the centralized content management system department initiates the process for reusing through refurbishment/recycling of electronic and electrical components, replace the spares and repairing the nonfunctioning the IT assets to reduce the e-waste to the maximum.
+
+To minimize the new procurement of IT Assets, the centralized content management system department initiates the process for reusing through refurbishment/recycling of electronic and electrical components, replace the spares and repairing the nonfunctioning the IT assets to reduce the e-waste to the maximum.
 
 # Reducing Carbon Emissions
-- The **MSAJCE** is working hard to reduce energy consumption, increase efficiencies, use more renewable energy sources, and reduce its carbon footprint.
-- We have ambitious targets to reduce our carbon emissions from our activities to reduce our impact on the natural environment.
-- Generating our own energy from renewable sources such as Solar panels; Solar water heating and Biogas Plants Existing Lighting to be upgraded to LED lighting, Cutting down on the need for air conditioning To reduce emissions from individual vehicles to reach **MSAJCE** staff and students were encourage using public transportation.
-- PRINCIPAL
+
+The **MSAJCE** is working hard to reduce energy consumption, increase efficiencies, use more renewable energy sources, and reduce its carbon footprint. We have ambitious targets to reduce our carbon emissions from our activities to reduce our impact on the natural environment. Generating our own energy from renewable sources such as Solar panels; Solar water heating and Biogas Plants Existing Lighting to be upgraded to LED lighting, Cutting down on the need for air conditioning To reduce emissions from individual vehicles to reach **MSAJCE** staff and students were encourage using public transportation. PRINCIPAL
 
 # Roles and Responsibility
-- This code of conduct specifies the responsibilities expected from each employee in carrying out their day-to-day duties as well as general ethical and moral behaviors.
-- Employees must adhere to this code of conduct with utmost integrity.
-- This code serves as a reference and guideline for all employees whether full-time, part-time or contract basis.
-- Employees must work with public authorities established by the law and uphold our country’s constitution.
-- Employees must strive to attain institutions goals.
-- The following are the responsibilities of the team members.
-- Responsibility of the Principal Responsible for entire academic regulations including examination and Image building of the Institute.
-- Responsible for maintaining the discipline and decorum in **MSAJCE** premises & regular rounds to all the academic buildings & hostel Maintain the administrative dept including monitoring of scholarship and collection of fees and facilitate faculty, staff and student welfare.
-- Organizing the statutory body meeting regularly Coordinate AICTE and AU affiliation Inspections and Admission Process NBA and NAAC accreditation within stipulated time Review the Industry Institute Interaction for Placements, Seminars, FDP, STTP, Industrial Visit, In-plant Training, Internship, Consultancy Projects and Students Projects Monitor Course Content delivery and initiate follow up action for academic Performance Improvement Establishing infrastructure and labs of all the departments with State of art facility MIS Report to be updated to the Chairman periodically Plan, Prepare and review annual the Budget of the Institute Recruitment of Faculty and Staff Recruitment as per the AICTE & AU Norms To ensure the Academic calendar, Service rules and regulation Organize HOD meetings, Parents meeting, Faculty meeting periodically Analyze the feedback of students, faculty and initiate remedial measures.
-- Check Website updation and activities for brand building of the institute periodically Monitoring the Professional Association, Club and sports activities and arranging various events to build up the image of the institute.
-- Encourage the faculty and staff to participate and organize FDP, Conference, Seminar and workshop to update their knowledge Motivate the students to participate in various competitions, social works, cocurricular and extracurricular activities.
-- Develop the research facility and motivate the faculty, staff and students to involve in it actively.
+
+This code of conduct specifies the responsibilities expected from each employee in carrying out their day-to-day duties as well as general ethical and moral behaviors. Employees must adhere to this code of conduct with utmost integrity. This code serves as a reference and guideline for all employees whether full-time, part-time or contract basis. Employees must work with public authorities established by the law and uphold our country’s constitution. Employees must strive to attain institutions goals. The following are the responsibilities of the team members. Responsibility of the Principal Responsible for entire academic regulations including examination and Image building of the Institute. Responsible for maintaining the discipline and decorum in **MSAJCE** premises & regular rounds to all the academic buildings & hostel Maintain the administrative dept including monitoring of scholarship and collection of fees and facilitate faculty, staff and student welfare. Organizing the statutory body meeting regularly Coordinate AICTE and AU affiliation Inspections and Admission Process NBA and NAAC accreditation within stipulated time Review the Industry Institute Interaction for Placements, Seminars, FDP, STTP, Industrial Visit, In-plant Training, Internship, Consultancy Projects and Students Projects Monitor Course Content delivery and initiate follow up action for academic Performance Improvement Establishing infrastructure and labs of all the departments with State of art facility MIS Report to be updated to the Chairman periodically Plan, Prepare and review annual the Budget of the Institute Recruitment of Faculty and Staff Recruitment as per the AICTE & AU Norms To ensure the Academic calendar, Service rules and regulation Organize HOD meetings, Parents meeting, Faculty meeting periodically Analyze the feedback of students, faculty and initiate remedial measures. Check Website updation and activities for brand building of the institute periodically Monitoring the Professional Association, Club and sports activities and arranging various events to build up the image of the institute. Encourage the faculty and staff to participate and organize FDP, Conference, Seminar and workshop to update their knowledge Motivate the students to participate in various competitions, social works, cocurricular and extracurricular activities. Develop the research facility and motivate the faculty, staff and students to involve in it actively.
 
 # Responsibility of the Head –Academic
-- Monitor the Subject allocation and time table preparation of all the departments.
-- Collect the detailed lesson plan, question bank, Lab record, and class notes for all the 5 units from concerned faculty and circulate to all the students.
-- Daily academic activity follow up by visiting all the departments in association with Head (Student Affairs), with in 1st one hour at the beginning and ensure whether all the faculties are available for the day to handle the class &in case any faculty is absent / leave ensure alternative arrangements made properly.
-- Monitor Pink and Yellow Book; communicate to the parents about their ward absenteeism and late arrival to the class / college.
-- Monitoring of Class Committee Meeting (CCM) and Parent Teacher meeting - addressing its issues.
-- Conduct assessment test as per the schedule, analyze the results and initiate necessary action to improve the results as per the direction of the Principal.
-- Analyze the results of Anna University end semester examination, identify the root cause and to take remedial measures to achieve the target / improve the results as per the direction of Principal.
-- Visiting all Labs, monitor the way of lab conduction, check availability of facility required, check the status of experiment completion and lab track record for timely completion of the Lab.
-- Monitor the functional committee of academic group(professional societies and various club activities).
-- Motivate the faculty and students to pursue atleast one online course per semester.
-- Plan and Monitor the Exam preparation classes.
-- Coordinating with all the Heads and HoDs from time to time and extend the support whenever required as per the direction of the Principal for smooth conduction of day to day activities as well as brand building of the institute.
+
+Monitor the Subject allocation and time table preparation of all the departments. Collect the detailed lesson plan, question bank, Lab record, and class notes for all the 5 units from concerned faculty and circulate to all the students. Daily academic activity follow up by visiting all the departments in association with Head (Student Affairs), with in 1st one hour at the beginning and ensure whether all the faculties are available for the day to handle the class &in case any faculty is absent / leave ensure alternative arrangements made properly. Monitor Pink and Yellow Book; communicate to the parents about their ward absenteeism and late arrival to the class / college. Monitoring of Class Committee Meeting (CCM) and Parent Teacher meeting - addressing its issues. Conduct assessment test as per the schedule, analyze the results and initiate necessary action to improve the results as per the direction of the Principal. Analyze the results of Anna University end semester examination, identify the root cause and to take remedial measures to achieve the target / improve the results as per the direction of Principal. Visiting all Labs, monitor the way of lab conduction, check availability of facility required, check the status of experiment completion and lab track record for timely completion of the Lab. Monitor the functional committee of academic group(professional societies and various club activities). Motivate the faculty and students to pursue atleast one online course per semester. Plan and Monitor the Exam preparation classes. Coordinating with all the Heads and HoDs from time to time and extend the support whenever required as per the direction of the Principal for smooth conduction of day to day activities as well as brand building of the institute.
 
 # Responsibility of Head –Students Affairs
-- Monitor all academic activities in and coordinating with Head Academic & Hods.
-- Daily academic activity follow up by visiting all the departments in association with Head (Academic), with in 1st one hour at the beginning and ensure whether all the faculties are available for the day to handle the class & in case any faculty is absent / leave ensure alternative arrangements made properly.
-- Monitor Pink and Yellow Book; communicate to the parents about their ward absenteeism and late arrival to the class / college.
-- Plan and execute various activities like industrial visits, workshops, seminars, conference, symposium, cultural, sports, professional society activities, NSS, induction programs, motivational programs, placement day, graduation day and other important celebration and activities.
-- Monitor the discipline of faculty, staff and students.
-- Ensure the campus as Ragging free Campus.
-- Coordinate the functional committees of the institute and activate them to do various activities.
-- Coordinating Anna University / AICTE inspection / Accreditation if any.
-- Plan and organize Alumni meeting and Parents Teacher meet periodically.
-- Feedback from all the stake holders (students, parents, alumni and industry) in coordination with Head – Academic, Head - TC & IR, and placement officer to initiate necessary action in consultation with Principal.
-- Coordinating with exam cell and departments to update attendance, upload the internal marks in AU web portal and ensure smooth conduction of university end semester practical and theory Examinations.
-- Mentoring / Counseling self study group (Toppers) and slow learners of all departments.
-- Coordinating with all the Heads and HoDs from time to time and extend the support whenever required as per the direction of the Principal for smooth conduction of day to day activities as well as brand building of the institute.
+
+Monitor all academic activities in and coordinating with Head Academic & Hods. Daily academic activity follow up by visiting all the departments in association with Head (Academic), with in 1st one hour at the beginning and ensure whether all the faculties are available for the day to handle the class & in case any faculty is absent / leave ensure alternative arrangements made properly. Monitor Pink and Yellow Book; communicate to the parents about their ward absenteeism and late arrival to the class / college. Plan and execute various activities like industrial visits, workshops, seminars, conference, symposium, cultural, sports, professional society activities, NSS, induction programs, motivational programs, placement day, graduation day and other important celebration and activities. Monitor the discipline of faculty, staff and students. Ensure the campus as Ragging free Campus. Coordinate the functional committees of the institute and activate them to do various activities. Coordinating Anna University / AICTE inspection / Accreditation if any. Plan and organize Alumni meeting and Parents Teacher meet periodically. Feedback from all the stake holders (students, parents, alumni and industry) in coordination with Head – Academic, Head - TC & IR, and placement officer to initiate necessary action in consultation with Principal. Coordinating with exam cell and departments to update attendance, upload the internal marks in AU web portal and ensure smooth conduction of university end semester practical and theory Examinations. Mentoring / Counseling self study group (Toppers) and slow learners of all departments. Coordinating with all the Heads and HoDs from time to time and extend the support whenever required as per the direction of the Principal for smooth conduction of day to day activities as well as brand building of the institute.
 
 # Responsibility of Head Technology Centres & Industrial Relations. (TC&IR)
-- Establishing and monitoring the facility of Technology centres with industrial tie up / Recognition, content delivery of various Value Added Courses and timely completion of certification process in association with concerned department HoDs.
-- Plan and prepare the training curriculum, syllabus and materials required based on the facility available and industrial requirement.
-- Interacting with Industries for Industrial visit, Training, students projects, Internship, Consultancy project etc and Plan and execute MOU’s signing with industries in association with Placement officer and concern dept.
-- HODs.
-- Plan, and execute soft skill training, core subject training, foreign language training and other training if any required to maximize the placement.
-- Organize atleast one workshop, Seminar, FDP, competition and hands on training for other college students & staffs and generate fund through technology centres.
-- Identify the suitable faculty and students and motivate them to participate in various Hackathons and competitions.
-- Monitor and support the Research activities of **MSAJCE** in association with Head – Research & HODs of the concerned department.
-- Actively participate along with HoDs in Project reviews of the all the departments and identify the best project and make it publish in the conference / journal / copy right / file a patent if the work is innovative.
-- Review the ongoing research projects / consultancy works periodically in all the departments along with HODs of the concerned department.
-- Motivate the faculty to submit the research proposals to various funding agencies in association with Head – Research.
-- Incharge for Unnat Bharat Abhiyan activity – plan and organize various social activities in the adapted villages.
-- Coordinating with all the Heads and HoD`s from time to time and extend the support whenever required as per the direction of the Principal for smooth conduction of day to day activities as well as brand building of the institute.
+
+Establishing and monitoring the facility of Technology centres with industrial tie up / Recognition, content delivery of various Value Added Courses and timely completion of certification process in association with concerned department HoDs. Plan and prepare the training curriculum, syllabus and materials required based on the facility available and industrial requirement. Interacting with Industries for Industrial visit, Training, students projects, Internship, Consultancy project etc and Plan and execute MOU’s signing with industries in association with Placement officer and concern dept. HODs. Plan, and execute soft skill training, core subject training, foreign language training and other training if any required to maximize the placement. Organize atleast one workshop, Seminar, FDP, competition and hands on training for other college students & staffs and generate fund through technology centres. Identify the suitable faculty and students and motivate them to participate in various Hackathons and competitions. Monitor and support the Research activities of **MSAJCE** in association with Head – Research & HODs of the concerned department. Actively participate along with HoDs in Project reviews of the all the departments and identify the best project and make it publish in the conference / journal / copy right / file a patent if the work is innovative. Review the ongoing research projects / consultancy works periodically in all the departments along with HODs of the concerned department. Motivate the faculty to submit the research proposals to various funding agencies in association with Head – Research. Incharge for Unnat Bharat Abhiyan activity – plan and organize various social activities in the adapted villages. Coordinating with all the Heads and HoD`s from time to time and extend the support whenever required as per the direction of the Principal for smooth conduction of day to day activities as well as brand building of the institute.
 
 # Responsibility of Head – Research
-- Establish the research culture among the faculty and students and Motivate the Ph.D qualified faculty to get guide-ship from Anna University and get Nodal research centre status for the eligible departments.
-- Incharge for Institute’s Innovation Cell – plan various activities and get good star rating from MOE.
-- Establish the Start up facility, Incubation Hub and EDP Cell in association with Head – TC & IR.
-- Motivate the faculty to do Ph.D and improve the academic Research.
-- Actively participate along with Head –TC & HoDs in Project reviews of the all the departments and identify the best project and make it publish in the conference / journal / file a patent if the work is innovative.
-- Motivate the faculty and students to involve in industrial projects, consultancy projects, project competition and Hackathons.
-- Review the ongoing research projects / consultancy works periodically.
-- Apply and get DSIR – SIRO certification to get recognition of national level research center status.
-- Periodically plan and organize the events to create awareness among the students and faculty in Research methodology, IPR, Patent filing and Copy Right.
-- Motivate the faculty to submit the research proposals to various funding.
-- Plan and Organize the National / International Conference department wise and publish the proceeding / journal periodically through professional association / funding agencies.
-- Organize the technology forum meeting to share the research exposure of faculty and students.
-- Coordinating with all the Heads and HoDs from time to time and extend the support whenever required as per the direction of the Principal for smooth conduction of day to day activities as well as brand building of the institute.
+
+Establish the research culture among the faculty and students and Motivate the Ph.D qualified faculty to get guide-ship from Anna University and get Nodal research centre status for the eligible departments. Incharge for Institute’s Innovation Cell – plan various activities and get good star rating from MOE. Establish the Start up facility, Incubation Hub and EDP Cell in association with Head – TC & IR. Motivate the faculty to do Ph.D and improve the academic Research. Actively participate along with Head –TC & HoDs in Project reviews of the all the departments and identify the best project and make it publish in the conference / journal / file a patent if the work is innovative. Motivate the faculty and students to involve in industrial projects, consultancy projects, project competition and Hackathons. Review the ongoing research projects / consultancy works periodically. Apply and get DSIR – SIRO certification to get recognition of national level research center status. Periodically plan and organize the events to create awareness among the students and faculty in Research methodology, IPR, Patent filing and Copy Right. Motivate the faculty to submit the research proposals to various funding. Plan and Organize the National / International Conference department wise and publish the proceeding / journal periodically through professional association / funding agencies. Organize the technology forum meeting to share the research exposure of faculty and students. Coordinating with all the Heads and HoDs from time to time and extend the support whenever required as per the direction of the Principal for smooth conduction of day to day activities as well as brand building of the institute.
 
 # Responsibility of Head – IQAC
-- Responsible for maintain the quality standards in all aspects as per the norms. Management Responsible person for ISO certification and coordinating surveillance audit as per the schedule.
-- Develop, collect and maintain all the documents for ISO and Accreditation process in a single point.
-- Ensure to display the vision, mission, quality policy of the institute and all the departments prominently.
-- All circulars, formats and procedures to be issued through IQAC after the approval from the Principal.
-- Organize management review meeting as per the schedule and follow up the decisions concluded in the meeting in consultation with the Principal.
-- Plan and organize the survival ISO audit regularly.
-- Create awareness about accreditation process and complete NAAC in first phase and NBA in phased manner depending on the eligibility of the department.
-- Submit the yearly IQAR report to NAAC and initiate reaccreditation as per the norms. Participate in institutional ranking (NIRF, CII, ARIIA etc) and develop brand building of the institute.
-- Plan and Coordinating all statutory body meetings as per the schedule (Governing Council, Planning & Monitory board, Academic Advisory, Research Advisory, Industrial Relation Advisory committee etc.).
-- Academic Audit - to ensure timely completion of Syllabus by supplementing the GL / Seminar / Webinar organized by the departments.
-- Students Feedback (On line / Off line) Collection, Consolidate and Forward to the Principal for follow up action Coordinating with all the Heads and HoDs from time to time and extend the support whenever required as per the direction of the Principal for smooth conduction of day to day activities as well as brand building of the institute.
-- 7 Responsibility of Manager – Accounts Plan and execute the Admission strategy in consultation with the Principal and Management.(Advertisement, social media activities, Brochure and pamphlet preparation).
-- Admission Process follow up – (Govt quota & Management quota).
-- Submission of Sanctioned Intake to the conveners to include in the counselling.
-- Arrange school and Polytechnic visits and organizing various events like carrier guidance program, Science exhibition, and workshops to develop the branding of **MSAJCE** under ISR.
-- Coordinating Faculty & Staff recruitment and welfare Issuing Appointment order, Experience Certificate, Relieving Order, Salary certificate for the faculty and staff whenever required after collecting the approval from the higher authorities.
-- Maintain all the necessary documents of the students Coordinating with University / Secretariat / DOTE to ratify the admission process.
-- Maintain all the records of faculty and staff for AU / AICTE affiliation and approval process.
-- Annual Budget Planning and execution, organize the day to day financial needs in consultation with the Principal and Management.
-- Monitoring & Handling the issues of PF, ESI, Insurance, Gratuity, Professional Tax, EB, Phone Internet, Fire safety and Sanitization certificates.
-- Submit the necessary documents to welfare office and monitoring the scholarship process.
-- Issuing of Bonafide certificate, Transfer certificate, and Conduct certificate for the students whenever required.
-- Coordinating Anna University / AICTE / Accreditation inspection if an in association with Manager - Administration Plan and organize Alumni meeting and Parents Teacher meet periodically. in association with Manager - Administration
+
+Responsible for maintain the quality standards in all aspects as per the norms. Management Responsible person for ISO certification and coordinating surveillance audit as per the schedule. Develop, collect and maintain all the documents for ISO and Accreditation process in a single point. Ensure to display the vision, mission, quality policy of the institute and all the departments prominently. All circulars, formats and procedures to be issued through IQAC after the approval from the Principal. Organize management review meeting as per the schedule and follow up the decisions concluded in the meeting in consultation with the Principal. Plan and organize the survival ISO audit regularly. Create awareness about accreditation process and complete NAAC in first phase and NBA in phased manner depending on the eligibility of the department. Submit the yearly IQAR report to NAAC and initiate reaccreditation as per the norms. Participate in institutional ranking (NIRF, CII, ARIIA etc) and develop brand building of the institute. Plan and Coordinating all statutory body meetings as per the schedule (Governing Council, Planning & Monitory board, Academic Advisory, Research Advisory, Industrial Relation Advisory committee etc.). Academic Audit - to ensure timely completion of Syllabus by supplementing the GL / Seminar / Webinar organized by the departments. Students Feedback (On line / Off line) Collection, Consolidate and Forward to the Principal for follow up action Coordinating with all the Heads and HoDs from time to time and extend the support whenever required as per the direction of the Principal for smooth conduction of day to day activities as well as brand building of the institute. 7 Responsibility of Manager – Accounts Plan and execute the Admission strategy in consultation with the Principal and Management.(Advertisement, social media activities, Brochure and pamphlet preparation). Admission Process follow up – (Govt quota & Management quota). Submission of Sanctioned Intake to the conveners to include in the counselling. Arrange school and Polytechnic visits and organizing various events like carrier guidance program, Science exhibition, and workshops to develop the branding of **MSAJCE** under ISR. Coordinating Faculty & Staff recruitment and welfare Issuing Appointment order, Experience Certificate, Relieving Order, Salary certificate for the faculty and staff whenever required after collecting the approval from the higher authorities. Maintain all the necessary documents of the students Coordinating with University / Secretariat / DOTE to ratify the admission process. Maintain all the records of faculty and staff for AU / AICTE affiliation and approval process. Annual Budget Planning and execution, organize the day to day financial needs in consultation with the Principal and Management. Monitoring & Handling the issues of PF, ESI, Insurance, Gratuity, Professional Tax, EB, Phone Internet, Fire safety and Sanitization certificates. Submit the necessary documents to welfare office and monitoring the scholarship process. Issuing of Bonafide certificate, Transfer certificate, and Conduct certificate for the students whenever required. Coordinating Anna University / AICTE / Accreditation inspection if an in association with Manager - Administration Plan and organize Alumni meeting and Parents Teacher meet periodically. in association with Manager - Administration
 
 # Responsibility of Manager – Administration
-- PRO Activities – Police, Fire, Health, Press, Government and Local body members, and Political parties if required.
-- Handling of Legal issues if any related to AU and AICTE.
-- Hospitality and facility management for various activities planned in **MSAJCE**.
-- Support & execute all statutory body meeting as per the schedule / whenever required. (Governing Council, Planning & Monitory board, Academic Advisory, Research Advisory, Grievances Redressal committee and Industrial Relation Advisory committee) Periodical Audit of Laboratories, Library, Estate office, Hostel and Mess.
-- Purchase of Stationery, House Keeping, Civil, Electrical, Plumbing, Networking Materials, ID Cards, text books and note books, Observation and record Books, Attendance Books and other necessary materials made available in time.
-- Maintaining **MSAJCE** Security, Transport, Hostel, mess and Canteen facilities & issues follow up.
-- Support & execute various activities like industrial visits, workshops, seminars, conference, symposium, cultural, sports, professional society activities, NSS, induction programs, motivational programs, placement day, graduation day and other important celebration and activities Monitor the discipline of faculty, staff and students.
-- Ensure the campus as Ragging free Campus.
-- Coordinating Anna University / AICTE / Accreditation inspection if an in association with Manager -Accounts Plan and organize Alumni meeting and Parents Teacher meet periodically. in association with Manager – Accounts Plan and execute faculty and staff welfare activities.
-- Responsibility of the III Cell coordinator Promote career counselling by organizing career guidance lectures by senior corporate personnel.
-- Incharge for the Internship and ensure all the students undergone Internship / Industrial training and maintain the database as per AICTE / Anna University norms. Coordinate with Placement Officer, Head – TC&IR, Head-Administration and Hods of the department to strengthen the industrial relations.
-- Establish and maintain liaison with major corporate bodies like CII, FICCI, ASSOCHEM, etc., through industry institute interaction (IIIC) cell.
-- Plan and organize the GRE, TOEFL, IELTS, CAT and GATE awareness programs and coaching if necessary.
-- Organize awareness programs for service commission examinations like, IAS, IES, TNPSC and other competitive exams Encourage students to become entrepreneurs by organizing entrepreneurship development programs. Organize the training for Start up, Incubates and mentoring as per the direction of Head – TC & IT and Head - Research.
-- In-charge for Online Courses (NPTEL, SWAYAM, MOOC etc) and ensure all the faculty and students to do at least one course / semester to upgrade them as per the norms of AICTE / AU.
-- Initiatives to Foreign University Collaboration and students exchange programs. Provide guidance and counselling to the students for higher studies in the country and abroad and their other future plans and Organizing Higher education / overseas education Expo.
-- Maintain the database of all the students pursuing higher studies at various institutes, GATE qualified and other competitive examination qualified if any.
+
+PRO Activities – Police, Fire, Health, Press, Government and Local body members, and Political parties if required. Handling of Legal issues if any related to AU and AICTE. Hospitality and facility management for various activities planned in **MSAJCE**. Support & execute all statutory body meeting as per the schedule / whenever required. (Governing Council, Planning & Monitory board, Academic Advisory, Research Advisory, Grievances Redressal committee and Industrial Relation Advisory committee) Periodical Audit of Laboratories, Library, Estate office, Hostel and Mess. Purchase of Stationery, House Keeping, Civil, Electrical, Plumbing, Networking Materials, ID Cards, text books and note books, Observation and record Books, Attendance Books and other necessary materials made available in time. Maintaining **MSAJCE** Security, Transport, Hostel, mess and Canteen facilities & issues follow up. Support & execute various activities like industrial visits, workshops, seminars, conference, symposium, cultural, sports, professional society activities, NSS, induction programs, motivational programs, placement day, graduation day and other important celebration and activities Monitor the discipline of faculty, staff and students. Ensure the campus as Ragging free Campus. Coordinating Anna University / AICTE / Accreditation inspection if an in association with Manager -Accounts Plan and organize Alumni meeting and Parents Teacher meet periodically. in association with Manager – Accounts Plan and execute faculty and staff welfare activities. Responsibility of the III Cell coordinator Promote career counselling by organizing career guidance lectures by senior corporate personnel. Incharge for the Internship and ensure all the students undergone Internship / Industrial training and maintain the database as per AICTE / Anna University norms. Coordinate with Placement Officer, Head – TC&IR, Head-Administration and Hods of the department to strengthen the industrial relations. Establish and maintain liaison with major corporate bodies like CII, FICCI, ASSOCHEM, etc., through industry institute interaction (IIIC) cell. Plan and organize the GRE, TOEFL, IELTS, CAT and GATE awareness programs and coaching if necessary. Organize awareness programs for service commission examinations like, IAS, IES, TNPSC and other competitive exams Encourage students to become entrepreneurs by organizing entrepreneurship development programs. Organize the training for Start up, Incubates and mentoring as per the direction of Head – TC & IT and Head - Research. In-charge for Online Courses (NPTEL, SWAYAM, MOOC etc) and ensure all the faculty and students to do at least one course / semester to upgrade them as per the norms of AICTE / AU. Initiatives to Foreign University Collaboration and students exchange programs. Provide guidance and counselling to the students for higher studies in the country and abroad and their other future plans and Organizing Higher education / overseas education Expo. Maintain the database of all the students pursuing higher studies at various institutes, GATE qualified and other competitive examination qualified if any.
 
 # Responsibility of the Maintenance Manager
-- Stock Inventory – Inward & Outward ( All Materials) Ensure the Electricity / Water / Furniture availability in all places in the campus.
-- House Keeping, Security, Gardening, Generators - daily maintenance Monitoring the Civil Work and report to Principal.
-- Plan the Electrical, Carpenter, and Plumber works, arrange the necessary materials and assign the works to the concerns for timely completion of the work.
-- Maintaining Cleanliness inside and outside the Building Maintaining UPS, copying machine, Air conditioners, RO Plant, Water coolers, Sewage Treatment Plant through AMC if required Collect the maintenance report from all the labs and make the arrangements to do service the equipments and Machines whenever necessary.
-- Maintaining all furniture’s, fans and tube lights in class rooms and Labs in good condition To Ensure the saving of Electricity and Water visit all the places in **MSAJCE** regularly and advise the attenders / floor in charges to shut off when not in use.
+
+Stock Inventory – Inward & Outward ( All Materials) Ensure the Electricity / Water / Furniture availability in all places in the campus. House Keeping, Security, Gardening, Generators - daily maintenance Monitoring the Civil Work and report to Principal. Plan the Electrical, Carpenter, and Plumber works, arrange the necessary materials and assign the works to the concerns for timely completion of the work. Maintaining Cleanliness inside and outside the Building Maintaining UPS, copying machine, Air conditioners, RO Plant, Water coolers, Sewage Treatment Plant through AMC if required Collect the maintenance report from all the labs and make the arrangements to do service the equipments and Machines whenever necessary. Maintaining all furniture’s, fans and tube lights in class rooms and Labs in good condition To Ensure the saving of Electricity and Water visit all the places in **MSAJCE** regularly and advise the attenders / floor in charges to shut off when not in use.
 
 # Responsibility of the Accountant
-- Collection of all Fees ( Tuition fees, Exam fees, Fines if any ) Sending report to the Management and Principal Assisting in budget preparation / salary bill preparation / payroll generation for faculty and staff Arranging the payments for vendors / suppliers / day to day activity / taxes and insurance / utility bills in time Member in purchasing committee to ensure transparency in purchase.
-- Interaction with welfare office to get the scholarship payment Update the Students fee dues to the Principal / Hod’s and interacting with parents whenever necessary to collect the fees.
-- Maintain acquaintance register, faculty attendance, cash Book, exam cell accounts, and petty cash and transactions details of all the accounts.
+
+Collection of all Fees ( Tuition fees, Exam fees, Fines if any ) Sending report to the Management and Principal Assisting in budget preparation / salary bill preparation / payroll generation for faculty and staff Arranging the payments for vendors / suppliers / day to day activity / taxes and insurance / utility bills in time Member in purchasing committee to ensure transparency in purchase. Interaction with welfare office to get the scholarship payment Update the Students fee dues to the Principal / Hod’s and interacting with parents whenever necessary to collect the fees. Maintain acquaintance register, faculty attendance, cash Book, exam cell accounts, and petty cash and transactions details of all the accounts.
 
 # Responsibility of the Exam cell Coordinator
-- Conducting internal and external examination.
-- Examination registration and upload the internal marks, Elective subjects and students registration to AU portal in time.
-- Download the Anna University Results and Communicate to the Concern departments.
-- Prepare and circulate the seating arrangement / Invigilation duty - 7 days in advance.
-- Prepare the schedule for practical examination and coordinating with the external examiner in consultation with the HODs / Principal.
-- Down the communications from AU and Communicate to Principal and circulate to the HoDs, Faculty and Students as per the direction of principal.
-- Strictly maintain the confidentiality in the examination process.
-- Purchase, collection, maintenance and dispatch of examination materials.
+
+Conducting internal and external examination. Examination registration and upload the internal marks, Elective subjects and students registration to AU portal in time. Download the Anna University Results and Communicate to the Concern departments. Prepare and circulate the seating arrangement / Invigilation duty - 7 days in advance. Prepare the schedule for practical examination and coordinating with the external examiner in consultation with the HODs / Principal. Down the communications from AU and Communicate to Principal and circulate to the HoDs, Faculty and Students as per the direction of principal. Strictly maintain the confidentiality in the examination process. Purchase, collection, maintenance and dispatch of examination materials.
 
 # Responsibilities of HOD
-- Responsible for academic delivery, administration and discipline of the department.
-- Plan and conduct / monitor concept of the day, students data book transfer, class advisor meeting, class committee meeting, common subject teacher meetings regularly in consultation with Head Academics.
-- Arrange GL / Seminar / Alumni students’ interaction atleast 2 in a semester / WS in the latest topics by eminent industrial personalities, minimum 2 industrial visits in a semester / class.
-- Update the Faculty / Staff / Student Bio data every semester.
-- Counsel the toppers to get university ranks and slow learners to clear all the papers.
-- Allocate the subject and lab as per the choice of faculty, advise them to prepare lecture notes and sample records for lab and prepare the time table well in advance ( At least 15 days before the commencement of class).
-- Check the Lecture notes, Question bank, Lesson Plan, Lab manual in consultation with subject experts and advise the faculty concern to update if there is any modification / deviation and make it ready at least one week ahead of semester starting and get approval from Head Academics.
-- Check the faculty availability regularly in the morning and arrangement of class for the staff on leave / OD / absent.
-- After the announcement of the University results, submit the result analysis in the prescribed formats to the Principal through Head Academics.
-- Plan and conduct Parents and Teachers meet within one week from the university results announcement by involving Head Academics and Head Administration.
-- Submit the budget of the department on or before March 30th every year.
-- Plan and conduct the project reviews as per the schedule in consultation with Head Research and Head TC & IR.
-- The formation of groups to be done on or before July 30th every year.
-- Finalize the title of the project work on or before August 31st every year.
-- Get the support from Head Research and Head TC & IR to motivate the faculty and students to publish the papers in Journals, filing patent, Participate in Hackathons and other competition and publish department magazine / news letter, at least one per semester Any invitation is received from other colleges regarding seminars, paper presentations, our students have to be informed in their class room, display the brochure in the notice board and advise them to participate.
-- To maintain the stock register in the department including furniture.
-- All the items should be numbered properly.
-- Ensure all the equipments in good working condition and necessary and sufficient numbers of consumables are available before the commencement of the semester.
-- HODs should kindly get principal’s prior approval before going on CL/ OD for smooth conduction of day to day activities.
-- Motivate and monitor the students to actively participate in COE training and get certification with the support of Head TC & IR, Placement, Higher studies and other competitive exam activities organized in **MSAJCE**.
-- Plan and Organize Academic Advisory meeting once in a year.
-- Motivate the faculty and students to do Online certification courses (NPTEL, SWAYAM etc) and also make them to attach with atleast one industry to understand the industrial requirement.
-- Submit the compliance report of your department activities to the Principal through Head Administration on 30th of every month positively.
-- Collect the feedback from all the stake holders and initiate the necessary action in consultation with Principal.
+
+Responsible for academic delivery, administration and discipline of the department. Plan and conduct / monitor concept of the day, students data book transfer, class advisor meeting, class committee meeting, common subject teacher meetings regularly in consultation with Head Academics. Arrange GL / Seminar / Alumni students’ interaction atleast 2 in a semester / WS in the latest topics by eminent industrial personalities, minimum 2 industrial visits in a semester / class. Update the Faculty / Staff / Student Bio data every semester. Counsel the toppers to get university ranks and slow learners to clear all the papers. Allocate the subject and lab as per the choice of faculty, advise them to prepare lecture notes and sample records for lab and prepare the time table well in advance ( At least 15 days before the commencement of class). Check the Lecture notes, Question bank, Lesson Plan, Lab manual in consultation with subject experts and advise the faculty concern to update if there is any modification / deviation and make it ready at least one week ahead of semester starting and get approval from Head Academics. Check the faculty availability regularly in the morning and arrangement of class for the staff on leave / OD / absent. After the announcement of the University results, submit the result analysis in the prescribed formats to the Principal through Head Academics. Plan and conduct Parents and Teachers meet within one week from the university results announcement by involving Head Academics and Head Administration. Submit the budget of the department on or before March 30th every year. Plan and conduct the project reviews as per the schedule in consultation with Head Research and Head TC & IR. The formation of groups to be done on or before July 30th every year. Finalize the title of the project work on or before August 31st every year. Get the support from Head Research and Head TC & IR to motivate the faculty and students to publish the papers in Journals, filing patent, Participate in Hackathons and other competition and publish department magazine / news letter, at least one per semester Any invitation is received from other colleges regarding seminars, paper presentations, our students have to be informed in their class room, display the brochure in the notice board and advise them to participate. To maintain the stock register in the department including furniture. All the items should be numbered properly. Ensure all the equipments in good working condition and necessary and sufficient numbers of consumables are available before the commencement of the semester. HODs should kindly get principal’s prior approval before going on CL/ OD for smooth conduction of day to day activities. Motivate and monitor the students to actively participate in COE training and get certification with the support of Head TC & IR, Placement, Higher studies and other competitive exam activities organized in **MSAJCE**. Plan and Organize Academic Advisory meeting once in a year. Motivate the faculty and students to do Online certification courses (NPTEL, SWAYAM etc) and also make them to attach with atleast one industry to understand the industrial requirement. Submit the compliance report of your department activities to the Principal through Head Administration on 30th of every month positively. Collect the feedback from all the stake holders and initiate the necessary action in consultation with Principal.
 
 # Responsibilities of Placement Officer
-- Maintain the students database, Alumni database and placement records.
-- To arrange internship, industry –sponsored major and minor projects for final year and pre-final year students in association with III cell coordinator..
-- To maintain the directory of industries and research and development centres.
-- To act as a information bureau by maintain libraries, data bases etc, relating to training and placement.
-- Coordinating Alumni association activities, collect the feedback of the alumni from their working place.
-- To maintain liaison with major corporate bodies like CII, FICCI, ASSOCHEM, etc., through industry institute interaction (IIIC) cell.
-- Nurtures Industry Institute Interaction by organizing and coordinating frequent industrial visits, in plant training, projects of industrial relevance for the students with the sole aim of zeroing down the hiatus between the industry and the academia.
-- Receives and forwards the feedback pertinent to curriculum improvement from the visiting companies to the faculty / HOD.
-- To prepare and update the information brochure for **MSAJCE**.
-- To guide in preparing resume by the students and train them to face interviews.
-- To interact with industries and organize campus interview for pre-final and final year students with business houses of repute from all over India and prepare them for such interviews.
-- To arrange seminars for the students on latest topics by the industry / business executives Organize Mock Interview, Group Discussions and HR interaction / conclave periodically.
-- Coordinating Placement and ensuring all the students underwent Internship as per the AICTE / Anna University norms and creating awareness about Higher Education and EDP activities.
+
+Maintain the students database, Alumni database and placement records. To arrange internship, industry –sponsored major and minor projects for final year and pre-final year students in association with III cell coordinator.. To maintain the directory of industries and research and development centres. To act as a information bureau by maintain libraries, data bases etc, relating to training and placement. Coordinating Alumni association activities, collect the feedback of the alumni from their working place. To maintain liaison with major corporate bodies like CII, FICCI, ASSOCHEM, etc., through industry institute interaction (IIIC) cell. Nurtures Industry Institute Interaction by organizing and coordinating frequent industrial visits, in plant training, projects of industrial relevance for the students with the sole aim of zeroing down the hiatus between the industry and the academia. Receives and forwards the feedback pertinent to curriculum improvement from the visiting companies to the faculty / HOD. To prepare and update the information brochure for **MSAJCE**. To guide in preparing resume by the students and train them to face interviews. To interact with industries and organize campus interview for pre-final and final year students with business houses of repute from all over India and prepare them for such interviews. To arrange seminars for the students on latest topics by the industry / business executives Organize Mock Interview, Group Discussions and HR interaction / conclave periodically. Coordinating Placement and ensuring all the students underwent Internship as per the AICTE / Anna University norms and creating awareness about Higher Education and EDP activities.
 
 # Responsibilities of a Faculty
-- Timely completion of Syllabusas per lesson plan, deviation if any should get approval fromthe HoD.
-- For each subject, a note book must be maintained by the students.
-- During class hours, verify note books of at least 5 students daily.
-- Be in the class room in time and maintain strict discipline and silent during the lecture.
-- If any student misbehaves in the class room, kindly bring to the notice of HOD / Principal immediately.
-- Be cordial and don’t be partial in the class, interact with all the students and find their expectations and sort out the issues.
-- Coordinate with all the activities of Department and Institutional development.
-- Motivate all the interested students to participate in various industrial projects and competitions.
-- Attend the FDPs to upgrade your skills, Publish 1 research paper / year in the SCI / Annexure 1 Journal.
-- Plan and coordinate / associate to conduct a workshop / seminar / FDP / conference and social activities.
-- Maintain the status of the department and institute by actively involving in all the activity and maintain the self discipline and students discipline
+
+Timely completion of Syllabusas per lesson plan, deviation if any should get approval fromthe HoD. For each subject, a note book must be maintained by the students. During class hours, verify note books of at least 5 students daily. Be in the class room in time and maintain strict discipline and silent during the lecture. If any student misbehaves in the class room, kindly bring to the notice of HOD / Principal immediately. Be cordial and don’t be partial in the class, interact with all the students and find their expectations and sort out the issues. Coordinate with all the activities of Department and Institutional development. Motivate all the interested students to participate in various industrial projects and competitions. Attend the FDPs to upgrade your skills, Publish 1 research paper / year in the SCI / Annexure 1 Journal. Plan and coordinate / associate to conduct a workshop / seminar / FDP / conference and social activities. Maintain the status of the department and institute by actively involving in all the activity and maintain the self discipline and students discipline
 
 # Responsibility of Librarian
-- Create awareness about library facilities, resources, equipments, services and policies among students, staff and faculty.
-- Keep the records of books inside & (circulation) out of library.
-- Code, classify and catalog books, publications, films, audio visuals and other library materials based on subject and library classification systems. Train the library staffs such as receiving, cataloging and equipment use, and respond to complaint if any raised by stakeholders and taking action as necessary.
-- Develop the library facilities and constantly upgrade as per the norms of AICTE and Anna University.
-- Evaluate materials to determine outdated, demaged or unused items to be discarded.
-- Develop information access aids such as indexes and annotated bibliographies, web pages, electronic path finder’s and online tutorials.
-- Get inter college library membership and arrange interlibrary loans of materials not available in our library.
-- Confer with teachers, parents, and community organizations to develop, plan and conduct programs in reading, viewing and communication skills.
-- Maintain the stock of all the purchase, conduct audit in every semester, compile list of over dues and notify borrowers.
-- Plan and participate in fund raising drives and write proposals for research or project grants.
+
+Create awareness about library facilities, resources, equipments, services and policies among students, staff and faculty. Keep the records of books inside & (circulation) out of library. Code, classify and catalog books, publications, films, audio visuals and other library materials based on subject and library classification systems. Train the library staffs such as receiving, cataloging and equipment use, and respond to complaint if any raised by stakeholders and taking action as necessary. Develop the library facilities and constantly upgrade as per the norms of AICTE and Anna University. Evaluate materials to determine outdated, demaged or unused items to be discarded. Develop information access aids such as indexes and annotated bibliographies, web pages, electronic path finder’s and online tutorials. Get inter college library membership and arrange interlibrary loans of materials not available in our library. Confer with teachers, parents, and community organizations to develop, plan and conduct programs in reading, viewing and communication skills. Maintain the stock of all the purchase, conduct audit in every semester, compile list of over dues and notify borrowers. Plan and participate in fund raising drives and write proposals for research or project grants.
 
 # Responsibility of Physical Education Director
-- Develop and maintain the sports, games and gym facilities for both boys and girls.
-- Develop successful teams, both boys and girls in all the games and sports.
-- Increase participation and competitive representation within all focused sports across **MSAJCE**.
-- Organize Inter college and interschool sports events every year Conduct Yoga classes for hostellers in the evening and Day scholars as per the schedule Identify the potential students / players in various sports and games, motivate and provide special training to participate in various competitions at Zonal, State and National level competitions.
-- Organize inter department sports meet annually.
-- Lead / Monitor / Participate in all extracurricular activities such as NSS, NCC, YRC camps organized by **MSAJCE**.
-- As a member of Anti ragging committee and disciplinary committee visit the entire campus, hostel, bus stops to monitor the students.
-- Develop the culture of practicing / playing daily and holidays to motivate the students to participate in various competitions and being healthy.
+
+Develop and maintain the sports, games and gym facilities for both boys and girls. Develop successful teams, both boys and girls in all the games and sports. Increase participation and competitive representation within all focused sports across **MSAJCE**. Organize Inter college and interschool sports events every year Conduct Yoga classes for hostellers in the evening and Day scholars as per the schedule Identify the potential students / players in various sports and games, motivate and provide special training to participate in various competitions at Zonal, State and National level competitions. Organize inter department sports meet annually. Lead / Monitor / Participate in all extracurricular activities such as NSS, NCC, YRC camps organized by **MSAJCE**. As a member of Anti ragging committee and disciplinary committee visit the entire campus, hostel, bus stops to monitor the students. Develop the culture of practicing / playing daily and holidays to motivate the students to participate in various competitions and being healthy.
 
 # General instructions to all the Faculty members
-- All faculties are advised to monitor the boy student’s dress code: cleanly shaven face with neat dress, wear shoes and ID cards.
-- They should not have long hair.
-- The girl students with neat and appropriate dress code.
-- The lady faculty members handling the class should check the same.
-- Exchange of classes not allowed, in emergency cases can be made only with prior approval of the HODs of the concerned faculty members.
-- During the library hour of a class the faculty –in- charge should keep the students in discipline.
-- The faculty members and students are advised not to take any books (including the books already issued) inside the library from outside.
-- However it is allowed for returning the books already taken.
-- Library should not be used for discussion between students and faculty.
-- This can be done either in the class room or in the staff room.
-- Faculty members are specially requested not to have any discussions with students standing outside the class rooms or on the way to lab.
-- Discussions should be made only in the class room or in the staff room.
-- Don`t allow the students to use the Mobile phone inside the class room / Laboratories.
-- Each student is required to bring a scientific calculator with him / her.
-- Check whether the student brings it or not randomly in the class.
+
+All faculties are advised to monitor the boy student’s dress code: cleanly shaven face with neat dress, wear shoes and ID cards. They should not have long hair. The girl students with neat and appropriate dress code. The lady faculty members handling the class should check the same. Exchange of classes not allowed, in emergency cases can be made only with prior approval of the HODs of the concerned faculty members. During the library hour of a class the faculty –in- charge should keep the students in discipline. The faculty members and students are advised not to take any books (including the books already issued) inside the library from outside. However it is allowed for returning the books already taken. Library should not be used for discussion between students and faculty. This can be done either in the class room or in the staff room. Faculty members are specially requested not to have any discussions with students standing outside the class rooms or on the way to lab. Discussions should be made only in the class room or in the staff room. Don`t allow the students to use the Mobile phone inside the class room / Laboratories. Each student is required to bring a scientific calculator with him / her. Check whether the student brings it or not randomly in the class.
 
 # Do`s and Don`ts for Theory Subjects
-- Be there in the class in time ( 5 Min ahead of time ) and well prepared Be audible even to the last bench students Avoid carrying Text / Reference books to the class room Maintain silence and discipline inside the classroom Clean the board before leaving the class room Check the class notes regularly in the class.
-- Take attendance calling by name not by Roll / Register number Speak / Teach only in English inside the class room.
-- Don’t use any other language as medium of communication inside the classroom.
-- Don’t waste time in dictating notes in the class room.
-- Discuss the answers of university questions at the end of each unit Ensure timely completion of syllabus instead overloading at the end of the semester Give equal preference for both theory and problem irrespective of credit of the subject.
-- Discuss some applications of each topic in every subject Maintain and update the attendance log book and course file meticulously.
-- Use PPT / Demonstration / ICT / NPTEL / EDUSAT whenever possible Correct the test papers and circulate to the students in time without biasing Arrange one guest lecture / seminar per subject in terms of application by the eminent personalities.
-- Circulate lesson plan and notes material ahead of time to the students either hard / soft copy, it will help the students to come prepared to the next class Ensure the next hour faculty arrived before leaving from the class.
-- In case next hour faculty didn’t turn up make necessary arrangements and be there till other faculty comes and engages the class Be polite and cordial with the students.
-- If any student misbehave / not listening or disturbing the class don’t react / corner that student in front of other students.
-- After completing the class calls the student and counsels him / her in your cabin.
-- Still problem persists immediately bring it to the knowledge of the Hod /the Principal Plan clearly for tutorial classes along with the assisting faculty.
-- All the faculties those who are assigned the tutorial hour should be available in the class to help the students
+
+Be there in the class in time ( 5 Min ahead of time ) and well prepared Be audible even to the last bench students Avoid carrying Text / Reference books to the class room Maintain silence and discipline inside the classroom Clean the board before leaving the class room Check the class notes regularly in the class. Take attendance calling by name not by Roll / Register number Speak / Teach only in English inside the class room. Don’t use any other language as medium of communication inside the classroom. Don’t waste time in dictating notes in the class room. Discuss the answers of university questions at the end of each unit Ensure timely completion of syllabus instead overloading at the end of the semester Give equal preference for both theory and problem irrespective of credit of the subject. Discuss some applications of each topic in every subject Maintain and update the attendance log book and course file meticulously. Use PPT / Demonstration / ICT / NPTEL / EDUSAT whenever possible Correct the test papers and circulate to the students in time without biasing Arrange one guest lecture / seminar per subject in terms of application by the eminent personalities. Circulate lesson plan and notes material ahead of time to the students either hard / soft copy, it will help the students to come prepared to the next class Ensure the next hour faculty arrived before leaving from the class. In case next hour faculty didn’t turn up make necessary arrangements and be there till other faculty comes and engages the class Be polite and cordial with the students. If any student misbehave / not listening or disturbing the class don’t react / corner that student in front of other students. After completing the class calls the student and counsels him / her in your cabin. Still problem persists immediately bring it to the knowledge of the Hod /the Principal Plan clearly for tutorial classes along with the assisting faculty. All the faculties those who are assigned the tutorial hour should be available in the class to help the students
 
 # Do`s and Don`ts For Practical Classes
-- Be punctual in lab classes.
-- All Faculty and staffs should be available in the lab on time as well as till the end of the practical session.
-- If any faculty is in leave arrange the alternate faculty who knows the experiments well.
-- Test all the experiments and submit the model report / record to the HOD concerned / Principal before the beginning of the semester Students must be allowed to perform any experiment only after concern faculty approval.
-- The faculty should check the students whether they have adequate background in relevant theory.
-- Though a viva about theory of the experiment at the start of lab classes.
-- Laboratory records should be written only after faculty approves the observation.
-- Laboratory records, neatly written and completed in all respects should be submitted while coming to the next lab class.
-- Correction of laboratory records must be completed within same day of submission.
-- The teacher handling a laboratory class should maintain a lab track record.
-- Before the start of every practical examination, the teacher concerned should ensure that the various equipments, components, machines and meters are in proper working condition to avoid hardship to Don’t allow the students to carry the next experiment before completion of previous experiments Encourage the students who are fast in completing the assigned experiments Keep HOD / Principal informed about long absentees for the theory / labs Give the special attention for the slow learners and irregular students Don’t permit more than two students at a time to perform the experiment Responsibilities of Class Advisors Class advisors are the mediators between the students, mentors and parents to ensure smooth conduction of day to day activities.
-- Prepare the Time table for the class and communicate to all the stake holders.
-- Check, arrange and distribute the lesson plan, question bank, class notes for all the subjects / units and record books to all the students on time.
-- Check the timetable daily in the 1st one hour and ensure all faculties are available in the campus to engage their respective class.
-- Formulate and Convene the Class committee meeting as per the Anna University norms – 3 meetings per semester. ( 1st meeting within 10 days from start of the semester, 2nd meeting after 40 days from beginning of the semester,3rd meeting in the last week of the semester ) Plan and convene parents teacher meeting of your class as per the schedule and keep update the status of class to HOD, Principal and parents if required.
-- Plan and organize IV, Guest lecture, seminar and workshops based on the need in consultation with Hods and other faculty members.
-- Plan and organize the motivational programs for slow learners and toppers.Closely monitor the slow learners in the Exam preparation class and motivate them to concentrate in academics and pass in all the subjects.
-- Monitor the daily attendance, absentees if any in the class ask their concern mentor to communicate to their parents and find the reason before 9.30AM daily.
-- If any student is absent for more than a week time ask the mentors to send warning / remainder letter to their parents.
-- Class advisor should maintain master attendance, assessment test marks collectively for all subjects and same should upload in University web portal as per the schedule with prior approval of HOD.
-- Cordially interact with students and collect if any grievance / issues and sort out immediately in consultation with HOD / Principal.
+
+Be punctual in lab classes. All Faculty and staffs should be available in the lab on time as well as till the end of the practical session. If any faculty is in leave arrange the alternate faculty who knows the experiments well. Test all the experiments and submit the model report / record to the HOD concerned / Principal before the beginning of the semester Students must be allowed to perform any experiment only after concern faculty approval. The faculty should check the students whether they have adequate background in relevant theory. Though a viva about theory of the experiment at the start of lab classes. Laboratory records should be written only after faculty approves the observation. Laboratory records, neatly written and completed in all respects should be submitted while coming to the next lab class. Correction of laboratory records must be completed within same day of submission. The teacher handling a laboratory class should maintain a lab track record. Before the start of every practical examination, the teacher concerned should ensure that the various equipments, components, machines and meters are in proper working condition to avoid hardship to Don’t allow the students to carry the next experiment before completion of previous experiments Encourage the students who are fast in completing the assigned experiments Keep HOD / Principal informed about long absentees for the theory / labs Give the special attention for the slow learners and irregular students Don’t permit more than two students at a time to perform the experiment Responsibilities of Class Advisors Class advisors are the mediators between the students, mentors and parents to ensure smooth conduction of day to day activities. Prepare the Time table for the class and communicate to all the stake holders. Check, arrange and distribute the lesson plan, question bank, class notes for all the subjects / units and record books to all the students on time. Check the timetable daily in the 1st one hour and ensure all faculties are available in the campus to engage their respective class. Formulate and Convene the Class committee meeting as per the Anna University norms – 3 meetings per semester. ( 1st meeting within 10 days from start of the semester, 2nd meeting after 40 days from beginning of the semester,3rd meeting in the last week of the semester ) Plan and convene parents teacher meeting of your class as per the schedule and keep update the status of class to HOD, Principal and parents if required. Plan and organize IV, Guest lecture, seminar and workshops based on the need in consultation with Hods and other faculty members. Plan and organize the motivational programs for slow learners and toppers.Closely monitor the slow learners in the Exam preparation class and motivate them to concentrate in academics and pass in all the subjects. Monitor the daily attendance, absentees if any in the class ask their concern mentor to communicate to their parents and find the reason before 9.30AM daily. If any student is absent for more than a week time ask the mentors to send warning / remainder letter to their parents. Class advisor should maintain master attendance, assessment test marks collectively for all subjects and same should upload in University web portal as per the schedule with prior approval of HOD. Cordially interact with students and collect if any grievance / issues and sort out immediately in consultation with HOD / Principal.
 
 # Responsibilities of Mentors
-- To help the students to plan their course of study and career the HOD will attach a group of students to a faculty who shall function as a mentor for those students throughoutbtheir period of study.
-- Such a mentors shall advice and monitor the students academic performance, discipline and their personal growth and counsel them periodically.If necessary the mentors may also discuss with parents or inform the progress of the students.
-- Each faculty mentor allocates the students from 1styr to final yr in the ratio of 1: 20.
-- The mentors should maintain the following data: Students Data Book, approval letters regarding his cultural, sports participation from the concerned in-charges and other letters relating to his absence from the classes, Certificate copies wherever he has won prizes in different events.
-- Daily Check your mentoring students is present in the class or not, if not inform / enquire with the patents and find the reason for absence and communicate to class advisors before 9.00 AM daily.
-- If a student is absent for three consecutive days, the matter should be intimated to the HOD.
-- If it is more than one week, the same should be informed to the Principal and warning / remainder letter should send to their parents immediately by post, email. & over phone and ensure that the parents is aware of students absence and reason for absence.
-- The mentor should send attendance and academic report at least twice a semester to parents through ERP.
-- Any communication, which needs parent’s personal attention like discipline, poor attendance, more arrears etc. must be sent though courier or registered Post. Confirmation of the receipt of information shall be ensured by the physical presence of the parent at **MSAJCE** or by personal telephonic conservation.
-- All the mentors should meet individually all the students at least once in a fortnight and collectively whenever necessary.
-- Identify their grievances / problems / issues if any report to the Principal immediately through the HOD.
-- The Mentor is virtually a personal guide for the students.
-- Whenever the student has some technical / official problems, he may do the needful to find a possible solution.
-- Motivate your mentoring students to actively participate in all co-curricular, extracurricular activities, COE training, soft skill training and various competitions.
-- Identify their individual potential put them in right track for up liftment of their career.
-- Ensure all your students get placement and identify if any special coaching is required and arrange the same in consultation with HODs
+
+To help the students to plan their course of study and career the HOD will attach a group of students to a faculty who shall function as a mentor for those students throughoutbtheir period of study. Such a mentors shall advice and monitor the students academic performance, discipline and their personal growth and counsel them periodically.If necessary the mentors may also discuss with parents or inform the progress of the students. Each faculty mentor allocates the students from 1styr to final yr in the ratio of 1: 20. The mentors should maintain the following data: Students Data Book, approval letters regarding his cultural, sports participation from the concerned in-charges and other letters relating to his absence from the classes, Certificate copies wherever he has won prizes in different events. Daily Check your mentoring students is present in the class or not, if not inform / enquire with the patents and find the reason for absence and communicate to class advisors before 9.00 AM daily. If a student is absent for three consecutive days, the matter should be intimated to the HOD. If it is more than one week, the same should be informed to the Principal and warning / remainder letter should send to their parents immediately by post, email. & over phone and ensure that the parents is aware of students absence and reason for absence. The mentor should send attendance and academic report at least twice a semester to parents through ERP. Any communication, which needs parent’s personal attention like discipline, poor attendance, more arrears etc. must be sent though courier or registered Post. Confirmation of the receipt of information shall be ensured by the physical presence of the parent at **MSAJCE** or by personal telephonic conservation. All the mentors should meet individually all the students at least once in a fortnight and collectively whenever necessary. Identify their grievances / problems / issues if any report to the Principal immediately through the HOD. The Mentor is virtually a personal guide for the students. Whenever the student has some technical / official problems, he may do the needful to find a possible solution. Motivate your mentoring students to actively participate in all co-curricular, extracurricular activities, COE training, soft skill training and various competitions. Identify their individual potential put them in right track for up liftment of their career. Ensure all your students get placement and identify if any special coaching is required and arrange the same in consultation with HODs
 
 # Responsibilities of Placement Co-coordinators
-- Maintain the up dated students database of the department (Pre final / Final / Alumni).
-- Assisting PO in campus interview and related activities.
-- Assisting respective HOD to convene IIIC meeting once in three months Interacting with students and motivating them to actively participate in placement activities.
-- Monitoring the progress of the students in placement, share their performance to Hod, mentors and their parents if necessary to ensure all the students to get placed.
-- If any shortfall / issue / training / motivation required arrange the same and ensure he / she get placed in consultation with Hod and Principal.
-- Submit the monthly report to the HOD/ Principal.
-- Forming of student’s e-groups / whatsapp group and maintaining contact with them.
-- Organize core subject training and technical mock interview.
-- Helping placement officer in preparing placement brochure Monitor and support various value added courses organized in the department.
-- Motivate the students to complete the course and get certification from the certifying authorities.
+
+Maintain the up dated students database of the department (Pre final / Final / Alumni). Assisting PO in campus interview and related activities. Assisting respective HOD to convene IIIC meeting once in three months Interacting with students and motivating them to actively participate in placement activities. Monitoring the progress of the students in placement, share their performance to Hod, mentors and their parents if necessary to ensure all the students to get placed. If any shortfall / issue / training / motivation required arrange the same and ensure he / she get placed in consultation with Hod and Principal. Submit the monthly report to the HOD/ Principal. Forming of student’s e-groups / whatsapp group and maintaining contact with them. Organize core subject training and technical mock interview. Helping placement officer in preparing placement brochure Monitor and support various value added courses organized in the department. Motivate the students to complete the course and get certification from the certifying authorities.
 
 # Responsibility of Faculty Lab In charge
-- Procurement, erection, installation and commissioning of lab equipments.
-- Procurement and storage of consumables, materials, tools and instruments.
-- Planning, scheduling, organizing and coordinating with staff handling lab classes.
-- Planning and organizing development program for supporting staff.
-- Managing the maintenance of equipments and tools in the lab.
-- Including preventive and break down maintenance / register for regular and periodical maintenance.
-- Suggesting the removal of obsolete and condemned equipments.
-- Breakage list and explanations are to be sent to HOD at the end of every semester.
-- Stock register to be maintained by the lab-in-charge concerned for machinery / equipment and consumables.
-- Monitoring supporting staff in their work and maintaining discipline.
-- Recommending leave and permission for supporting staff.
-- Displaying Rules and Regulations, safety precautions for the students in the laboratory.
-- Main switch board and fire extinguisher position should be displayed prominently.
-- Intimating the electrical maintenance section in case of adding any electrical equipment.
-- Ensuring proper security of lab equipments.
-- Ensure before leaving the campus locking of laboratory after college hour, switch off Electric power, air conditioners, fans, lights etc.
+
+Procurement, erection, installation and commissioning of lab equipments. Procurement and storage of consumables, materials, tools and instruments. Planning, scheduling, organizing and coordinating with staff handling lab classes. Planning and organizing development program for supporting staff. Managing the maintenance of equipments and tools in the lab. Including preventive and break down maintenance / register for regular and periodical maintenance. Suggesting the removal of obsolete and condemned equipments. Breakage list and explanations are to be sent to HOD at the end of every semester. Stock register to be maintained by the lab-in-charge concerned for machinery / equipment and consumables. Monitoring supporting staff in their work and maintaining discipline. Recommending leave and permission for supporting staff. Displaying Rules and Regulations, safety precautions for the students in the laboratory. Main switch board and fire extinguisher position should be displayed prominently. Intimating the electrical maintenance section in case of adding any electrical equipment. Ensuring proper security of lab equipments. Ensure before leaving the campus locking of laboratory after college hour, switch off Electric power, air conditioners, fans, lights etc.
 
 # Responsibility of Faculty Handling laboratory classes
-- Responsible for conducting the lab classes for that semester and particular subject.
-- One or two teaching staff will assist him/her.
-- Planning and designing the experiments to fulfil the curriculum.
-- Ensuring discipline and attendance of the students.
-- Explaining the theory and operation for the experiments.
-- Checking and approving the observation book and correcting Laboratory records.
-- Co-coordinating with Lab-in-charge for efficient and effective conducting of lab classes.
-- Making necessary arrangements for conducting University / model practical examinations, assessing the performance and finalizing the marks.
-- While conducting special classes, ensuring proper transport and canteen facilities for students / staff.
-- Reporting to Lab-in-charge any damage of the equipment / defective then and there.
-- Responsibility of Assisting Faculty : Lab Assistant / Instructor / Programmer During the practical classes, assisting the staff handling the lab classes in conducting experiments.
-- Guiding the students in the performance of practical task / exercise.
-- Ensuring the safety of the students, equipment and machinery while conducting lab class.
-- Assisting the students and faculty members in the fabrication of projects.
-- Making necessary arrangements for conducting university / model practical examinations.
-- Storage and accounting of raw materials, tools and instruments.
-- Arrangements for issuing of raw materials, tools and instruments for the experiment.
-- Take the guidance and suggestion from the Lab-In-Charge for the periodic and preventive maintenance, numbering of equipment, painting, calibration etc. Maintaining the lab by running the machinery periodically when the lab is free.
-- Any Damage of accessories and equipments by students must be brought to the notice of lab-in-charge.
-- Not allowing the students in lab during their theory class.
-- Providing all assistance to the Lab-in-charge in maintaining and running the laboratory smoothly and ensuring safety and security of the lab.
-- He/She is responsible for opening and closing of their concern Labs He/She is solely responsible for the all the equipments / machines and other materials available in the labs.
-- If anything is missing / lost it should be brought to the notice of concern HoD`s / Principal immediately, otherwise it will be recovered from your salary.
-- Hence, in order to ensure the safety all the lab assistants are instructed to seal your lab with your sign and date.
-- Don’t entertain any sweepers/attenders to clean the lab or machines in your absence
+
+Responsible for conducting the lab classes for that semester and particular subject. One or two teaching staff will assist him/her. Planning and designing the experiments to fulfil the curriculum. Ensuring discipline and attendance of the students. Explaining the theory and operation for the experiments. Checking and approving the observation book and correcting Laboratory records. Co-coordinating with Lab-in-charge for efficient and effective conducting of lab classes. Making necessary arrangements for conducting University / model practical examinations, assessing the performance and finalizing the marks. While conducting special classes, ensuring proper transport and canteen facilities for students / staff. Reporting to Lab-in-charge any damage of the equipment / defective then and there. Responsibility of Assisting Faculty : Lab Assistant / Instructor / Programmer During the practical classes, assisting the staff handling the lab classes in conducting experiments. Guiding the students in the performance of practical task / exercise. Ensuring the safety of the students, equipment and machinery while conducting lab class. Assisting the students and faculty members in the fabrication of projects. Making necessary arrangements for conducting university / model practical examinations. Storage and accounting of raw materials, tools and instruments. Arrangements for issuing of raw materials, tools and instruments for the experiment. Take the guidance and suggestion from the Lab-In-Charge for the periodic and preventive maintenance, numbering of equipment, painting, calibration etc. Maintaining the lab by running the machinery periodically when the lab is free. Any Damage of accessories and equipments by students must be brought to the notice of lab-in-charge. Not allowing the students in lab during their theory class. Providing all assistance to the Lab-in-charge in maintaining and running the laboratory smoothly and ensuring safety and security of the lab. He/She is responsible for opening and closing of their concern Labs He/She is solely responsible for the all the equipments / machines and other materials available in the labs. If anything is missing / lost it should be brought to the notice of concern HoD`s / Principal immediately, otherwise it will be recovered from your salary. Hence, in order to ensure the safety all the lab assistants are instructed to seal your lab with your sign and date. Don’t entertain any sweepers/attenders to clean the lab or machines in your absence
 
 # Responsibility of Professional Society Coordinator
-- Establish / renew one professional society per department such as IEEE, IETE, ISTE, CSI, ICTACT, ICI, SAE/SME, and IET.
-- Prepare annual plan of activity in consultation with HOD’s.
-- Make the student & faculty as member in at least any one of the society.
-- Through these societies organize minimum 2 or 3 GL/ Seminar, One Workshop in latest cutting edge technology/ COE, inter department competition like quiz, project expo, ideathon etc in coordination with Convener COE & Research Get the support from these organization to conduct technical symposium, National and International conference.
-- Organize social awareness camp/ events at school level/ orphanages.
-- Establish various clubs such as Energy Club, Photography Club, and Robotic Club etc. and organizing various technical & non-technical events for the members.
-- Organizing social activities such as Medical camp, Blood donation, Campus cleaning, Tree plantation, Dental/ Eye camps, Anti-ragging, Road safety, Clean & Green environment, Swatch Bharath etc. Plan the cultural activity once in a month (music, debate, Tamil pattimandram, dance, fine arts etc.).
-- Organize inter department cultural competition – inter college competition.
-- Organize skill development activity for the unemployed youths for in and around the village, school drop outs under NSS/ YRC.
-- Organize Women’s day celebration & women empowerment activities regularly.
-- Organize at least one competition for each club activities.
+
+Establish / renew one professional society per department such as IEEE, IETE, ISTE, CSI, ICTACT, ICI, SAE/SME, and IET. Prepare annual plan of activity in consultation with HOD’s. Make the student & faculty as member in at least any one of the society. Through these societies organize minimum 2 or 3 GL/ Seminar, One Workshop in latest cutting edge technology/ COE, inter department competition like quiz, project expo, ideathon etc in coordination with Convener COE & Research Get the support from these organization to conduct technical symposium, National and International conference. Organize social awareness camp/ events at school level/ orphanages. Establish various clubs such as Energy Club, Photography Club, and Robotic Club etc. and organizing various technical & non-technical events for the members. Organizing social activities such as Medical camp, Blood donation, Campus cleaning, Tree plantation, Dental/ Eye camps, Anti-ragging, Road safety, Clean & Green environment, Swatch Bharath etc. Plan the cultural activity once in a month (music, debate, Tamil pattimandram, dance, fine arts etc.). Organize inter department cultural competition – inter college competition. Organize skill development activity for the unemployed youths for in and around the village, school drop outs under NSS/ YRC. Organize Women’s day celebration & women empowerment activities regularly. Organize at least one competition for each club activities.
 
 # Responsibility of Floor Incharge
-- Maintain the cleanliness in their respective floor (class rooms, Labs, toilets etc..) Check if any electrical, plumbing and carpentry work is pending in the floor, action should initiate to sort out the issue immediately.
-- Monitoring deep cleaning work in their respective floors.
+
+Maintain the cleanliness in their respective floor (class rooms, Labs, toilets etc..) Check if any electrical, plumbing and carpentry work is pending in the floor, action should initiate to sort out the issue immediately. Monitoring deep cleaning work in their respective floors.

@@ -542,6 +542,12 @@ RULES:
 8. DEVELOPER & CREATOR ATTRIBUTION: If the user asks who created, built, or developed this chatbot, Lorin AI, Listen Zenify, ZenDrum Booking, or Zen Hostel, OR asks about "developer", "ram", "ramanathan", or "zendrum", identify **Ramanathan S.** (B.Tech IT, MSAJCE 2024-2028 batch) as the developer and ONLY tell them about Ramanathan. Do not confuse him with any other person. (Link: https://ramanathanportfolio.vercel.app)
 9. LINKS & URLS: Whenever a website link, official page URL, PDF download link, email address, or phone number is LITERALLY present in the SOURCES below, you MUST explicitly include the exact clickable link in your answer formatted as `[Link Title](https://...)` or plain URL. CRITICAL: Never invent, guess, or hallucinate links (such as LinkedIn profiles or external websites) that are NOT explicitly written in the SOURCES! If a link is not in the SOURCES, do not include a link.
 10. IMAGES & VISUAL MEDIA: If the user asks to see images, photos, or facilities, OR if image/media URLs (such as `.jpg`, `.png`, `.jpeg`, `.gif`) are present in the SOURCES for the requested topic (like sports, campus, labs, gym, events), you MUST include those image links in your answer formatted as markdown images: `![Image Description](image_url)` so they render visually in the chat!
+11. TRANSPORT QUERIES (COLLEGE BUS VS MTC BUS): When a user asks how to travel/reach the college from a specific area, or which bus goes to/passes through a specific stop:
+    - You MUST prioritize and check the COLLEGE BUSES (AR 3, AR 4, N/3, AR 6, AR 7, AR 8, AR 9, AR 10, R 22) first.
+    - If a college bus route stops at or near that place, state the College Bus Route number, departure time, and driver contact info.
+    - Mention MTC (public state transport) buses (such as 102, 105, 570, 221H, B19) only as secondary/alternative options.
+    - NEVER suggest MTC state transport as the primary option if a college bus route is available for that location.
+
 
 
 
@@ -597,6 +603,12 @@ RULES:
 8. DEVELOPER & CREATOR ATTRIBUTION: If the user asks who created, built, or developed this chatbot, Lorin AI, Listen Zenify, ZenDrum Booking, or Zen Hostel, OR asks about "developer", "ram", "ramanathan", or "zendrum", identify **Ramanathan S.** (B.Tech IT, MSAJCE 2024-2028 batch) as the developer and ONLY tell them about Ramanathan. Do not confuse him with any other person. (Link: https://ramanathanportfolio.vercel.app)
 9. LINKS & URLS: Whenever a website link, official page URL, PDF download link, email address, or phone number is LITERALLY present in the SOURCES below, you MUST explicitly include the exact clickable link in your answer formatted as `[Link Title](https://...)` or plain URL. CRITICAL: Never invent, guess, or hallucinate links (such as LinkedIn profiles or external websites) that are NOT explicitly written in the SOURCES! If a link is not in the SOURCES, do not include a link.
 10. IMAGES & VISUAL MEDIA: If the user asks to see images, photos, or facilities, OR if image/media URLs (such as `.jpg`, `.png`, `.jpeg`, `.gif`) are present in the SOURCES for the requested topic (like sports, campus, labs, gym, events), you MUST include those image links in your answer formatted as markdown images: `![Image Description](image_url)` so they render visually in the chat!
+11. TRANSPORT QUERIES (COLLEGE BUS VS MTC BUS): When a user asks how to travel/reach the college from a specific area, or which bus goes to/passes through a specific stop:
+    - You MUST prioritize and check the COLLEGE BUSES (AR 3, AR 4, N/3, AR 6, AR 7, AR 8, AR 9, AR 10, R 22) first.
+    - If a college bus route stops at or near that place, state the College Bus Route number, departure time, and driver contact info.
+    - Mention MTC (public state transport) buses (such as 102, 105, 570, 221H, B19) only as secondary/alternative options.
+    - NEVER suggest MTC state transport as the primary option if a college bus route is available for that location.
+
 
 
 
@@ -1193,10 +1205,19 @@ def chat_endpoint(req: ChatRequest, request: Request):
     retrieval_query = active_query  # use rewritten active_query for embedding/BM25
 
     # Transport Query Booster: If user asks about buses, routes, timings, or Chennai stops, force category to null & enrich search terms
-    is_transport_q = any(k in active_query.lower() for k in ["bus", "route", "stop", "timing", "velachery", "guindy", "kathipara", "tharamani", "medavakkam", "pallikaranai", "thoraipakkam", "ennore", "porur", "nemilichery", "uthiramerur", "moolakadai", "icf", "chunambedu"])
+    transport_keywords = [
+        "bus", "route", "stop", "timing", "velachery", "guindy", "kathipara", "tharamani", "medavakkam", 
+        "pallikaranai", "thoraipakkam", "ennore", "porur", "nemilichery", "uthiramerur", "moolakadai", 
+        "icf", "chunambedu", "tambaram", "adyar", "saidapet", "broadway", "central", "parrys", 
+        "perambur", "retteri", "padi", "ashok pillar", "poonnamalle", "sholinganallur", "kelambakkam", 
+        "sipcot", "maraimalai nagar", "guduvanchery", "perungalathur", "vandalur", "chrompet", 
+        "pallavaram", "thiruvanmiyur", "neelankarai", "akkarai", "perumpakkam", "kilkattalai", 
+        "madipakkam", "kovilampakkam", "transport", "travel"
+    ]
+    is_transport_q = any(k in active_query.lower() for k in transport_keywords)
     if is_transport_q:
         category = None
-        keywords = f"{keywords} bus route transport timings stops AR3 AR4 AR5 AR6 AR7 AR8 AR9 AR10 R22 MTC pallikaranai medavakkam velachery guindy kathipara"
+        keywords = f"{keywords} college bus route transport timings stops AR3 AR4 AR5 AR6 AR7 AR8 AR9 AR10 R22 MTC N/3"
 
     # Entity Resolution (Req 2.9)
     # If the user is asking about a person, attempt to resolve them to an entity_id

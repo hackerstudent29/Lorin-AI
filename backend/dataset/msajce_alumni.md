@@ -2,617 +2,498 @@
 
 
 ## 1. Overview
-- The Alumni Association of Mohamed Sathak A.J. College of Engineering extends a warm welcome to all its members to join and reconnect with their alma mater.
-- The primary objective of this association is to foster a strong intellectual and emotional bond between the alumni and **MSAJCE**, thereby promoting a sense of connectedness and community.
-- One of the key goals of the association is to establish and renew relationships between students, alumni, and **MSAJCE**, with the aim of providing a supportive network for future engineers.
-- To achieve this, the association encourages its members to participate enthusiastically in various activities organized by **MSAJCE**, promoting a spirit of goodwill and voluntary commitment.
-- The association also strives to provide assistance to students in need, offering financial support through funds and scholarships.
-- Furthermore, it aims to gather and maintain a comprehensive database of employment opportunities, facilitating placements and career growth for its members.
-- In addition, the association plans to arrange teaching and training classes for students, contributing to the overall upgrading of **MSAJCE** and its academic programs.
+
+The Alumni Association of Mohamed Sathak A.J. College of Engineering extends a warm welcome to all its members to join and reconnect with their alma mater. The primary objective of this association is to foster a strong intellectual and emotional bond between the alumni and **MSAJCE**, thereby promoting a sense of connectedness and community.
+
+One of the key goals of the association is to establish and renew relationships between students, alumni, and **MSAJCE**, with the aim of providing a supportive network for future engineers. To achieve this, the association encourages its members to participate enthusiastically in various activities organized by **MSAJCE**, promoting a spirit of goodwill and voluntary commitment.
+
+The association also strives to provide assistance to students in need, offering financial support through funds and scholarships. Furthermore, it aims to gather and maintain a comprehensive database of employment opportunities, facilitating placements and career growth for its members. In addition, the association plans to arrange teaching and training classes for students, contributing to the overall upgrading of **MSAJCE** and its academic programs.
 
 ## 2. Office Bearers
-- The current office bearers of the **MSAJCE** Alumni, serving from 2024 till now, include Dr. K.S. Dr. K.S. Srinivasan <!--ent_037--> as the President, Mr. Ahamed Jameel <!--ent_113--> A.M.T <!--ent_115--> as the Secretary, and an Administrative Officer as the Treasurer.
-- The Vice President is Mr. J. Abdul Rahman <!--ent_172-->, while Mr. Mohamed Yasar <!--ent_234--> serves as an Executive Member.
-- The Joint Secretaries are Mr. M.M. Syed Sultan Allaudeen <!--ent_206-->, Mr. Asim Ali <!--ent_129--> L <!--ent_130-->, and Mr. Abdul Majeed Shiblee <!--ent_101-->.
-- Other Executive Members include Mr. Noorul Jaman <!--ent_270-->, Mr. N. Naveen <!--ent_258-->, Mr. Mikail Ismail <!--ent_219-->, who also serves as the Program Coordinator, Mr. Mohammed Umar Farook <!--ent_247--> .B, Mr. Mano Raja <!--ent_211-->, Mr. N. Abdul Hameed <!--ent_256-->, Mr. Narenthiran <!--ent_264-->, Mr. T.H. Mohamed Jiavur Rahman <!--ent_371-->, Mr. Syed N Zaheer Abbas <!--ent_365-->, Mr. P. Nadir Khan <!--ent_271-->, Srikanth K, Ms. Misbah Khairunissa A <!--ent_467-->, Ms. Akila Rajesh <!--ent_444-->, Mr. Seyed Mohamed Mustafa.
-- H, Mr. Ram Kumar <!--ent_298--> C <!--ent_299-->, Mr. Themotheyu S <!--ent_374-->, Mr. Mohammed Khaja Nawaz A <!--ent_242-->, Mr. Mohammed Thaqiuddin N <!--ent_246-->, Mr. Harish N <!--ent_165-->, Mr. Diwakaran <!--ent_147--> k, Mr. Deepak V R <!--ent_144-->, Mr. Vineeth Baba K B <!--ent_390-->, and Mr. Firthouse Mohideen J K <!--ent_156-->.
-- In the 2023-2024 term, the office bearers were similar, with Dr. K.S. Dr. K.S. Srinivasan <!--ent_037--> serving as the President, Mr. Ahamed Jameel <!--ent_113--> A.M.T <!--ent_115--> as the Secretary, and Dr. S. Vijayakumar <!--ent_075--> as the Treasurer.
-- Mr. J. Abdul Rahman <!--ent_172--> was the Vice President, and Mr. Mohamed Yasar <!--ent_234--> was an Executive Member.
-- The Joint Secretaries were Mr. M.M. Syed Sultan Allaudeen <!--ent_206-->, Mr. Asim Ali <!--ent_129--> L <!--ent_130-->, and Mr. Abdul Majeed Shiblee <!--ent_101-->.
-- Other Executive Members included Mr. Noorul Jaman <!--ent_270-->, Mr. N. Naveen <!--ent_258-->, Mr. Mikail Ismail <!--ent_219-->, who also served as the Program Coordinator, Mr. Mohammed Umar Farook <!--ent_247--> .B, Mr. Mano Raja <!--ent_211-->, Mr. N. Abdul Hameed <!--ent_256-->, Mr. Narenthiran <!--ent_264-->, Mr. T.H. Mohamed Jiavur Rahman <!--ent_371-->, Mr. Syed N Zaheer Abbas <!--ent_365-->, Mr. P. Nadir Khan <!--ent_271-->, Srikanth K, Ms. Misbah Khairunissa A <!--ent_467-->, Ms. Akila Rajesh <!--ent_444-->, and Mr. Seyed Mohamed Mustafa.
-- H.
-- During the 2022-2023 term, Dr. K.S. Dr. K.S. Srinivasan <!--ent_037-->, the Principal, served as the President of the alumni association.
-- Mr. Ahamed Jameel <!--ent_113--> A.M.T <!--ent_115-->, an alumnus, took on the role of Secretary, while Dr. S. Vijayakumar <!--ent_075-->, the Administrative Officer, was the Treasurer.
-- The Executive Members for this term included Mr. J. Abdul Rahman <!--ent_172-->, Mr. Mohamed Yasar <!--ent_234-->, Mr. M.M. Syed Sultan Allaudeen <!--ent_206-->, Mr. Asim Ali <!--ent_129--> L <!--ent_130-->, Mr. Abdul Majeed Shiblee <!--ent_101-->, Mr. Kalidoss <!--ent_189-->, Mr. Noorul Jaman <!--ent_270-->, Mr. N. Naveen <!--ent_258-->, Ms. J. Stella Marry <!--ent_460-->, Mr. Mikali Ismail <!--ent_220-->, Mr. Mohammed Umar Farook <!--ent_247--> .B, Mr. Mano Raja <!--ent_211-->, Mr. N. Abdul Hameed <!--ent_256-->, Mr. Narenthiran <!--ent_264-->, and Mr. J. Prasanth.
-- In the preceding term, 2021-2022, the same leadership team was in place, with Dr. K.S. Dr. K.S. Srinivasan <!--ent_037--> as President, Mr. Ahamed Jameel <!--ent_113--> A.M.T <!--ent_115--> as Secretary, and Dr. S. Vijayakumar <!--ent_075--> as Treasurer.
-- The Executive Members for this term were also identical, consisting of Mr. J. Abdul Rahman <!--ent_172-->, Mr. Mohamed Yasar <!--ent_234-->, Mr. M.M. Syed Sultan Allaudeen <!--ent_206-->, Mr. Asim Ali <!--ent_129--> L <!--ent_130-->, Mr. Abdul Majeed Shiblee <!--ent_101-->, Mr. Kalidoss <!--ent_189-->, Mr. Noorul Jaman <!--ent_270-->, Mr. N. Naveen <!--ent_258-->, Ms. J. Stella Marry <!--ent_460-->, Mr. Mikali Ismail <!--ent_220-->, Mr. Mohammed Umar Farook <!--ent_247--> .B, Mr. Mano Raja <!--ent_211-->, and Mr. J. Prasanth.
-- The 2020-2021 term saw a different leadership team, with Dr. K.S. Dr. K.S. Srinivasan <!--ent_037--> as President and Mr. J. Kalidoss <!--ent_173-->, an alumnus, as Vice President.
-- Dr. R. Senthilkumar <!--ent_059-->, the HOD/MECH, took on the role of Secretary, while Dr. S. Vijayakumar <!--ent_075-->, the Administrative Officer, was the Treasurer.
-- The Executive Members for this term included Dr. S. Prasath <!--ent_073-->, Mrs. K. Saipriya <!--ent_414-->, Mr. A. Abdul Gafoor <!--ent_089-->, Mr. Mikali Ismail <!--ent_220-->, Mr. Ahamed Jameel <!--ent_113--> A.M.T <!--ent_115-->, Mr. Syed Mosin Akram <!--ent_364-->, Mr. Salman Akram <!--ent_331-->, Mr. Shaik Suhail Ahmed <!--ent_347-->, Mr. Shahul Hameed Sirajdeen <!--ent_344-->, Mr. Nishathul Hasan <!--ent_268-->, Mr. Mohammed Aslam <!--ent_238-->, and Mr. Vignesh <!--ent_386--> Rajendiran.
+
+The current office bearers of the **MSAJCE** Alumni, serving from 2024 till now, include Dr. K.S. Dr. K.S. Srinivasan <!--ent_037--> as the President, Mr. Ahamed Jameel <!--ent_113--> A.M.T <!--ent_115--> as the Secretary, and an Administrative Officer as the Treasurer. The Vice President is Mr. J. Abdul Rahman <!--ent_172-->, while Mr. Mohamed Yasar <!--ent_234--> serves as an Executive Member. The Joint Secretaries are Mr. M.M. Syed Sultan Allaudeen <!--ent_206-->, Mr. Asim Ali <!--ent_129--> L <!--ent_130-->, and Mr. Abdul Majeed Shiblee <!--ent_101-->. Other Executive Members <!--ent_103--> include Mr. Noorul Jaman <!--ent_270-->, Mr. N. Naveen <!--ent_258-->, Mr. Mikail Ismail <!--ent_219-->, who also serves as the Program Coordinator, Mr. Mohammed Umar Farook <!--ent_247--> .B, Mr. Mano Raja <!--ent_211-->, Mr. N. Abdul Hameed <!--ent_256-->, Mr. Narenthiran <!--ent_264-->, Mr. T.H. Mohamed Jiavur Rahman <!--ent_371-->, Mr. Syed N Zaheer Abbas <!--ent_365-->, Mr. P. Nadir Khan <!--ent_271-->, Srikanth K, Ms. Misbah Khairunissa A <!--ent_467-->, Ms. Akila Rajesh <!--ent_444-->, Mr. Seyed Mohamed Mustafa. H <!--ent_341-->, Mr. Ram Kumar <!--ent_298--> C <!--ent_299-->, Mr. Themotheyu S <!--ent_374-->, Mr. Mohammed Khaja Nawaz A <!--ent_242-->, Mr. Mohammed Thaqiuddin N <!--ent_246-->, Mr. Harish N <!--ent_165-->, Mr. Diwakaran <!--ent_147--> k, Mr. Deepak V R <!--ent_144-->, Mr. Vineeth Baba K B <!--ent_390-->, and Mr. Firthouse Mohideen J K <!--ent_156-->.
+
+
+In the 2023-2024 term, the office bearers were similar, with Dr. K.S. Dr. K.S. Srinivasan <!--ent_037--> serving as the President, Mr. Ahamed Jameel <!--ent_113--> A.M.T <!--ent_115--> as the Secretary, and Dr. S. Vijayakumar <!--ent_075--> as the Treasurer. Mr. J. Abdul Rahman <!--ent_172--> was the Vice President, and Mr. Mohamed Yasar <!--ent_234--> was an Executive Member. The Joint Secretaries were Mr. M.M. Syed Sultan Allaudeen <!--ent_206-->, Mr. Asim Ali <!--ent_129--> L <!--ent_130-->, and Mr. Abdul Majeed Shiblee <!--ent_101-->. Other Executive Members <!--ent_103--> included Mr. Noorul Jaman <!--ent_270-->, Mr. N. Naveen <!--ent_258-->, Mr. Mikail Ismail <!--ent_219-->, who also served as the Program Coordinator, Mr. Mohammed Umar Farook <!--ent_247--> .B, Mr. Mano Raja <!--ent_211-->, Mr. N. Abdul Hameed <!--ent_256-->, Mr. Narenthiran <!--ent_264-->, Mr. T.H. Mohamed Jiavur Rahman <!--ent_371-->, Mr. Syed N Zaheer Abbas <!--ent_365-->, Mr. P. Nadir Khan <!--ent_271-->, Srikanth K, Ms. Misbah Khairunissa A <!--ent_467-->, Ms. Akila Rajesh <!--ent_444-->, and Mr. Seyed Mohamed Mustafa. H <!--ent_341-->.
+
+During the 2022-2023 term, Dr. K.S. Dr. K.S. Srinivasan <!--ent_037-->, the Principal, served as the President of the alumni association. Mr. Ahamed Jameel <!--ent_113--> A.M.T <!--ent_115-->, an alumnus, took on the role of Secretary, while Dr. S. Vijayakumar <!--ent_075-->, the Administrative Officer, was the Treasurer. The Executive Members for this term included Mr. J. Abdul Rahman <!--ent_172-->, Mr. Mohamed Yasar <!--ent_234-->, Mr. M.M. Syed Sultan Allaudeen <!--ent_206-->, Mr. Asim Ali <!--ent_129--> L <!--ent_130-->, Mr. Abdul Majeed Shiblee <!--ent_101-->, Mr. Kalidoss <!--ent_189-->, Mr. Noorul Jaman <!--ent_270-->, Mr. N. Naveen <!--ent_258-->, Ms. J. Stella Marry <!--ent_460-->, Mr. Mikali Ismail <!--ent_220-->, Mr. Mohammed Umar Farook <!--ent_247--> .B, Mr. Mano Raja <!--ent_211-->, Mr. N. Abdul Hameed <!--ent_256-->, Mr. Narenthiran <!--ent_264-->, and Mr. J. Prasanth.
+
+In the preceding term, 2021-2022, the same leadership team was in place, with Dr. K.S. Dr. K.S. Srinivasan <!--ent_037--> as President, Mr. Ahamed Jameel <!--ent_113--> A.M.T <!--ent_115--> as Secretary, and Dr. S. Vijayakumar <!--ent_075--> as Treasurer. The Executive Members for this term were also identical, consisting of Mr. J. Abdul Rahman <!--ent_172-->, Mr. Mohamed Yasar <!--ent_234-->, Mr. M.M. Syed Sultan Allaudeen <!--ent_206-->, Mr. Asim Ali <!--ent_129--> L <!--ent_130-->, Mr. Abdul Majeed Shiblee <!--ent_101-->, Mr. Kalidoss <!--ent_189-->, Mr. Noorul Jaman <!--ent_270-->, Mr. N. Naveen <!--ent_258-->, Ms. J. Stella Marry <!--ent_460-->, Mr. Mikali Ismail <!--ent_220-->, Mr. Mohammed Umar Farook <!--ent_247--> .B, Mr. Mano Raja <!--ent_211-->, and Mr. J. Prasanth.
+
+The 2020-2021 term saw a different leadership team, with Dr. K.S. Dr. K.S. Srinivasan <!--ent_037--> as President and Mr. J. Kalidoss <!--ent_173-->, an alumnus, as Vice President. Dr. R. Senthilkumar <!--ent_059-->, the HOD/MECH, took on the role of Secretary, while Dr. S. Vijayakumar <!--ent_075-->, the Administrative Officer, was the Treasurer. The Executive Members for this term included Dr. S. Prasath <!--ent_073-->, Mrs. K. Saipriya <!--ent_414-->, Mr. A. Abdul Gafoor <!--ent_089-->, Mr. Mikali Ismail <!--ent_220-->, Mr. Ahamed Jameel <!--ent_113--> A.M.T <!--ent_115-->, Mr. Syed Mosin Akram <!--ent_364-->, Mr. Salman Akram <!--ent_331-->, Mr. Shaik Suhail Ahmed <!--ent_347-->, Mr. Shahul Hameed Sirajdeen <!--ent_344-->, Mr. Nishathul Hasan <!--ent_268-->, Mr. Mohammed Aslam <!--ent_238-->, and Mr. Vignesh <!--ent_386--> Rajendiran.
 
 ## 3. MSEC Alumni Association Registration Certificate
 
 ## 4. MSEC Alumni Association Reports
 
 ## 5. Alumini Contribution
-- On April 17, 2026, the Silver Jubilee Event took place, where Anbazhagan, Saranraj Saravanan, and Mohammed Ateeq served as Alumni Guests of Honour.
-- Earlier, on April 8, 2026, Abdur Rahim Saleh, CEO of V5 Innovations, participated as an alumnus in the Engineers Edge 3.0 programme.
-- Deepak, an alumnus from the 2011-2015 batch, attended the AAC Meeting on February 13, 2026.
-- In September 2025, Diwakaran, Managing Director of DKM Enterprises, delivered a session titled "My Story Successful Innovators." Around the same time, Ahamed Jameel, Alumni Secretary, played a crucial role in helping students secure placements.
-- On September 8, 2025, one student from the EEE Department got placed in "The BIM Engineers" Company, thanks to Ahamed Jameel's reference.
-- Furthermore, his reference also led to the placement of six students from the AIDS and CSBS Departments in internships at StayIndiaDigital on July 10, 2025, and three students from the same departments on July 1, 2025.
-- Aniruddhan Narayanan, an alumnus from the 2006-2010 batch, was the Guest of Honour for the Project X Hackathon session on April 10, 2025.
-- On International Women's Day, March 8, 2025, Ms. Vani Parachuri <!--ent_494--> from the 2003-2007 batch and Ms. P.Rosiah <!--ent_470--> from the 2006-2010 batch were honoured with the Women Achiever Award.
-- The Silver Jubilee Reunion Meet 2025 took place on February 1, 2025, at the **MSAJCE** Alumni Sports Pavilion, which was donated by the alumni of the 2001-2005 batch and the **MSAJCE** Alumni Association.
-- The event saw the participation of over 500 alumni.
-- In the latter half of 2024, several sessions were conducted by alumni.
-- Naveen Zahir, Founder and CEO of Drop Truck, delivered a session on "From Idea to Impact: Exploring Opportunities in the Startup Eco System" on December 4, 2024.
-- Diwakaran, Managing Director of KDM Enterprises, conducted a session on "Core Industries Unlocked - Pathways for tomorrow innovators" on December 3, 2024.
-- Imran Javeed, Assistant Professor at Veltech University, spoke on "Electro Magnetic Fields in Modern Application" on November 28, 2024.
-- Shiblee, Founder of Debugger Shirts, delivered a motivational session on November 20, 2024.
-- Juveriya Khan, Senior Quality Assurance Manager at DMCG, Dubai, discussed "Empowering our Educational Journey the role of Quality Assurance" on November 14, 2024.
-- Lubna Amathul Wadhoodh, PMP, Product Consultant at Vembu Technologies, spoke on "Preparing for the Future: Skills, Technologies and Mindset for Engineering Students" on October 25, 2024.
-- Titus Vimalraj, Front End Engineer at Amazon, conducted a session on "Front Static Pages to dynamic Applications" on September 14, 2024.
-- Earlier in 2024, around 17 alumni participated in the Alumni Association Meet on March 9, 2024, to discuss upcoming activities for **MSAJCE** students' welfare.
-- On January 6, 2024, Ms. Misbah Khairunissa A <!--ent_467--> interacted with college students and provided counselling during a mentoring session.
-- In the 2023-2024 term, several alumni of Mohamed Sathak A.J. College of Engineering made significant contributions to **MSAJCE** community.
-- For instance, Shanmugasarathy, an alumnus, hired a student from the 2023 batch for his company, Lightenz Technovations Pvt Ltd, on January 5, 2024.
-- On December 1, 2023, **MSAJCE** was awarded one of the best colleges in OMR by GRT jewellers, and all the teaching staff received personalized certificates for their efforts in moulding the future minds of India.
-- This honor was conceptualized and executed by alumnus Ashwin.C and his team.
-- In November 2023, alumna Akila Rajesh participated in an awareness session titled "You are important" on the 25th.
-- Earlier that month, on November 2, alumni Karthikeyan and Lubna Amathul participated as guests of honor at the Engineer's Edge 2k23 event.
-- The Alumni Association Meet, held on October 28, 2023, saw the participation of around 16 alumni, who discussed upcoming activities for the welfare of college students.
-- A month earlier, on September 30, 23 alumni from various departments and batches participated in the NBA inspection.
-- In September 2023, several alumni conducted sessions on various topics.
-- On September 15, Rahul Murali, Product Manager at Thoughtworks, and Vinoth Kumar Manickam, Lead Developer at Striven, spoke about opportunities in the IT world.
-- Two days earlier, on September 13, Sivanathan, Manager of Software Engineering at ADF Data Science Pvt Limited, delivered a session on Solid Principle.
-- Mohamed Ateeq, Senior Engineer at Hubbel Incorporated Chennai, spoke about revolutionizing design efficiency and unleashing the power of CAD automation on September 9.
-- Umar Farooq from KK Wind Solutions India Private Limited Chennai discussed procurement and supply chain management on September 2.
-- In August 2023, alumni continued to contribute to **MSAJCE** through various sessions.
-- FHM Afzal Bijli, Founder of Webxo360, spoke about AWS and hosting static and dynamic websites on August 12.
-- A session on VLSI was arranged by the **MSAJCE** Alumni Association, with Md Ilyas, CEO of an e-learning platform and IT expert, as the resource person on August 23.
-- Akther Ilyas, Founder of Skit Media, spoke about early-stage entrepreneurship on August 2.
-- Arun Natarajan, Principal Consultant at Emirates Bank Dubai, delivered a session on Devops, Kubernets, and containers on August 8.
-- Shaik Fathaullah S, Technical Sales Engineer at Daystar Solar, discussed solar PV system basics and commercial overview on August 4.
-- In July 2023, alumni Sabarish, Founder of Sportasy, provided internship opportunities to three students from the IT department, while Ahamed Jameel A.M.T, Alumni Secretary, helped three students from the CSE department get placed at Platform 3 Solutions.
-- Earlier in June 2023, Syed Faiyaz Hussain, Digital Product Manager at Elevance Health, spoke about career guidance and job opportunities on June 28.
-- V.Ganesh, Managing Director of JFX Events & Media, provided internship opportunities to 15 students from the CSE department on June 21.
-- Majed Arafat A, IT Consultant at TCS, delivered a session on robotics on May 10, 2023.
-- On various occasions, the **MSAJCE** Alumni Association organized sessions and events that benefited the students and alumni alike.
-- For instance, on 5th April 2023, Alumni Sarathy, a Consultant Embedded System Architect, conducted a session on Embedded System.
-- Similarly, on 30th March 2023, Alumni Abur Raheem, Founder and Director of V5 Innovation, delivered a motivational speech as a guest lecturer.
-- Alumni Anbazhagan A T, Technical Manager at CTS, led a session on Voice over IP on 22nd March 2023, while Alumni Md Afroze, Managing Director of J Digitals, spoke about Digital Marketing on 17th March 2023.
-- The **MSAJCE** Alumni Association also arranged for external trainers to conduct sessions.
-- For example, on 10th March 2023, Anisha from Intel Corporation led a session on AI Technology.
-- Furthermore, the association organized an Alumni Meet for the 2009-2020 batch on 11th February 2023, which saw the participation of over 300 alumni.
-- Additionally, 16 alumni from various departments and batches participated in the NAAC Inspection meeting on 23rd January 2023.
-- To promote entrepreneurship skills, the association organized an event on National Youth Day, where Alumni Md Rameez, Founder of Zeemrah Energy, and Alumni Zubair, Proprietor of USITE, shared their insights on 12th January 2023.
-- Moreover, Alumni Mr. Ahamed Jameel <!--ent_113-->, Technical Consultant at HCL, facilitated student internships at Hasna Technology, Chennai, on 2nd November 2022.
-- In the same year, students from the CSE and IT departments participated in a debugging activity for a new app developed by Edvoy technologies Pvt Ltd, Chennai, under the guidance of Alumni Mohamed Yasar on 3rd December 2022.
-- Alumni Mr. Mohamed Afrose <!--ent_223-->, CEO of J Digital, conducted a placement recruitment drive on 10th November 2022.
-- Mrs. Akila Rajesh <!--ent_398-->, Head of Sales and Marketing at Voora Property Developers Pvt Ltd, led a session on Interpersonal Skills on 3rd December 2022.
-- Other notable events include a session on How to Positively Face HR Interviews by Alumni Syed Haja Shreef S, Recruitment Specialist at Sacalene Pepole Works Solution, on 23rd September 2022.
-- Alumni Mohamed Samir conducted a seminar on Cyber Security Trends and Hygiene on 19th November 2022.
-- Alumni Mohamed Hussain TR, Senior DevOps Engineer at Intel Corporation, conducted an online mock interview on HR and technical interviews for final-year students on 5th November 2022.
-- Alumni Misbah Khairunnisa, Senior Manager of Organizational Development at Savista, delivered a motivational talk on 15th October 2022.
-- Alumni Mr. Asim Ali <!--ent_129-->, CMO of Customer Labs, facilitated student internships at Customer Labs, Chennai, on 2nd August 2022.
-- A cricket match was also organized between the Alumni Association members and current juniors on 27th August 2022.
-- The Placement Training Program saw the participation of several alumni, including Saravanan Perumal from L&T, who delivered a technical presentation on 4th August 2022.
-- Alumni Mr. G. Abdur Rahman Salih <!--ent_158-->, CEO of V5, spoke about recent trends, challenges, and opportunities in the current scenario on 3rd August 2022.
-- Alumni Saravanan Perumal, Principal Consultant at Wipro Technologies, conducted a webinar on DevOps Automation on 12th August 2021.
-- In the past, the association had also organized international webinars, such as the one on the Art of Thinking Big, conducted by Mr. A. Aadil Ibrahim A <!--ent_088-->, Founder of Cameraman, on 11th June 2020.
-- Mr. M. Prabakaran <!--ent_201-->, a Senior Software Architect at Caterpillar and an alumnus of **MSAJCE**, participated as a resource person for the Faculty Development Programme (FDP) on Embedded & IoT Boot Camp on 29th May 2019.
-- On 9th January 2019, Mr. Syed Haja Sheriff <!--ent_363-->, an alumnus from the ECE department, demonstrated exceptional performance in recruitment.
-- The Md Sathak Group of Institutions participated in an Entrepreneur Meeting, which was attended by several alumni.
-- This meeting was a significant event that brought together entrepreneurs and alumni to discuss various aspects of entrepreneurship.
-- On 4th October 2025, **MSAJCE** celebrated Engineers Day, which was attended by several distinguished alumni.
-- The attendees included Rajeswari Kumaresan from Cisco Systems Inc, USA; Ranjani Rajagopalan, Senior Technical Lead at Mphasis; Benny Diwakar S, Assistant Vice President at Bank of America; Sheik Mohamed Rizwan, Associate Manager at DXC TECHNOLOGY; Pavithra Elumalai, IT Consultant at TCS; Shanmugam V, CEO of Zyple Software Solutions Pvt Ltd; Mohammed Rameez, Founder of Zeemrah Energy; Gatheejathul Kubra, Founder of Sha's Online Academy; Manimala, Data Analyst at Akamai Technology; Aniruddhan Narayanan, Business Analyst-Manager at Pfizer Healthcare India Pvt Ltd; Fayaz Ahamed, Senior Solution Architect at Recode Solutions; Noorul Jaman J, Senior Manager Product at Mindgate Solutions Pvt Ltd; Abrar Ahamed, Enterprise Applications Consultant at Commercial Bank of Dubai, Dubai; Aswin Panneerselvam, Director at Spark Group, India, Zambia, Kenya, UAE; N.Nazhrudeen, Business Head at Xperthom Technologies; Nasarullah, Senior Techno Functional Lead at Wipro Limited, Dubai; Razik Fareed, Senior Director at YUBI; Syed Atheeq Ur Rahman, Manager at Bahwan Cybertek; H Barakath Nisha, Senior Software Engineer at Wipro Limited; Linga Prabhu V, CEO of Mithran Engineering; Narenthiran, Team Lead - Software Engineer at Virtana Corporation; AbdulHameed N, Manager at Rambal Hitech Engineers; Jamal Shagul Ameedh, Commercial Manager at General Electric (GE); Mohamed Fazil, Senior Instrument Engineer at Equate Petrochemical, Kuwait; and Meeraan Sha, Software Technical Consultant at Zoho Corporation.
-- On 7th August 2025, Aniruddhan Narayanan, Manager at Pfizer Healthcare India Pvt Ltd and an alumnus of **MSAJCE**, conducted a session on "An Introduction to Industry Preparedness".
-- Deepak, Chief Technology Officer at MH Doodle Solutions and an alumnus, delivered a session on "How to Get Yourself into IT Sector" on 6th August 2025.
-- Deepak, who belongs to the 2011-2015 batch, also attended the Academic Advisory Board Meeting on 16th July 2025.
-- The Silver Jubilee Reunion Meet 2025 was a grand event that took place on 1st February 2025.
-- During the event, Ahamed Jameel A.M.T from the 2001-2005 batch received the Lifetime Achievement Award, while J.Abdul Rahaman from the same batch received the Outstanding Alumni Award.
-- M.M. Syed Sultan Allaudeen from the 2003-2007 batch and Yasar from the 2002-2006 batch were both conferred with the Distinguished Service Award.
-- Asim Ali L received the Outstanding Young Alumni Award for 2025.
-- On October 26, 2024, the Alumni Association Meet took place, with around 23 alumni participating in discussions about upcoming activities for the welfare of college students.
-- Engineers Day 2024 was celebrated on September 16, 2024, with several notable alumni in attendance.
-- Md Kamaal Yasin, an Associate Consultant at TCS, was joined by A.S. Balagurunathan, a Project Manager at HCL Tech, Chandra Bose, the Deputy General Manager at CMA CGM GBSI PVT Ltd, Ameena Bathool, a Senior Technical Writer at Zuora India Pvt Ltd, Sivanathan Balaguru, the Manager of Software Engineering at ADF Datascience pvt ltd, and Sabarish SR, the Founder and CEO of Blossomfield Gamingzone Pvt Ltd.
-- Rahul Murali, a Product Manager at Thoughtworks Technologies, was invited as the guest of honor for the First Year Induction on September 9, 2024.
-- Earlier in the year, on July 8, 2024, Dr. Ezhilazhagan C <!--ent_021-->, an Associate Professor at Veltech, attended the Planning and Monitoring committee meeting as an alumnus.
-- Deepak VR, a Senior Data Engineer at Manuh Solutions Pvt Ltd, participated in the Overall Board of Studies Meeting on July 6, 2024.
-- Akila Rajeshwari, an Associate Vice President at Casagrand Builder Private Limited, attended the Board of Studies meet for the Civil Department on June 18, 2024.
-- Sivanathan, the Manager at ADF Data Science Pvt Ltd, attended the Board of Studies meet for the Faculty CSE and IT Department on May 28, 2024.
-- Sheikh Azharuddin, the IT Operation Head at NRFSI, was invited as the guest of honor for the International Conference on Research and Development in Engineering, Science, and Technology on May 24, 2024.
-- Suresh Kumar, a Scientist, was invited as the guest of honor for the Annual Day Celebration on March 9, 2024.
-- Aadil Ibrahim, an Entrepreneur and Public Speaker, was invited as the guest of honor for the Festaverse Celebration on March 5, 2024.
-- Lakshmi Narayanan, a Senior HR from Valeo, was invited as the guest of honor for the Women's Day Celebration on March 4, 2024.
-- Majed Arafat attended the Planning and Monitoring Board Meeting on December 16, 2023.
-- Ahamed Jameel, the Alumni Secretary, and Srikkanth K, an Alumni Executive Member, attended the Academic Advisory Board Meeting on December 9, 2023.
-- During the Golden Jubilee Celebration at Mohamed Sathak Trust in Keelakari on October 14, 2023, Ahamed Jameel, the Alumni Secretary, received the "Best Alumni Service Award." Md Rizwan and Purushothaman were honored as guests of honor.
-- Engineers Day 2023 was celebrated on September 16, 2023, with several notable alumni in attendance.
-- Majed Arafat A, an IT Consultant at TCS, was joined by Abdurrahim Salih, the Best Entrepreneur at GV Academy of Education, Misbah Khairunnissa, a Senior Manager at Savista, S Ram Prabhu, a Senior QA Engineer at QBurst Technologies Private limited, and Mikail Ismail, a Technical Writer at KLA.
-- Sheikh Azharuddin, the IT Operation Head at Nissan Renault Financial Services India Ltd, was invited as the guest of honor for the First Year Induction on September 11, 2023.
-- Majed Arafat, an IT Consultant at TCS, Jaleel, the Founder of Kings Travels, and Samir, a Cyber Security Manager at Fidelity National Financial, attended the Planning and Monitoring Meeting on May 20, 2023.
-- On May 13, 2023, Alumni Secretary Ahamed Jameel, along with Alumni Misbah, Senior HR Manager at Savista, and Alumni Shiblee, Founder of Debugger, attended the Academic Advisory Board Meeting.
-- Earlier, on March 24, 2023, Alumni Nazeef Hussain was invited as the Guest of Honour.
-- Alumni Secretary Ahamed Jameel, Alumni Abdul Rahman, Managing Director of Blue Bell Business Management, and Alumni Sathish Charan, a Writer/Director in the Film Industry, were invited as Guests of Honour for the Annual Day Celebration on March 18, 2023.
-- On March 12, 2023, Alumni Secretary Ahamed Jameel and Alumni Sabarish inaugurated the BSM Cricket Trophy as Guests of Honour.
-- Akila Rajesh, Sales and Marketing Head at Voora Property Developer Pvt Ltd, was invited as the Guest of Honour for the Women's Day Celebration on March 10, 2023.
-- On February 1, 2023, Ahamed Jameel, the Alumni Secretary, received the **MSAJCE**'s Outstanding Alumni Award for 2023 during the Alumni Meet.
-- Lakshmi Narayanan from Societe General, HR Talent Acquisition, was invited as the Guest of Honour for the First Year Induction on November 14, 2022.
-- On October 29, 2022, Mr. Ahamed Jameel <!--ent_113-->, Technical Consultant at HCL and Alumni Association Secretary, gave a speech to **MSAJCE** graduates as a Special Guest during the Graduation Day.
-- Alumni K Srikkant, Technical Architects at Teleapps, and Mohamed Afroze, CEO of Jdigitals, participated as Guests of Honour for the Symposium Tech Unity on October 28, 2022.
-- The First Alumni Association Meet in Chennai was organized by **MSAJCE** on October 15, 2022.
-- On October 2, 2022, Alumni K Srikanth, Technical Architect at Standard Chartered, and Alumni Afroze, CEO of J Digital, were invited as Guests of Honour for the Inter college Symposium Event.
-- Ahamed Jameel, Technical Consultant at HCL, attended the Academic Advisory Board Meeting on October 1, 2022, where N Feroz Khan, Delivery Manager at MAERSK, Chennai, was appointed as a Governing Council Member for **MSAJCE**.
-- During the Engineers Day Celebration on September 17, 2022, Ahamed Jameel, Technical Consultant at HCL, was awarded the Best Alumni of the Decade.
-- The Best Engineers Awards were given to J Abdul Rahman, Managing Director of Blue Bell Business Management, Chennai; MM Syed Sultan Allaudeen, Managing Director of MM Internationals, Chennai; A Raju, Infra Technology Manager at CITS, Chennai; L Asim Ali, Chief Marketing Officer at Customer Labs, Chennai; and N Feroz Khan, Delivery Manager at MAERSK, Chennai.
-- On the same day, J Abdul Rahman, MM Syed Sultan Allaudeen, A Raju, L Asim Ali, N Feroz Khan, and Ahamed Jameel were invited as Jury members for **MSAJCE** Juniors Project Exhibition.
-- Alumni Dr. Ezhil <!--ent_020--> was invited as the Chief Guest for Teachers Day on September 3, 2022, and was awarded the Best Teacher of the year by **MSAJCE**.
-- The Alumni Meet for the 2008, 2009, and 2010 batches was organized by **MSAJCE** on March 5, 2022.
-- On October 23, 2021, **MSAJCE** honored several alumni with the Best Engineers award during the Engineers Day Event.
-- The recipients of this prestigious award included Alumni Saravanan, Ashiq, Ganesh, Shiblee, Thahir, and Jaleel, who were recognized for their outstanding contributions to their respective fields.
-- A day prior to the Engineers Day Event, on October 22, 2021, Alumni Ashwin C, Director of Pixtronics, was invited as the Guest of Honour for the First Year Induction ceremony.
-- This event provided an opportunity for the new students to interact with a successful alumnus and gain valuable insights from his experiences.
-- Earlier in the year, on February 13, 2021, **MSAJCE** organized an Alumni Meet specifically for the batches of 2005, 2006, and 2007.
-- This event brought together alumni from these batches, providing a platform for them to reconnect with their alma mater and fellow graduates.
+
+On April 17, 2026, the Silver Jubilee Event took place, where Anbazhagan, Saranraj Saravanan, and Mohammed Ateeq served as Alumni Guests of Honour. Earlier, on April 8, 2026, Abdur Rahim Saleh, CEO of V5 Innovations, participated as an alumnus in the Engineers Edge 3.0 programme. Deepak, an alumnus from the 2011-2015 batch, attended the AAC Meeting on February 13, 2026.
+
+In September 2025, Diwakaran, Managing Director of DKM Enterprises, delivered a session titled "My Story Successful Innovators." Around the same time, Ahamed Jameel, Alumni Secretary, played a crucial role in helping students secure placements. On September 8, 2025, one student from the EEE Department got placed in "The BIM Engineers" Company, thanks to Ahamed Jameel's reference. Furthermore, his reference also led to the placement of six students from the AIDS and CSBS Departments in internships at StayIndiaDigital on July 10, 2025, and three students from the same departments on July 1, 2025.
+
+Aniruddhan Narayanan, an alumnus from the 2006-2010 batch, was the Guest of Honour for the Project X Hackathon session on April 10, 2025. On International Women's Day, March 8, 2025, Ms. Vani Parachuri <!--ent_494--> from the 2003-2007 batch and Ms. P.Rosiah <!--ent_470--> from the 2006-2010 batch were honoured with the Women Achiever Award.
+
+The Silver Jubilee Reunion Meet 2025 took place on February 1, 2025, at the **MSAJCE** Alumni Sports Pavilion, which was donated by the alumni of the 2001-2005 batch and the **MSAJCE** Alumni Association. The event saw the participation of over 500 alumni.
+
+In the latter half of 2024, several sessions were conducted by alumni. Naveen Zahir, Founder and CEO of Drop Truck, delivered a session on "From Idea to Impact: Exploring Opportunities in the Startup Eco System" on December 4, 2024. Diwakaran, Managing Director of KDM Enterprises, conducted a session on "Core Industries Unlocked - Pathways for tomorrow innovators" on December 3, 2024. Imran Javeed, Assistant Professor at Veltech University, spoke on "Electro Magnetic Fields in Modern Application" on November 28, 2024. Shiblee, Founder of Debugger Shirts, delivered a motivational session on November 20, 2024. Juveriya Khan, Senior Quality Assurance Manager at DMCG, Dubai, discussed "Empowering our Educational Journey the role of Quality Assurance" on November 14, 2024. Lubna Amathul Wadhoodh, PMP, Product Consultant at Vembu Technologies, spoke on "Preparing for the Future: Skills, Technologies and Mindset for Engineering Students" on October 25, 2024. Titus Vimalraj, Front End Engineer at Amazon, conducted a session on "Front Static Pages to dynamic Applications" on September 14, 2024.
+
+Earlier in 2024, around 17 alumni participated in the Alumni Association Meet on March 9, 2024, to discuss upcoming activities for **MSAJCE** students' welfare. On January 6, 2024, Ms. Misbah Khairunissa A <!--ent_467--> interacted with college students and provided counselling during a mentoring session.
+
+In the 2023-2024 term, several alumni of Mohamed Sathak A.J. College of Engineering made significant contributions to **MSAJCE** community. For instance, Shanmugasarathy, an alumnus, hired a student from the 2023 batch for his company, Lightenz Technovations Pvt Ltd, on January 5, 2024. 
+
+On December 1, 2023, **MSAJCE** was awarded one of the best colleges in OMR by GRT jewellers, and all the teaching staff received personalized certificates for their efforts in moulding the future minds of India. This honor was conceptualized and executed by alumnus Ashwin.C and his team. 
+
+In November 2023, alumna Akila Rajesh participated in an awareness session titled "You are important" on the 25th. Earlier that month, on November 2, alumni Karthikeyan and Lubna Amathul participated as guests of honor at the Engineer's Edge 2k23 event. 
+
+The Alumni Association Meet, held on October 28, 2023, saw the participation of around 16 alumni, who discussed upcoming activities for the welfare of college students. A month earlier, on September 30, 23 alumni from various departments and batches participated in the NBA inspection. 
+
+In September 2023, several alumni conducted sessions on various topics. On September 15, Rahul Murali, Product Manager at Thoughtworks, and Vinoth Kumar Manickam, Lead Developer at Striven, spoke about opportunities in the IT world. Two days earlier, on September 13, Sivanathan, Manager of Software Engineering at ADF Data Science Pvt Limited, delivered a session on Solid Principle. Mohamed Ateeq, Senior Engineer at Hubbel Incorporated Chennai, spoke about revolutionizing design efficiency and unleashing the power of CAD automation on September 9. Umar Farooq from KK Wind Solutions India Private Limited Chennai discussed procurement and supply chain management on September 2. 
+
+In August 2023, alumni continued to contribute to **MSAJCE** through various sessions. FHM Afzal Bijli, Founder of Webxo360, spoke about AWS and hosting static and dynamic websites on August 12. A session on VLSI was arranged by the **MSAJCE** Alumni Association, with Md Ilyas, CEO of an e-learning platform and IT expert, as the resource person on August 23. Akther Ilyas, Founder of Skit Media, spoke about early-stage entrepreneurship on August 2. Arun Natarajan, Principal Consultant at Emirates Bank Dubai, delivered a session on Devops, Kubernets, and containers on August 8. Shaik Fathaullah S, Technical Sales Engineer at Daystar Solar, discussed solar PV system basics and commercial overview on August 4. 
+
+In July 2023, alumni Sabarish, Founder of Sportasy, provided internship opportunities to three students from the IT department, while Ahamed Jameel A.M.T, Alumni Secretary, helped three students from the CSE department get placed at Platform 3 Solutions. 
+
+Earlier in June 2023, Syed Faiyaz Hussain, Digital Product Manager at Elevance Health, spoke about career guidance and job opportunities on June 28. V.Ganesh, Managing Director of JFX Events & Media, provided internship opportunities to 15 students from the CSE department on June 21. Majed Arafat A, IT Consultant at TCS, delivered a session on robotics on May 10, 2023.
+
+On various occasions, the **MSAJCE** Alumni Association organized sessions and events that benefited the students and alumni alike. For instance, on 5th April 2023, Alumni Sarathy, a Consultant Embedded System Architect, conducted a session on Embedded System. Similarly, on 30th March 2023, Alumni Abur Raheem, Founder and Director of V5 Innovation, delivered a motivational speech as a guest lecturer. Alumni Anbazhagan A T, Technical Manager at CTS, led a session on Voice over IP on 22nd March 2023, while Alumni Md Afroze, Managing Director of J Digitals, spoke about Digital Marketing on 17th March 2023.
+
+The **MSAJCE** Alumni Association also arranged for external trainers to conduct sessions. For example, on 10th March 2023, Anisha from Intel Corporation led a session on AI Technology. Furthermore, the association organized an Alumni Meet for the 2009-2020 batch on 11th February 2023, which saw the participation of over 300 alumni. Additionally, 16 alumni from various departments and batches participated in the NAAC Inspection meeting on 23rd January 2023.
+
+To promote entrepreneurship skills, the association organized an event on National Youth Day, where Alumni Md Rameez, Founder of Zeemrah Energy, and Alumni Zubair, Proprietor of USITE, shared their insights on 12th January 2023. Moreover, Alumni Mr. Ahamed Jameel <!--ent_113-->, Technical Consultant at HCL, facilitated student internships at Hasna Technology, Chennai, on 2nd November 2022.
+
+In the same year, students from the CSE and IT departments participated in a debugging activity for a new app developed by Edvoy technologies Pvt Ltd, Chennai, under the guidance of Alumni Mohamed Yasar on 3rd December 2022. Alumni Mr. Mohamed Afrose <!--ent_223-->, CEO of J Digital, conducted a placement recruitment drive on 10th November 2022. Mrs. Akila Rajesh <!--ent_398-->, Head of Sales and Marketing at Voora Property Developers Pvt Ltd, led a session on Interpersonal Skills on 3rd December 2022.
+
+Other notable events include a session on How to Positively Face HR Interviews by Alumni Syed Haja Shreef S, Recruitment Specialist at Sacalene Pepole Works Solution, on 23rd September 2022. Alumni Mohamed Samir conducted a seminar on Cyber Security Trends and Hygiene on 19th November 2022. Alumni Mohamed Hussain TR, Senior DevOps Engineer at Intel Corporation, conducted an online mock interview on HR and technical interviews for final-year students on 5th November 2022.
+
+Alumni Misbah Khairunnisa, Senior Manager of Organizational Development at Savista, delivered a motivational talk on 15th October 2022. Alumni Mr. Asim Ali <!--ent_129-->, CMO of Customer Labs, facilitated student internships at Customer Labs, Chennai, on 2nd August 2022. A cricket match was also organized between the Alumni Association members and current juniors on 27th August 2022.
+
+The Placement Training Program saw the participation of several alumni, including Saravanan Perumal from L&T, who delivered a technical presentation on 4th August 2022. Alumni Mr. G. Abdur Rahman Salih <!--ent_158-->, CEO of V5, spoke about recent trends, challenges, and opportunities in the current scenario on 3rd August 2022. Alumni Saravanan Perumal, Principal Consultant at Wipro Technologies, conducted a webinar on DevOps Automation on 12th August 2021.
+
+In the past, the association had also organized international webinars, such as the one on the Art of Thinking Big, conducted by Mr. A. Aadil Ibrahim A <!--ent_088-->, Founder of Cameraman, on 11th June 2020.
+
+Mr. M. Prabakaran <!--ent_201-->, a Senior Software Architect at Caterpillar and an alumnus of **MSAJCE**, participated as a resource person for the Faculty Development Programme (FDP) on Embedded & IoT Boot Camp on 29th May 2019. On 9th January 2019, Mr. Syed Haja Sheriff <!--ent_363-->, an alumnus from the ECE department, demonstrated exceptional performance in recruitment.
+
+The Md Sathak Group of Institutions participated in an Entrepreneur Meeting, which was attended by several alumni. This meeting was a significant event that brought together entrepreneurs and alumni to discuss various aspects of entrepreneurship.
+
+On 4th October 2025, **MSAJCE** celebrated Engineers Day, which was attended by several distinguished alumni. The attendees included Rajeswari Kumaresan from Cisco Systems Inc, USA; Ranjani Rajagopalan, Senior Technical Lead at Mphasis; Benny Diwakar S, Assistant Vice President at Bank of America; Sheik Mohamed Rizwan, Associate Manager at DXC TECHNOLOGY; Pavithra Elumalai, IT Consultant at TCS; Shanmugam V, CEO of Zyple Software Solutions Pvt Ltd; Mohammed Rameez, Founder of Zeemrah Energy; Gatheejathul Kubra, Founder of Sha's Online Academy; Manimala, Data Analyst at Akamai Technology; Aniruddhan Narayanan, Business Analyst-Manager at Pfizer Healthcare India Pvt Ltd; Fayaz Ahamed, Senior Solution Architect at Recode Solutions; Noorul Jaman J, Senior Manager Product at Mindgate Solutions Pvt Ltd; Abrar Ahamed, Enterprise Applications Consultant at Commercial Bank of Dubai, Dubai; Aswin Panneerselvam, Director at Spark Group, India, Zambia, Kenya, UAE; N.Nazhrudeen, Business Head at Xperthom Technologies; Nasarullah, Senior Techno Functional Lead at Wipro Limited, Dubai; Razik Fareed, Senior Director at YUBI; Syed Atheeq Ur Rahman, Manager at Bahwan Cybertek; H Barakath Nisha, Senior Software Engineer at Wipro Limited; Linga Prabhu V, CEO of Mithran Engineering; Narenthiran, Team Lead - Software Engineer at Virtana Corporation; AbdulHameed N, Manager at Rambal Hitech Engineers; Jamal Shagul Ameedh, Commercial Manager at General Electric (GE); Mohamed Fazil, Senior Instrument Engineer at Equate Petrochemical, Kuwait; and Meeraan Sha, Software Technical Consultant at Zoho Corporation.
+
+On 7th August 2025, Aniruddhan Narayanan, Manager at Pfizer Healthcare India Pvt Ltd and an alumnus of **MSAJCE**, conducted a session on "An Introduction to Industry Preparedness". Deepak, Chief Technology Officer at MH Doodle Solutions and an alumnus, delivered a session on "How to Get Yourself into IT Sector" on 6th August 2025. Deepak, who belongs to the 2011-2015 batch, also attended the Academic Advisory Board Meeting on 16th July 2025.
+
+The Silver Jubilee Reunion Meet 2025 was a grand event that took place on 1st February 2025. During the event, Ahamed Jameel A.M.T from the 2001-2005 batch received the Lifetime Achievement Award, while J.Abdul Rahaman from the same batch received the Outstanding Alumni Award. M.M. Syed Sultan Allaudeen from the 2003-2007 batch and Yasar from the 2002-2006 batch were both conferred with the Distinguished Service Award. Asim Ali L received the Outstanding Young Alumni Award for 2025.
+
+On October 26, 2024, the Alumni Association Meet took place, with around 23 alumni participating in discussions about upcoming activities for the welfare of college students.
+
+Engineers Day 2024 was celebrated on September 16, 2024, with several notable alumni in attendance. Md Kamaal Yasin, an Associate Consultant at TCS, was joined by A.S. Balagurunathan, a Project Manager at HCL Tech, Chandra Bose, the Deputy General Manager at CMA CGM GBSI PVT Ltd, Ameena Bathool, a Senior Technical Writer at Zuora India Pvt Ltd, Sivanathan Balaguru, the Manager of Software Engineering at ADF Datascience pvt ltd, and Sabarish SR, the Founder and CEO of Blossomfield Gamingzone Pvt Ltd.
+
+Rahul Murali, a Product Manager at Thoughtworks Technologies, was invited as the guest of honor for the First Year Induction on September 9, 2024. Earlier in the year, on July 8, 2024, Dr. Ezhilazhagan C <!--ent_021-->, an Associate Professor at Veltech, attended the Planning and Monitoring committee meeting as an alumnus.
+
+Deepak VR, a Senior Data Engineer at Manuh Solutions Pvt Ltd, participated in the Overall Board of Studies Meeting on July 6, 2024. Akila Rajeshwari, an Associate Vice President at Casagrand Builder Private Limited, attended the Board of Studies meet for the Civil Department on June 18, 2024. Sivanathan, the Manager at ADF Data Science Pvt Ltd, attended the Board of Studies meet for the Faculty CSE and IT Department on May 28, 2024.
+
+Sheikh Azharuddin, the IT Operation Head at NRFSI, was invited as the guest of honor for the International Conference on Research and Development in Engineering, Science, and Technology on May 24, 2024. Suresh Kumar, a Scientist, was invited as the guest of honor for the Annual Day Celebration on March 9, 2024. Aadil Ibrahim, an Entrepreneur and Public Speaker, was invited as the guest of honor for the Festaverse Celebration on March 5, 2024. Lakshmi Narayanan, a Senior HR from Valeo, was invited as the guest of honor for the Women's Day Celebration on March 4, 2024.
+
+Majed Arafat attended the Planning and Monitoring Board Meeting on December 16, 2023. Ahamed Jameel, the Alumni Secretary, and Srikkanth K, an Alumni Executive Member, attended the Academic Advisory Board Meeting on December 9, 2023.
+
+During the Golden Jubilee Celebration at Mohamed Sathak Trust in Keelakari on October 14, 2023, Ahamed Jameel, the Alumni Secretary, received the "Best Alumni Service Award." Md Rizwan and Purushothaman were honored as guests of honor.
+
+Engineers Day 2023 was celebrated on September 16, 2023, with several notable alumni in attendance. Majed Arafat A, an IT Consultant at TCS, was joined by Abdurrahim Salih, the Best Entrepreneur at GV Academy of Education, Misbah Khairunnissa, a Senior Manager at Savista, S Ram Prabhu, a Senior QA Engineer at QBurst Technologies Private limited, and Mikail Ismail, a Technical Writer at KLA.
+
+Sheikh Azharuddin, the IT Operation Head at Nissan Renault Financial Services India Ltd, was invited as the guest of honor for the First Year Induction on September 11, 2023. Majed Arafat, an IT Consultant at TCS, Jaleel, the Founder of Kings Travels, and Samir, a Cyber Security Manager at Fidelity National Financial, attended the Planning and Monitoring Meeting on May 20, 2023.
+
+On May 13, 2023, Alumni Secretary Ahamed Jameel, along with Alumni Misbah, Senior HR Manager at Savista, and Alumni Shiblee, Founder of Debugger, attended the Academic Advisory Board Meeting. Earlier, on March 24, 2023, Alumni Nazeef Hussain was invited as the Guest of Honour. 
+
+Alumni Secretary Ahamed Jameel, Alumni Abdul Rahman, Managing Director of Blue Bell Business Management, and Alumni Sathish Charan, a Writer/Director in the Film Industry, were invited as Guests of Honour for the Annual Day Celebration on March 18, 2023. On March 12, 2023, Alumni Secretary Ahamed Jameel and Alumni Sabarish inaugurated the BSM Cricket Trophy as Guests of Honour. 
+
+Akila Rajesh, Sales and Marketing Head at Voora Property Developer Pvt Ltd, was invited as the Guest of Honour for the Women's Day Celebration on March 10, 2023. On February 1, 2023, Ahamed Jameel, the Alumni Secretary, received the **MSAJCE**'s Outstanding Alumni Award for 2023 during the Alumni Meet.
+
+Lakshmi Narayanan from Societe General, HR Talent Acquisition, was invited as the Guest of Honour for the First Year Induction on November 14, 2022. On October 29, 2022, Mr. Ahamed Jameel <!--ent_113-->, Technical Consultant at HCL and Alumni Association Secretary, gave a speech to **MSAJCE** graduates as a Special Guest during the Graduation Day.
+
+Alumni K Srikkant, Technical Architects at Teleapps, and Mohamed Afroze, CEO of Jdigitals, participated as Guests of Honour for the Symposium Tech Unity on October 28, 2022. The First Alumni Association Meet in Chennai was organized by **MSAJCE** on October 15, 2022. 
+
+On October 2, 2022, Alumni K Srikanth, Technical Architect at Standard Chartered, and Alumni Afroze, CEO of J Digital, were invited as Guests of Honour for the Inter college Symposium Event. Ahamed Jameel, Technical Consultant at HCL, attended the Academic Advisory Board Meeting on October 1, 2022, where N Feroz Khan, Delivery Manager at MAERSK, Chennai, was appointed as a Governing Council Member for **MSAJCE**.
+
+During the Engineers Day Celebration on September 17, 2022, Ahamed Jameel, Technical Consultant at HCL, was awarded the Best Alumni of the Decade. The Best Engineers Awards were given to J Abdul Rahman, Managing Director of Blue Bell Business Management, Chennai; MM Syed Sultan Allaudeen, Managing Director of MM Internationals, Chennai; A Raju, Infra Technology Manager at CITS, Chennai; L Asim Ali, Chief Marketing Officer at Customer Labs, Chennai; and N Feroz Khan, Delivery Manager at MAERSK, Chennai.
+
+On the same day, J Abdul Rahman, MM Syed Sultan Allaudeen, A Raju, L Asim Ali, N Feroz Khan, and Ahamed Jameel were invited as Jury members for **MSAJCE** Juniors Project Exhibition. Alumni Dr. Ezhil <!--ent_020--> was invited as the Chief Guest for Teachers Day on September 3, 2022, and was awarded the Best Teacher of the year by **MSAJCE**.
+
+The Alumni Meet for the 2008, 2009, and 2010 batches was organized by **MSAJCE** on March 5, 2022.
+
+On October 23, 2021, **MSAJCE** honored several alumni with the Best Engineers award during the Engineers Day Event. The recipients of this prestigious award included Alumni Saravanan, Ashiq, Ganesh, Shiblee, Thahir, and Jaleel, who were recognized for their outstanding contributions to their respective fields.
+
+A day prior to the Engineers Day Event, on October 22, 2021, Alumni Ashwin C, Director of Pixtronics, was invited as the Guest of Honour for the First Year Induction ceremony. This event provided an opportunity for the new students to interact with a successful alumnus and gain valuable insights from his experiences.
+
+Earlier in the year, on February 13, 2021, **MSAJCE** organized an Alumni Meet specifically for the batches of 2005, 2006, and 2007. This event brought together alumni from these batches, providing a platform for them to reconnect with their alma mater and fellow graduates.
 
 ## 6. Distinguished Alumni
-- The 2001-2005 batch of Mohamed Sathak A.J. College of Engineering boasts an impressive array of distinguished alumni.
-- Mr. Purushothaman N <!--ent_284-->, an Assistant Vice President at Standard Chartered, is joined by his peers, including Ms. Sabana Yasmi <!--ent_487--> S <!--ent_488-->, Vice President at DBS Bank, and Mr. Saravanan Perumal <!--ent_335-->, Senior Manager at LTI MINDTREE.
-- Other notable alumni from this batch include Mr. Mohammed Fareed <!--ent_240-->, Program Manager at Lululemon in Canada, Mr. Ahamed Jameel <!--ent_113--> A.M.T <!--ent_115-->, Technical Consultant at HCL, and Mr. Feroz Khan <!--ent_153--> N <!--ent_154-->, General Manager at Maersk.
-- This batch also includes Mr. Fayad Ahamed <!--ent_152-->, Project Manager at Union Insurance Company Dubai, Mr. Mohammed Azeem <!--ent_239-->, Senior Manager Sales at Allied Motors in Dubai, and Mr. Srikanth K <!--ent_355-->, Technical Architect at TeleApps.
-- Furthermore, Mr. Majed Arafat <!--ent_210-->, IT Consultant at TCS, Mr. Santhosh Kumar V <!--ent_334-->, Technical Architect at HCL, and Mr. Anbazhagan AT <!--ent_122-->, Technical Manager at CTS, are also part of this accomplished group.
-- Additionally, Mr. Balagurunathan <!--ent_134-->, Project Manager at HCL, Dr. Ezhilazhagan C <!--ent_021-->, Associate Professor at Vel Tech, and Mr. Suresh <!--ent_358--> Kumar N <!--ent_359-->, Scientist E at INCOIS, have made significant contributions in their respective fields.
-- Mr. Mohammed Kamaal Yasin <!--ent_241-->, Service Delivery Manager at TCS, Mr. Abdul Jaleel <!--ent_099-->, Infra Manager at Emirates, and Mr. Imran Sheik <!--ent_170-->, Customer Success Manager at Firmex in Canada, are also notable alumni from the 2001-2005 batch.
-- The 2002-2006 batch is equally impressive, with alumni such as Mr. Md Yasar <!--ent_217-->, Product Owner Manager at Edvoy, Mr. Raju <!--ent_296--> A <!--ent_297-->, Infra Technology Manager at CTS, and Mr. Syed Faiyaz Hussain <!--ent_361-->, Digital Product Manager at Anthem in the USA.
-- Ms. Harini Raman <!--ent_457-->, Business Analyst at IBM, Mr. Hafeez Rahman <!--ent_162-->, Manager at AL ZARA TRADING AND CONTRACTING, and Mr. Mohamed Yusuff Shah <!--ent_236-->, Senior Accountant Manager at the Indian Audit and Accounts Department, are also part of this accomplished group.
-- Furthermore, Ms. Uma Maheshwari G <!--ent_492-->, Principal Member of Technical Staff at Oracle India, has made significant contributions in her field.
-- The 2003-2007 batch includes Mr. Chandra Bose <!--ent_138-->, Senior Delivery Manager at CMA CGM India, Mr. Ahmed Mubeen <!--ent_118-->, Manager at Lighthouse Navigation Singapore Pte Ltd, and Mr. Arun <!--ent_125--> Natarajan <!--ent_126-->, Principle Consultant at Emirates National Bank of Dubai.
-- Mr. Ashik Mohamed <!--ent_127-->, Manager - IT at Hyundai Motors Group, and Mr. Mohamed Thahir N <!--ent_233-->, Lead - QA & CART Team at Zoho Corporation, are notable alumni from the 2004-2008 batch.
-- The 2005-2009 batch boasts an impressive array of alumni, including Ms. Misbah Khairunissa A <!--ent_467-->, Senior HR Manager at Savista, Ms. Reshma M <!--ent_476-->, Project Manager at HCL, and Mr. Nizamuddin K <!--ent_269-->, Business Development Manager at Touchline Technologies Pvt Ltd. Mr. Abubucker Siddiq <!--ent_111-->, Deputy manager at Transys Global forwarding Pvt.
-- Ltd., Ms. Lakshmi Narayanan <!--ent_466-->, HR Manager at Valeo, and Mr. Ahmad Abdullateef <!--ent_116-->, Principal Software Architect at Microsoft, are also part of this accomplished group.
-- Lastly, Mr. Mohamed Hussain T R <!--ent_228-->, Staff Devops Engineer at ARM Embedded Technologies, is a notable alumnus from the 2006-2010 batch.
-- The 2006-2010 batch of **MSAJCE** has produced several distinguished alumni, including Mr. Sivanathan <!--ent_354-->, who serves as a Manager at ADF Data Science Pvt Ltd, Mr. Rahul Murali <!--ent_291-->, a Lead Product Manager at Thoughtworks, Mr. Vinoth Kumar Manickam <!--ent_391-->, a Lead Developer at Striven, and Mr. Sathakathulla E <!--ent_336-->, an eApps Testing Lead at Hitachi Energy Global Services Pvt Ltd.
-- From the same batch, Mr. Noorul Jaman <!--ent_270-->, a Product Manager - QA at Mind Gate Solutions Pvt Ltd, and Mr. Shaik Salaudeen <!--ent_346-->, a Technical Lead at NTT Data Business Solutions, have also made a name for themselves in their respective fields.
-- Additionally, Mr. Sakthi Ajay <!--ent_330-->, a Senior Consultant at Virtusa, is another notable alumnus from the 2007-2011 batch.
-- The 2008-2012 batch boasts of alumni such as Mr. Sheikh Azharuddin <!--ent_353-->, the IT Operations Head at Nissan Renault Financial Services India Limited, Ms. Akila Rajesh <!--ent_444-->, the Sales and Marketing Head at Voora Property Developer Pvt Ltd, and Mr. Deiva <!--ent_145-->, a Senior Manager at SPR Construction Pvt Ltd. Mr. Nasarullah S <!--ent_265-->, a Tech Lead at Wipro Ltd, and Mr. Feroz Khan <!--ent_153--> S <!--ent_155-->, an SDET 2 at Vonage, are also part of this batch.
-- The 2009-2013 batch has produced alumni like Mr. Marzook Ahamed <!--ent_212-->, an Assistant Manager at PIXELS- DUBAI, and Mr. Mohamed Yousuf Shariff <!--ent_235-->, a Tax Consultant at Shariff and Co. Mr. Muhamed Samir <!--ent_253-->, a Cyber Security Manager at Fidelity National Financial, and M. Sharmela, a Senior Product Analyst at Photon Interactive Pvt Ltd, are also notable alumni from the 2011-2015 batch.
-- Mr. Vignesh <!--ent_386-->, a Senior BIM Modeler at MCC Engineering Singapore Pte.Ltd, and Mr. Harish N <!--ent_165-->, a Technical Support Engineer at iOPEX Technologies, are part of the 2011-2015 and 2012-2016 batches, respectively.
-- Mr. Ram Prabhu S <!--ent_300-->, a Senior QA Engineer at QBurst Technologies Private limited, and Ms. Reshma Rahila S <!--ent_477-->, a Senior Software Engineer at Prodapt Solutions Pvt Ltd, are also notable alumni from these batches.
-- The 2013-2017 batch includes Mr. Mohammed Asif <!--ent_237-->, a QAQC Civil Inspector at Samsung C & T, and Mr. Syed Haja Shereef S <!--ent_362-->, a Recruitment Specialist at Scaleneworks.
-- Mr. Shanthoshkumar J <!--ent_352-->, a Senior Software Engineer at Broadcom, and Mr. Safeeq Ahamed S <!--ent_329-->, a Design Engineer at KONE Elevators, are part of the 2014-2018 and 2015-2019 batches, respectively.
-- Mr. Shaik Fathhullah S <!--ent_345-->, a TECHNICAL & SALES ENGINEER at DAYSTAR SOLAR, and Mr. Md Mubarak <!--ent_215-->, an MEP TEAM LEADER at EJADAH UAE, are also notable alumni from the 2015-2019 and 2016-2020 batches.
-- Mr. Md Junaid A <!--ent_214-->, an ESTIMATION / QUANTITY SURVEYOR ENGINEER at ELEMEC ELECTRICAL CONTRACTING LLC, and Mr. Sabari Murugan <!--ent_326-->, an Associate Design Engineer at Wall Technology, are part of the 2016-2020 batch.
-- The 2017-2021 batch has produced alumni like Mr. Jawahar Shalim <!--ent_181-->, a Team leader at Milkbasket, Mr. Abdul Mukshith A <!--ent_104-->, a SENIOR BIM ENGINEER at MICRON ELECTRICALS, and Mr. Mohamed Ali Hasan <!--ent_225-->, an Operation Head at Veena Jewellers.
-- Mr. Imran L <!--ent_169-->, a Site Engineer at Al Rasheediah Safety and Security est, Abudhabi, is also part of this batch.
-- Mr. Shamsudeen A <!--ent_348-->, a Software Engineer at HCL, and Mr. Nadir Khan <!--ent_263-->, a Supply Chain Engineer at Inaithiram Impex Internet Pvt Ltd, are notable alumni from the 2018-2022 and 2019-2023 batches, respectively.
-- Mr. Sathiyan <!--ent_338-->, a Software Engineer at Relevantz Technology Services Pvt Ltd, and Mr. Md Zaid <!--ent_218-->, a Software Engineer at TCS, are also part of the 2019-2023 batch.
-- The 2001-2005 batch of **MSAJCE** has produced several notable entrepreneurs, including Mr. Abdul Rahman <!--ent_105--> J <!--ent_106-->, who is the Managing Director of Blue Bell Business Management, and Mr. Mohammed Rizwan Ali <!--ent_245-->, who serves as the Managing Director of Excellence Prices Company Limited in Saudi, Dubai, and Bahrain.
-- Mr. Krishna Kumar <!--ent_196--> is the Managing Director of Markk Imaging and Automation, while Ahamed Jameel A M T is an IT Consultant and entrepreneur.
-- Elavarasan is the Managing Director of RMP Solutions, and Mallam Mustak is a Business Consultant based in Singapore, with his company Mallang Salma Consulting Services Pvt Ltd. Other notable entrepreneurs from this batch include Behin Samuel, Managing Director of Clysico, Abdul Wahab, Managing Director of Midas associates, and Firthouse, Managing Director of Nice Technology.
-- The 2002-2006 batch has also produced several successful entrepreneurs, including Mr. Syed Shahul Hameed <!--ent_366-->, who is the Managing Director of Deysla for IT Solutions W.L.L. in Bahrain.
-- Aswin Chandran is the CMD of Pixtronics Global Chennai, while Athifur Rahaman is the Managing Director of Learn Soft.
-- Abdul Jaleeel is the Managing Director of King Travels, and Mr. Syed Sultan Allaudeen <!--ent_367--> M M <!--ent_368--> is the Managing Director of MM International.
-- Mr. Mohammed Rameez <!--ent_244-->, from the 2004-2008 batch, is the Founder of Zeemrah Energy, while Mr. Ganesh <!--ent_160--> is the CEO of JFX Events and Media.
-- Mr. Rahumathulla A S <!--ent_292--> is the Managing Director of Rekha Décor, and Mr. Abdur Rahim Salih <!--ent_110--> is the Director and CEO of V5 Innovations Pvt Ltd. Mr. Shanmugam <!--ent_350--> is the IT Director of Zyple Software Solutions Pvt Ltd. The 2005-2009 batch has also produced several entrepreneurs, including Mr. Asim Ali <!--ent_129--> L <!--ent_130-->, who is the CMO of Customer Labs, and Mr. Syed Yousuf <!--ent_369-->, who is a Business Partner at Milestone Speciality Equipment Pvt Ltd. Mr. Ahmed Asif A <!--ent_117--> is the Managing Director of First Alcon Infrastructures Pvt Ltd, and Mr. Md Sikkander Kasim M <!--ent_216--> is the Managing Director of Faaz.
-- In addition to these entrepreneurs, **MSAJCE** has also produced several other successful alumni, including Ms. Senthamizh Selvi <!--ent_490-->, who is a Business Development Executive and graduated in 2013.
-- Mr. Aadil Ibrahim <!--ent_096--> A <!--ent_097--> is a Home Elevator Advisor and graduated in 2014, the same year as Mr. Mohan Kumar <!--ent_250-->, who is the CEO and Founder of his company.
-- Ms. Yousuf Zulaikha <!--ent_497--> is an AR Specialist and graduated in 2014, along with Mr. Vignesh <!--ent_386--> S <!--ent_388-->, who is a PMO Auditor, and Mr. Kannan <!--ent_194--> R <!--ent_195-->, who is an NDT Level-2 Inspector.
-- Mr. Mohamed Abdullah <!--ent_221--> S <!--ent_222--> is an Automation Engineer and graduated in 2015, the same year as Mr. Kalil Ahmed <!--ent_190--> B <!--ent_191-->, who is an Electrical Design Engineer.
-- Other notable alumni include Mr. Harikrishna <!--ent_164-->, who is an Insurance Surveyor and graduated in 2016, Ms. Preeta Rani <!--ent_473--> S <!--ent_474-->, who is an Assistant Engineer and graduated in 2017, and Mr. Nadeem <!--ent_261--> S <!--ent_262-->, who is an HVAC Plant Engineer and graduated in 2017.
-- Mr. Mohamed Arsath <!--ent_226--> is an Assistant Engineer and graduated in 2018.
-- Mohammed Zubair, a 2006-2010 alumnus, is the Managing Director of Usite Safety and Security, while his contemporaries, Abdul Majeed Shiblee and F H M Afzal Bijli, are the Proprietor of DEBUGGER and the Founder of Webxo360 Technology Solutions, respectively.
-- Another notable entrepreneur from the same batch is Abdul Kader, who is the Business Partner at Al Qima technologies LLC in Sharjah, UAE.
-- Mohammed Parvez Shariff, a 2007-2011 alumnus, is the Proprietor of Air Mechon Solutions, and his batchmate, Kalidoss .J, is a Music Director in the Film Industry.
-- Mohamed Jiavur Rahman T H, a 2008-2012 alumnus, is the Founder of Motowear, and his contemporaries include Sadhaam, the Business Partner at Phoenix Print hub, Nazhrudeen, the Founder of Xperthom Technologies, Prasand P, the Managing Director of PROZ SOLUTIONS LLP, and K.Hakeem, the Managing Director of Safka Engineering Works.
-- P.Arun Kumar, a 2009-2013 alumnus, is the Managing Director of AG interior and Mithra Traders, and his batchmate, Abdul Riyaz M, is the Managing Director of RIHAAB ALIYAR ASSOCIATES.
-- Sabarish S R, a 2010-2014 alumnus, is the Founder and CEO of Sportasy, while his contemporaries include Mohan Kumar, the Founder and CEO of Gamasome Interactive LLP, Adil Ibrahim, the Founder and CEO of CameraMan - Security System Installer, and J.Mohamed Salman Azeem, an Acupuncturist and Trainer at Global Acupuncture Clinic.
-- Veeramanikandan P, a 2011-2015 alumnus, is the Managing Director of SPS Traders, and his batchmate, J. MOHAMMED ABBAS ALI, is the Managing Director of A. J MOBILES AND ELECTRONICS.
-- RAFI ANSARI, another alumnus from the same batch, is the Managing Director of Rashab consultancy.
-- Mohamed Afroze, a 2012-2016 alumnus, is the Managing Director of J Digitals, and his contemporaries include Salmaa Gaffoor, the Managing Director of Digiwiz Marketing Solutions, and Basker, the Business Partner at Studio Zero 7.
-- Abdullah, a 2014-2018 alumnus, is the CEO of Redwood Construction, and his contemporaries include Md Hyder Shareef, the Managing Director of SAAHICORP PRIVATE LIMITED, Mohamed Naveeth B, the Managing Director of Reliance Trading Service, and Ashwin P, the Managing Director of P & P Marketing.
-- Dhanachezian K, a 2016-2020 alumnus, is the Managing Director of Shri Dhanalakshmi Engineering Works, and his batchmate, Dawan, is the Managing Director of Enigma Catalyst.
-- Akther Ilyas, a 2018-2022 alumnus, is the Creative Director of Skit Media - Start Up, and his contemporaries include Ram Kumar, the Managing Director of YC Events and Productions, and Syed Aakhib Mohammed, the Managing Director of BLACKBOX.
-- Mr. Suhaib <!--ent_356-->, a distinguished alumnus of Mohamed Sathak A.J. College of Engineering, is a successful entrepreneur who graduated in the 2022-2026 batch.
-- He has achieved great heights in his career, currently serving as the CEO of IK Digital, a testament to his exceptional leadership skills and innovative spirit.
+
+The 2001-2005 batch of Mohamed Sathak A.J. College of Engineering boasts an impressive array of distinguished alumni. Mr. Purushothaman N <!--ent_284-->, an Assistant Vice President at Standard Chartered, is joined by his peers, including Ms. Sabana Yasmi <!--ent_487--> S <!--ent_488-->, Vice President at DBS Bank, and Mr. Saravanan Perumal <!--ent_335-->, Senior Manager at LTI MINDTREE. Other notable alumni from this batch include Mr. Mohammed Fareed <!--ent_240-->, Program Manager at Lululemon in Canada, Mr. Ahamed Jameel <!--ent_113--> A.M.T <!--ent_115-->, Technical Consultant at HCL, and Mr. Feroz Khan <!--ent_153--> N <!--ent_154-->, General Manager at Maersk.
+
+This batch also includes Mr. Fayad Ahamed <!--ent_152-->, Project Manager at Union Insurance Company Dubai, Mr. Mohammed Azeem <!--ent_239-->, Senior Manager Sales at Allied Motors in Dubai, and Mr. Srikanth K <!--ent_355-->, Technical Architect at TeleApps. Furthermore, Mr. Majed Arafat <!--ent_210-->, IT Consultant at TCS, Mr. Santhosh Kumar V <!--ent_334-->, Technical Architect at HCL, and Mr. Anbazhagan AT <!--ent_122-->, Technical Manager at CTS, are also part of this accomplished group. Additionally, Mr. Balagurunathan <!--ent_134-->, Project Manager at HCL, Dr. Ezhilazhagan C <!--ent_021-->, Associate Professor at Vel Tech, and Mr. Suresh <!--ent_358--> Kumar N <!--ent_359-->, Scientist E at INCOIS, have made significant contributions in their respective fields.
+
+Mr. Mohammed Kamaal Yasin <!--ent_241-->, Service Delivery Manager at TCS, Mr. Abdul Jaleel <!--ent_099-->, Infra Manager at Emirates, and Mr. Imran Sheik <!--ent_170-->, Customer Success Manager at Firmex in Canada, are also notable alumni from the 2001-2005 batch. The 2002-2006 batch is equally impressive, with alumni such as Mr. Md Yasar <!--ent_217-->, Product Owner Manager at Edvoy, Mr. Raju <!--ent_296--> A <!--ent_297-->, Infra Technology Manager at CTS, and Mr. Syed Faiyaz Hussain <!--ent_361-->, Digital Product Manager at Anthem in the USA.
+
+Ms. Harini Raman <!--ent_457-->, Business Analyst at IBM, Mr. Hafeez Rahman <!--ent_162-->, Manager at AL ZARA TRADING AND CONTRACTING, and Mr. Mohamed Yusuff Shah <!--ent_236-->, Senior Accountant Manager at the Indian Audit and Accounts Department, are also part of this accomplished group. Furthermore, Ms. Uma Maheshwari G <!--ent_492-->, Principal Member of Technical Staff at Oracle India, has made significant contributions in her field.
+
+The 2003-2007 batch includes Mr. Chandra Bose <!--ent_138-->, Senior Delivery Manager at CMA CGM India, Mr. Ahmed Mubeen <!--ent_118-->, Manager at Lighthouse Navigation Singapore Pte Ltd, and Mr. Arun <!--ent_125--> Natarajan <!--ent_126-->, Principle Consultant at Emirates National Bank of Dubai. Mr. Ashik Mohamed <!--ent_127-->, Manager - IT at Hyundai Motors Group, and Mr. Mohamed Thahir N <!--ent_233-->, Lead - QA & CART Team at Zoho Corporation, are notable alumni from the 2004-2008 batch.
+
+The 2005-2009 batch boasts an impressive array of alumni, including Ms. Misbah Khairunissa A <!--ent_467-->, Senior HR Manager at Savista, Ms. Reshma M <!--ent_476-->, Project Manager at HCL, and Mr. Nizamuddin K <!--ent_269-->, Business Development Manager at Touchline Technologies Pvt Ltd. Mr. Abubucker Siddiq <!--ent_111-->, Deputy manager at Transys Global forwarding Pvt. Ltd., Ms. Lakshmi Narayanan <!--ent_466-->, HR Manager at Valeo, and Mr. Ahmad Abdullateef <!--ent_116-->, Principal Software Architect at Microsoft, are also part of this accomplished group.
+
+Lastly, Mr. Mohamed Hussain T R <!--ent_228-->, Staff Devops Engineer at ARM Embedded Technologies, is a notable alumnus from the 2006-2010 batch.
+
+The 2006-2010 batch of **MSAJCE** has produced several distinguished alumni, including Mr. Sivanathan <!--ent_354-->, who serves as a Manager at ADF Data Science Pvt Ltd, Mr. Rahul Murali <!--ent_291-->, a Lead Product Manager at Thoughtworks, Mr. Vinoth Kumar Manickam <!--ent_391-->, a Lead Developer at Striven, and Mr. Sathakathulla E <!--ent_336-->, an eApps Testing Lead at Hitachi Energy Global Services Pvt Ltd.
+
+From the same batch, Mr. Noorul Jaman <!--ent_270-->, a Product Manager - QA at Mind Gate Solutions Pvt Ltd, and Mr. Shaik Salaudeen <!--ent_346-->, a Technical Lead at NTT Data Business Solutions, have also made a name for themselves in their respective fields. Additionally, Mr. Sakthi Ajay <!--ent_330-->, a Senior Consultant at Virtusa, is another notable alumnus from the 2007-2011 batch.
+
+The 2008-2012 batch boasts of alumni such as Mr. Sheikh Azharuddin <!--ent_353-->, the IT Operations Head at Nissan Renault Financial Services India Limited, Ms. Akila Rajesh <!--ent_444-->, the Sales and Marketing Head at Voora Property Developer Pvt Ltd, and Mr. Deiva <!--ent_145-->, a Senior Manager at SPR Construction Pvt Ltd. Mr. Nasarullah S <!--ent_265-->, a Tech Lead at Wipro Ltd, and Mr. Feroz Khan <!--ent_153--> S <!--ent_155-->, an SDET 2 at Vonage, are also part of this batch.
+
+The 2009-2013 batch has produced alumni like Mr. Marzook Ahamed <!--ent_212-->, an Assistant Manager at PIXELS- DUBAI, and Mr. Mohamed Yousuf Shariff <!--ent_235-->, a Tax Consultant at Shariff and Co. Mr. Muhamed Samir <!--ent_253-->, a Cyber Security Manager at Fidelity National Financial, and M. Sharmela, a Senior Product Analyst at Photon Interactive Pvt Ltd, are also notable alumni from the 2011-2015 batch.
+
+Mr. Vignesh <!--ent_386-->, a Senior BIM Modeler at MCC Engineering Singapore Pte.Ltd, and Mr. Harish N <!--ent_165-->, a Technical Support Engineer at iOPEX Technologies, are part of the 2011-2015 and 2012-2016 batches, respectively. Mr. Ram Prabhu S <!--ent_300-->, a Senior QA Engineer at QBurst Technologies Private limited, and Ms. Reshma Rahila S <!--ent_477-->, a Senior Software Engineer at Prodapt Solutions Pvt Ltd, are also notable alumni from these batches.
+
+The 2013-2017 batch includes Mr. Mohammed Asif <!--ent_237-->, a QAQC Civil Inspector at Samsung C & T, and Mr. Syed Haja Shereef S <!--ent_362-->, a Recruitment Specialist at Scaleneworks. Mr. Shanthoshkumar J <!--ent_352-->, a Senior Software Engineer at Broadcom, and Mr. Safeeq Ahamed S <!--ent_329-->, a Design Engineer at KONE Elevators, are part of the 2014-2018 and 2015-2019 batches, respectively.
+
+Mr. Shaik Fathhullah S <!--ent_345-->, a TECHNICAL & SALES ENGINEER at DAYSTAR SOLAR, and Mr. Md Mubarak <!--ent_215-->, an MEP TEAM LEADER at EJADAH UAE, are also notable alumni from the 2015-2019 and 2016-2020 batches. Mr. Md Junaid A <!--ent_214-->, an ESTIMATION / QUANTITY SURVEYOR ENGINEER at ELEMEC ELECTRICAL CONTRACTING LLC, and Mr. Sabari Murugan <!--ent_326-->, an Associate Design Engineer at Wall Technology, are part of the 2016-2020 batch.
+
+The 2017-2021 batch has produced alumni like Mr. Jawahar Shalim <!--ent_181-->, a Team leader at Milkbasket, Mr. Abdul Mukshith A <!--ent_104-->, a SENIOR BIM ENGINEER at MICRON ELECTRICALS, and Mr. Mohamed Ali Hasan <!--ent_225-->, an Operation Head at Veena Jewellers. Mr. Imran L <!--ent_169-->, a Site Engineer at Al Rasheediah Safety and Security est, Abudhabi, is also part of this batch.
+
+Mr. Shamsudeen A <!--ent_348-->, a Software Engineer at HCL, and Mr. Nadir Khan <!--ent_263-->, a Supply Chain Engineer at Inaithiram Impex Internet Pvt Ltd, are notable alumni from the 2018-2022 and 2019-2023 batches, respectively. Mr. Sathiyan <!--ent_338-->, a Software Engineer at Relevantz Technology Services Pvt Ltd, and Mr. Md Zaid <!--ent_218-->, a Software Engineer at TCS, are also part of the 2019-2023 batch.
+
+The 2001-2005 batch of **MSAJCE** has produced several notable entrepreneurs, including Mr. Abdul Rahman <!--ent_105--> J <!--ent_106-->, who is the Managing Director of Blue Bell Business Management, and Mr. Mohammed Rizwan Ali <!--ent_245-->, who serves as the Managing Director of Excellence Prices Company Limited in Saudi, Dubai, and Bahrain. Mr. Krishna Kumar <!--ent_196--> is the Managing Director of Markk Imaging and Automation, while Ahamed Jameel A M T is an IT Consultant and entrepreneur. Elavarasan is the Managing Director of RMP Solutions, and Mallam Mustak is a Business Consultant based in Singapore, with his company Mallang Salma Consulting Services Pvt Ltd. Other notable entrepreneurs from this batch include Behin Samuel, Managing Director of Clysico, Abdul Wahab, Managing Director of Midas associates, and Firthouse, Managing Director of Nice Technology.
+
+The 2002-2006 batch has also produced several successful entrepreneurs, including Mr. Syed Shahul Hameed <!--ent_366-->, who is the Managing Director of Deysla for IT Solutions W.L.L. in Bahrain. Aswin Chandran is the CMD of Pixtronics Global Chennai, while Athifur Rahaman is the Managing Director of Learn Soft. Abdul Jaleeel is the Managing Director of King Travels, and Mr. Syed Sultan Allaudeen <!--ent_367--> M M <!--ent_368--> is the Managing Director of MM International. 
+
+Mr. Mohammed Rameez <!--ent_244-->, from the 2004-2008 batch, is the Founder of Zeemrah Energy, while Mr. Ganesh <!--ent_160--> is the CEO of JFX Events and Media. Mr. Rahumathulla A S <!--ent_292--> is the Managing Director of Rekha Décor, and Mr. Abdur Rahim Salih <!--ent_110--> is the Director and CEO of V5 Innovations Pvt Ltd. Mr. Shanmugam <!--ent_350--> is the IT Director of Zyple Software Solutions Pvt Ltd. The 2005-2009 batch has also produced several entrepreneurs, including Mr. Asim Ali <!--ent_129--> L <!--ent_130-->, who is the CMO of Customer Labs, and Mr. Syed Yousuf <!--ent_369-->, who is a Business Partner at Milestone Speciality Equipment Pvt Ltd. Mr. Ahmed Asif A <!--ent_117--> is the Managing Director of First Alcon Infrastructures Pvt Ltd, and Mr. Md Sikkander Kasim M <!--ent_216--> is the Managing Director of Faaz.
+
+In addition to these entrepreneurs, **MSAJCE** has also produced several other successful alumni, including Ms. Senthamizh Selvi <!--ent_490-->, who is a Business Development Executive and graduated in 2013. Mr. Aadil Ibrahim <!--ent_096--> A <!--ent_097--> is a Home Elevator Advisor and graduated in 2014, the same year as Mr. Mohan Kumar <!--ent_250-->, who is the CEO and Founder of his company. Ms. Yousuf Zulaikha <!--ent_497--> is an AR Specialist and graduated in 2014, along with Mr. Vignesh <!--ent_386--> S <!--ent_388-->, who is a PMO Auditor, and Mr. Kannan <!--ent_194--> R <!--ent_195-->, who is an NDT Level-2 Inspector. Mr. Mohamed Abdullah <!--ent_221--> S <!--ent_222--> is an Automation Engineer and graduated in 2015, the same year as Mr. Kalil Ahmed <!--ent_190--> B <!--ent_191-->, who is an Electrical Design Engineer. Other notable alumni include Mr. Harikrishna <!--ent_164-->, who is an Insurance Surveyor and graduated in 2016, Ms. Preeta Rani <!--ent_473--> S <!--ent_474-->, who is an Assistant Engineer and graduated in 2017, and Mr. Nadeem <!--ent_261--> S <!--ent_262-->, who is an HVAC Plant Engineer and graduated in 2017. Mr. Mohamed Arsath <!--ent_226--> is an Assistant Engineer and graduated in 2018.
+
+Mohammed Zubair, a 2006-2010 alumnus, is the Managing Director of Usite Safety and Security, while his contemporaries, Abdul Majeed Shiblee and F H M Afzal Bijli, are the Proprietor of DEBUGGER and the Founder of Webxo360 Technology Solutions, respectively. Another notable entrepreneur from the same batch is Abdul Kader, who is the Business Partner at Al Qima technologies LLC in Sharjah, UAE. 
+
+Mohammed Parvez Shariff, a 2007-2011 alumnus, is the Proprietor of Air Mechon Solutions, and his batchmate, Kalidoss .J, is a Music Director in the Film Industry. Mohamed Jiavur Rahman T H, a 2008-2012 alumnus, is the Founder of Motowear, and his contemporaries include Sadhaam, the Business Partner at Phoenix Print hub, Nazhrudeen, the Founder of Xperthom Technologies, Prasand P, the Managing Director of PROZ SOLUTIONS LLP, and K.Hakeem, the Managing Director of Safka Engineering Works.
+
+P.Arun Kumar, a 2009-2013 alumnus, is the Managing Director of AG interior and Mithra Traders, and his batchmate, Abdul Riyaz M, is the Managing Director of RIHAAB ALIYAR ASSOCIATES. Sabarish S R, a 2010-2014 alumnus, is the Founder and CEO of Sportasy, while his contemporaries include Mohan Kumar, the Founder and CEO of Gamasome Interactive LLP, Adil Ibrahim, the Founder and CEO of CameraMan - Security System Installer, and J.Mohamed Salman Azeem, an Acupuncturist and Trainer at Global Acupuncture Clinic.
+
+Veeramanikandan P, a 2011-2015 alumnus, is the Managing Director of SPS Traders, and his batchmate, J. MOHAMMED ABBAS ALI, is the Managing Director of A. J MOBILES AND ELECTRONICS. RAFI ANSARI, another alumnus from the same batch, is the Managing Director of Rashab consultancy. Mohamed Afroze, a 2012-2016 alumnus, is the Managing Director of J Digitals, and his contemporaries include Salmaa Gaffoor, the Managing Director of Digiwiz Marketing Solutions, and Basker, the Business Partner at Studio Zero 7.
+
+Abdullah, a 2014-2018 alumnus, is the CEO of Redwood Construction, and his contemporaries include Md Hyder Shareef, the Managing Director of SAAHICORP PRIVATE LIMITED, Mohamed Naveeth B, the Managing Director of Reliance Trading Service, and Ashwin P, the Managing Director of P & P Marketing. Dhanachezian K, a 2016-2020 alumnus, is the Managing Director of Shri Dhanalakshmi Engineering Works, and his batchmate, Dawan, is the Managing Director of Enigma Catalyst.
+
+Akther Ilyas, a 2018-2022 alumnus, is the Creative Director of Skit Media - Start Up, and his contemporaries include Ram Kumar, the Managing Director of YC Events and Productions, and Syed Aakhib Mohammed, the Managing Director of BLACKBOX.
+
+Mr. Suhaib <!--ent_356-->, a distinguished alumnus of Mohamed Sathak A.J. College of Engineering, is a successful entrepreneur who graduated in the 2022-2026 batch. He has achieved great heights in his career, currently serving as the CEO of IK Digital, a testament to his exceptional leadership skills and innovative spirit.
 
 ## 7. Alumni Scholarship Contribution
-- The **MSAJCE** Alumni Association has been actively contributing to the betterment of **MSAJCE** through various scholarships, with a total amount sponsored of Rs.
-- 40,16,472.
-- One of the beneficiaries of this initiative is Mohamed Humdhan I, a student from the 2024-2028 batch of the AIDS department, who received the scholarship on two separate occasions, 09.07.2026 and 10.05.2026.
-- Another student, Mohamed Uawais A from the 2023-2027 batch of the CSE department, received the scholarship on 18.06.2026.
-- Several students from the 2023-2027 and 2024-2028 batches of various departments, including CSBS, ECE, Mech, AIML, and IT, have also benefited from the alumni scholarship.
-- These students include Priyadharshini S, Revathi A, Sireesh B, Mohammed Shahul Hameed B, Rahya N, Rahini Mugil J, Gopika R, Sujatha R, Harini R, Prathiba M, Doorika M, Jafeer Mohamed J, and Pirivindhan A. They received their scholarships on different dates, ranging from 07.03.2026 to 26.02.2026.
-- Additionally, alumni from the 2023-2027 and 2024-2028 batches, such as Rahim Basha W, Mohamed ZiamZian A, Ameer Shahith M, Abdullah N, Afreen Fathim S, Afasr Ali N, Afrin Fathima B, Pragatha, Samira Farhana T, Md Suhail F, Mahira Sultana, and Mohamed Salman J, have also received scholarships on various dates between 22.02.2026 and 20.09.2025.
-- In 2025, several students from the 2022-2026 and 2023-2027 batches received scholarships, including Indhuja I, Abu Jabar Mubarak U, Md Abdul Kalam N, Nazmi A, Amirudeen F, Md Ashraf, F.Md Suhail, Md Sarhan K, Mohamed Ashraf, M.S.Shajaneshwar, M.Mohamed Ashraf, Afrin Fathima B, M.Mohamed Rasim, Zakir Hussain, Rahim Basha W, Pragatha, Mahira Sultana, Md Sajith, B.Dhanalakshmi, and Nilofer Nisha.
-- They received their scholarships on dates ranging from 29.05.2025 to 07.03.2025.
-- The **MSAJCE** Alumni Association also sponsored sports jerseys to the Hockey Team on 30.09.2024.
-- Furthermore, students like V.Abinaya, M.Mohamed Afsal, and B.Dhanalakshmi from the 2021-2025 and 2022-2026 batches received scholarships on 01.08.2024 and 12.05.2024, respectively.
-- Pragatha from the 2023-2027 batch of the CSE department received a scholarship on 16.03.2024.
-- Several alumni from the 2022-2026 batch made contributions to the **MSAJCE** Alumni Scholarship.
-- These include Md Abdul Kalam from CSBS, Nazmi A from CSE, Abu Jabar Mubarak from CSBS, Nilofer Nisha from ECE, Amirudeen from IT, and N. Abdullah from IT, all of whom donated on March 9, 2024, and March 16, 2024.
-- Additionally, Md Rasin from the 2023-2027 IT batch contributed on March 15, 2024.
-- Other notable contributors include Shaik Irfan from the 2021-2025 Mech batch, who donated on March 16, 2024, and Farhan Basha T from the 2021-2025 CSE batch, who contributed on March 13, 2024.
-- Ahamed Sheik from the 2021-2025 CSE batch made two separate donations, one on March 9, 2024, and another on November 9, 2023.
-- The **MSAJCE** Alumni Association also sponsored sports jerseys for the Cricket and Football teams on November 1, 2023.
-- Furthermore, Tech Unity sponsored **MSAJCE** Symposium Event on October 16, 2023.
-- Other contributors include Parvez Nabi Z from the 2023-2027 IT batch, who donated on August 2, 2023, and Amirudeen F from the 2022-2026 IT batch, who contributed on August 8, 2023.
-- Fahd Ahmed Khan K from the 2023-2027 ECE batch, Pragatha M from the 2023-2027 CSE batch, Abdullah N from the 2023-2027 IT batch, Ijas Ahamed R from the 2023-2027 MECH batch, and Md Sajith S from the 2022-2026 ECE batch all made contributions on September 4, 2023.
-- Md Khaja Nawaz A from the 2020-2024 CSE batch also donated on September 4, 2023.
-- The Codeathon Symposium was held on May 8, 2023.
-- Md Sajith S from the 2022-2026 ECE batch made two separate donations, one on April 7, 2023, and another on April 6, 2023.
-- Syeda Zuha Tasneem from the 2021-2025 CSE batch and Md Khaja Nawaz A from the 2020-2024 CSE batch contributed on March 29, 2023.
-- Farhan Basha T from the 2021-2025 CSE batch donated on March 24, 2023.
-- Abdullah S from the 2020-2024 IT batch made two separate donations, one on March 18, 2023, and another on September 15, 2022.
-- The BSM Cricket Trophy Tournament was held on February 24, 2023.
-- A Smart Board Device was sponsored on January 23, 2023.
-- Top Performer awards were given out department-wise on October 15, 2022.
-- A Cricket Kit was sponsored on October 7, 2022.
-- Ashwini A from the 2019-2023 ECE batch and Akshaya K from the 2019-2023 ECE batch contributed on September 8, 2022.
-- Md Sajith S from the 2022-2026 ECE batch donated on August 11, 2022.
-- Aayathul Mufarak A from the 2019-2023 MECH batch made three separate donations, one on August 2, 2022, another on March 30, 2022, and a third on February 13, 2021.
-- Assifa A from the 2019-2023 ECE batch contributed on September 2, 2023.
-- Farhan Basha T from the 2021-2025 CSE batch donated on June 29, 2022.
-- Parveen Begum M from the 2018-2022 CSE batch contributed on March 30, 2022.
-- Akshaya K from the 2019-2023 ECE batch made a second donation on February 13, 2021.
+
+The **MSAJCE** Alumni Association has been actively contributing to the betterment of **MSAJCE** through various scholarships, with a total amount sponsored of Rs. 40,16,472. One of the beneficiaries of this initiative is Mohamed Humdhan I, a student from the 2024-2028 batch of the AIDS department, who received the scholarship on two separate occasions, 09.07.2026 and 10.05.2026. Another student, Mohamed Uawais A from the 2023-2027 batch of the CSE department, received the scholarship on 18.06.2026.
+
+Several students from the 2023-2027 and 2024-2028 batches of various departments, including CSBS, ECE, Mech, AIML, and IT, have also benefited from the alumni scholarship. These students include Priyadharshini S, Revathi A, Sireesh B, Mohammed Shahul Hameed B, Rahya N, Rahini Mugil J, Gopika R, Sujatha R, Harini R, Prathiba M, Doorika M, Jafeer Mohamed J, and Pirivindhan A. They received their scholarships on different dates, ranging from 07.03.2026 to 26.02.2026.
+
+Additionally, alumni from the 2023-2027 and 2024-2028 batches, such as Rahim Basha W, Mohamed ZiamZian A, Ameer Shahith M, Abdullah N, Afreen Fathim S, Afasr Ali N, Afrin Fathima B, Pragatha, Samira Farhana T, Md Suhail F, Mahira Sultana, and Mohamed Salman J, have also received scholarships on various dates between 22.02.2026 and 20.09.2025.
+
+In 2025, several students from the 2022-2026 and 2023-2027 batches received scholarships, including Indhuja I, Abu Jabar Mubarak U, Md Abdul Kalam N, Nazmi A, Amirudeen F, Md Ashraf, F.Md Suhail, Md Sarhan K, Mohamed Ashraf, M.S.Shajaneshwar, M.Mohamed Ashraf, Afrin Fathima B, M.Mohamed Rasim, Zakir Hussain, Rahim Basha W, Pragatha, Mahira Sultana, Md Sajith, B.Dhanalakshmi, and Nilofer Nisha. They received their scholarships on dates ranging from 29.05.2025 to 07.03.2025.
+
+The **MSAJCE** Alumni Association also sponsored sports jerseys to the Hockey Team on 30.09.2024. Furthermore, students like V.Abinaya, M.Mohamed Afsal, and B.Dhanalakshmi from the 2021-2025 and 2022-2026 batches received scholarships on 01.08.2024 and 12.05.2024, respectively. Pragatha from the 2023-2027 batch of the CSE department received a scholarship on 16.03.2024.
+
+Several alumni from the 2022-2026 batch made contributions to the **MSAJCE** Alumni Scholarship. These include Md Abdul Kalam from CSBS, Nazmi A from CSE, Abu Jabar Mubarak from CSBS, Nilofer Nisha from ECE, Amirudeen from IT, and N. Abdullah from IT, all of whom donated on March 9, 2024, and March 16, 2024. Additionally, Md Rasin from the 2023-2027 IT batch contributed on March 15, 2024.
+
+Other notable contributors include Shaik Irfan from the 2021-2025 Mech batch, who donated on March 16, 2024, and Farhan Basha T from the 2021-2025 CSE batch, who contributed on March 13, 2024. Ahamed Sheik from the 2021-2025 CSE batch made two separate donations, one on March 9, 2024, and another on November 9, 2023.
+
+The **MSAJCE** Alumni Association also sponsored sports jerseys for the Cricket and Football teams on November 1, 2023. Furthermore, Tech Unity sponsored **MSAJCE** Symposium Event on October 16, 2023. Other contributors include Parvez Nabi Z from the 2023-2027 IT batch, who donated on August 2, 2023, and Amirudeen F from the 2022-2026 IT batch, who contributed on August 8, 2023.
+
+Fahd Ahmed Khan K from the 2023-2027 ECE batch, Pragatha M from the 2023-2027 CSE batch, Abdullah N from the 2023-2027 IT batch, Ijas Ahamed R from the 2023-2027 MECH batch, and Md Sajith S from the 2022-2026 ECE batch all made contributions on September 4, 2023. Md Khaja Nawaz A from the 2020-2024 CSE batch also donated on September 4, 2023.
+
+The Codeathon Symposium was held on May 8, 2023. Md Sajith S from the 2022-2026 ECE batch made two separate donations, one on April 7, 2023, and another on April 6, 2023. Syeda Zuha Tasneem from the 2021-2025 CSE batch and Md Khaja Nawaz A from the 2020-2024 CSE batch contributed on March 29, 2023. Farhan Basha T from the 2021-2025 CSE batch donated on March 24, 2023.
+
+Abdullah S from the 2020-2024 IT batch made two separate donations, one on March 18, 2023, and another on September 15, 2022. The BSM Cricket Trophy Tournament was held on February 24, 2023. A Smart Board Device was sponsored on January 23, 2023. Top Performer awards were given out department-wise on October 15, 2022.
+
+A Cricket Kit was sponsored on October 7, 2022. Ashwini A from the 2019-2023 ECE batch and Akshaya K from the 2019-2023 ECE batch contributed on September 8, 2022. Md Sajith S from the 2022-2026 ECE batch donated on August 11, 2022. Aayathul Mufarak A from the 2019-2023 MECH batch made three separate donations, one on August 2, 2022, another on March 30, 2022, and a third on February 13, 2021.
+
+Assifa A from the 2019-2023 ECE batch contributed on September 2, 2023. Farhan Basha T from the 2021-2025 CSE batch donated on June 29, 2022. Parveen Begum M from the 2018-2022 CSE batch contributed on March 30, 2022. Akshaya K from the 2019-2023 ECE batch made a second donation on February 13, 2021.
 
 ## 8. Alumni Feedback
 
 ## 9. Alumni Meet - 2k23 (2009 - 2020 Batch)
-- The Alumni Meet - 2k23 was a significant event that brought together alumni from the 2009 to 2020 batches of Mohamed Sathak A.J. College of Engineering.
-- Several distinguished alumni from the 2016-2020 batch have made notable achievements in their respective fields.
-- Mr. Md Mubarak <!--ent_215--> serves as the MEP Team Leader at EJADAH UAE, while Mr. Md Junaid A <!--ent_214--> works as an Estimation/Quantity Surveyor Engineer at ELEMEC ELECTRICAL CONTRACTING LLC.
-- Additionally, Mr. Sabari Murugan <!--ent_326--> holds the position of Associate Design Engineer at Wall Technology.
-- The 2017-2021 batch has also produced several accomplished alumni.
-- Mr. Jawahar Shalim <!--ent_181--> is the Team Leader at Milkbasket, and Mr. Abdul Mukshith A <!--ent_104--> works as a Senior BIM Engineer at MICRON ELECTRICALS.
-- Furthermore, Mr. Mohamed Ali Hasan <!--ent_225--> is the Operation Head at Veena Jewellers, and Mr. Imran L <!--ent_169--> serves as a Site Engineer at Al Rasheediah Safety and Security est, Abudhabi.
-- Other notable alumni include Mr. Shamsudeen A <!--ent_348-->, who works as a Software Engineer at HCL, having graduated in the 2018-2022 batch.
-- The 2019-2023 batch has also produced several successful alumni, including Mr. Nadir Khan <!--ent_263-->, who serves as a Supply Chain Engineer at Inaithiram Impex Internet Pvt Ltd, Mr. Sathiyan <!--ent_338-->, who works as a Software Engineer at Relevantz Technology Services Pvt Ltd, and Mr. Md Zaid <!--ent_218-->, who is a Software Engineer at TCS.
-- Earlier batches have also produced accomplished alumni.
-- Ms. Senthamizh Selvi <!--ent_490-->, who graduated in 2013, works as a Business Development Executive.
-- The 2014 batch includes several notable alumni, such as Mr. Aadil Ibrahim <!--ent_096--> .A, who serves as a Home Elevator Advisor, Mr. Mohan Kumar <!--ent_250-->, who is the CEO/Founder of his company, Ms. Yousuf Zulaikha <!--ent_497-->, who works as an AR Specialist, Mr. Vignesh <!--ent_386--> .S, who serves as a PMO - Auditor, and Mr. Kannan <!--ent_194--> .R, who is an NDT Level-2 Inspector.
-- Other notable alumni from the 2014 batch include Mr. Mohamed Abdullah <!--ent_221--> .S, who graduated in 2015 and works as an Automation Engineer, and Mr. Kalil Ahmed <!--ent_190--> .B, who serves as an Electrical Design Engineer.
-- The 2016 batch includes Mr. Harikrishna <!--ent_164-->, who works as an Insurance Surveyor.
-- The 2017 batch has produced alumni such as Ms. Preeta Rani <!--ent_473--> .S, who serves as an Assistant Engineer, and Mr. Nadeem <!--ent_261--> .S, who works as an HVAC Plant Engineer.
-- Mr. Mohamed Arsath <!--ent_226-->, who graduated in 2018, is also an Assistant Engineer.
-- The 2001-2005 batch has produced several successful entrepreneurs.
-- Mr. Abdul Rahman <!--ent_105--> .J is the Managing Director of Blue Bell Business Management, while Mr. Mohammed Rizwan Ali <!--ent_245--> is the Managing Director of Excellence Prices Company Limited in Saudi, Dubai, and Bahrain.
-- Other notable entrepreneurs from this batch include Mr. Krishna Kumar <!--ent_196-->, who is the Managing Director of Markk Imaging and Automation, Ahamed Jameel A M T, who is an IT Consultant and entrepreneur, Elavarasan, who is the Managing Director of RMP Solutions, and Mallam Mustak, who serves as a Business Consultant in Singapore.
-- Additionally, Behin Samuel is the Managing Director of Clysico, and Abdul Wahab is the Managing Director of Midas associates.
-- The Alumni Association of Mohamed Sathak A.J. College of Engineering extends a warm welcome to all its members, inviting them to join in and reconnect with their alma mater.
-- The primary objective of this association is to foster a strong intellectual and emotional bond between the alumni and **MSAJCE**, thereby promoting a sense of connectedness and community.
-- Through the association, alumni can re-establish and renew relationships with their fellow students, as well as participate in various college activities.
-- Moreover, the association aims to provide support to future engineers by offering assistance to those in need, in the form of funds and scholarships.
-- It also seeks to maintain a comprehensive database of employment opportunities, facilitating placements for its members.
-- In addition to these initiatives, the association plans to arrange teaching and training classes for students, further contributing to the overall growth and development of **MSAJCE**.
-- By doing so, the Alumni Association of Mohamed Sathak A.J. College of Engineering strives to create a positive and lasting impact on **MSAJCE** community.
+
+The Alumni Meet - 2k23 was a significant event that brought together alumni from the 2009 to 2020 batches of Mohamed Sathak A.J. College of Engineering.
+Several distinguished alumni from the 2016-2020 batch have made notable achievements in their respective fields. Mr. Md Mubarak <!--ent_215--> serves as the MEP Team Leader at EJADAH UAE, while Mr. Md Junaid A <!--ent_214--> works as an Estimation/Quantity Surveyor Engineer at ELEMEC ELECTRICAL CONTRACTING LLC. Additionally, Mr. Sabari Murugan <!--ent_326--> holds the position of Associate Design Engineer at Wall Technology.
+
+The 2017-2021 batch has also produced several accomplished alumni. Mr. Jawahar Shalim <!--ent_181--> is the Team Leader at Milkbasket, and Mr. Abdul Mukshith A <!--ent_104--> works as a Senior BIM Engineer at MICRON ELECTRICALS. Furthermore, Mr. Mohamed Ali Hasan <!--ent_225--> is the Operation Head at Veena Jewellers, and Mr. Imran L <!--ent_169--> serves as a Site Engineer at Al Rasheediah Safety and Security est, Abudhabi.
+
+Other notable alumni include Mr. Shamsudeen A <!--ent_348-->, who works as a Software Engineer at HCL, having graduated in the 2018-2022 batch. The 2019-2023 batch has also produced several successful alumni, including Mr. Nadir Khan <!--ent_263-->, who serves as a Supply Chain Engineer at Inaithiram Impex Internet Pvt Ltd, Mr. Sathiyan <!--ent_338-->, who works as a Software Engineer at Relevantz Technology Services Pvt Ltd, and Mr. Md Zaid <!--ent_218-->, who is a Software Engineer at TCS.
+
+Earlier batches have also produced accomplished alumni. Ms. Senthamizh Selvi <!--ent_490-->, who graduated in 2013, works as a Business Development Executive. The 2014 batch includes several notable alumni, such as Mr. Aadil Ibrahim <!--ent_096--> .A, who serves as a Home Elevator Advisor, Mr. Mohan Kumar <!--ent_250-->, who is the CEO/Founder of his company, Ms. Yousuf Zulaikha <!--ent_497-->, who works as an AR Specialist, Mr. Vignesh <!--ent_386--> .S, who serves as a PMO - Auditor, and Mr. Kannan <!--ent_194--> .R, who is an NDT Level-2 Inspector.
+
+Other notable alumni from the 2014 batch include Mr. Mohamed Abdullah <!--ent_221--> .S, who graduated in 2015 and works as an Automation Engineer, and Mr. Kalil Ahmed <!--ent_190--> .B, who serves as an Electrical Design Engineer. The 2016 batch includes Mr. Harikrishna <!--ent_164-->, who works as an Insurance Surveyor. The 2017 batch has produced alumni such as Ms. Preeta Rani <!--ent_473--> .S, who serves as an Assistant Engineer, and Mr. Nadeem <!--ent_261--> .S, who works as an HVAC Plant Engineer. Mr. Mohamed Arsath <!--ent_226-->, who graduated in 2018, is also an Assistant Engineer.
+
+The 2001-2005 batch has produced several successful entrepreneurs. Mr. Abdul Rahman <!--ent_105--> .J is the Managing Director of Blue Bell Business Management, while Mr. Mohammed Rizwan Ali <!--ent_245--> is the Managing Director of Excellence Prices Company Limited in Saudi, Dubai, and Bahrain. Other notable entrepreneurs from this batch include Mr. Krishna Kumar <!--ent_196-->, who is the Managing Director of Markk Imaging and Automation, Ahamed Jameel A M T, who is an IT Consultant and entrepreneur, Elavarasan, who is the Managing Director of RMP Solutions, and Mallam Mustak, who serves as a Business Consultant in Singapore. Additionally, Behin Samuel is the Managing Director of Clysico, and Abdul Wahab is the Managing Director of Midas associates.
+
+The Alumni Association of Mohamed Sathak A.J. College of Engineering extends a warm welcome to all its members, inviting them to join in and reconnect with their alma mater. The primary objective of this association is to foster a strong intellectual and emotional bond between the alumni and **MSAJCE**, thereby promoting a sense of connectedness and community.
+
+Through the association, alumni can re-establish and renew relationships with their fellow students, as well as participate in various college activities. Moreover, the association aims to provide support to future engineers by offering assistance to those in need, in the form of funds and scholarships. It also seeks to maintain a comprehensive database of employment opportunities, facilitating placements for its members.
+
+In addition to these initiatives, the association plans to arrange teaching and training classes for students, further contributing to the overall growth and development of **MSAJCE**. By doing so, the Alumni Association of Mohamed Sathak A.J. College of Engineering strives to create a positive and lasting impact on **MSAJCE** community.
 
 ## 10. Office Bearers
-- The current office bearers of the **MSAJCE** Alumni Association, serving from 2024 till now, include Dr. K.S. Dr. K.S. Srinivasan <!--ent_037-->, who holds the position of President, and Mr. Ahamed Jameel <!--ent_113--> A.M.T <!--ent_115-->, who serves as Secretary.
-- The Treasurer is the Administrative Officer.
-- Mr. J. Abdul Rahman <!--ent_172--> is the Vice President, while Mr. Mohamed Yasar <!--ent_234--> is an Executive Member.
-- The Joint Secretaries of the association are Mr. M.M. Syed Sultan Allaudeen <!--ent_206-->, Mr. Asim Ali <!--ent_129--> L <!--ent_130-->, and Mr. Abdul Majeed Shiblee <!--ent_101-->.
-- Other Executive Members include Mr. Noorul Jaman <!--ent_270-->, Mr. N. Naveen <!--ent_258-->, Mr. Mikail Ismail <!--ent_219-->, who also serves as Program Coordinator, Mr. Mohammed Umar Farook <!--ent_247--> .B, Mr. Mano Raja <!--ent_211-->, Mr. N. Abdul Hameed <!--ent_256-->, Mr. Narenthiran <!--ent_264-->, Mr. T.H. Mohamed Jiavur Rahman <!--ent_371-->, Mr. Syed N Zaheer Abbas <!--ent_365-->, and Mr. P. Nadir Khan <!--ent_271-->.
-- Additionally, the association has several other Executive Members, including Srikanth K, Ms. Misbah Khairunissa A <!--ent_467-->, Ms. Akila Rajesh <!--ent_444-->, Mr. Seyed Mohamed Mustafa.
-- H, Mr. Ram Kumar <!--ent_298--> C <!--ent_299-->, Mr. Themotheyu S <!--ent_374-->, Mr. Mohammed Khaja Nawaz A <!--ent_242-->, Mr. Mohammed Thaqiuddin N <!--ent_246-->, and Mr. Harish N <!--ent_165-->.
-- During the 2023-2024 term, Dr. K.S. Dr. K.S. Srinivasan <!--ent_037-->, the Principal, served as the President of the Alumni Association.
-- Mr. Ahamed Jameel <!--ent_113--> A.M.T <!--ent_115-->, an alumnus, took on the role of Secretary, while Dr. S. Vijayakumar <!--ent_075-->, the Administrative Officer, was the Treasurer.
-- The Vice President position was held by Mr. J. Abdul Rahman <!--ent_172-->, also an alumnus.
-- The Executive Members for this term included Mr. Mohamed Yasar <!--ent_234-->, Mr. M.M. Syed Sultan Allaudeen <!--ent_206-->, Mr. Asim Ali <!--ent_129--> L <!--ent_130-->, Mr. Abdul Majeed Shiblee <!--ent_101-->, Mr. Noorul Jaman <!--ent_270-->, Mr. N. Naveen <!--ent_258-->, Mr. Mohammed Umar Farook <!--ent_247--> .B, Mr. Mano Raja <!--ent_211-->, Mr. N. Abdul Hameed <!--ent_256-->, Mr. Narenthiran <!--ent_264-->, Mr. T.H. Mohamed Jiavur Rahman <!--ent_371-->, Mr. Syed N Zaheer Abbas <!--ent_365-->, Mr. P. Nadir Khan <!--ent_271-->, Srikanth K, Ms. Misbah Khairunissa A <!--ent_467-->, Ms. Akila Rajesh <!--ent_444-->, and Mr. Seyed Mohamed Mustafa.
-- H. Additionally, Mr. Mikail Ismail <!--ent_219-->, an alumnus, was the Program Coordinator.
-- Prior to this, in the 2022-2023 term, the following alumni held positions: Mr. Diwakaran <!--ent_147--> k as an Executive Member, Mr. Deepak V R <!--ent_144--> as an Executive Member, Mr. Vineeth Baba K B <!--ent_390--> as an Executive Member, and Mr. Firthouse Mohideen J K <!--ent_156--> as an Executive Member.
-- The current office bearers of the **MSAJCE** Alumni Association include Dr. K.S. Dr. K.S. Srinivasan <!--ent_037-->, who serves as the President, Mr. Ahamed Jameel <!--ent_113--> A.M.T <!--ent_115--> as the Secretary, and Dr. S. Vijayakumar <!--ent_075--> as the Treasurer.
-- The Executive Members comprise a diverse group of alumni, including Mr. J. Abdul Rahman <!--ent_172-->, Mr. Mohamed Yasar <!--ent_234-->, Mr. M.M. Syed Sultan Allaudeen <!--ent_206-->, Mr. Asim Ali <!--ent_129--> L <!--ent_130-->, Mr. Abdul Majeed Shiblee <!--ent_101-->, Mr. Kalidoss <!--ent_189-->, Mr. Noorul Jaman <!--ent_270-->, Mr. N. Naveen <!--ent_258-->, Ms. J. Stella Marry <!--ent_460-->, Mr. Mikali Ismail <!--ent_220-->, Mr. Mohammed Umar Farook <!--ent_247--> B <!--ent_248-->, Mr. Mano Raja <!--ent_211-->, Mr. N. Abdul Hameed <!--ent_256-->, Mr. Narenthiran <!--ent_264-->, and Mr. J. Prasanth.
-- In the 2021-2022 term, the office bearers were Dr. K.S. Dr. K.S. Srinivasan <!--ent_037-->, who held the position of President, Mr. Ahamed Jameel <!--ent_113--> A.M.T <!--ent_115--> as the Secretary, and Dr. S. Vijayakumar <!--ent_075--> as the Treasurer.
-- The Executive Members during this term included Mr. J. Abdul Rahman <!--ent_172-->, Mr. Mohamed Yasar <!--ent_234-->, Mr. M.M. Syed Sultan Allaudeen <!--ent_206-->, Mr. Asim Ali <!--ent_129--> L <!--ent_130-->, Mr. Abdul Majeed Shiblee <!--ent_101-->, and several others who contributed to the association's activities.
-- During the 2020-2021 term, Dr. K.S. Dr. K.S. Srinivasan <!--ent_037-->, the Principal, served as the President of the Alumni Association.
-- Mr. J. Kalidoss <!--ent_173-->, an alumnus, held the position of Vice President, while Dr. R. Senthilkumar <!--ent_059-->, the Head of the Mechanical Engineering Department, acted as the Secretary.
-- Dr. S. Vijayakumar <!--ent_075-->, the Administrative Officer, took on the role of Treasurer.
-- The Executive Members for that term included Dr. S. Prasath <!--ent_073-->, an Associate Professor; Mrs. K. Saipriya <!--ent_414-->, an Associate Professor; Mr. A. Abdul Gafoor <!--ent_089-->, the Admission Officer; and several alumni, namely Mr. Mikali Ismail <!--ent_220-->, Mr. Ahamed Jameel <!--ent_113--> A.M.T <!--ent_115-->, Mr. Syed Mosin Akram <!--ent_364-->, Mr. Salman Akram <!--ent_331-->, Mr. Shaik Suhail Ahmed <!--ent_347-->, Mr. Shahul Hameed Sirajdeen <!--ent_344-->, Mr. Nishathul Hasan <!--ent_268-->, Mr. Mohammed Aslam <!--ent_238-->, and Mr. Vignesh <!--ent_386--> Rajendiran.
-- In addition to the 2020-2021 term, other notable alumni who have served as Executive Members include Mr. Kalidoss <!--ent_189-->, Mr. Noorul Jaman <!--ent_270-->, Mr. N. Naveen <!--ent_258-->, Ms. J. Stella Marry <!--ent_460-->, Mr. Mikali Ismail <!--ent_220-->, Mr. Mohammed Umar Farook <!--ent_247--> B <!--ent_248-->, Mr. Mano Raja <!--ent_211-->, and Mr. J. Prasanth.
+
+The current office bearers of the **MSAJCE** Alumni Association, serving from 2024 till now, include Dr. K.S. Dr. K.S. Srinivasan <!--ent_037-->, who holds the position of President, and Mr. Ahamed Jameel <!--ent_113--> A.M.T <!--ent_115-->, who serves as Secretary. The Treasurer is the Administrative Officer. Mr. J. Abdul Rahman <!--ent_172--> is the Vice President, while Mr. Mohamed Yasar <!--ent_234--> is an Executive Member.
+
+The Joint Secretaries of the association are Mr. M.M. Syed Sultan Allaudeen <!--ent_206-->, Mr. Asim Ali <!--ent_129--> L <!--ent_130-->, and Mr. Abdul Majeed Shiblee <!--ent_101-->. Other Executive Members <!--ent_103--> include Mr. Noorul Jaman <!--ent_270-->, Mr. N. Naveen <!--ent_258-->, Mr. Mikail Ismail <!--ent_219-->, who also serves as Program Coordinator, Mr. Mohammed Umar Farook <!--ent_247--> .B, Mr. Mano Raja <!--ent_211-->, Mr. N. Abdul Hameed <!--ent_256-->, Mr. Narenthiran <!--ent_264-->, Mr. T.H. Mohamed Jiavur Rahman <!--ent_371-->, Mr. Syed N Zaheer Abbas <!--ent_365-->, and Mr. P. Nadir Khan <!--ent_271-->.
+
+Additionally, the association has several other Executive Members, including Srikanth K, Ms. Misbah Khairunissa A <!--ent_467-->, Ms. Akila Rajesh <!--ent_444-->, Mr. Seyed Mohamed Mustafa. H <!--ent_341-->, Mr. Ram Kumar <!--ent_298--> C <!--ent_299-->, Mr. Themotheyu S <!--ent_374-->, Mr. Mohammed Khaja Nawaz A <!--ent_242-->, Mr. Mohammed Thaqiuddin N <!--ent_246-->, and Mr. Harish N <!--ent_165-->.
+
+During the 2023-2024 term, Dr. K.S. Dr. K.S. Srinivasan <!--ent_037-->, the Principal, served as the President of the Alumni Association. Mr. Ahamed Jameel <!--ent_113--> A.M.T <!--ent_115-->, an alumnus, took on the role of Secretary, while Dr. S. Vijayakumar <!--ent_075-->, the Administrative Officer, was the Treasurer. The Vice President position was held by Mr. J. Abdul Rahman <!--ent_172-->, also an alumnus. The Executive Members for this term included Mr. Mohamed Yasar <!--ent_234-->, Mr. M.M. Syed Sultan Allaudeen <!--ent_206-->, Mr. Asim Ali <!--ent_129--> L <!--ent_130-->, Mr. Abdul Majeed Shiblee <!--ent_101-->, Mr. Noorul Jaman <!--ent_270-->, Mr. N. Naveen <!--ent_258-->, Mr. Mohammed Umar Farook <!--ent_247--> .B, Mr. Mano Raja <!--ent_211-->, Mr. N. Abdul Hameed <!--ent_256-->, Mr. Narenthiran <!--ent_264-->, Mr. T.H. Mohamed Jiavur Rahman <!--ent_371-->, Mr. Syed N Zaheer Abbas <!--ent_365-->, Mr. P. Nadir Khan <!--ent_271-->, Srikanth K, Ms. Misbah Khairunissa A <!--ent_467-->, Ms. Akila Rajesh <!--ent_444-->, and Mr. Seyed Mohamed Mustafa. H <!--ent_341-->. Additionally <!--ent_343-->, Mr. Mikail Ismail <!--ent_219-->, an alumnus, was the Program Coordinator.
+
+Prior to this, in the 2022-2023 term, the following alumni held positions: Mr. Diwakaran <!--ent_147--> k as an Executive Member, Mr. Deepak V R <!--ent_144--> as an Executive Member, Mr. Vineeth Baba K B <!--ent_390--> as an Executive Member, and Mr. Firthouse Mohideen J K <!--ent_156--> as an Executive Member.
+
+The current office bearers of the **MSAJCE** Alumni Association include Dr. K.S. Dr. K.S. Srinivasan <!--ent_037-->, who serves as the President, Mr. Ahamed Jameel <!--ent_113--> A.M.T <!--ent_115--> as the Secretary, and Dr. S. Vijayakumar <!--ent_075--> as the Treasurer. The Executive Members comprise a diverse group of alumni, including Mr. J. Abdul Rahman <!--ent_172-->, Mr. Mohamed Yasar <!--ent_234-->, Mr. M.M. Syed Sultan Allaudeen <!--ent_206-->, Mr. Asim Ali <!--ent_129--> L <!--ent_130-->, Mr. Abdul Majeed Shiblee <!--ent_101-->, Mr. Kalidoss <!--ent_189-->, Mr. Noorul Jaman <!--ent_270-->, Mr. N. Naveen <!--ent_258-->, Ms. J. Stella Marry <!--ent_460-->, Mr. Mikali Ismail <!--ent_220-->, Mr. Mohammed Umar Farook <!--ent_247--> B <!--ent_248-->, Mr. Mano Raja <!--ent_211-->, Mr. N. Abdul Hameed <!--ent_256-->, Mr. Narenthiran <!--ent_264-->, and Mr. J. Prasanth.
+
+In the 2021-2022 term, the office bearers were Dr. K.S. Dr. K.S. Srinivasan <!--ent_037-->, who held the position of President, Mr. Ahamed Jameel <!--ent_113--> A.M.T <!--ent_115--> as the Secretary, and Dr. S. Vijayakumar <!--ent_075--> as the Treasurer. The Executive Members during this term included Mr. J. Abdul Rahman <!--ent_172-->, Mr. Mohamed Yasar <!--ent_234-->, Mr. M.M. Syed Sultan Allaudeen <!--ent_206-->, Mr. Asim Ali <!--ent_129--> L <!--ent_130-->, Mr. Abdul Majeed Shiblee <!--ent_101-->, and several others who contributed to the association's activities.
+
+During the 2020-2021 term, Dr. K.S. Dr. K.S. Srinivasan <!--ent_037-->, the Principal, served as the President of the Alumni Association. Mr. J. Kalidoss <!--ent_173-->, an alumnus, held the position of Vice President, while Dr. R. Senthilkumar <!--ent_059-->, the Head of the Mechanical Engineering Department, acted as the Secretary. Dr. S. Vijayakumar <!--ent_075-->, the Administrative Officer, took on the role of Treasurer. The Executive Members for that term included Dr. S. Prasath <!--ent_073-->, an Associate Professor; Mrs. K. Saipriya <!--ent_414-->, an Associate Professor; Mr. A. Abdul Gafoor <!--ent_089-->, the Admission Officer; and several alumni, namely Mr. Mikali Ismail <!--ent_220-->, Mr. Ahamed Jameel <!--ent_113--> A.M.T <!--ent_115-->, Mr. Syed Mosin Akram <!--ent_364-->, Mr. Salman Akram <!--ent_331-->, Mr. Shaik Suhail Ahmed <!--ent_347-->, Mr. Shahul Hameed Sirajdeen <!--ent_344-->, Mr. Nishathul Hasan <!--ent_268-->, Mr. Mohammed Aslam <!--ent_238-->, and Mr. Vignesh <!--ent_386--> Rajendiran.
+
+In addition to the 2020-2021 term, other notable alumni who have served as Executive Members include Mr. Kalidoss <!--ent_189-->, Mr. Noorul Jaman <!--ent_270-->, Mr. N. Naveen <!--ent_258-->, Ms. J. Stella Marry <!--ent_460-->, Mr. Mikali Ismail <!--ent_220-->, Mr. Mohammed Umar Farook <!--ent_247--> B <!--ent_248-->, Mr. Mano Raja <!--ent_211-->, and Mr. J. Prasanth.
 
 ## 11. MSEC Alumni Association Registration Certificate
 
 ## 12. MSEC Alumni Association Reports
 
 ## 13. Alumini Contribution
-- The **MSAJCE** Alumni Association has been actively involved in various events and activities, showcasing the contributions of its esteemed alumni.
-- On 17th April 2026, the Silver Jubilee Event took place, where Anbazhagan, Saranraj Saravanan, and Mohammed Ateeq were honored as Alumni Guests of Honour.
-- Earlier, on 8th April 2026, Abdur Rahim Saleh, CEO of V5 Innovations, attended the Engineers Edge 3.0 event as an alumni representative.
-- In February 2026, Deepak, an alumnus from the 2011-2015 batch, attended the AAC Meeting, demonstrating his continued involvement with **MSAJCE**.
-- In September 2025, Diwakaran, Managing Director of DKM Enterprises, shared his inspiring story as part of the "My Story Successful Innovators" session.
-- The same month, Ahamed Jameel, Alumni Secretary, played a crucial role in facilitating the placement of a student in "The BIM Engineers" Company, specifically in the EEE Department.
-- Ahamed Jameel's efforts also led to the successful internship of students at StayIndiaDigital, with six students from the AIDS and CSBS Departments securing placements on 10th July 2025, and three students on 1st July 2025.
-- In April 2025, Aniruddhan Narayanan, an alumnus from the 2006-2010 batch, was the Guest of Honor at the Project X Hackathon.
-- On International Women's Day, 8th March 2025, Ms. Vani Parachuri <!--ent_494--> from the 2003-2007 batch and Ms. P.Rosiah <!--ent_470--> from the 2006-2010 batch were honored with the Women Achiever Award.
-- The Silver Jubilee Reunion Meet 2025 was a significant event, where the alumni of the 2001-2005 batch, along with the **MSAJCE** Alumni Association, donated to **MSAJCE** on the occasion of its Silver Jubilee Year.
-- This donation was made towards the **MSAJCE** Alumni Sports Pavilion, demonstrating the alumni's commitment to giving back to their alma mater.
-- The Silver Jubilee Reunion Meet, held on February 1, 2025, was a grand success with over 500 alumni participating in the function.
-- This reunion was a testament to the strong bond between the alumni and their alma mater.
-- In the 2024-2025 term, the alumni association organized several sessions to benefit the students of **MSAJCE**.
-- One such session, "From Idea to Impact: Exploring Opportunities in the Startup Eco System," was conducted by Naveen Zahir, the Founder and CEO of Drop Truck, on December 4, 2024.
-- Another session, "Core Industries Unlocked - Pathways for tomorrow innovators," was led by Diwakaran, the Managing Director of KDM Enterprises, on December 3, 2024.
-- Imran Javeed, an Assistant Professor at Veltech University, delivered a session on "Electro Magnetic Fields in Modern Application" on November 28, 2024.
-- The alumni association also organized motivational sessions, including one by Shiblee, the Founder of Debugger Shirts, on November 20, 2024.
-- Juveriya Khan, a Senior Quality Assurance Manager at DMCG in Dubai, spoke on "Empowering our Educational Journey: the role of Quality Assurance" on November 14, 2024.
-- Lubna Amathul Wadhoodh, a PMP and Product Consultant at Vembu Technologies, shared her insights on "Preparing for the Future: Skills, Technologies and Mindset for Engineering Students" on October 25, 2024.
-- Titus Vimalraj, a Front End Engineer at Amazon, conducted a session on "Front Static Pages to dynamic Applications" on September 14, 2024.
-- Earlier in the year, on March 9, 2024, the Alumni Association Meet was held, with around 17 alumni participating and discussing upcoming activities for the welfare of college students.
-- Ms. Misbah Khairunissa A <!--ent_467-->, an alumna, interacted with college students and provided counseling during a mentoring session on January 6, 2024.
-- On January 5, 2024, Shanmugasarathy, an alumnus of **MSAJCE**, extended his support to **MSAJCE** by hiring a student from the 2023 batch at his company, Lightenz Technovations Pvt Ltd, for placement recruitment.
-- In December 2023, **MSAJCE** was honored with the GoldenGuru Award for being one of the best colleges in OMR, and all the teaching staff received personalized certificates for their role in shaping the future minds of India.
-- This prestigious award was given by GRT Jewellers, and the event was conceptualized and executed by Ashwin.C and his team.
-- The award ceremony took place on December 1, 2023.
-- Akila Rajesh, an alumna of **MSAJCE**, participated in an awareness session titled "You are important" on November 25, 2023.
-- Around the same time, on November 2, 2023, Alumni Karthikeyan and Lubna Amathul participated as Guests of Honour in the Engineer's Edge 2k23 event.
-- On October 28, 2023, the Alumni Association Meet was held, where around 16 alumni participated and discussed upcoming activities for the welfare of college students.
-- A month earlier, on September 30, 2023, 23 alumni from various departments and batches participated in the NBA Visit for the inspection.
-- In September 2023, **MSAJCE** witnessed a series of informative sessions by its alumni.
-- On September 15, 2023, Rahul Murali, Product Manager at Thoughtworks, and Vinoth Kumar Manickam, Lead Developer at Striven, conducted a session on Opportunities in the IT world.
-- Two days later, on September 13, 2023, Sivanathan, Manager of Software Engineering at ADF Data Science Pvt Limited, delivered a session on Solid Principle.
-- Mohamed Ateeq, Senior Engineer at Hubbel Incorporated Chennai, also shared his expertise on September 9, 2023, in a session titled Revolutionizing Design Efficiency: Unleashing the Power of CAD Automation.
-- In the month of September 2023, Umar Farooq, an alumnus of **MSAJCE** and an employee of KK Wind Solutions India Private Limited in Chennai, conducted a session on Procurement and Supply Chain Management.
-- Earlier in August, FHM Afzal Bijli, the founder of Webxo360, delivered a session on AWS - Hosting Static / Dynamic websites on the 12th, while Arun Natarajan, a Principal Consultant at Emirates Bank in Dubai, spoke about Devops - Kubernets and Containers on the 8th.
-- Akther Ilyas, the founder of Skit Media, shared his insights on Early Stage Entrepreneurs on August 2nd.
-- Around the same time, Shaik Fathaullah S, a Technical Sales Engineer at Daystar Solar, provided an overview of Solar PV System Basics and Commercial Overview on August 4th.
-- Additionally, Md Ilyas, the CEO of an E Learning Platform and an IT Expert Trainer, was arranged by the **MSAJCE** Alumni Association to conduct a session on VLSI on August 23rd.
-- The alumni association also facilitated internship opportunities for students.
-- For instance, three students from the IT Department completed their internship at Sportasy, a company founded by alumnus Sabarish, on July 27th.
-- Furthermore, 15 students from the CSE Department completed their internship at JFX Events & Media, a company led by Managing Director V.Ganesh, an alumnus of **MSAJCE**, on June 21st.
-- The alumni association also played a role in placement recruitment.
-- Ahamed Jameel A.M.T, the Alumni Secretary, referred three students from the CSE Department for placement at Platform 3 Solutions on July 12th.
-- Moreover, Syed Faiyaz Hussain, a Digital Product Manager at Elevance Health, conducted a session on Career Guidance & Job opportunities on June 28th.
-- On various occasions, the **MSAJCE** Alumni Association has organized sessions and events that have greatly benefited the students.
-- For instance, on May 10, 2023, Alumni Majed Arafat A, an IT Consultant at TCS, conducted a session on Robotics.
-- Similarly, on April 5, 2023, Alumni Sarathy, a Consultant Embedded System Architect, led a session on Embedded Systems.
-- In addition to these technical sessions, the alumni have also contributed to the motivational and personal growth of the students.
-- Alumni Abur Raheem, the Founder and Director of V5 Innovation, delivered a motivational speech as a guest lecturer on March 30, 2023.
-- Furthermore, Alumni Anbazhagan A T, a Technical Manager at CTS, conducted a session on Voice over IP on March 22, 2023, while Alumni Md Afroze, the Managing Director of J Digitals, led a session on Digital Marketing on March 17, 2023.
-- The **MSAJCE** Alumni Association has also arranged for external trainers to conduct sessions.
-- For example, on March 10, 2023, Anisha from Intel Corporation, who was arranged by the association, conducted a session on AI Technology.
-- Moreover, the association has also organized alumni meets, such as the one held on February 11, 2023, which was attended by more than 300 alumni from the 2009-2020 batch.
-- The alumni have also participated in various other events and activities.
-- On January 23, 2023, 16 alumni from various departments and batches participated in the NAAC inspection.
-- Additionally, on January 12, 2023, Alumni Md Rameez, the Founder of Zeemrah Energy, and Alumni Zubair, the Proprietor of USITE, conducted a session on Entrepreneurship Skills as part of the National Youth Day celebrations.
-- In terms of providing internship opportunities, Alumni Mr. Ahamed Jameel <!--ent_113-->, a Technical Consultant at HCL, facilitated student internships at Hasna Technology, Chennai, on November 2, 2022.
-- Similarly, on December 3, 2022, students from the CSE and IT departments participated in a debugging activity for a new app developed by Edvoy Technologies Pvt Ltd, Chennai, under the guidance of Alumni Mohamed Yasar.
-- Furthermore, on November 10, 2022, Alumni Mr. Mohamed Afrose <!--ent_223-->, the CEO of J Digital, conducted a placement recruitment drive at J Digitals.
-- On December 3, 2022, Mrs. Akila Rajesh <!--ent_398-->, Head of Sales and Marketing at Voora Property Developers Pvt Ltd, conducted a session titled "Intro to Intermed Interpersonal Skills." This was followed by a seminar on "Cyber security Trends and Hygiene" by Alumni Mohamed Samir on November 19, 2022.
-- Earlier in the year, on November 5, 2022, Alumni Mohamed Hussain TR, Senior DevOps Engineer at Intel Corporation, conducted an online mock interview on HR and technical interviews for final year students.
-- In September 2022, Alumni Syed Haja Shreef S, Recruitment Specialist at Sacalene Pepole Works Solution, led a session on "How to Positively face HR Interview." A month later, on October 15, 2022, Alumni Misbah Khairunnisa, Senior Manager of Organizational Development at Savista, delivered a motivational talk.
-- The summer of 2022 also saw Alumni Mr. Asim Ali <!--ent_129-->, CMO at Customer Labs, providing student internship opportunities at Customer Labs in Chennai, starting from August 2, 2022.
-- The Placement Training Program was a significant event, with multiple sessions conducted by alumni.
-- On August 4, 2022, Alumini Saravanan Perumal from L&T delivered a technical presentation.
-- The following day, on August 3, 2022, Alumini Mr. G. Abdur Rahman Salih <!--ent_158-->, CEO of V5, spoke on recent trends, challenges, and opportunities in the current scenario.
-- Additionally, a webinar on DevOps Automation was conducted by Alumini Saravanan Perumal, Principal Consultant at Wipro Technologies, on August 12, 2021.
-- Other notable events included a cricket match between Alumni Association Members and current juniors on August 27, 2022.
-- Mohamed Sathak A.J. College of Engineering alumni have made significant contributions to **MSAJCE**.
-- Mr. A.Aadil Ibrahim.A <!--ent_095-->, an alumnus and founder of "Cameraman," who is also an entrepreneur and public speaker by passion, and a division-level runner in the International Speech Contest in 2019 and 2020, conducted an International Webinar on "Art Of Thinking Big" in online mode via Google Meet on June 11, 2020.
-- Additionally, Mr. M. Prabakaran <!--ent_201-->, a senior software architect at Caterpillar and an alumnus, participated as a resource person for the Faculty Development Programme (FDP) on Embedded & IoT Boot Camp on May 29, 2019.
-- Furthermore, Mr. Syed Haja Sheriff <!--ent_363-->, an alumnus of the ECE department, demonstrated exceptional performance in recruitment on January 9, 2019.
-- **MSAJCE** also recognized the participation of its alumni in various events, including the Entrepreneur Meeting, where Md Sathak Group of Institutions was represented.
-- On Engineers Day 2025, which took place on October 4, 2025, numerous alumni from **MSAJCE** made significant contributions.
-- Rajeswari Kumaresan, who works at Cisco Systems Inc in the USA, was among the contributors, as was Ranjani Rajagopalan, a Senior Technical Lead at Mphasis.
-- Benny Diwakar S, an Assistant Vice President at Bank of America, also participated, alongside Sheik Mohamed Rizwan, an Associate Manager at DXC TECHNOLOGY.
-- Pavithra Elumalai, an IT Consultant at TCS, was another contributor, as was Shanmugam V, the CEO of Zyple Software Solutions Pvt Ltd. Mohammed Rameez, the Founder of Zeemrah Energy, and Gatheejathul Kubra, the Founder of Sha's Online Academy, also made notable contributions.
-- Manimala, a Data Analyst at Akamai Technology, participated, as did Aniruddhan Narayanan, a Business Analyst-Manager at Pfizer Healthcare India Pvt Ltd.
-- Fayaz Ahamed, a Senior Solution Architect at Recode Solutions, was among the contributors, as was Noorul Jaman J, a Senior Manager Product at Mindgate Solutions Pvt Ltd. Abrar Ahamed, an Enterprise Applications Consultant at Commercial Bank of Dubai in Dubai, also participated, alongside Aswin Panneerselvam, the Director of Spark Group, which operates in India, Zambia, Kenya, and the UAE.
-- N.Nazhrudeen, the Business Head of Xperthom Technologies, contributed, as did Nasarullah, a Senior Techno Functional Lead at Wipro Limited in Dubai.
-- Razik Fareed, a Senior Director at YUBI, participated, alongside Syed Atheeq Ur Rahman, a Manager at Bahwan Cybertek.
-- H Barakath Nisha, a Senior Software Engineer at Wipro Limited, was another contributor, as was Linga Prabhu V, the CEO of Mithran Engineering.
-- Narenthiran, a Team Lead and Software Engineer at Virtana Corporation, made a notable contribution, as did AbdulHameed N, a Manager at Rambal Hitech Engineers.
-- Jamal Shagul Ameedh, a Commercial Manager at General Electric (GE), participated, alongside Mohamed Fazil, a Senior Instrument Engineer at Equate Petrochemical in Kuwait.
-- Meeraan Sha, a Software Technical Consultant at Zoho Corporation, was also among the contributors.
-- On August 7, 2025, Alumni Aniruddhan, Manager at PFIZER Healthcare India Pvt Ltd, conducted a session titled "An Introduction to Industry Preparedness." Similarly, on August 6, 2025, Alumni Deepak, Chief Technology Officer at MH Doodle Solutions, led a session on "How to Get Yourself into IT Sector." Deepak, who graduated from the 2011-2015 batch, also attended the Academic Advisory Board Meeting on July 16, 2025.
-- The Silver Jubilee Reunion Meet 2025, held on February 1, 2025, was a notable event where several alumni were honored with prestigious awards.
-- Ahamed Jameel A.M.T from the 2001-2005 batch received the Lifetime Achievement Award, while J.Abdul Rahaman from the same batch was awarded the Outstanding Alumni Award.
-- M.M. Syed Sultan Allaudeen from the 2003-2007 batch and Yasar from the 2002-2006 batch were both recipients of the Distinguished Service Award.
-- Additionally, Asim Ali L was awarded the Outstanding Young Alumni Award for 2025.
-- On October 26, 2024, the Alumni Association Meet took place, with around 23 alumni participating in discussions about upcoming activities for **MSAJCE** students' welfare.
-- Engineers Day 2024, celebrated on September 16, 2024, featured several notable alumni, including Md Kamaal Yasin, Associate Consultant at TCS; A.S. Balagurunathan, Project Manager at HCL Tech; Chandra Bose, Deputy General Manager at CMA CGM GBSI PVT Ltd; Ameena Bathool, Senior Technical Writer at Zuora India Pvt Ltd; Sivanathan Balaguru, Manager of Software Engineering at ADF Datascience pvt ltd; and Sabarish SR, Founder and CEO of Blossomfield Gamingzone Pvt Ltd.
-- Rahul Murali, Product Manager at Thoughtworks Technologies, was invited as the guest of honor for the First Year Induction on September 9, 2024.
-- Alumni Dr. Ezhilazhagan C <!--ent_021-->, an Associate Professor at Veltech, attended the Planning and Monitoring committee meeting on 08.07.2024.
-- Similarly, Alumni Deepak VR, a Senior Data Engineer at Manuh Solutions Pvt Ltd, participated in the Overall Board of Studies Meeting on 06.07.2024.
-- In June 2024, Alumni Akila Rajeshwari, Associate Vice President at Casagrand Builder Private Limited, attended the Board of Studies meet for the Civil Department on 18.06.2024.
-- Earlier, on 28.05.2024, Alumni Sivanathan, a Manager at ADF Data Science Pvt Ltd, participated in the Board of Studies meet for the Faculty CSE and IT Department.
-- Several alumni were invited as Guests of Honour for various events.
-- Alumni Sheikh Azharuddin, IT Operation Head at NRFSI, was invited for the "International Conference on Research and Development in Engineering, Science and Technology" on 24.05.2024.
-- Alumni Suresh Kumar, a Scientist, was invited as a Guest of Honour for the Annual Day Celebration on 09.03.2024.
-- Alumni Aadil Ibrahim, an Entrepreneur and Public Speaker, was invited for the Festaverse Celebration on 05.03.2024.
-- Additionally, Alumni Lakshmi Narayanan, a Senior HR from Valeo, was invited as a Guest of Honour for the Women's Day Celebration on 04.03.2024.
-- In the latter part of 2023, Alumni Majed Arafat attended the Planning and Monitoring Board Meeting on 16.12.2023.
-- Earlier, on 09.12.2023, Alumni Secretary Ahamed Jameel and Alumni Executive Member Srikkanth K attended the Academic Advisory Board Meeting.
-- On October 14, 2023, Mohamed Sathak Trust in Keelakari hosted the Golden Jubilee Celebration, where Alumni Ahamed Jameel, who serves as the Alumni Secretary, received the prestigious "Best Alumni Service Award." Additionally, Alumni Md Rizwan and Alumni Purushothaman were honored as Guests of Honour during the event.
-- Engineers Day 2023 was celebrated on September 16, 2023, with several notable alumni in attendance.
-- Alumni Majed Arafat, an IT Consultant at TCS, was present, along with Alumni Abdurrahim Salih, who is associated with GV Academy of Education and was recognized as the Best Entrepreneur.
-- Alumni Misbah Khairunnissa, a Senior Manager at Savista, and Alumni S Ram Prabhu, a Senior QA Engineer at QBurst Technologies Private Limited, also participated in the event.
-- Furthermore, Alumni Mikail Ismail, a Technical Writer at KLA, was among the attendees.
-- Alumni Sheikh Azharuddin, who serves as the IT Operation Head at Nissan Renault Financial Services India Ltd, was invited as a Guest of Honour for the First Year Induction on September 11, 2023.
-- Earlier, on May 20, 2023, Alumni Majed Arafat, an IT Consultant at TCS, Alumni Jaleel, the Founder of Kings Travels, and Alumni Samir, a Cyber Security Manager at Fidelity National Financial, attended the Planning and Monitoring Meeting.
-- The Academic Advisory Board Meeting, held on May 13, 2023, was attended by Alumni Secretary Ahamed Jameel, Alumni Misbah, a Senior HR Manager at Savista, and Alumni Shiblee, the Founder of Debugger.
-- Alumni Nazeef Hussain was invited as a Guest of Honour on March 24, 2023.
-- The Annual Day Celebration on March 18, 2023, featured Alumni Secretary Ahamed Jameel, Alumni Abdul Rahman, the Managing Director of Blue Bell Business Management, and Alumni Sathish Charan, a Writer/Director in the Film Industry, as Guests of Honour.
-- On various occasions, the **MSAJCE** Alumni Association has been honored with the presence of its esteemed members.
-- For instance, Alumni Secretary Ahamed Jameel and Alumni Sabarish were invited as Guests of Honour for the BSM Cricket Trophy, which took place on 12th March 2023.
-- Similarly, Alumni Akila Rajesh, who serves as the Sales and Marketing Head at Voora Property Developer Pvt Ltd, was invited as a Guest of Honour for the Women's Day Celebration on 10th March 2023.
-- The Alumni Meet, held on 1st February 2023, was a significant event where Ahamed Jameel, the Alumni Secretary, received the **MSAJCE**'s Outstanding Alumni Award for 2023.
-- Furthermore, Alumni Lakshmi Narayanan, who works in HR Talent Acquisition at Societe General, was invited as a Guest of Honour for the First Year Induction on 14th November 2022.
-- On 29th October 2022, Ahamed Jameel, Technical Consultant at HCL and Secretary of the Alumni Association, gave a speech to **MSAJCE** graduates as a Special Guest on Graduation Day.
-- The same month, on 28th October 2022, Alumni K Srikkant, Technical Architect at Teleapps, and Mohamed Afroze, CEO of Jdigitals, participated as Guests of Honour for the Symposium Tech Unity.
-- In addition to these events, the First Alumni Association Meet in Chennai was organized by **MSAJCE** on 15th October 2022.
-- Alumni K Srikanth, Technical Architect at Standard Chartered, and Alumni Afroze, CEO of J Digital, were invited as Guests of Honour for the Inter college Symposium Event on 2nd October 2022.
-- The Academic Advisory Board Meeting, attended by Ahamed Jameel, Technical Consultant at HCL, and N Feroz Khan, Delivery Manager at MAERSK, Chennai, took place on 1st October 2022.
-- Notably, N Feroz Khan was appointed as a Governing Council Member for **MSAJCE** during this meeting.
-- On September 17, 2022, the Engineers Day Celebration took place, where several alumni were recognized for their achievements.
-- Ahamed Jameel, a Technical Consultant at HCL, was awarded the Best Alumni of the Decade.
-- Additionally, the Best Engineers Award was given to five notable alumni: J Abdul Rahman, Managing Director of Blue Bell Business Management in Chennai; MM Syed Sultan Allaudeen, Managing Director of MM Internationals in Chennai; A Raju, Infra Technology Manager at CITS in Chennai; L Asim Ali, Chief Marketing Officer at Customer Labs in Chennai; and N Feroz Khan, Delivery Manager at MAERSK in Chennai.
-- On the same day, September 17, 2022, these five alumni, along with Ahamed Jameel, were also invited as jury members for **MSAJCE** Juniors Project Exhibition.
-- Their expertise and experience were invaluable in evaluating the projects presented by the students.
-- Earlier, on September 3, 2022, Dr. Ezhil <!--ent_020-->, an esteemed alumnus, was invited as the chief guest for Teachers Day.
-- He was also awarded the Best Teacher of the Year by **MSAJCE**, a testament to his dedication and excellence in teaching.
-- In 2022, **MSAJCE** organized two alumni meets.
-- The first one, held on March 5, 2022, was for the batches of 2008, 2009, and 2010.
-- The second meet, which took place on February 13, 2021, was for the batches of 2005, 2006, and 2007.
-- On October 23, 2021, the Engineers Day Event was held, where six alumni were honored with the Best Engineers award.
-- The recipients were Saravanan, Ashiq, Ganesh, Shiblee, Thahir, and Jaleel.
-- A few days earlier, on October 22, 2021, Ashwin C, Director of Pixtronics, was invited as the Guest of Honour for the First Year Induction ceremony.
+
+The **MSAJCE** Alumni Association has been actively involved in various events and activities, showcasing the contributions of its esteemed alumni. On 17th April 2026, the Silver Jubilee Event took place, where Anbazhagan, Saranraj Saravanan, and Mohammed Ateeq were honored as Alumni Guests of Honour. Earlier, on 8th April 2026, Abdur Rahim Saleh, CEO of V5 Innovations, attended the Engineers Edge 3.0 event as an alumni representative.
+
+In February 2026, Deepak, an alumnus from the 2011-2015 batch, attended the AAC Meeting, demonstrating his continued involvement with **MSAJCE**. In September 2025, Diwakaran, Managing Director of DKM Enterprises, shared his inspiring story as part of the "My Story Successful Innovators" session. The same month, Ahamed Jameel, Alumni Secretary, played a crucial role in facilitating the placement of a student in "The BIM Engineers" Company, specifically in the EEE Department.
+
+Ahamed Jameel's efforts also led to the successful internship of students at StayIndiaDigital, with six students from the AIDS and CSBS Departments securing placements on 10th July 2025, and three students on 1st July 2025. In April 2025, Aniruddhan Narayanan, an alumnus from the 2006-2010 batch, was the Guest of Honor at the Project X Hackathon. On International Women's Day, 8th March 2025, Ms. Vani Parachuri <!--ent_494--> from the 2003-2007 batch and Ms. P.Rosiah <!--ent_470--> from the 2006-2010 batch were honored with the Women Achiever Award.
+
+The Silver Jubilee Reunion Meet 2025 was a significant event, where the alumni of the 2001-2005 batch, along with the **MSAJCE** Alumni Association, donated to **MSAJCE** on the occasion of its Silver Jubilee Year. This donation was made towards the **MSAJCE** Alumni Sports Pavilion, demonstrating the alumni's commitment to giving back to their alma mater.
+
+The Silver Jubilee Reunion Meet, held on February 1, 2025, was a grand success with over 500 alumni participating in the function. This reunion was a testament to the strong bond between the alumni and their alma mater.
+
+In the 2024-2025 term, the alumni association organized several sessions to benefit the students of **MSAJCE**. One such session, "From Idea to Impact: Exploring Opportunities in the Startup Eco System," was conducted by Naveen Zahir, the Founder and CEO of Drop Truck, on December 4, 2024. Another session, "Core Industries Unlocked - Pathways for tomorrow innovators," was led by Diwakaran, the Managing Director of KDM Enterprises, on December 3, 2024. Imran Javeed, an Assistant Professor at Veltech University, delivered a session on "Electro Magnetic Fields in Modern Application" on November 28, 2024.
+
+The alumni association also organized motivational sessions, including one by Shiblee, the Founder of Debugger Shirts, on November 20, 2024. Juveriya Khan, a Senior Quality Assurance Manager at DMCG in Dubai, spoke on "Empowering our Educational Journey: the role of Quality Assurance" on November 14, 2024. Lubna Amathul Wadhoodh, a PMP and Product Consultant at Vembu Technologies, shared her insights on "Preparing for the Future: Skills, Technologies and Mindset for Engineering Students" on October 25, 2024. Titus Vimalraj, a Front End Engineer at Amazon, conducted a session on "Front Static Pages to dynamic Applications" on September 14, 2024.
+
+Earlier in the year, on March 9, 2024, the Alumni Association Meet was held, with around 17 alumni participating and discussing upcoming activities for the welfare of college students. Ms. Misbah Khairunissa A <!--ent_467-->, an alumna, interacted with college students and provided counseling during a mentoring session on January 6, 2024.
+
+On January 5, 2024, Shanmugasarathy, an alumnus of **MSAJCE**, extended his support to **MSAJCE** by hiring a student from the 2023 batch at his company, Lightenz Technovations Pvt Ltd, for placement recruitment. 
+
+In December 2023, **MSAJCE** was honored with the GoldenGuru Award for being one of the best colleges in OMR, and all the teaching staff received personalized certificates for their role in shaping the future minds of India. This prestigious award was given by GRT Jewellers, and the event was conceptualized and executed by Ashwin.C and his team. The award ceremony took place on December 1, 2023.
+
+Akila Rajesh, an alumna of **MSAJCE**, participated in an awareness session titled "You are important" on November 25, 2023. Around the same time, on November 2, 2023, Alumni Karthikeyan and Lubna Amathul participated as Guests of Honour in the Engineer's Edge 2k23 event.
+
+On October 28, 2023, the Alumni Association Meet was held, where around 16 alumni participated and discussed upcoming activities for the welfare of college students. A month earlier, on September 30, 2023, 23 alumni from various departments and batches participated in the NBA Visit for the inspection.
+
+In September 2023, **MSAJCE** witnessed a series of informative sessions by its alumni. On September 15, 2023, Rahul Murali, Product Manager at Thoughtworks, and Vinoth Kumar Manickam, Lead Developer at Striven, conducted a session on Opportunities in the IT world. Two days later, on September 13, 2023, Sivanathan, Manager of Software Engineering at ADF Data Science Pvt Limited, delivered a session on Solid Principle. Mohamed Ateeq, Senior Engineer at Hubbel Incorporated Chennai, also shared his expertise on September 9, 2023, in a session titled Revolutionizing Design Efficiency: Unleashing the Power of CAD Automation.
+
+In the month of September 2023, Umar Farooq, an alumnus of **MSAJCE** and an employee of KK Wind Solutions India Private Limited in Chennai, conducted a session on Procurement and Supply Chain Management. Earlier in August, FHM Afzal Bijli, the founder of Webxo360, delivered a session on AWS - Hosting Static / Dynamic websites on the 12th, while Arun Natarajan, a Principal Consultant at Emirates Bank in Dubai, spoke about Devops - Kubernets and Containers on the 8th.
+
+Akther Ilyas, the founder of Skit Media, shared his insights on Early Stage Entrepreneurs on August 2nd. Around the same time, Shaik Fathaullah S, a Technical Sales Engineer at Daystar Solar, provided an overview of Solar PV System Basics and Commercial Overview on August 4th. Additionally, Md Ilyas, the CEO of an E Learning Platform and an IT Expert Trainer, was arranged by the **MSAJCE** Alumni Association to conduct a session on VLSI on August 23rd.
+
+The alumni association also facilitated internship opportunities for students. For instance, three students from the IT Department completed their internship at Sportasy, a company founded by alumnus Sabarish, on July 27th. Furthermore, 15 students from the CSE Department completed their internship at JFX Events & Media, a company led by Managing Director V.Ganesh, an alumnus of **MSAJCE**, on June 21st.
+
+The alumni association also played a role in placement recruitment. Ahamed Jameel A.M.T, the Alumni Secretary, referred three students from the CSE Department for placement at Platform 3 Solutions on July 12th. Moreover, Syed Faiyaz Hussain, a Digital Product Manager at Elevance Health, conducted a session on Career Guidance & Job opportunities on June 28th.
+
+On various occasions, the **MSAJCE** Alumni Association has organized sessions and events that have greatly benefited the students. For instance, on May 10, 2023, Alumni Majed Arafat A, an IT Consultant at TCS, conducted a session on Robotics. Similarly, on April 5, 2023, Alumni Sarathy, a Consultant Embedded System Architect, led a session on Embedded Systems. 
+
+In addition to these technical sessions, the alumni have also contributed to the motivational and personal growth of the students. Alumni Abur Raheem, the Founder and Director of V5 Innovation, delivered a motivational speech as a guest lecturer on March 30, 2023. Furthermore, Alumni Anbazhagan A T, a Technical Manager at CTS, conducted a session on Voice over IP on March 22, 2023, while Alumni Md Afroze, the Managing Director of J Digitals, led a session on Digital Marketing on March 17, 2023.
+
+The **MSAJCE** Alumni Association has also arranged for external trainers to conduct sessions. For example, on March 10, 2023, Anisha from Intel Corporation, who was arranged by the association, conducted a session on AI Technology. Moreover, the association has also organized alumni meets, such as the one held on February 11, 2023, which was attended by more than 300 alumni from the 2009-2020 batch.
+
+The alumni have also participated in various other events and activities. On January 23, 2023, 16 alumni from various departments and batches participated in the NAAC inspection. Additionally, on January 12, 2023, Alumni Md Rameez, the Founder of Zeemrah Energy, and Alumni Zubair, the Proprietor of USITE, conducted a session on Entrepreneurship Skills as part of the National Youth Day celebrations.
+
+In terms of providing internship opportunities, Alumni Mr. Ahamed Jameel <!--ent_113-->, a Technical Consultant at HCL, facilitated student internships at Hasna Technology, Chennai, on November 2, 2022. Similarly, on December 3, 2022, students from the CSE and IT departments participated in a debugging activity for a new app developed by Edvoy Technologies Pvt Ltd, Chennai, under the guidance of Alumni Mohamed Yasar. Furthermore, on November 10, 2022, Alumni Mr. Mohamed Afrose <!--ent_223-->, the CEO of J Digital, conducted a placement recruitment drive at J Digitals.
+
+On December 3, 2022, Mrs. Akila Rajesh <!--ent_398-->, Head of Sales and Marketing at Voora Property Developers Pvt Ltd, conducted a session titled "Intro to Intermed Interpersonal Skills." This was followed by a seminar on "Cyber security Trends and Hygiene" by Alumni Mohamed Samir on November 19, 2022. Earlier in the year, on November 5, 2022, Alumni Mohamed Hussain TR, Senior DevOps Engineer at Intel Corporation, conducted an online mock interview on HR and technical interviews for final year students.
+
+In September 2022, Alumni Syed Haja Shreef S, Recruitment Specialist at Sacalene Pepole Works Solution, led a session on "How to Positively face HR Interview." A month later, on October 15, 2022, Alumni Misbah Khairunnisa, Senior Manager of Organizational Development at Savista, delivered a motivational talk. The summer of 2022 also saw Alumni Mr. Asim Ali <!--ent_129-->, CMO at Customer Labs, providing student internship opportunities at Customer Labs in Chennai, starting from August 2, 2022.
+
+The Placement Training Program was a significant event, with multiple sessions conducted by alumni. On August 4, 2022, Alumini Saravanan Perumal from L&T delivered a technical presentation. The following day, on August 3, 2022, Alumini Mr. G. Abdur Rahman Salih <!--ent_158-->, CEO of V5, spoke on recent trends, challenges, and opportunities in the current scenario. Additionally, a webinar on DevOps Automation was conducted by Alumini Saravanan Perumal, Principal Consultant at Wipro Technologies, on August 12, 2021.
+
+Other notable events included a cricket match between Alumni Association Members and current juniors on August 27, 2022.
+
+Mohamed Sathak A.J. College of Engineering alumni have made significant contributions to **MSAJCE**. Mr. A.Aadil Ibrahim.A <!--ent_095-->, an alumnus and founder of "Cameraman," who is also an entrepreneur and public speaker by passion, and a division-level runner in the International Speech Contest in 2019 and 2020, conducted an International Webinar on "Art Of Thinking Big" in online mode via Google Meet on June 11, 2020.
+
+Additionally, Mr. M. Prabakaran <!--ent_201-->, a senior software architect at Caterpillar and an alumnus, participated as a resource person for the Faculty Development Programme (FDP) on Embedded & IoT Boot Camp on May 29, 2019. Furthermore, Mr. Syed Haja Sheriff <!--ent_363-->, an alumnus of the ECE department, demonstrated exceptional performance in recruitment on January 9, 2019.
+
+**MSAJCE** also recognized the participation of its alumni in various events, including the Entrepreneur Meeting, where Md Sathak Group of Institutions was represented.
+
+On Engineers Day 2025, which took place on October 4, 2025, numerous alumni from **MSAJCE** made significant contributions. Rajeswari Kumaresan, who works at Cisco Systems Inc in the USA, was among the contributors, as was Ranjani Rajagopalan, a Senior Technical Lead at Mphasis. Benny Diwakar S, an Assistant Vice President at Bank of America, also participated, alongside Sheik Mohamed Rizwan, an Associate Manager at DXC TECHNOLOGY.
+
+Pavithra Elumalai, an IT Consultant at TCS, was another contributor, as was Shanmugam V, the CEO of Zyple Software Solutions Pvt Ltd. Mohammed Rameez, the Founder of Zeemrah Energy, and Gatheejathul Kubra, the Founder of Sha's Online Academy, also made notable contributions. Manimala, a Data Analyst at Akamai Technology, participated, as did Aniruddhan Narayanan, a Business Analyst-Manager at Pfizer Healthcare India Pvt Ltd.
+
+Fayaz Ahamed, a Senior Solution Architect at Recode Solutions, was among the contributors, as was Noorul Jaman J, a Senior Manager Product at Mindgate Solutions Pvt Ltd. Abrar Ahamed, an Enterprise Applications Consultant at Commercial Bank of Dubai in Dubai, also participated, alongside Aswin Panneerselvam, the Director of Spark Group, which operates in India, Zambia, Kenya, and the UAE.
+
+N.Nazhrudeen, the Business Head of Xperthom Technologies, contributed, as did Nasarullah, a Senior Techno Functional Lead at Wipro Limited in Dubai. Razik Fareed, a Senior Director at YUBI, participated, alongside Syed Atheeq Ur Rahman, a Manager at Bahwan Cybertek. H Barakath Nisha, a Senior Software Engineer at Wipro Limited, was another contributor, as was Linga Prabhu V, the CEO of Mithran Engineering.
+
+Narenthiran, a Team Lead and Software Engineer at Virtana Corporation, made a notable contribution, as did AbdulHameed N, a Manager at Rambal Hitech Engineers. Jamal Shagul Ameedh, a Commercial Manager at General Electric (GE), participated, alongside Mohamed Fazil, a Senior Instrument Engineer at Equate Petrochemical in Kuwait. Meeraan Sha, a Software Technical Consultant at Zoho Corporation, was also among the contributors.
+
+On August 7, 2025, Alumni Aniruddhan, Manager at PFIZER Healthcare India Pvt Ltd, conducted a session titled "An Introduction to Industry Preparedness." Similarly, on August 6, 2025, Alumni Deepak, Chief Technology Officer at MH Doodle Solutions, led a session on "How to Get Yourself into IT Sector." Deepak, who graduated from the 2011-2015 batch, also attended the Academic Advisory Board Meeting on July 16, 2025.
+
+The Silver Jubilee Reunion Meet 2025, held on February 1, 2025, was a notable event where several alumni were honored with prestigious awards. Ahamed Jameel A.M.T from the 2001-2005 batch received the Lifetime Achievement Award, while J.Abdul Rahaman from the same batch was awarded the Outstanding Alumni Award. M.M. Syed Sultan Allaudeen from the 2003-2007 batch and Yasar from the 2002-2006 batch were both recipients of the Distinguished Service Award. Additionally, Asim Ali L was awarded the Outstanding Young Alumni Award for 2025.
+
+On October 26, 2024, the Alumni Association Meet took place, with around 23 alumni participating in discussions about upcoming activities for **MSAJCE** students' welfare. Engineers Day 2024, celebrated on September 16, 2024, featured several notable alumni, including Md Kamaal Yasin, Associate Consultant at TCS; A.S. Balagurunathan, Project Manager at HCL Tech; Chandra Bose, Deputy General Manager at CMA CGM GBSI PVT Ltd; Ameena Bathool, Senior Technical Writer at Zuora India Pvt Ltd; Sivanathan Balaguru, Manager of Software Engineering at ADF Datascience pvt ltd; and Sabarish SR, Founder and CEO of Blossomfield Gamingzone Pvt Ltd.
+
+Rahul Murali, Product Manager at Thoughtworks Technologies, was invited as the guest of honor for the First Year Induction on September 9, 2024.
+
+Alumni Dr. Ezhilazhagan C <!--ent_021-->, an Associate Professor at Veltech, attended the Planning and Monitoring committee meeting on 08.07.2024. Similarly, Alumni Deepak VR, a Senior Data Engineer at Manuh Solutions Pvt Ltd, participated in the Overall Board of Studies Meeting on 06.07.2024.
+
+In June 2024, Alumni Akila Rajeshwari, Associate Vice President at Casagrand Builder Private Limited, attended the Board of Studies meet for the Civil Department on 18.06.2024. Earlier, on 28.05.2024, Alumni Sivanathan, a Manager at ADF Data Science Pvt Ltd, participated in the Board of Studies meet for the Faculty CSE and IT Department.
+
+Several alumni were invited as Guests of Honour for various events. Alumni Sheikh Azharuddin, IT Operation Head at NRFSI, was invited for the "International Conference on Research and Development in Engineering, Science and Technology" on 24.05.2024. Alumni Suresh Kumar, a Scientist, was invited as a Guest of Honour for the Annual Day Celebration on 09.03.2024. Alumni Aadil Ibrahim, an Entrepreneur and Public Speaker, was invited for the Festaverse Celebration on 05.03.2024. Additionally, Alumni Lakshmi Narayanan, a Senior HR from Valeo, was invited as a Guest of Honour for the Women's Day Celebration on 04.03.2024.
+
+In the latter part of 2023, Alumni Majed Arafat attended the Planning and Monitoring Board Meeting on 16.12.2023. Earlier, on 09.12.2023, Alumni Secretary Ahamed Jameel and Alumni Executive Member Srikkanth K attended the Academic Advisory Board Meeting.
+
+On October 14, 2023, Mohamed Sathak Trust in Keelakari hosted the Golden Jubilee Celebration, where Alumni Ahamed Jameel, who serves as the Alumni Secretary, received the prestigious "Best Alumni Service Award." Additionally, Alumni Md Rizwan and Alumni Purushothaman were honored as Guests of Honour during the event.
+
+Engineers Day 2023 was celebrated on September 16, 2023, with several notable alumni in attendance. Alumni Majed Arafat, an IT Consultant at TCS, was present, along with Alumni Abdurrahim Salih, who is associated with GV Academy of Education and was recognized as the Best Entrepreneur. Alumni Misbah Khairunnissa, a Senior Manager at Savista, and Alumni S Ram Prabhu, a Senior QA Engineer at QBurst Technologies Private Limited, also participated in the event. Furthermore, Alumni Mikail Ismail, a Technical Writer at KLA, was among the attendees.
+
+Alumni Sheikh Azharuddin, who serves as the IT Operation Head at Nissan Renault Financial Services India Ltd, was invited as a Guest of Honour for the First Year Induction on September 11, 2023. Earlier, on May 20, 2023, Alumni Majed Arafat, an IT Consultant at TCS, Alumni Jaleel, the Founder of Kings Travels, and Alumni Samir, a Cyber Security Manager at Fidelity National Financial, attended the Planning and Monitoring Meeting.
+
+The Academic Advisory Board Meeting, held on May 13, 2023, was attended by Alumni Secretary Ahamed Jameel, Alumni Misbah, a Senior HR Manager at Savista, and Alumni Shiblee, the Founder of Debugger. Alumni Nazeef Hussain was invited as a Guest of Honour on March 24, 2023. The Annual Day Celebration on March 18, 2023, featured Alumni Secretary Ahamed Jameel, Alumni Abdul Rahman, the Managing Director of Blue Bell Business Management, and Alumni Sathish Charan, a Writer/Director in the Film Industry, as Guests of Honour.
+
+On various occasions, the **MSAJCE** Alumni Association has been honored with the presence of its esteemed members. For instance, Alumni Secretary Ahamed Jameel and Alumni Sabarish were invited as Guests of Honour for the BSM Cricket Trophy, which took place on 12th March 2023. Similarly, Alumni Akila Rajesh, who serves as the Sales and Marketing Head at Voora Property Developer Pvt Ltd, was invited as a Guest of Honour for the Women's Day Celebration on 10th March 2023.
+
+The Alumni Meet, held on 1st February 2023, was a significant event where Ahamed Jameel, the Alumni Secretary, received the **MSAJCE**'s Outstanding Alumni Award for 2023. Furthermore, Alumni Lakshmi Narayanan, who works in HR Talent Acquisition at Societe General, was invited as a Guest of Honour for the First Year Induction on 14th November 2022.
+
+On 29th October 2022, Ahamed Jameel, Technical Consultant at HCL and Secretary of the Alumni Association, gave a speech to **MSAJCE** graduates as a Special Guest on Graduation Day. The same month, on 28th October 2022, Alumni K Srikkant, Technical Architect at Teleapps, and Mohamed Afroze, CEO of Jdigitals, participated as Guests of Honour for the Symposium Tech Unity.
+
+In addition to these events, the First Alumni Association Meet in Chennai was organized by **MSAJCE** on 15th October 2022. Alumni K Srikanth, Technical Architect at Standard Chartered, and Alumni Afroze, CEO of J Digital, were invited as Guests of Honour for the Inter college Symposium Event on 2nd October 2022.
+
+The Academic Advisory Board Meeting, attended by Ahamed Jameel, Technical Consultant at HCL, and N Feroz Khan, Delivery Manager at MAERSK, Chennai, took place on 1st October 2022. Notably, N Feroz Khan was appointed as a Governing Council Member for **MSAJCE** during this meeting.
+
+On September 17, 2022, the Engineers Day Celebration took place, where several alumni were recognized for their achievements. Ahamed Jameel, a Technical Consultant at HCL, was awarded the Best Alumni of the Decade. Additionally, the Best Engineers Award was given to five notable alumni: J Abdul Rahman, Managing Director of Blue Bell Business Management in Chennai; MM Syed Sultan Allaudeen, Managing Director of MM Internationals in Chennai; A Raju, Infra Technology Manager at CITS in Chennai; L Asim Ali, Chief Marketing Officer at Customer Labs in Chennai; and N Feroz Khan, Delivery Manager at MAERSK in Chennai.
+
+On the same day, September 17, 2022, these five alumni, along with Ahamed Jameel, were also invited as jury members for **MSAJCE** Juniors Project Exhibition. Their expertise and experience were invaluable in evaluating the projects presented by the students.
+
+Earlier, on September 3, 2022, Dr. Ezhil <!--ent_020-->, an esteemed alumnus, was invited as the chief guest for Teachers Day. He was also awarded the Best Teacher of the Year by **MSAJCE**, a testament to his dedication and excellence in teaching.
+
+In 2022, **MSAJCE** organized two alumni meets. The first one, held on March 5, 2022, was for the batches of 2008, 2009, and 2010. The second meet, which took place on February 13, 2021, was for the batches of 2005, 2006, and 2007.
+
+On October 23, 2021, the Engineers Day Event was held, where six alumni were honored with the Best Engineers award. The recipients were Saravanan, Ashiq, Ganesh, Shiblee, Thahir, and Jaleel. A few days earlier, on October 22, 2021, Ashwin C, Director of Pixtronics, was invited as the Guest of Honour for the First Year Induction ceremony.
 
 ## 14. Distinguished Alumni
-- Several distinguished alumni from the 2001-2005 batch have made a name for themselves in various industries.
-- Mr. Purushothaman.
-- N serves as Assistant Vice President at Standard Chartered, while Ms. Sabana Yasmi <!--ent_487--> .S holds the position of Vice President at DBS Bank.
-- Mr. Saravanan Perumal <!--ent_335--> is a Senior Manager at LTI MINDTREE, and Mr. Mohammed Fareed <!--ent_240--> works as a Program Manager at Lululemon in Canada.
-- Additionally, Mr. Ahamed Jameel <!--ent_113--> .A.M.T is a Technical Consultant at HCL, and Mr. Feroz Khan <!--ent_153--> .N is a General Manager at Maersk.
-- Other notable alumni from the same batch include Mr. Fayad Ahamed <!--ent_152-->, who works as a Project Manager at Union Insurance Company Dubai, and Mr. Mohammed Azeem <!--ent_239-->, who is a Senior Manager Sales at Allied Motors in Dubai.
-- Mr. Srikanth K <!--ent_355--> is a Technical Architect at TeleApps, and Mr. Majed Arafat <!--ent_210--> is an IT Consultant at TCS.
-- Furthermore, Mr. Santhosh Kumar V <!--ent_334--> and Mr. Anbazhagan AT <!--ent_122--> hold the positions of Technical Architect and Technical Manager, respectively, at HCL and CTS.
-- Mr. Balagurunathan <!--ent_134--> is a Project Manager at HCL, and Dr. Ezhilazhagan C <!--ent_021--> is an Associate Professor at Vel Tech.
-- The 2001-2005 batch also boasts of Mr. Suresh <!--ent_358--> Kumar N <!--ent_359-->, a Scientist E at INCOIS, and Mr. Mohammed Kamaal Yasin <!--ent_241-->, a Service Delivery Manager at TCS.
-- Mr. Abdul Jaleel <!--ent_099--> is an Infra Manager at Emirates, and Mr. Imran Sheik <!--ent_170-->, from the 2002-2006 batch, works as a Customer Success Manager at Firmex in Canada.
-- Other notable alumni from the 2002-2006 batch include Mr. Md Yasar <!--ent_217-->, a Product Owner Manager at Edvoy, and Mr. Raju <!--ent_296--> .A, an Infra Technology Manager at CTS.
-- Several distinguished alumni from the 2002-2006 batch have made notable achievements in their respective fields.
-- Mr. Syed Faiyaz Hussain <!--ent_361--> is currently working as a Digital Product Manager at Anthem in the USA.
-- Ms. Harini Raman <!--ent_457--> holds the position of Business Analyst at IBM, while Mr. Hafeez Rahman <!--ent_162--> is a Manager at AL ZARA TRADING AND CONTRACTING.
-- Mr. Mohamed Yusuff Shah <!--ent_236--> serves as a Senior Accountant Manager at the Indian Audit and Accounts Department.
-- Additionally, Ms. Uma Maheshwari G <!--ent_492--> is a Principal Member of Technical Staff at Oracle India.
-- The 2003-2007 batch has also produced several accomplished alumni.
-- Mr. Chandra Bose <!--ent_138--> is a Senior Delivery Manager at CMA CGM India, and Mr. Ahmed Mubeen <!--ent_118--> is a Manager at Lighthouse Navigation Singapore Pte Ltd. Mr. Arun <!--ent_125--> Natarajan <!--ent_126--> works as a Principle Consultant at Emirates National Bank of Dubai.
-- From the 2004-2008 batch, Mr. Ashik Mohamed <!--ent_127--> is a Manager in the IT department at Hyundai Motors Group.
-- Mr. Mohamed Thahir N <!--ent_233--> leads the QA & CART Team at Zoho Corporation.
-- The 2005-2009 batch boasts several successful alumni, including Ms. Misbah Khairunissa A <!--ent_467-->, who serves as a Senior HR Manager at Savista.
-- Ms. Reshma M <!--ent_476--> is a Project Manager at HCL, and Mr. Nizamuddin K <!--ent_269--> is a Business Development Manager at Touchline Technologies Pvt Ltd. Mr. Abubucker Siddiq <!--ent_111--> holds the position of Deputy Manager at Transys Global forwarding Pvt.
-- Ltd. Ms. Lakshmi Narayanan <!--ent_466--> is an HR Manager at Valeo, and Mr. Ahmad Abdullateef <!--ent_116--> is a Principal Software Architect at Microsoft.
-- Lastly, from the 2006-2010 batch, Mr. Mohamed Hussain T R <!--ent_228--> works as a Staff Devops Engineer at ARM Embedded Technologies.
-- Mr. Sivanathan <!--ent_354--> is a Manager at ADF Data Science Pvt Ltd.
-- Several distinguished alumni from the 2006-2010 batch have made notable achievements in their careers.
-- Mr. Rahul Murali <!--ent_291--> serves as Lead Product Manager at Thoughtworks, while Mr. Vinoth Kumar Manickam <!--ent_391--> holds the position of Lead Developer at Striven.
-- Additionally, Mr. Sathakathulla E <!--ent_336--> is the eApps Testing Lead at Hitachi Energy Global Services Pvt Ltd.
-- The 2007-2011 batch has also produced several accomplished alumni.
-- Mr. Noorul Jaman <!--ent_270--> is the Product Manager - QA at Mind Gate Solutions Pvt Ltd, and Mr. Shaik Salaudeen <!--ent_346--> works as Technical Lead at NTT Data Business Solutions.
-- Furthermore, Mr. Sakthi Ajay <!--ent_330--> is a Senior Consultant at Virtusa.
-- From the 2008-2012 batch, Mr. Sheikh Azharuddin <!--ent_353--> is the IT Operations Head at Nissan Renault Financial Services India Limited.
-- Ms. Akila Rajesh <!--ent_444--> holds the position of Sales and Marketing Head at Voora Property Developer Pvt Ltd, and Mr. Deiva <!--ent_145--> is a Senior Manager at SPR Construction Pvt Ltd.
-- The 2009-2013 batch has also seen several alumni achieve success in their careers.
-- Mr. Nasarullah S <!--ent_265--> is the Tech Lead at Wipro Ltd, and Mr. Feroz Khan <!--ent_153--> S <!--ent_155--> works as SDET 2 at Vonage.
-- Several alumni from the 2010-2014 batch have also made notable achievements.
-- Mr. Marzook Ahamed <!--ent_212--> is an Assistant Manager at PIXELS- DUBAI, and Mr. Mohamed Yousuf Shariff <!--ent_235--> is a Tax Consultant at Shariff and Co.
-- The 2011-2015 batch has produced several accomplished alumni, including Mr. Muhamed Samir <!--ent_253-->, who is the Cyber Security Manager at Fidelity National Financial.
-- M. Sharmela works as a Senior Product Analyst at Photon Interactive Pvt Ltd, and Mr. Vignesh <!--ent_386--> is a Senior BIM Modeler at MCC Engineering Singapore Pte.Ltd.
-- From the 2012-2016 batch, Mr. Harish N <!--ent_165--> is a Technical Support Engineer at iOPEX Technologies, and Mr. Ram Prabhu S <!--ent_300--> works as a Senior QA Engineer at QBurst Technologies Private limited.
-- Several distinguished alumni from the 2013-2017 batch have made a name for themselves in their respective fields.
-- Ms. Reshma Rahila S <!--ent_477--> is a Senior Software Engineer at Prodapt Solutions Pvt Ltd, while Mr. Mohammed Asif <!--ent_237--> works as a QAQC Civil Inspector at Samsung C & T.
-- The 2014-2018 batch also boasts of several notable alumni, including Mr. Syed Haja Shereef S <!--ent_362-->, who is a Recruitment Specialist at Scaleneworks, and Mr. Shanthoshkumar J <!--ent_352-->, a Senior Software Engineer at Broadcom.
-- From the 2015-2019 batch, Mr. Safeeq Ahamed S <!--ent_329--> is a Design Engineer at KONE Elevators, and Mr. Shaik Fathhullah S <!--ent_345--> works as a Technical and Sales Engineer at DAYSTAR SOLAR.
-- The 2016-2020 batch has also produced several successful alumni, including Mr. Md Mubarak <!--ent_215-->, who is an MEP Team Leader at EJADAH UAE, and Mr. Md Junaid A <!--ent_214-->, an Estimation/Quantity Surveyor Engineer at ELEMEC ELECTRICAL CONTRACTING LLC.
-- Additionally, Mr. Sabari Murugan <!--ent_326--> is an Associate Design Engineer at Wall Technology.
-- From the 2017-2021 batch, Mr. Jawahar Shalim <!--ent_181--> is a Team Leader at Milkbasket, while Mr. Abdul Mukshith A <!--ent_104--> works as a Senior BIM Engineer at MICRON ELECTRICALS.
-- Mr. Mohamed Ali Hasan <!--ent_225--> is the Operation Head at Veena Jewellers, and Mr. Imran L <!--ent_169--> is a Site Engineer at Al Rasheediah Safety and Security est, Abudhabi.
-- The 2018-2022 batch has Mr. Shamsudeen A <!--ent_348--> working as a Software Engineer at HCL.
-- The 2019-2023 batch has also produced several notable alumni, including Mr. Nadir Khan <!--ent_263-->, who is a Supply Chain Engineer at Inaithiram Impex Internet Pvt Ltd, Mr. Sathiyan <!--ent_338-->, a Software Engineer at Relevantz Technology Services Pvt Ltd, and Mr. Md Zaid <!--ent_218-->, a Software Engineer at TCS.
-- Ms. Senthamizh Selvi <!--ent_490--> from the 2013 batch is a Business Development Executive.
-- Several distinguished alumni from the 2014 batch have made notable achievements in their respective fields.
-- Mr. Aadil Ibrahim <!--ent_096--> A <!--ent_097--> serves as a Home Elevator Advisor, while Mr. Mohan Kumar <!--ent_250--> is the CEO and Founder of his own company.
-- Ms. Yousuf Zulaikha <!--ent_497--> works as an AR Specialist, and Mr. Vignesh <!--ent_386--> S <!--ent_388--> holds the position of PMO - Auditor.
-- Additionally, Mr. Kannan <!--ent_194--> R <!--ent_195--> is a NDT Level-2 Inspector.
-- The 2015 batch also boasts of accomplished alumni, including Mr. Mohamed Abdullah <!--ent_221--> S <!--ent_222-->, who works as an Automation Engineer, and Mr. Kalil Ahmed <!--ent_190--> B <!--ent_191-->, who is an Electrical Design Engineer.
-- Mr. Harikrishna <!--ent_164--> from the 2016 batch is an Insurance Surveyor.
-- The 2017 batch has Ms. Preeta Rani <!--ent_473--> S <!--ent_474-->, who serves as an Assistant Engineer, and Mr. Nadeem <!--ent_261--> S <!--ent_262-->, who works as an HVAC Plant Engineer.
-- Furthermore, Mr. Mohamed Arsath <!--ent_226--> from the 2018 batch is also an Assistant Engineer.
-- A number of entrepreneurs have emerged from the 2001-2005 batch.
-- Mr. Abdul Rahman <!--ent_105--> J <!--ent_106--> is the Managing Director of Blue Bell Business Management, while Mr. Mohammed Rizwan Ali <!--ent_245--> is the Managing Director of Excellence Prices Company Limited, with operations in Saudi Arabia, Dubai, and Bahrain.
-- Mr. Krishna Kumar <!--ent_196--> is the Managing Director of Markk Imaging and Automation.
-- Ahamed Jameel A M T is an IT Consultant and entrepreneur, and Elavarasan is the Managing Director of RMP Solutions.
-- Mallam Mustak is a Business Consultant based in Singapore and runs Mallang Salma Consulting Services Pvt Ltd. Behin Samuel is the Managing Director of Clysico, and Abdul Wahab is the Managing Director of Midas associates.
-- Several distinguished alumni from the 2001-2005 batch have made a name for themselves in the entrepreneurial world.
-- Firthouse, for instance, is the Managing Director of Nice Technology.
-- The 2002-2006 batch boasts of numerous successful entrepreneurs, including Mr. Syed Shahul Hameed <!--ent_366-->, who serves as the Managing Director of Deysla for IT Solutions W.L.L. in Bahrain.
-- Aswin Chandran is the CMD of Pixtronics Global Chennai, while Athifur Rahaman is the Managing Director of Learn Soft.
-- Abdul Jaleeel is also a notable entrepreneur from this batch, serving as the Managing Director of King Travels.
-- Mr. Syed Sultan Allaudeen <!--ent_367--> .M.M, from the 2003-2007 batch, is the Managing Director of MM International.
-- The 2004-2008 batch has produced several successful entrepreneurs, including Mr. Mohammed Rameez <!--ent_244-->, who is the Founder of Zeemrah Energy.
-- Mr. Ganesh <!--ent_160--> is the CEO of JFX Events and Media, and Mr. Rahumathulla A.S <!--ent_293--> is the Managing Director of Rekha Décor.
-- Mr. Abdur Rahim Salih <!--ent_110--> serves as the Director and CEO of V5 Innovations Pvt Ltd, while Mr. Shanmugam <!--ent_350--> is the IT Director of Zyple Software Solutions Pvt Ltd.
-- The 2005-2009 batch is also home to several accomplished entrepreneurs.
-- Mr. Asim Ali <!--ent_129--> .L is the CMO of Customer Labs, and Mr. Syed Yousuf <!--ent_369--> is a Business Partner at Milestone Speciality Equipment Pvt Ltd. Mr. Ahmed Asif A <!--ent_117--> is the Managing Director of First Alcon Infrastructures Pvt Ltd, and Mr. Md Sikkander Kasim M <!--ent_216--> serves as the Managing Director of Faaz.
-- Lastly, Mr. Mohammed Zubair <!--ent_249--> from the 2006-2010 batch is the Managing Director of Usite Safety and Security.
-- Several alumni from the 2006-2010 batch have made a name for themselves as entrepreneurs.
-- Mr. Abdul Majeed Shiblee <!--ent_101--> is the proprietor of DEBUGGER, while Mr. F H M Afzal Bijli <!--ent_150--> is the founder of Webxo360 Technology Solutions.
-- From the 2007-2011 batch, Mr. Abdul Kader <!--ent_100--> is a business partner at Al Qima technologies LLC in Sharjah, UAE.
-- Mr. Mohammed Parvez Shariff <!--ent_243--> is the proprietor of Air Mechon Solutions.
-- Mr. Kalidoss <!--ent_189--> .J has made a mark in the film industry as a music director.
-- The 2008-2012 batch boasts several entrepreneurs, including Mr. Mohamed Jiavur Rahman T H <!--ent_229-->, who founded Motowear, and Mr. Sadhaam <!--ent_328-->, who is a business partner at Phoenix Print hub.
-- Mr. Nazhrudeen <!--ent_267--> is the founder of Xperthom Technologies, while Mr. Prasand P <!--ent_283--> serves as the managing director of PROZ SOLUTIONS LLP.
-- Mr. K.Hakeem <!--ent_186--> is the managing director of Safka Engineering Works.
-- From the 2009-2013 batch, Mr. P.Arun Kumar <!--ent_275--> is the managing director of AG interior and Mithra Traders, and Mr. Abdul Riyaz M <!--ent_108--> holds the same position at RIHAAB ALIYAR ASSOCIATES.
-- The 2010-2014 batch has also produced several successful entrepreneurs.
-- Mr. Sabarish S R <!--ent_327--> is the founder and CEO of Sportasy, while Mr. Mohan Kumar <!--ent_250--> holds the same positions at Gamasome Interactive LLP.
-- Mr. Adil Ibrahim <!--ent_112--> is the founder and CEO of CameraMan, a security system installer.
-- Additionally, Mr. J.Mohamed Salman Azeem <!--ent_179--> is an acupuncturist and trainer at the Global Acupuncture Clinic.
-- Several distinguished alumni from the 2011-2015 batch have made a name for themselves as entrepreneurs.
-- Mr. Veeramanikandan P <!--ent_384--> is the Managing Director of SPS Traders, while Mr. J. Mohammed Abbas Ali <!--ent_174--> holds the same position at A. J Mobiles and Electronics.
-- Mr. Rafi Ansari <!--ent_290--> is the Managing Director of Rashab Consultancy.
-- From the 2012-2016 batch, Mr. Mohamed Afroze <!--ent_224--> is the Managing Director of J Digitals.
-- The 2013-2017 batch boasts of Ms. Salmaa Gaffoor <!--ent_489-->, who is the Managing Director of Digiwiz Marketing Solutions, and Mr. Basker <!--ent_135-->, who is a Business Partner at Studio Zero 7.
-- Mr. Abdullah <!--ent_109-->, from the 2014-2018 batch, is the CEO of Redwood Construction.
-- The 2015-2019 batch has produced several successful entrepreneurs, including Mr. Md Hyder Shareef <!--ent_213-->, who is the Managing Director of SAAHICORP PRIVATE LIMITED, Mr. Mohamed Naveeth B <!--ent_230-->, the Managing Director of Reliance Trading Service, Mr. Ashwin P <!--ent_128-->, the Managing Director of P & P Marketing.
-- Mr. Dhanachezian K <!--ent_146-->, from the 2016-2020 batch, is the Managing Director of Shri Dhanalakshmi Engineering Works, while Mr. Dawan <!--ent_143--> is the Managing Director of Enigma Catalyst.
-- More recent batches have also produced notable entrepreneurs.
-- Mr. Akther Ilyas <!--ent_120-->, from the 2018-2022 batch, is the Creative Director of Skit Media - Start Up.
-- The 2019-2023 batch includes Mr. Ram Kumar <!--ent_298-->, the Managing Director of YC Events and Productions, and Mr. Syed Aakhib Mohammed <!--ent_360-->, the Managing Director of BLACKBOX.
-- Lastly, Mr. Suhaib <!--ent_356-->, from the 2022-2026 batch, is the CEO of IK Digital.
+
+Several distinguished alumni from the 2001-2005 batch have made a name for themselves in various industries. Mr. Purushothaman. N <!--ent_286--> serves as Assistant Vice President at Standard Chartered, while Ms. Sabana Yasmi <!--ent_487--> .S holds the position of Vice President at DBS Bank. Mr. Saravanan Perumal <!--ent_335--> is a Senior Manager at LTI MINDTREE, and Mr. Mohammed Fareed <!--ent_240--> works as a Program Manager at Lululemon in Canada. Additionally, Mr. Ahamed Jameel <!--ent_113--> .A.M.T is a Technical Consultant at HCL, and Mr. Feroz Khan <!--ent_153--> .N is a General Manager at Maersk.
+
+Other notable alumni from the same batch include Mr. Fayad Ahamed <!--ent_152-->, who works as a Project Manager at Union Insurance Company Dubai, and Mr. Mohammed Azeem <!--ent_239-->, who is a Senior Manager Sales at Allied Motors in Dubai. Mr. Srikanth K <!--ent_355--> is a Technical Architect at TeleApps, and Mr. Majed Arafat <!--ent_210--> is an IT Consultant at TCS. Furthermore, Mr. Santhosh Kumar V <!--ent_334--> and Mr. Anbazhagan AT <!--ent_122--> hold the positions of Technical Architect and Technical Manager, respectively, at HCL and CTS. Mr. Balagurunathan <!--ent_134--> is a Project Manager at HCL, and Dr. Ezhilazhagan C <!--ent_021--> is an Associate Professor at Vel Tech.
+
+The 2001-2005 batch also boasts of Mr. Suresh <!--ent_358--> Kumar N <!--ent_359-->, a Scientist E at INCOIS, and Mr. Mohammed Kamaal Yasin <!--ent_241-->, a Service Delivery Manager at TCS. Mr. Abdul Jaleel <!--ent_099--> is an Infra Manager at Emirates, and Mr. Imran Sheik <!--ent_170-->, from the 2002-2006 batch, works as a Customer Success Manager at Firmex in Canada. Other notable alumni from the 2002-2006 batch include Mr. Md Yasar <!--ent_217-->, a Product Owner Manager at Edvoy, and Mr. Raju <!--ent_296--> .A, an Infra Technology Manager at CTS.
+
+Several distinguished alumni from the 2002-2006 batch have made notable achievements in their respective fields. Mr. Syed Faiyaz Hussain <!--ent_361--> is currently working as a Digital Product Manager at Anthem in the USA. Ms. Harini Raman <!--ent_457--> holds the position of Business Analyst at IBM, while Mr. Hafeez Rahman <!--ent_162--> is a Manager at AL ZARA TRADING AND CONTRACTING. Mr. Mohamed Yusuff Shah <!--ent_236--> serves as a Senior Accountant Manager at the Indian Audit and Accounts Department. Additionally, Ms. Uma Maheshwari G <!--ent_492--> is a Principal Member of Technical Staff at Oracle India.
+
+The 2003-2007 batch has also produced several accomplished alumni. Mr. Chandra Bose <!--ent_138--> is a Senior Delivery Manager at CMA CGM India, and Mr. Ahmed Mubeen <!--ent_118--> is a Manager at Lighthouse Navigation Singapore Pte Ltd. Mr. Arun <!--ent_125--> Natarajan <!--ent_126--> works as a Principle Consultant at Emirates National Bank of Dubai.
+
+From the 2004-2008 batch, Mr. Ashik Mohamed <!--ent_127--> is a Manager in the IT department at Hyundai Motors Group. Mr. Mohamed Thahir N <!--ent_233--> leads the QA & CART Team at Zoho Corporation.
+
+The 2005-2009 batch boasts several successful alumni, including Ms. Misbah Khairunissa A <!--ent_467-->, who serves as a Senior HR Manager at Savista. Ms. Reshma M <!--ent_476--> is a Project Manager at HCL, and Mr. Nizamuddin K <!--ent_269--> is a Business Development Manager at Touchline Technologies Pvt Ltd. Mr. Abubucker Siddiq <!--ent_111--> holds the position of Deputy Manager at Transys Global forwarding Pvt. Ltd. Ms. Lakshmi Narayanan <!--ent_466--> is an HR Manager at Valeo, and Mr. Ahmad Abdullateef <!--ent_116--> is a Principal Software Architect at Microsoft.
+
+Lastly, from the 2006-2010 batch, Mr. Mohamed Hussain T R <!--ent_228--> works as a Staff Devops Engineer at ARM Embedded Technologies. Mr. Sivanathan <!--ent_354--> is a Manager at ADF Data Science Pvt Ltd.
+
+Several distinguished alumni from the 2006-2010 batch have made notable achievements in their careers. Mr. Rahul Murali <!--ent_291--> serves as Lead Product Manager at Thoughtworks, while Mr. Vinoth Kumar Manickam <!--ent_391--> holds the position of Lead Developer at Striven. Additionally, Mr. Sathakathulla E <!--ent_336--> is the eApps Testing Lead at Hitachi Energy Global Services Pvt Ltd.
+
+The 2007-2011 batch has also produced several accomplished alumni. Mr. Noorul Jaman <!--ent_270--> is the Product Manager - QA at Mind Gate Solutions Pvt Ltd, and Mr. Shaik Salaudeen <!--ent_346--> works as Technical Lead at NTT Data Business Solutions. Furthermore, Mr. Sakthi Ajay <!--ent_330--> is a Senior Consultant at Virtusa.
+
+From the 2008-2012 batch, Mr. Sheikh Azharuddin <!--ent_353--> is the IT Operations Head at Nissan Renault Financial Services India Limited. Ms. Akila Rajesh <!--ent_444--> holds the position of Sales and Marketing Head at Voora Property Developer Pvt Ltd, and Mr. Deiva <!--ent_145--> is a Senior Manager at SPR Construction Pvt Ltd.
+
+The 2009-2013 batch has also seen several alumni achieve success in their careers. Mr. Nasarullah S <!--ent_265--> is the Tech Lead at Wipro Ltd, and Mr. Feroz Khan <!--ent_153--> S <!--ent_155--> works as SDET 2 at Vonage.
+
+Several alumni from the 2010-2014 batch have also made notable achievements. Mr. Marzook Ahamed <!--ent_212--> is an Assistant Manager at PIXELS- DUBAI, and Mr. Mohamed Yousuf Shariff <!--ent_235--> is a Tax Consultant at Shariff and Co.
+
+The 2011-2015 batch has produced several accomplished alumni, including Mr. Muhamed Samir <!--ent_253-->, who is the Cyber Security Manager at Fidelity National Financial. M. Sharmela works as a Senior Product Analyst at Photon Interactive Pvt Ltd, and Mr. Vignesh <!--ent_386--> is a Senior BIM Modeler at MCC Engineering Singapore Pte.Ltd.
+
+From the 2012-2016 batch, Mr. Harish N <!--ent_165--> is a Technical Support Engineer at iOPEX Technologies, and Mr. Ram Prabhu S <!--ent_300--> works as a Senior QA Engineer at QBurst Technologies Private limited.
+
+Several distinguished alumni from the 2013-2017 batch have made a name for themselves in their respective fields. Ms. Reshma Rahila S <!--ent_477--> is a Senior Software Engineer at Prodapt Solutions Pvt Ltd, while Mr. Mohammed Asif <!--ent_237--> works as a QAQC Civil Inspector at Samsung C & T.
+
+The 2014-2018 batch also boasts of several notable alumni, including Mr. Syed Haja Shereef S <!--ent_362-->, who is a Recruitment Specialist at Scaleneworks, and Mr. Shanthoshkumar J <!--ent_352-->, a Senior Software Engineer at Broadcom.
+
+From the 2015-2019 batch, Mr. Safeeq Ahamed S <!--ent_329--> is a Design Engineer at KONE Elevators, and Mr. Shaik Fathhullah S <!--ent_345--> works as a Technical and Sales Engineer at DAYSTAR SOLAR.
+
+The 2016-2020 batch has also produced several successful alumni, including Mr. Md Mubarak <!--ent_215-->, who is an MEP Team Leader at EJADAH UAE, and Mr. Md Junaid A <!--ent_214-->, an Estimation/Quantity Surveyor Engineer at ELEMEC ELECTRICAL CONTRACTING LLC. Additionally, Mr. Sabari Murugan <!--ent_326--> is an Associate Design Engineer at Wall Technology.
+
+From the 2017-2021 batch, Mr. Jawahar Shalim <!--ent_181--> is a Team Leader at Milkbasket, while Mr. Abdul Mukshith A <!--ent_104--> works as a Senior BIM Engineer at MICRON ELECTRICALS. Mr. Mohamed Ali Hasan <!--ent_225--> is the Operation Head at Veena Jewellers, and Mr. Imran L <!--ent_169--> is a Site Engineer at Al Rasheediah Safety and Security est, Abudhabi.
+
+The 2018-2022 batch has Mr. Shamsudeen A <!--ent_348--> working as a Software Engineer at HCL. 
+
+The 2019-2023 batch has also produced several notable alumni, including Mr. Nadir Khan <!--ent_263-->, who is a Supply Chain Engineer at Inaithiram Impex Internet Pvt Ltd, Mr. Sathiyan <!--ent_338-->, a Software Engineer at Relevantz Technology Services Pvt Ltd, and Mr. Md Zaid <!--ent_218-->, a Software Engineer at TCS.
+
+Ms. Senthamizh Selvi <!--ent_490--> from the 2013 batch is a Business Development Executive.
+
+Several distinguished alumni from the 2014 batch have made notable achievements in their respective fields. Mr. Aadil Ibrahim <!--ent_096--> A <!--ent_097--> serves as a Home Elevator Advisor, while Mr. Mohan Kumar <!--ent_250--> is the CEO and Founder of his own company. Ms. Yousuf Zulaikha <!--ent_497--> works as an AR Specialist, and Mr. Vignesh <!--ent_386--> S <!--ent_388--> holds the position of PMO - Auditor. Additionally, Mr. Kannan <!--ent_194--> R <!--ent_195--> is a NDT Level-2 Inspector.
+
+The 2015 batch also boasts of accomplished alumni, including Mr. Mohamed Abdullah <!--ent_221--> S <!--ent_222-->, who works as an Automation Engineer, and Mr. Kalil Ahmed <!--ent_190--> B <!--ent_191-->, who is an Electrical Design Engineer. Mr. Harikrishna <!--ent_164--> from the 2016 batch is an Insurance Surveyor. The 2017 batch has Ms. Preeta Rani <!--ent_473--> S <!--ent_474-->, who serves as an Assistant Engineer, and Mr. Nadeem <!--ent_261--> S <!--ent_262-->, who works as an HVAC Plant Engineer. Furthermore, Mr. Mohamed Arsath <!--ent_226--> from the 2018 batch is also an Assistant Engineer.
+
+A number of entrepreneurs have emerged from the 2001-2005 batch. Mr. Abdul Rahman <!--ent_105--> J <!--ent_106--> is the Managing Director of Blue Bell Business Management, while Mr. Mohammed Rizwan Ali <!--ent_245--> is the Managing Director of Excellence Prices Company Limited, with operations in Saudi Arabia, Dubai, and Bahrain. Mr. Krishna Kumar <!--ent_196--> is the Managing Director of Markk Imaging and Automation. Ahamed Jameel A M T is an IT Consultant and entrepreneur, and Elavarasan is the Managing Director of RMP Solutions. Mallam Mustak is a Business Consultant based in Singapore and runs Mallang Salma Consulting Services Pvt Ltd. Behin Samuel is the Managing Director of Clysico, and Abdul Wahab is the Managing Director of Midas associates.
+
+Several distinguished alumni from the 2001-2005 batch have made a name for themselves in the entrepreneurial world. Firthouse, for instance, is the Managing Director of Nice Technology. 
+
+The 2002-2006 batch boasts of numerous successful entrepreneurs, including Mr. Syed Shahul Hameed <!--ent_366-->, who serves as the Managing Director of Deysla for IT Solutions W.L.L. in Bahrain. Aswin Chandran is the CMD of Pixtronics Global Chennai, while Athifur Rahaman is the Managing Director of Learn Soft. Abdul Jaleeel is also a notable entrepreneur from this batch, serving as the Managing Director of King Travels.
+
+Mr. Syed Sultan Allaudeen <!--ent_367--> .M.M, from the 2003-2007 batch, is the Managing Director of MM International. The 2004-2008 batch has produced several successful entrepreneurs, including Mr. Mohammed Rameez <!--ent_244-->, who is the Founder of Zeemrah Energy. Mr. Ganesh <!--ent_160--> is the CEO of JFX Events and Media, and Mr. Rahumathulla A.S <!--ent_293--> is the Managing Director of Rekha Décor. Mr. Abdur Rahim Salih <!--ent_110--> serves as the Director and CEO of V5 Innovations Pvt Ltd, while Mr. Shanmugam <!--ent_350--> is the IT Director of Zyple Software Solutions Pvt Ltd.
+
+The 2005-2009 batch is also home to several accomplished entrepreneurs. Mr. Asim Ali <!--ent_129--> .L is the CMO of Customer Labs, and Mr. Syed Yousuf <!--ent_369--> is a Business Partner at Milestone Speciality Equipment Pvt Ltd. Mr. Ahmed Asif A <!--ent_117--> is the Managing Director of First Alcon Infrastructures Pvt Ltd, and Mr. Md Sikkander Kasim M <!--ent_216--> serves as the Managing Director of Faaz. 
+
+Lastly, Mr. Mohammed Zubair <!--ent_249--> from the 2006-2010 batch is the Managing Director of Usite Safety and Security.
+
+Several alumni from the 2006-2010 batch have made a name for themselves as entrepreneurs. Mr. Abdul Majeed Shiblee <!--ent_101--> is the proprietor of DEBUGGER, while Mr. F H M Afzal Bijli <!--ent_150--> is the founder of Webxo360 Technology Solutions. 
+
+From the 2007-2011 batch, Mr. Abdul Kader <!--ent_100--> is a business partner at Al Qima technologies LLC in Sharjah, UAE. Mr. Mohammed Parvez Shariff <!--ent_243--> is the proprietor of Air Mechon Solutions. Mr. Kalidoss <!--ent_189--> .J has made a mark in the film industry as a music director.
+
+The 2008-2012 batch boasts several entrepreneurs, including Mr. Mohamed Jiavur Rahman T H <!--ent_229-->, who founded Motowear, and Mr. Sadhaam <!--ent_328-->, who is a business partner at Phoenix Print hub. Mr. Nazhrudeen <!--ent_267--> is the founder of Xperthom Technologies, while Mr. Prasand P <!--ent_283--> serves as the managing director of PROZ SOLUTIONS LLP. Mr. K.Hakeem <!--ent_186--> is the managing director of Safka Engineering Works.
+
+From the 2009-2013 batch, Mr. P.Arun Kumar <!--ent_275--> is the managing director of AG interior and Mithra Traders, and Mr. Abdul Riyaz M <!--ent_108--> holds the same position at RIHAAB ALIYAR ASSOCIATES.
+
+The 2010-2014 batch has also produced several successful entrepreneurs. Mr. Sabarish S R <!--ent_327--> is the founder and CEO of Sportasy, while Mr. Mohan Kumar <!--ent_250--> holds the same positions at Gamasome Interactive LLP. Mr. Adil Ibrahim <!--ent_112--> is the founder and CEO of CameraMan, a security system installer. Additionally, Mr. J.Mohamed Salman Azeem <!--ent_179--> is an acupuncturist and trainer at the Global Acupuncture Clinic.
+
+Several distinguished alumni from the 2011-2015 batch have made a name for themselves as entrepreneurs. Mr. Veeramanikandan P <!--ent_384--> is the Managing Director of SPS Traders, while Mr. J. Mohammed Abbas Ali <!--ent_174--> holds the same position at A. J Mobiles and Electronics. Mr. Rafi Ansari <!--ent_290--> is the Managing Director of Rashab Consultancy. 
+
+From the 2012-2016 batch, Mr. Mohamed Afroze <!--ent_224--> is the Managing Director of J Digitals. The 2013-2017 batch boasts of Ms. Salmaa Gaffoor <!--ent_489-->, who is the Managing Director of Digiwiz Marketing Solutions, and Mr. Basker <!--ent_135-->, who is a Business Partner at Studio Zero 7. Mr. Abdullah <!--ent_109-->, from the 2014-2018 batch, is the CEO of Redwood Construction.
+
+The 2015-2019 batch has produced several successful entrepreneurs, including Mr. Md Hyder Shareef <!--ent_213-->, who is the Managing Director of SAAHICORP PRIVATE LIMITED, Mr. Mohamed Naveeth B <!--ent_230-->, the Managing Director of Reliance Trading Service, Mr. Ashwin P <!--ent_128-->, the Managing Director of P & P Marketing. Mr. Dhanachezian K <!--ent_146-->, from the 2016-2020 batch, is the Managing Director of Shri Dhanalakshmi Engineering Works, while Mr. Dawan <!--ent_143--> is the Managing Director of Enigma Catalyst.
+
+More recent batches have also produced notable entrepreneurs. Mr. Akther Ilyas <!--ent_120-->, from the 2018-2022 batch, is the Creative Director of Skit Media - Start Up. The 2019-2023 batch includes Mr. Ram Kumar <!--ent_298-->, the Managing Director of YC Events and Productions, and Mr. Syed Aakhib Mohammed <!--ent_360-->, the Managing Director of BLACKBOX. Lastly, Mr. Suhaib <!--ent_356-->, from the 2022-2026 batch, is the CEO of IK Digital.
 
 ## 15. Alumni Scholarship Contribution
-- The **MSAJCE** Alumni Scholarship has sponsored a total amount of Rs.
-- 40,16,472 to date.
-- Mohamed Humdhan I, a student from the 2024-2028 batch of the AIDS department, received sponsorship on two separate occasions: 09.07.2026 and 10.05.2026.
-- Similarly, Mohamed Uawais A from the 2023-2027 batch of the CSE department received sponsorship on 18.06.2026.
-- In the month of March 2026, several students received sponsorship, including Priyadharshini S from the 2023-2027 batch of the CSBS department on 07.03.2026, and Revathi A and Sireesh B, both from the 2024-2028 batch of the ECE department, also on 07.03.2026.
-- Additionally, Mohammed Shahul Hameed B from the 2024-2028 batch of the ECE department received sponsorship on 06.03.2026.
-- On 05.03.2026, Rahya N from the 2025-2029 batch of the ECE department received sponsorship, while Rahini Mugil J from the 2025-2029 batch of the Mech department, Gopika R from the 2025-2029 batch of the ECE ACT department, Sujatha R from the 2025-2029 batch of the CSE department, Harini R from the 2024-2028 batch of the AIML department, Prathiba M from the 2025-2029 batch of the ECE department, and Doorika M from the 2025-2029 batch of the EEE department all received sponsorship on 04.03.2026.
-- Jafeer Mohamed J from the 2024-2028 batch of the AIDS department also received sponsorship on 04.03.2026.
-- In the month of February 2026, several students received sponsorship, including Rahim Basha W from the 2023-2027 batch of the AIML department on 27.02.2026, Mohamed ZiamZian A from the 2025-2029 batch of the IT department, Ameer Shahith M from the 2023-2027 batch of the CSE department, and Abdullah N from the 2023-2027 batch of the IT department, all on 26.02.2026.
-- Pirivindhan A from the 2024-2028 batch of the AIDS department also received sponsorship on 26.02.2026.
-- Afreen Fathim .S from the 2024-2028 batch of the VLSI department received sponsorship on 25.02.2026, while Afasr Ali .N from the 2024-2028 batch of the AIML department and Afrin Fathima .B from the 2023-2027 batch of the IT department received sponsorship on 24.02.2026.
-- Pragatha from the 2023-2027 batch of the CSE department, Samira Farhana .T from the 2025-2029 batch of the AIML department, and Md Suhail .F from the 2024-2028 batch of the CSE department all received sponsorship on 22.02.2026.
-- Several alumni from the 2023-2027 batch have made contributions to the scholarship fund.
-- Mahira Sultana from the ECE department made a contribution on February 22, 2026.
-- Mohamed Salman J, also from the ECE department, contributed on September 20, 2025.
-- Afrin Fathima from the IT department made a contribution on August 26, 2025.
-- Additionally, Harini R from the AIML department and Samira Farhana T from the AIML department, both from the 2024-2028 and 2025-2029 batches respectively, contributed on August 6, 2025.
-- Multiple alumni from the 2022-2026 batch also made contributions.
-- Indhuja I from the IT department contributed on May 29, 2025, along with Abu Jabar Mubarak U from the CSBS department, Md Abdul Kalam N from the CSBS department, Nazmi A from the CSE department, Amirudeen F from the IT department, Md Ashraf from the CSE department, and Md Sarhan K from the MECH department.
-- F.Md Suhail from the CSE department, who is from the 2024-2028 batch, also contributed on the same day.
-- Other notable contributions include those from Mohamed Ashraf from the ECE department on April 7, 2025, M.S.Shajaneshwar from the CSE department on March 26, 2025, and M.Mohamed Ashraf from the CSE department on March 25, 2025.
-- Afrin Fathima B from the IT department, who is from the 2023-2027 batch, contributed on March 25, 2025, while M.Mohamed Rasim from the IT department, also from the 2023-2027 batch, contributed on March 13, 2025.
-- Further contributions were made by Zakir Hussain from the ECE department on March 12, 2025, Rahim Basha W from the CSE AIML department on the same day, and Pragatha from the CSE department on March 12, 2025.
-- Mahira Sultana from the ECE department, who is from the 2022-2027 batch, contributed on March 7, 2025, along with Md Sajith from the ECE department, B.Dhanalakshmi from the IT department, and Nilofer Nisha from the ECE department.
-- In addition to individual contributions, the **MSAJCE** Alumni Association sponsored sports jerseys for the hockey team on September 30, 2024.
-- Other notable contributions include those from V.Abinaya from the ECE department on August 1, 2024, M.Mohamed Afsal from the IT department on May 12, 2024, and B.Dhanalakshmi from the IT department on the same day.
-- Several alumni from the 2023-2027 batch made contributions to the **MSAJCE** Alumni Scholarship.
-- These include Pragatha from the Computer Science and Engineering department, Md Abdul Kalam and Abu Jabar Mubarak from the Computer Science and Business Systems department, and Md Rasin from the Information Technology department.
-- Additionally, Pragatha M from the Computer Science and Engineering department, Fahd Ahmed Khan K from the Electronics and Communication Engineering department, and Abdullah N and Parvez Nabi Z from the Information Technology department also made contributions.
-- Alumni from the 2022-2026 batch also participated in the scholarship contributions.
-- These include Nazmi A from the Computer Science and Engineering department, Amirudeen and N. Abdullah from the Information Technology department, and Md Sajith from the Electronics and Communication Engineering department.
-- Furthermore, Md Sajith made multiple contributions on different dates, including April 6 and 7, 2023, and September 4, 2023.
-- Other notable contributions include those from the 2021-2025 batch, such as Shaik Irfan from the Mechanical Engineering department, Farhan Basha T and Ahamed Sheik from the Computer Science and Engineering department, and Syeda Zuha Tasneem from the Computer Science and Engineering department.
-- Ahamed Sheik made contributions on two separate dates, March 9, 2024, and November 9, 2023.
-- The **MSAJCE** Alumni Association also sponsored sports jerseys for **MSAJCE**'s cricket and football teams on November 1, 2023.
-- Moreover, they sponsored the Tech Unity event for **MSAJCE** symposium on October 16, 2023, and the Codeathon symposium on May 8, 2023.
-- Several alumni of Mohamed Sathak A.J. College of Engineering have made significant contributions to **MSAJCE**.
-- Farhan Basha T, a student from the 2021-2025 batch of the Computer Science and Engineering department, made contributions on two separate occasions: 24th March 2023 and 29th June 2022.
-- Abdullah S, from the 2020-2024 batch of the Information Technology department, also made contributions on two separate dates: 18th March 2023 and 15th September 2022.
-- The BSM Cricket Trophy Tournament was sponsored on 24th February 2023.
-- Additionally, a Smart Board Device was sponsored on 23rd January 2023.
-- **MSAJCE** also recognized its top performers department-wise on 15th October 2022.
-- Furthermore, a Cricket Kit was sponsored on 7th October 2022.
-- Other notable contributors include Ashwini A and Akshaya K, both from the 2019-2023 batch of the Electronics and Communication Engineering department, who made contributions on 8th September 2022.
-- Md Sajith S, a student from the 2022-2026 batch of the Electronics and Communication Engineering department, made a contribution on 11th August 2022.
-- Aayathul Mufarak A, from the 2019-2023 batch of the Mechanical Engineering department, made contributions on three separate occasions: 2nd August 2022, 30th March 2022, and 13th February 2021.
-- Assifa A, from the 2019-2023 batch of the Electronics and Communication Engineering department, made a contribution on 2nd September 2023.
-- Parveen Begum M, a student from the 2018-2022 batch of the Computer Science and Engineering department, made a contribution on 30th March 2022.
+
+The **MSAJCE** Alumni Scholarship has sponsored a total amount of Rs. 40,16,472 to date. 
+
+Mohamed Humdhan I, a student from the 2024-2028 batch of the AIDS department, received sponsorship on two separate occasions: 09.07.2026 and 10.05.2026. Similarly, Mohamed Uawais A from the 2023-2027 batch of the CSE department received sponsorship on 18.06.2026. 
+
+In the month of March 2026, several students received sponsorship, including Priyadharshini S from the 2023-2027 batch of the CSBS department on 07.03.2026, and Revathi A and Sireesh B, both from the 2024-2028 batch of the ECE department, also on 07.03.2026. Additionally, Mohammed Shahul Hameed B from the 2024-2028 batch of the ECE department received sponsorship on 06.03.2026. 
+
+On 05.03.2026, Rahya N from the 2025-2029 batch of the ECE department received sponsorship, while Rahini Mugil J from the 2025-2029 batch of the Mech department, Gopika R from the 2025-2029 batch of the ECE ACT department, Sujatha R from the 2025-2029 batch of the CSE department, Harini R from the 2024-2028 batch of the AIML department, Prathiba M from the 2025-2029 batch of the ECE department, and Doorika M from the 2025-2029 batch of the EEE department all received sponsorship on 04.03.2026. Jafeer Mohamed J from the 2024-2028 batch of the AIDS department also received sponsorship on 04.03.2026. 
+
+In the month of February 2026, several students received sponsorship, including Rahim Basha W from the 2023-2027 batch of the AIML department on 27.02.2026, Mohamed ZiamZian A from the 2025-2029 batch of the IT department, Ameer Shahith M from the 2023-2027 batch of the CSE department, and Abdullah N from the 2023-2027 batch of the IT department, all on 26.02.2026. Pirivindhan A from the 2024-2028 batch of the AIDS department also received sponsorship on 26.02.2026. 
+
+Afreen Fathim .S from the 2024-2028 batch of the VLSI department received sponsorship on 25.02.2026, while Afasr Ali .N from the 2024-2028 batch of the AIML department and Afrin Fathima .B from the 2023-2027 batch of the IT department received sponsorship on 24.02.2026. Pragatha from the 2023-2027 batch of the CSE department, Samira Farhana .T from the 2025-2029 batch of the AIML department, and Md Suhail .F from the 2024-2028 batch of the CSE department all received sponsorship on 22.02.2026.
+
+Several alumni from the 2023-2027 batch have made contributions to the scholarship fund. Mahira Sultana from the ECE department made a contribution on February 22, 2026. Mohamed Salman J, also from the ECE department, contributed on September 20, 2025. Afrin Fathima from the IT department made a contribution on August 26, 2025. Additionally, Harini R from the AIML department and Samira Farhana T from the AIML department, both from the 2024-2028 and 2025-2029 batches respectively, contributed on August 6, 2025.
+
+Multiple alumni from the 2022-2026 batch also made contributions. Indhuja I from the IT department contributed on May 29, 2025, along with Abu Jabar Mubarak U from the CSBS department, Md Abdul Kalam N from the CSBS department, Nazmi A from the CSE department, Amirudeen F from the IT department, Md Ashraf from the CSE department, and Md Sarhan K from the MECH department. F.Md Suhail from the CSE department, who is from the 2024-2028 batch, also contributed on the same day.
+
+Other notable contributions include those from Mohamed Ashraf from the ECE department on April 7, 2025, M.S.Shajaneshwar from the CSE department on March 26, 2025, and M.Mohamed Ashraf from the CSE department on March 25, 2025. Afrin Fathima B from the IT department, who is from the 2023-2027 batch, contributed on March 25, 2025, while M.Mohamed Rasim from the IT department, also from the 2023-2027 batch, contributed on March 13, 2025.
+
+Further contributions were made by Zakir Hussain from the ECE department on March 12, 2025, Rahim Basha W from the CSE AIML department on the same day, and Pragatha from the CSE department on March 12, 2025. Mahira Sultana from the ECE department, who is from the 2022-2027 batch, contributed on March 7, 2025, along with Md Sajith from the ECE department, B.Dhanalakshmi from the IT department, and Nilofer Nisha from the ECE department.
+
+In addition to individual contributions, the **MSAJCE** Alumni Association sponsored sports jerseys for the hockey team on September 30, 2024. Other notable contributions include those from V.Abinaya from the ECE department on August 1, 2024, M.Mohamed Afsal from the IT department on May 12, 2024, and B.Dhanalakshmi from the IT department on the same day.
+
+Several alumni from the 2023-2027 batch made contributions to the **MSAJCE** Alumni Scholarship. These include Pragatha from the Computer Science and Engineering department, Md Abdul Kalam and Abu Jabar Mubarak from the Computer Science and Business Systems department, and Md Rasin from the Information Technology department. Additionally, Pragatha M from the Computer Science and Engineering department, Fahd Ahmed Khan K from the Electronics and Communication Engineering department, and Abdullah N and Parvez Nabi Z from the Information Technology department also made contributions.
+
+Alumni from the 2022-2026 batch also participated in the scholarship contributions. These include Nazmi A from the Computer Science and Engineering department, Amirudeen and N. Abdullah from the Information Technology department, and Md Sajith from the Electronics and Communication Engineering department. Furthermore, Md Sajith made multiple contributions on different dates, including April 6 and 7, 2023, and September 4, 2023.
+
+Other notable contributions include those from the 2021-2025 batch, such as Shaik Irfan from the Mechanical Engineering department, Farhan Basha T and Ahamed Sheik from the Computer Science and Engineering department, and Syeda Zuha Tasneem from the Computer Science and Engineering department. Ahamed Sheik made contributions on two separate dates, March 9, 2024, and November 9, 2023.
+
+The **MSAJCE** Alumni Association also sponsored sports jerseys for **MSAJCE**'s cricket and football teams on November 1, 2023. Moreover, they sponsored the Tech Unity event for **MSAJCE** symposium on October 16, 2023, and the Codeathon symposium on May 8, 2023.
+
+Several alumni of Mohamed Sathak A.J. College of Engineering have made significant contributions to **MSAJCE**. Farhan Basha T, a student from the 2021-2025 batch of the Computer Science and Engineering department, made contributions on two separate occasions: 24th March 2023 and 29th June 2022. Abdullah S, from the 2020-2024 batch of the Information Technology department, also made contributions on two separate dates: 18th March 2023 and 15th September 2022.
+
+The BSM Cricket Trophy Tournament was sponsored on 24th February 2023. Additionally, a Smart Board Device was sponsored on 23rd January 2023. **MSAJCE** also recognized its top performers department-wise on 15th October 2022. Furthermore, a Cricket Kit was sponsored on 7th October 2022.
+
+Other notable contributors include Ashwini A and Akshaya K, both from the 2019-2023 batch of the Electronics and Communication Engineering department, who made contributions on 8th September 2022. Md Sajith S, a student from the 2022-2026 batch of the Electronics and Communication Engineering department, made a contribution on 11th August 2022. Aayathul Mufarak A, from the 2019-2023 batch of the Mechanical Engineering department, made contributions on three separate occasions: 2nd August 2022, 30th March 2022, and 13th February 2021.
+
+Assifa A, from the 2019-2023 batch of the Electronics and Communication Engineering department, made a contribution on 2nd September 2023. Parveen Begum M, a student from the 2018-2022 batch of the Computer Science and Engineering department, made a contribution on 30th March 2022.
 
 ## 16. Alumni Feedback
 
 ## 17. Alumni Meet - 2k23 (2009 - 2020 Batch)
-- The Alumni Meet - 2k23 was a significant event that brought together alumni from the 2009 to 2020 batches of Mohamed Sathak A.J. College of Engineering.
+
+The Alumni Meet - 2k23 was a significant event that brought together alumni from the 2009 to 2020 batches of Mohamed Sathak A.J. College of Engineering.
+

@@ -85,7 +85,7 @@ REWRITE_MIN_HISTORY_TURNS = 1    # Min prior assistant turns needed to trigger r
 REWRITE_MAX_CONTEXT_TURNS = 4    # How many prior turns to include in rewrite prompt
 
 # ── Spell correction ──────────────────────────────────────────────────────────
-SPELL_MIN_FREQ = 5           # Minimum corpus frequency for a correction candidate
+SPELL_MIN_FREQ = 1           # Minimum corpus frequency for a correction candidate
 SPELL_MAX_EDIT_DIST = 2      # Maximum Levenshtein edit distance allowed
 SPELL_TIMEOUT_MS = 50        # Max allowed processing time in milliseconds
 

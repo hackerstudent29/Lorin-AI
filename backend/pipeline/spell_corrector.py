@@ -10,7 +10,7 @@ logger = logging.getLogger(__name__)
 
 VOCAB_PATH = Path("bm25_index/vocab.pkl")
 
-SPELL_MIN_FREQ      = 5
+SPELL_MIN_FREQ      = 1
 SPELL_MAX_EDIT_DIST = 2
 SPELL_TIMEOUT_MS    = 200  # Warn if correction takes over 200ms
 

@@ -1,38 +1,10 @@
 # Kaushal Augmentation and Restructuring Mission of AICTE (KARMA)
 
 ## 1. Overview and Objectives
-- The All India Council for Technical Education (AICTE) is initiating the Kaushal Augmentation and Restructuring Mission of AICTE (KARMA) for all AICTE-approved institutions in the country.
-- The initiative aims to overcome the dual challenge of the scarcity of skilled manpower in jobs and the low skill level of those who are presently employed.
-- The scheme focuses on strategically planned skill initiatives to create a skilled and certified workforce that not only contributes towards the growth of India but also drives the country into becoming the global skills capital.
-- It encourages institutions to make the best use of the available higher education infrastructure during off-hours for skill training.
-- This is achieved by realigning the existing infrastructure, training aids, syllabi, and curricula as per National Skills Qualifications Framework aligned qualifications.
-- The scheme is applicable to candidates who have passed at least the tenth standard or completed ITI courses.
-- The training provided under the scheme focuses on domain-specific, demand-led skill training activities, preferably in core engineering sectors, leading directly to employment.
+The All India Council for Technical Education (AICTE) is initiating the Kaushal Augmentation and Restructuring Mission of AICTE (KARMA) for all AICTE-approved institutions in the country. The initiative aims to overcome the dual challenge of the scarcity of skilled manpower in jobs and the low skill level of those who are presently employed. The scheme focuses on strategically planned skill initiatives to create a skilled and certified workforce that not only contributes towards the growth of India but also drives the country into becoming the global skills capital. It encourages institutions to make the best use of the available higher education infrastructure during off-hours for skill training. This is achieved by realigning the existing infrastructure, training aids, syllabi, and curricula as per National Skills Qualifications Framework aligned qualifications. The scheme is applicable to candidates who have passed at least the tenth standard or completed ITI courses. The training provided under the scheme focuses on domain-specific, demand-led skill training activities, preferably in core engineering sectors, leading directly to employment.
 
 ## 2. Skilling Models
-- The AICTE has proposed three models for the skilling of in-school students, school dropouts, and students pursuing technical education.
-- Model 1 targets school dropouts after they have passed class ten, including both recent and long-term dropouts.
-- Model 2 targets advanced-level skilling for students already studying in AICTE-approved technical institutions.
-- It introduces a skill up-gradation program for present technical students to make them industry-ready by offering advanced skilling courses during their fourth to seventh semesters, with assessments similar to the standard KARMA criteria.
-- Model 3 integrates school education with higher education to skill students, acknowledging that education needs to shift from being corrective to connective and from transactional to relational.
-- To establish this connection, AICTE suggests that higher education institutions start offering skill-based training for nearby school students once a week using a hub-and-spoke model.
+The AICTE has proposed three models for the skilling of in-school students, school dropouts, and students pursuing technical education. Model 1 targets school dropouts after they have passed class ten, including both recent and long-term dropouts. Model 2 targets advanced-level skilling for students already studying in AICTE-approved technical institutions. It introduces a skill up-gradation program for present technical students to make them industry-ready by offering advanced skilling courses during their fourth to seventh semesters, with assessments similar to the standard KARMA criteria. Model 3 integrates school education with higher education to skill students, acknowledging that education needs to shift from being corrective to connective and from transactional to relational. To establish this connection, AICTE suggests that higher education institutions start offering skill-based training for nearby school students once a week using a hub-and-spoke model.
 
 ## 3. College Implementation and Approvals
-- Mohamed Sathak A.J. College of Engineering has been approved by AICTE to conduct courses under the KARMA initiative.
-- Under Model 1, the institute was approved to conduct two courses, each with an approved intake of thirty students.
-- These courses are Computer Hardware Network Maintenance and Refrigeration and Air Conditioning Technician.
-- The official approval letter for Model 1 can be accessed via the AICTE facilities portal.
-- Under Model 2, **MSAJCE** was approved to conduct five courses.
-- These include the AI and Machine Learning Developer course, Refrigeration and Air Conditioning Technician, Additive Manufacturing Technician focusing on 3D printing, a Certificate Course in Embedded System Design using ARM Cortex Microcontrollers, and Architectural Drafting and Basic 3D Design using Autodesk Revit.
-- The institute has registered these five courses, and they are currently in progress.
-- The official approval letter for Model 2, as well as the detailed course registration information, are also publicly accessible through the AICTE facilities portal.
-
-### Sample Questions:
-- ◆ What is the KARMA initiative by AICTE?
-- ◆ Which courses does **MSAJCE** offer under KARMA Model 1?
-- ◆ What is the purpose of KARMA Model 2?
-
-## Related Notes
-[[msajce_curriculum]]
-[[msajce_placement]]
-[[msajce_clubssocieties]]
+Mohamed Sathak A.J. College of Engineering has been approved by AICTE to conduct courses under the KARMA initiative. Under Model 1, the institute was approved to conduct two courses, each with an approved intake of thirty students. These courses are Computer Hardware Network Maintenance and Refrigeration and Air Conditioning Technician. The official approval letter for Model 1 can be accessed via the AICTE facilities portal. Under Model 2, **MSAJCE** was approved to conduct five courses. These include the AI and Machine Learning Developer course, Refrigeration and Air Conditioning Technician, Additive Manufacturing Technician focusing on 3D printing, a Certificate Course in Embedded System Design using ARM Cortex Microcontrollers, and Architectural Drafting and Basic 3D Design using Autodesk Revit. The institute has registered these five courses, and they are currently in progress. The official approval letter for Model 2, as well as the detailed course registration information, are also publicly accessible through the AICTE facilities portal.
