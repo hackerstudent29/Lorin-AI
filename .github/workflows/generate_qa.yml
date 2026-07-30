@@ -43,5 +43,7 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "chore: auto-generate Q&A datasets from markdown files"
-            git push
+            git fetch origin ${{ github.ref_name }}
+            git rebase origin/${{ github.ref_name }}
+            git push origin HEAD:${{ github.ref_name }}
           fi

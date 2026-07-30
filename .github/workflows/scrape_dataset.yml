@@ -39,6 +39,13 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add backend/dataset/
-          # If there are no changes, this will silently do nothing instead of failing
-          git commit -m "Auto-generated RAG dataset updates from web scraper" || echo "No changes to commit"
-          git push
+          
+          # Only commit and push if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-generated RAG dataset updates from web scraper"
+            git fetch origin ${{ github.ref_name }}
+            git rebase origin/${{ github.ref_name }}
+            git push origin HEAD:${{ github.ref_name }}
+          fi
