@@ -5,6 +5,7 @@ Uses Levenshtein edit distance against known MSAJCE vocabulary.
 import pickle, re, time, logging
 from pathlib import Path
 from collections import defaultdict, Counter
+from pipeline.english_words import COMMON_ENGLISH_WORDS
 
 logger = logging.getLogger(__name__)
 
@@ -74,6 +75,9 @@ class SpellCorrector:
         for word in self.STATIC_VOCAB:
             self._vocab.setdefault(word, 999)
 
+        for word in COMMON_ENGLISH_WORDS:
+            self._vocab.setdefault(word, 999)
+
         # Build two-char prefix + length index for O(1) candidate lookup
         # Structure: {(first2chars, length): [word, ...]}
         self._prefix_len_index: dict = defaultdict(list)
@@ -96,7 +100,7 @@ class SpellCorrector:
 
     @staticmethod
     def _is_skip_token(token: str) -> bool:
-        if re.fullmatch(r"\d+", token):
+        if any(char.isdigit() for char in token):
             return True
         if re.match(r"https?://|www\.", token):
             return True
