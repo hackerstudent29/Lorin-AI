@@ -509,7 +509,7 @@ def get_recent_history(session_id: str, max_turns: int = 4) -> list:
             # Smart-truncate long assistant answers to save tokens
             if role == "assistant" and len(content) > 500:
                 content = content[:250].strip() + " ... " + content[-150:].strip()
-            turns.append({"role": role, "content": content.replace("\n", " ")})
+            turns.append({"role": role, "content": content})
             if len(turns) >= max_turns * 2:
                 break
         return list(reversed(turns))  # oldest first
@@ -533,7 +533,7 @@ def generate_answer(user_query: str, context_blocks: list, session_id: str = "")
 
 RULES:
 1. Answer directly and concisely using facts from SOURCES. State the main key answer (e.g. intake count, fee amount, exact date, link, or location) clearly upfront.
-2. For multi-item lists, routes, or full course catalogs: follow the direct answer with a complete markdown table.
+2. For multi-item lists, routes, or full course catalogs: follow the direct answer with a complete markdown table. CRITICAL: Always use standard markdown table format and ensure each row (including headers, separators, and data lines) ends with a literal newline (\n). Never output a table on a single line or with spaces replacing the newlines.
 3. Never cite internal source file labels, page numbers, or raw snippet markers in the answer text.
 4. CRITICAL — Numbers & figures: Only state a number (salary, intake, cutoff, fee) if it is LITERALLY written in the SOURCES below. Never infer or estimate.
 5. Salary ranges from domain/career sections (e.g. "industry average Rs. 25 LPA") are NOT placement package facts — never present them as MSAJCE placement data.
@@ -547,6 +547,7 @@ RULES:
     - If a college bus route stops at or near that place, state the College Bus Route number, departure time, and driver contact info.
     - Mention MTC (public state transport) buses (such as 102, 105, 570, 221H, B19) only as secondary/alternative options.
     - NEVER suggest MTC state transport as the primary option if a college bus route is available for that location.
+12. STRICT GROUNDING ON STOPS & LOCATIONS: Never assume, infer, or hallucinate that a bus route passes through a location or stop unless that location/stop is EXPLICITLY listed in the SOURCES for that specific route. For example, if a route lists 'Adyar at 7:00 AM', do not claim it passes through 'Velachery' at 7:00 AM. Only mention routes that explicitly contain the user's requested stop/location in their route description in the SOURCES.
 
 
 
@@ -594,7 +595,7 @@ def generate_answer_stream(user_query: str, context_blocks: list):
 
 RULES:
 1. Answer directly and concisely using facts from SOURCES. State the main key answer (e.g. intake count, fee amount, exact date, link, or location) clearly upfront.
-2. For multi-item lists, routes, or full course catalogs: follow the direct answer with a complete markdown table.
+2. For multi-item lists, routes, or full course catalogs: follow the direct answer with a complete markdown table. CRITICAL: Always use standard markdown table format and ensure each row (including headers, separators, and data lines) ends with a literal newline (\n). Never output a table on a single line or with spaces replacing the newlines.
 3. Never cite internal source file labels, page numbers, or raw snippet markers in the answer text.
 4. CRITICAL — Numbers & figures: Only state a number (salary, intake, cutoff, fee) if it is LITERALLY written in the SOURCES below. Never infer or estimate.
 5. Salary ranges from domain/career sections (e.g. "industry average Rs. 25 LPA") are NOT placement package facts — never present them as MSAJCE placement data.
@@ -608,6 +609,7 @@ RULES:
     - If a college bus route stops at or near that place, state the College Bus Route number, departure time, and driver contact info.
     - Mention MTC (public state transport) buses (such as 102, 105, 570, 221H, B19) only as secondary/alternative options.
     - NEVER suggest MTC state transport as the primary option if a college bus route is available for that location.
+12. STRICT GROUNDING ON STOPS & LOCATIONS: Never assume, infer, or hallucinate that a bus route passes through a location or stop unless that location/stop is EXPLICITLY listed in the SOURCES for that specific route. For example, if a route lists 'Adyar at 7:00 AM', do not claim it passes through 'Velachery' at 7:00 AM. Only mention routes that explicitly contain the user's requested stop/location in their route description in the SOURCES.
 
 
 
@@ -1115,11 +1117,31 @@ def chat_endpoint(req: ChatRequest, request: Request):
     save_message(req.session_id, "user", user_query, {
         "corrected_query": corrected_query if corrected_query != user_query else None,
     })
-    rewritten_query, was_rewritten = query_rewriter.rewrite(corrected_query, req.session_id)
-    active_query = rewritten_query if was_rewritten else corrected_query
+
+    # Fetch simple history check to decide whether to rewrite (Req 6)
+    history_msgs = get_recent_history(req.session_id, max_turns=1) if req.session_id else []
+    has_history = len(history_msgs) > 0
+
+    active_query = corrected_query
+    was_rewritten = False
+    prep = None
+
+    if has_history:
+        import concurrent.futures
+        with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
+            fut_rewrite = executor.submit(query_rewriter.rewrite, corrected_query, req.session_id)
+            fut_prep = executor.submit(preprocess_query, corrected_query)
+            
+            rewritten_query, was_rewritten = fut_rewrite.result()
+            prep = fut_prep.result()
+            
+        if was_rewritten:
+            active_query = rewritten_query
+            prep["keywords"] = active_query
+    else:
+        prep = preprocess_query(corrected_query)
 
     # ── Step 2: Intent + keyword expansion on active_query ──────────────────────
-    prep      = preprocess_query(active_query)
     intent    = prep.get("intent", "college_query")
     keywords  = prep.get("keywords") or active_query
     # Strip honorifics: sir, maam, mam, mr, mrs, dr from keywords
@@ -1217,7 +1239,7 @@ def chat_endpoint(req: ChatRequest, request: Request):
     is_transport_q = any(k in active_query.lower() for k in transport_keywords)
     if is_transport_q:
         category = None
-        keywords = f"{keywords} college bus route transport timings stops AR3 AR4 AR5 AR6 AR7 AR8 AR9 AR10 R22 MTC N/3"
+        keywords = f"{keywords} college bus route transport timings stops"
 
     # Entity Resolution (Req 2.9)
     # If the user is asking about a person, attempt to resolve them to an entity_id
@@ -1235,6 +1257,7 @@ def chat_endpoint(req: ChatRequest, request: Request):
         if hybrid_retriever is None:
             raise RuntimeError("HybridRetriever not initialised")
         candidates = hybrid_retriever.retrieve(retrieval_query, keywords, category, entity_id)
+        candidates = [c for c in candidates if c.get("payload", {}).get("source_file") != "msajce_all_resource_links.md"]
         passages   = [c["text"] for c in candidates]
         payloads   = [c["payload"] for c in candidates]
     except Exception as e:
@@ -1246,6 +1269,7 @@ def chat_endpoint(req: ChatRequest, request: Request):
                 hits = r.points
             else:
                 hits = qdrant_client.search(collection_name=COLLECTION_NAME, query_vector=q_vec, limit=25)
+            hits = [h for h in hits if h.payload.get("source_file") != "msajce_all_resource_links.md"]
             passages = [h.payload.get("text","") for h in hits]
             payloads = [h.payload for h in hits]
             candidates = [{"text": p, "payload": pl} for p, pl in zip(passages, payloads)]

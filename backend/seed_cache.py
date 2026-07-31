@@ -81,7 +81,7 @@ The fee varies slightly depending on whether the specific course is NBA accredit
 
 Our Training and Placement Cell ensures high employability for students through rigorous training and industry partnerships.
 
-*   **Placement Percentage:** 92% of students placed consistently over the last 3 years.
+*   **Placement Percentage:** Average placement rate of 90% for outgoing students.
 *   **Top Recruiters:** TCS, Infosys, Wipro, CTS (Cognizant), Hexaware, L&T, IBM, Sutherland, and more.
 *   **Industry Collaborations:** MoUs signed with various tech companies to provide internships and in-plant training.
 
@@ -93,17 +93,16 @@ The cell conducts extensive soft-skills, aptitude, and technical training from t
         "query": "What are the hostel facilities, room capacity, mess, and rules for the Boys Hostel at MSAJCE?",
         "answer": """**Boys Hostel Facilities at MSAJCE**
 
-The Boys Hostel provides a comfortable and secure living environment on campus.
+The Boys Hostel is located inside the campus, providing a comfortable, secure, and serene living environment.
 
-*   **Accommodation:** Well-ventilated and spacious rooms (shared occupancy).
-*   **Mess Facilities:** Hygienic, wholesome, and nutritious vegetarian and non-vegetarian food is served.
-*   **Amenities:**
-    *   24/7 RO purified drinking water.
-    *   Uninterrupted power supply with generator backup.
-    *   Recreation hall with TV and indoor games.
-    *   High-speed Wi-Fi connectivity.
-*   **Security:** Round-the-clock security personnel and CCTV surveillance. 
-*   **Medical Care:** A doctor is available on call for medical emergencies.
+*   **Accommodation & Capacity:** 3 blocks accommodating up to 480 boy students. There are 233 Non-AC rooms and 6 AC rooms, with 2 persons accommodated per room.
+*   **Room Amenities:** Well furnished with modern amenities including cot, mattress with pillows, bedspreads, individual cupboards, study table-chair with lamp, fan, water heater, and wall hangers.
+*   **Facilities:**
+    *   Hygienic canteen/dining within the premises serving vegetarian and non-vegetarian meals.
+    *   Entertainment hall with LCD-TV, TV hall, and indoor game facilities.
+    *   Reading room with newspapers and magazines.
+    *   Land-line telephone and high-speed Wi-Fi internet access.
+    *   Main Library and Computer Centre open till 7:00 PM for hostellers.
 """,
         "citations": [{"source": "Hostel Facilities", "page": "1", "section": "Boys Hostel"}]
     },
@@ -111,17 +110,17 @@ The Boys Hostel provides a comfortable and secure living environment on campus.
         "query": "What are the hostel facilities, room capacity, and details for the Girls Hostel at MSAJCE?",
         "answer": """**Girls Hostel Facilities at MSAJCE**
 
-The Girls Hostel is located within the campus, designed specifically for safety, comfort, and academic focus.
+The MSAJCE Girls Hostel is situated at Sholinganallur, which is 5 KM away from the campus. It is located in a main posh area with high safety and security.
 
-*   **Accommodation:** Furnished, spacious, and well-ventilated sharing rooms.
-*   **Safety & Security:** Highly secure environment with 24/7 female wardens, security guards, and CCTV surveillance.
-*   **Mess Facilities:** Quality, hygienic vegetarian and non-vegetarian meals prepared in a modern kitchen.
-*   **Amenities:**
-    *   RO drinking water on all floors.
-    *   Uninterrupted power supply.
-    *   Wi-Fi access for academic purposes.
-    *   Common room with TV and reading materials.
-*   **Medical Care:** First-aid facilities and a doctor-on-call are always available.
+*   **Accommodation & Capacity:** 1 block containing 71 Non-AC rooms, accommodating 3 girl students per room, with a total capacity of 210 girl students.
+*   **Room Amenities:** Well-furnished with cot, mattress with pillows, bedspreads, individual cupboards, study table-chair with lamp, and wall hangers. Each room has bath/toilet facilities, wash basin, and mirror.
+*   **Facilities:**
+    *   Quality, hygienic vegetarian and non-vegetarian meals served in a spacious mess hall with separate seating.
+    *   Entertainment hall with LCD-TV, TV hall, and indoor game facilities.
+    *   Reading room with newspapers and magazines.
+    *   RO drinking water on all floors and uninterrupted power supply.
+    *   Land-line telephone and high-speed Wi-Fi internet access.
+    *   Library and computer facilities available till 9:00 PM for hostellers.
 """,
         "citations": [{"source": "Hostel Facilities", "page": "1", "section": "Girls Hostel"}]
     },
@@ -129,12 +128,12 @@ The Girls Hostel is located within the campus, designed specifically for safety,
         "query": "Give an overview of college bus routes, route numbers, boarding points, and timings at MSAJCE.",
         "answer": """**College Transport & Bus Routes**
 
-MSAJCE operates a fleet of over **35 buses** to ensure safe and comfortable commuting for students and staff from various parts of Chennai and its suburbs.
+MSAJCE provides transportation for students and staff residing in and around Chennai. The Institute has a fleet of 22 buses, one Tata ACE, and one Ambulance.
 
-*   **Coverage:** Buses cover almost all major routes across Chennai, Kancheepuram, Chengalpattu, and Tiruvallur districts.
-*   **Timings:** Buses arrive at the campus by 8:30 AM and depart at 3:45 PM.
-*   **Safety:** All buses are operated by experienced drivers and monitored by transport coordinators.
-*   **Route Details:** Detailed route numbers and boarding points are updated every semester. Please contact the Transport Office at the campus for your specific boarding point and time.
+*   **Coverage:** Buses cover various routes across Chennai, Chengalpattu, Kanchipuram, and Tiruvallur districts.
+*   **Timings:** All buses arrive at the MSAJCE campus at 8:00 AM. Earliest departure starts at 5:25 AM (Route AR 7 from Chunambedu) and latest at 6:25 AM (Route AR 10 from Porur).
+*   **Safety & Coordination:** Buses are operated by experienced drivers, and smooth operation is managed by a dedicated transport committee headed by the Transport Convener Dr. K. P. Santhosh Nathan.
+*   **Other Uses:** The transport facilities are also utilized for social service activities, Sports, NCC/NSS activities, Placement and Training activities, industrial visits, and educational trips.
 """,
         "citations": [{"source": "Transport Policy", "page": "1", "section": "Transport"}]
     },
@@ -163,17 +162,19 @@ Over 1000+ high-end computers connected via optical fiber network with 100 Mbps 
         "query": "What scholarships are available for students at MSAJCE?",
         "answer": """**Scholarships at MSAJCE**
 
-The college and the management facilitate various scholarships to support deserving and meritorious students.
+The college and the management facilitate various scholarships to support deserving and meritorious students:
 
 **1. Government Scholarships**
-*   **First Generation Graduate Scholarship:** Tuition fee waiver for first-generation graduates admitted through TNEA.
-*   **Post Matric Scholarship (SC/ST/SCA):** For SC/ST students with family income below Rs. 2.5 Lakhs.
-*   **BC/MBC/DNC Scholarship:** State government scholarship for eligible students.
-*   **7.5% Government School Quota:** Full fee waiver (tuition, hostel, transport) for students who studied in Govt schools from 6th to 12th standard.
-*   **Moovalur Ramamirtham Ammaiyar Scheme (Pudhumai Penn):** Rs. 1000/month for female students who studied in Govt schools (6th-12th).
+*   **Pragati Scholarship Scheme for Girl Students (AICTE):** Rs. 50,000 per year (for up to 2 girl children per family with family income < 8 Lakhs).
+*   **Saksham Scholarship Scheme for Specially Abled Students (AICTE):** Rs. 50,000 per year (for students with disability >= 40% and family income < 8 Lakhs).
+*   **Merit-cum-Means Scholarship (Ministry of Minority Affairs):** Rs. 20,000 per year (+ Rs. 12,000 for hostellers / Rs. 6,000 for day scholars) for minority community students with >= 50% marks and income < 2.5 Lakhs.
+*   **Central Sector Scheme (MHRD):** Rs. 10,000 per year for students with >= 80% marks and income < 8 Lakhs.
+*   **Financial Assistance for Beedi, Mine, and Cine Workers (Ministry of Labour & Employment):** Rs. 15,000 per year for wards of workers with family income < Rs. 10,000/month.
 
-**2. Management Scholarships**
-The Mohamed Sathak Trust provides merit scholarships and financial assistance to economically weaker students.
+**2. Management & Trust Scholarships**
+*   **Mohamed Sathak Educational Trust Scholarship:** Merit scholarship provided throughout the course of study for students joining MSAJCE with a TNEA cutoff of 180/200 and above (requires approval before counseling).
+*   **Financial Assistance:** Provided to students from underprivileged backgrounds based on income certificate validation.
+*   **Special Consideration for Girls:** Up to 10% tuition fee waiver for female students.
 """,
         "citations": [{"source": "Scholarship Policy", "page": "1", "section": "Scholarships"}]
     },

@@ -61,6 +61,8 @@ class QueryRewriter:
             return user_message, False
 
         history = self._get_history(session_id)
+        if not history:
+            return user_message, False
 
         history_str = ""
         for msg in history:
