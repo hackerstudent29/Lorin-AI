@@ -1,0 +1,90 @@
+[
+  {
+    "question": "When was the Mohamed Sathak A.J. College of Engineering (MSAJCE) established?",
+    "answer": "The Mohamed Sathak A.J. College of Engineering (MSAJCE) was established on 5th July 2001.",
+    "format": "factoid",
+    "section": "**MSAJCE** — About & 1. Overview & 2. Why Join **MSAJCE**",
+    "source_file": "msajce_about.md",
+    "category": "About MSAJCE"
+  },
+  {
+    "question": "Who is the affiliating university of MSAJCE?",
+    "answer": "MSAJCE is affiliated to Anna University Chennai and the Government of Tamil Nadu.",
+    "format": "factoid",
+    "section": "**MSAJCE** — About & 1. Overview & 2. Why Join **MSAJCE**",
+    "source_file": "msajce_about.md",
+    "category": "About MSAJCE"
+  },
+  {
+    "question": "What is the campus area of MSAJCE?",
+    "answer": "The MSAJCE campus sprawls over 70 acres of greenery located inside the SIPCOT IT Park in Siruseri.",
+    "format": "factoid",
+    "section": "**MSAJCE** — About & 1. Overview & 2. Why Join **MSAJCE**",
+    "source_file": "msajce_about.md",
+    "category": "About MSAJCE"
+  },
+  {
+    "question": "What are the infrastructure facilities available at MSAJCE?",
+    "answer": "MSAJCE has good infrastructure facilities such as spacious classrooms, drawing halls, laboratories, seminar halls, computer facilities with internet and wifi connectivity, a library, workshops, an auditorium, and a playground.",
+    "format": "factoid",
+    "section": "**MSAJCE** — About & 1. Overview & 2. Why Join **MSAJCE**",
+    "source_file": "msajce_about.md",
+    "category": "About MSAJCE"
+  },
+  {
+    "question": "Why should I join MSAJCE?",
+    "answer": "MSAJCE is located in a green, lush environment at the Siruseri IT Park, surrounded by over a hundred leading IT industries like TCS, CTS, Infosys, Intellect, FSS, and HCL. It offers state-of-the-art facilities with industry-collaborative technology centers.",
+    "format": "exploratory",
+    "section": "**MSAJCE** — About & 1. Overview & 2. Why Join **MSAJCE**",
+    "source_file": "msajce_about.md",
+    "category": "About MSAJCE"
+  },
+  {
+    "question": "What kind of training does MSAJCE provide to its students?",
+    "answer": "MSAJCE provides all kinds of training for the professional and overall transformation of the students, including internships, industrial visits, guest lectures, and seminars or webinars by industrial experts.",
+    "format": "factoid",
+    "section": "**MSAJCE** — About & 1. Overview & 2. Why Join **MSAJCE**",
+    "source_file": "msajce_about.md",
+    "category": "About MSAJCE"
+  },
+  {
+    "question": "Does MSAJCE have a student exchange program?",
+    "answer": "Yes, MSAJCE provides a student exchange program for cultural learning.",
+    "format": "yes_no",
+    "section": "**MSAJCE** — About & 1. Overview & 2. Why Join **MSAJCE**",
+    "source_file": "msajce_about.md",
+    "category": "About MSAJCE"
+  },
+  {
+    "question": "What kind of language training does MSAJCE offer?",
+    "answer": "MSAJCE features a communication language learning facility that offers training in English, German, and Japanese.",
+    "format": "factoid",
+    "section": "**MSAJCE** — About & 1. Overview & 2. Why Join **MSAJCE**",
+    "source_file": "msajce_about.md",
+    "category": "About MSAJCE"
+  },
+  {
+    "question": "What is the placement record of MSAJCE?",
+    "answer": "MSAJCE boasts a good placement record and provides robust support for higher education, helping students to become successful entrepreneurs.",
+    "format": "factoid",
+    "section": "**MSAJCE** — About & 1. Overview & 2. Why Join **MSAJCE**",
+    "source_file": "msajce_about.md",
+    "category": "About MSAJCE"
+  },
+  {
+    "question": "Is MSAJCE connected by road, rail, and air?",
+    "answer": "Yes, MSAJCE is well connected by road, rail, and air from various parts of the country.",
+    "format": "yes_no",
+    "section": "**MSAJCE** — About & 1. Overview & 2. Why Join **MSAJCE**",
+    "source_file": "msajce_about.md",
+    "category": "About MSAJCE"
+  },
+  {
+    "question": "What kind of projects do students at MSAJCE participate in?",
+    "answer": "Students at MSAJCE are involved in various research and industrial projects, industrial hackathons, and project competitions that help them gain competency-based learning.",
+    "format": "factoid",
+    "section": "**MSAJCE** — About & 1. Overview & 2. Why Join **MSAJCE**",
+    "source_file": "msajce_about.md",
+    "category": "About MSAJCE"
+  }
+]

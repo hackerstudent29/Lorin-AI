@@ -1,0 +1,442 @@
+[
+  {
+    "question": "What is the name of the Fine Arts Club at Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The Fine Arts Club is also known as Artful Aesthetics.",
+    "format": "factoid",
+    "section": "2. FINE ARTS CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the primary objective of the Fine Arts Club?",
+    "answer": "The primary objective of the Fine Arts Club is to encourage the budding talent of students.",
+    "format": "factoid",
+    "section": "2. FINE ARTS CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "Who serves as the Staff Co-ordinator of the Fine Arts Club?",
+    "answer": "S. Viswajaa, Assistant Professor in the IT department, serves as the Staff Co-ordinator of the Fine Arts Club.",
+    "format": "factoid",
+    "section": "2. FINE ARTS CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the motto of the Fine Arts Club?",
+    "answer": "The motto of the Fine Arts Club aims to inspire and empower students to actively participate in and develop their talents and skills in various art forms.",
+    "format": "factoid",
+    "section": "2. FINE ARTS CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "Who are the Student President and Vice-President of the Fine Arts Club?",
+    "answer": "The Student President is Kishore, a fourth-year Mechanical student, and the Vice-President is Laksha, a third-year Computer Science and Engineering student.",
+    "format": "factoid",
+    "section": "2. FINE ARTS CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the vision of the Fine Arts Club?",
+    "answer": "The vision of the Fine Arts Club is to foster an environment where students can express their thoughts, feelings, and creativity through various visual art forms.",
+    "format": "factoid",
+    "section": "2. FINE ARTS CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What types of art forms does the Fine Arts Club cater to?",
+    "answer": "The Fine Arts Club caters to various art forms, including dance, art, singing, music, and acting.",
+    "format": "factoid",
+    "section": "2. FINE ARTS CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the role of the Fine Arts Club in the college?",
+    "answer": "The Fine Arts Club provides a platform for students to express themselves, build confidence, and improve their imagination skills in entertainment.",
+    "format": "exploratory",
+    "section": "2. FINE ARTS CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the composition of the ENVISTA CLUB at Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The ENVISTA CLUB comprises 10 clubs, including the Fine Arts Club.",
+    "format": "factoid",
+    "section": "2. FINE ARTS CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the primary aim of the Sports Club at Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The primary aim of the Sports Club is to build up sportsmanship among students, while also fostering intimate friendships that can last a lifetime.",
+    "format": "exploratory",
+    "section": "CLUBSSOCIETIES & 1. SPORTS CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the vision of the Sports Club at Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The vision of the Sports Club is to encourage and motivate students to participate in various sports activities at both inter and intra college levels.",
+    "format": "exploratory",
+    "section": "CLUBSSOCIETIES & 1. SPORTS CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What types of outdoor games are organized by the Sports Club at Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The Sports Club organizes outdoor games like Cricket, Football, Volleyball, Basketball, and Rugby on MSASJCE grounds.",
+    "format": "factoid",
+    "section": "CLUBSSOCIETIES & 1. SPORTS CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What types of indoor games are available for students at the Sports Club at Mohamed Sathak A.J. College of Engineering?",
+    "answer": "Students have access to facilities for Carrom, Table tennis, and Chess.",
+    "format": "factoid",
+    "section": "CLUBSSOCIETIES & 1. SPORTS CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is one of the key responsibilities of the Sports Club at Mohamed Sathak A.J. College of Engineering?",
+    "answer": "One of the key responsibilities of the club is to submit an annual report on sports events, budget allocations, and expenditures during the year.",
+    "format": "factoid",
+    "section": "CLUBSSOCIETIES & 1. SPORTS CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What are the benefits of participating in sports events organized by the Sports Club at Mohamed Sathak A.J. College of Engineering?",
+    "answer": "By participating in sports events, students get opportunities to closely observe the community and gain experience of human nature in relation to their environment.",
+    "format": "exploratory",
+    "section": "CLUBSSOCIETIES & 1. SPORTS CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What types of trophies and medals are awarded to students by the Sports Club at Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The club rewards students' achievements with trophies and medals.",
+    "format": "factoid",
+    "section": "CLUBSSOCIETIES & 1. SPORTS CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the objective of the Sports Club at Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The club's multifaceted objective encompasses various aspects of personal growth and development, including building up sportsmanship, fostering friendships, reducing stress, improving health, enhancing skills and employability, and developing a positive attitude, self-confidence, courage, and patience.",
+    "format": "exploratory",
+    "section": "CLUBSSOCIETIES & 1. SPORTS CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the primary objective of the Science Club at Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The primary objective of the Science Club is to invite renowned scientists to share their experiences and inspire students to acquire scientific knowledge.",
+    "format": "factoid",
+    "section": "3. SCIENCE CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What are the three distinct sections of the Science Club?",
+    "answer": "The three distinct sections of the Science Club are Physics, Chemistry, and General.",
+    "format": "factoid",
+    "section": "3. SCIENCE CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What are some of the activities organized by the Science Club?",
+    "answer": "The Science Club organizes activities such as experiments in making electronic components, invisible ink, electroplating, biodiesels, fire writing, and creating venation of leaves.",
+    "format": "factoid",
+    "section": "3. SCIENCE CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the purpose of displaying the latest news and day-to-day information about science on the notice board?",
+    "answer": "The purpose is to keep students informed and ensure that all engineers have access to the latest updates and developments in the scientific world.",
+    "format": "factoid",
+    "section": "3. SCIENCE CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What are the five key objectives of the Science Club?",
+    "answer": "Unfortunately, the text does not explicitly mention the five key objectives, but it does mention that the club operates under a set of guiding principles that serve as a foundation for developing engaging activities.",
+    "format": "factoid",
+    "section": "3. SCIENCE CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the Investigator program, and what does it provide to students?",
+    "answer": "The Investigator program provides students with the opportunity to tackle real-world, science-based problems within a given scenario, allowing them to work independently or in pairs/small groups, engaging in hands-on science experiments and activities that foster critical thinking and discussion about scientific concepts.",
+    "format": "factoid",
+    "section": "3. SCIENCE CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What activities does the Science Club organize to stimulate students' interest in science?",
+    "answer": "The Science Club organizes seminars, workshops, exhibitions, and quiz competitions to stimulate students' interest in science.",
+    "format": "factoid",
+    "section": "3. SCIENCE CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "How does the Science Club promote the use of information technology in learning science?",
+    "answer": "The Science Club recognizes the importance of digital tools in modern scientific inquiry and encourages active participation in Science Club activities to engage with peers and develop a sense of community and collaboration.",
+    "format": "factoid",
+    "section": "3. SCIENCE CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the Science Club's approach to creating a visually engaging learning environment?",
+    "answer": "The Science Club encourages students to decorate the walls of classrooms, libraries, and laboratories with scientific pictures and charts prepared by the students themselves.",
+    "format": "factoid",
+    "section": "3. SCIENCE CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the primary objective of the Tamil Mandram?",
+    "answer": "The primary objective of the Tamil Mandram is to bring about a transformation in the younger generation of Tamils, as well as in society at large, to ensure the continued relevance and importance of Tamil.",
+    "format": "factoid",
+    "section": "4. தமிழ் மன்றம் & 5. CONDING CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What are some of the notable events organized by the Tamil Mandram?",
+    "answer": "Some of the notable events organized by the Tamil Mandram include 'Irumugam Oru Agam,' 'Pesum Padam,' 'Aadu Puli,' 'Kaivanna Kaviyam,' 'Dentkottai,' 'Vidukathai Vilayattu,' 'Prasangathin Thalaivan,' and 'Tamil Korvai.'",
+    "format": "factoid",
+    "section": "4. தமிழ் மன்றம் & 5. CONDING CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What are the goals of the Tamil Mandram?",
+    "answer": "The Tamil Mandram aims to achieve several goals, including fostering a love for Tamil among students, promoting knowledge of the language, and encouraging its use in everyday life.",
+    "format": "factoid",
+    "section": "4. தமிழ் மன்றம் & 5. CONDING CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the mission of the Tamil Mandram?",
+    "answer": "Our mission is to rekindle the full potential of young Tamils and to instill in them a sense of pride and responsibility towards their mother tongue.",
+    "format": "factoid",
+    "section": "4. தமிழ் மன்றம் & 5. CONDING CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What are the activities organized by the Tamil Mandram?",
+    "answer": "The Tamil Mandram organizes various events and activities, including cultural programs, competitions, and seminars, which are designed to engage students and promote their interest in the language.",
+    "format": "factoid",
+    "section": "4. தமிழ் மன்றம் & 5. CONDING CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the purpose of the Coding Club at Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The Coding Club aims to promote coding skills among students through a range of activities.",
+    "format": "factoid",
+    "section": "4. தமிழ் மன்றம் & 5. CONDING CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What are the goals of the Coding Club?",
+    "answer": "The club plans to organize more coding contests to reach out to all students on campus, providing them with opportunities to develop their coding skills.",
+    "format": "factoid",
+    "section": "4. தமிழ் மன்றம் & 5. CONDING CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What are the activities conducted by the Coding Club?",
+    "answer": "The club conducts workshops on various computer science topics such as web development, application development, machine learning, and IoT, among others.",
+    "format": "factoid",
+    "section": "4. தமிழ் மன்றம் & 5. CONDING CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What are the online coding events that the Coding Club encourages its members to participate in?",
+    "answer": "The club encourages its members to participate in online coding events such as ACM-ICPC, Google Code Jam, and Google Summer of Code.",
+    "format": "factoid",
+    "section": "4. தமிழ் மன்றம் & 5. CONDING CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "How does the Coding Club identify new members?",
+    "answer": "The club holds a college-wide coding competition that emphasizes reasoning, analysis, and problem-solving abilities in addition to coding skills.",
+    "format": "factoid",
+    "section": "4. தமிழ் மன்றம் & 5. CONDING CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the purpose of the college-wide coding competition?",
+    "answer": "The purpose of the college-wide coding competition is to identify new members who are enthusiastic about coding.",
+    "format": "factoid",
+    "section": "4. தமிழ் மன்றம் & 5. CONDING CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "How often does the Coding Club meet?",
+    "answer": "The club meets once a week to discuss and work on various initiatives.",
+    "format": "factoid",
+    "section": "4. தமிழ் மன்றம் & 5. CONDING CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What are the benefits of being a member of the Coding Club?",
+    "answer": "Through the club, members have opportunities to learn and grow, participate in workshops and technical discussions, and gain experience in coding and problem-solving.",
+    "format": "exploratory",
+    "section": "4. தமிழ் மன்றம் & 5. CONDING CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the primary aim of the Robotics Club?",
+    "answer": "The primary aim of the Robotics Club is to instill in its members the habit of 'thinking technologically,' enabling them to approach problems and challenges with a technological mindset.",
+    "format": "factoid",
+    "section": "6. ROBOTIC CLUB & 7. ENERGY & ECO CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What are the objectives of the Robotics Club?",
+    "answer": "The club has set several objectives, including encouraging young people to become the driving force behind the robotics industry, and providing students with the opportunity to creatively apply information and observe how systems interact with their environment and each other.",
+    "format": "factoid",
+    "section": "6. ROBOTIC CLUB & 7. ENERGY & ECO CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What activities does the Robotics Club offer?",
+    "answer": "The club's activities include initiatives focused on robotics education, brief training sessions, and a workshop on robotics basics, all of which are designed to provide students with a comprehensive understanding of robotics and its applications.",
+    "format": "factoid",
+    "section": "6. ROBOTIC CLUB & 7. ENERGY & ECO CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the main goal of the Robotics Club's activities?",
+    "answer": "The club's activities are designed to equip students with the professional engineering skills that will benefit them in their future careers.",
+    "format": "factoid",
+    "section": "6. ROBOTIC CLUB & 7. ENERGY & ECO CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the purpose of the Energy Club?",
+    "answer": "The Energy Club plays a vital role in promoting responsible and sustainable energy use among students, emphasizing the importance of resource management and conservation.",
+    "format": "factoid",
+    "section": "6. ROBOTIC CLUB & 7. ENERGY & ECO CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the main focus of the Energy Club's initiatives?",
+    "answer": "The Energy Club introduces students to the concept of energy conservation, highlighting its necessity and encouraging them to take an active part in ensuring its implementation.",
+    "format": "factoid",
+    "section": "6. ROBOTIC CLUB & 7. ENERGY & ECO CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the approach of the Eco Club?",
+    "answer": "The Eco Club takes a holistic approach to environmental conservation, believing that nature itself teaches valuable lessons about the importance of preserving environmental health.",
+    "format": "factoid",
+    "section": "6. ROBOTIC CLUB & 7. ENERGY & ECO CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the role of the Eco Club in environmental conservation?",
+    "answer": "The Eco Club encourages young minds to take responsibility for protecting the environment and to work collectively towards preventing degradation.",
+    "format": "factoid",
+    "section": "6. ROBOTIC CLUB & 7. ENERGY & ECO CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the purpose of the Photography Club at Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The Photography Club serves as a vibrant platform for students and staff to explore and appreciate their surroundings through the lens of a camera, as well as through short filmmaking and screenwriting.",
+    "format": "exploratory",
+    "section": "8. PHOTOGRAPHY CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What skills can students develop through the Photography Club?",
+    "answer": "Students can delve into the intricacies of photography, from composition to editing, and develop their skills in the process.",
+    "format": "exploratory",
+    "section": "8. PHOTOGRAPHY CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What opportunities does the Photography Club provide for students?",
+    "answer": "The club provides opportunities for students to hone their talents by capturing images of sporting events and activities relevant to the school.",
+    "format": "exploratory",
+    "section": "8. PHOTOGRAPHY CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What kind of software does the Photography Club use for editing and enhancing photographs?",
+    "answer": "The club uses cutting-edge software to edit and enhance photographs.",
+    "format": "factoid",
+    "section": "8. PHOTOGRAPHY CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "Is the Photography Club open to individuals of all expertise levels?",
+    "answer": "Yes, the club welcomes and encourages individuals of all expertise levels to explore this fascinating aspect of the visual arts.",
+    "format": "yes_no",
+    "section": "8. PHOTOGRAPHY CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What kind of community does the Photography Club foster?",
+    "answer": "The club fosters a community that appreciates the art of photography and all its nuances.",
+    "format": "exploratory",
+    "section": "8. PHOTOGRAPHY CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the Photography Club's approach to learning and development?",
+    "answer": "The club offers a comprehensive learning experience, where students can learn through hands-on experience and guidance.",
+    "format": "exploratory",
+    "section": "8. PHOTOGRAPHY CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "Can students use the skills they develop through the Photography Club for personal or publication purposes?",
+    "answer": "Yes, students can use the skills they develop for both personal use and publication.",
+    "format": "yes_no",
+    "section": "8. PHOTOGRAPHY CLUB",
+    "source_file": "msajce_clubssocieties.md",
+    "category": "General — MSAJCE"
+  }
+]

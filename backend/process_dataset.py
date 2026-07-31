@@ -32,16 +32,7 @@ COLLECTION_NAME = "college_knowledgebase"
 VECTOR_DIM      = 1024
 MIN_CHUNK_LEN   = 60    # discard chunks shorter than this
 
-# ── Collection Management: Delete existing collection if present for a clean, fresh indexing ──
-if qdrant_client.collection_exists(COLLECTION_NAME):
-    print(f"[INFO] Deleting existing Qdrant collection '{COLLECTION_NAME}' for fresh indexing...")
-    qdrant_client.delete_collection(collection_name=COLLECTION_NAME)
 
-print(f"[INFO] Creating fresh Qdrant collection '{COLLECTION_NAME}' ({VECTOR_DIM}-dim)...")
-qdrant_client.create_collection(
-    collection_name=COLLECTION_NAME,
-    vectors_config=VectorParams(size=VECTOR_DIM, distance=Distance.COSINE),
-)
 
 
 # ── Noise-stripping: removes all PDF metadata injected by the scraper ─────────
@@ -455,9 +446,16 @@ def run():
         print(f"[ERROR] No dataset files found in {dataset_dir}")
         sys.exit(1)
 
-    print(f"\n{'='*60}")
-    print(f"  MSAJCE RAG — Processing {len(dataset_files)} dataset files")
-    print(f"{'='*60}\n")
+    # ── Collection Management: Delete existing collection if present for a clean, fresh indexing ──
+    if qdrant_client.collection_exists(COLLECTION_NAME):
+        print(f"[INFO] Deleting existing Qdrant collection '{COLLECTION_NAME}' for fresh indexing...")
+        qdrant_client.delete_collection(collection_name=COLLECTION_NAME)
+
+    print(f"[INFO] Creating fresh Qdrant collection '{COLLECTION_NAME}' ({VECTOR_DIM}-dim)...")
+    qdrant_client.create_collection(
+        collection_name=COLLECTION_NAME,
+        vectors_config=VectorParams(size=VECTOR_DIM, distance=Distance.COSINE),
+    )
 
     conn = psycopg2.connect(DATABASE_URL)
     conn.autocommit = True

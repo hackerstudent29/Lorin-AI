@@ -1,0 +1,546 @@
+[
+  {
+    "question": "What is the duration of the regular B.E. in Computer Science and Engineering program?",
+    "answer": "The duration of the regular B.E. in Computer Science and Engineering program is four years.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering (CSE) & 1. Overview & 2. Vision & 3. Mission & 4. Programme Educational Objectives (PEOs) & 5. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "How many semesters does the regular program consist of?",
+    "answer": "The regular program consists of eight semesters.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering (CSE) & 1. Overview & 2. Vision & 3. Mission & 4. Programme Educational Objectives (PEOs) & 5. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the total intake capacity for the B.E. in Computer Science and Engineering program?",
+    "answer": "The total intake capacity is 60 seats, divided equally between the government quota and the management quota.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering (CSE) & 1. Overview & 2. Vision & 3. Mission & 4. Programme Educational Objectives (PEOs) & 5. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the eligibility criteria for the B.E. in Computer Science and Engineering program?",
+    "answer": "Eligibility for the program requires completion of the 10+2 system of education, and students must have secured a pass in Physics, Chemistry, and Mathematics in their qualifying examination.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering (CSE) & 1. Overview & 2. Vision & 3. Mission & 4. Programme Educational Objectives (PEOs) & 5. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the career opportunities for graduates of the B.E. in Computer Science and Engineering program?",
+    "answer": "Career opportunities for graduates include roles as planners, designers, constructors, and operators. They can also work as stewards of the environment, innovators and integrators of technology, managers of risk, and leaders in public policy.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering (CSE) & 1. Overview & 2. Vision & 3. Mission & 4. Programme Educational Objectives (PEOs) & 5. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the vision of the Computer Science and Engineering department?",
+    "answer": "The vision is to be a center of excellence for transforming students into proficient Computer Science Engineers through sustainable practices.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering (CSE) & 1. Overview & 2. Vision & 3. Mission & 4. Programme Educational Objectives (PEOs) & 5. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the Programme Educational Objectives (PEOs) of the B.E. in Computer Science and Engineering program?",
+    "answer": "The Programme Educational Objectives state that graduates will be prepared for analyzing, designing, developing, and testing software solutions and products with creativity and sustainability.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering (CSE) & 1. Overview & 2. Vision & 3. Mission & 4. Programme Educational Objectives (PEOs) & 5. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the Program Specific Outcomes (PSOs) of the B.E. in Computer Science and Engineering program?",
+    "answer": "The Program Specific Outcomes emphasize that engineering graduates will be able to develop creative solutions by adapting emerging technologies and tools for real-time applications in the industry.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering (CSE) & 1. Overview & 2. Vision & 3. Mission & 4. Programme Educational Objectives (PEOs) & 5. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the scope for higher studies for graduates of the B.E. in Computer Science and Engineering program?",
+    "answer": "The scope for higher studies is excellent, with graduates often pursuing an M.E., M.Tech, or M.B.A.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering (CSE) & 1. Overview & 2. Vision & 3. Mission & 4. Programme Educational Objectives (PEOs) & 5. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "Does the B.E. in Computer Science and Engineering program offer any specialization?",
+    "answer": "No specialization is mentioned in the context.",
+    "format": "yes_no",
+    "section": "Computer Science and Engineering (CSE) & 1. Overview & 2. Vision & 3. Mission & 4. Programme Educational Objectives (PEOs) & 5. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the curriculum and syllabus regulation for the B.E. in Computer Science and Engineering program?",
+    "answer": "The curriculum and syllabus fall under the 2021 Regulation and the 2017 Regulation.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering (CSE) & 1. Overview & 2. Vision & 3. Mission & 4. Programme Educational Objectives (PEOs) & 5. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the opportunities for graduates of the B.E. in Computer Science and Engineering program in the public sector?",
+    "answer": "Opportunities are abundant in public sector undertakings and government sectors.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering (CSE) & 1. Overview & 2. Vision & 3. Mission & 4. Programme Educational Objectives (PEOs) & 5. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the duration of the lateral entry B.E. in Computer Science and Engineering program?",
+    "answer": "The duration of the lateral entry B.E. in Computer Science and Engineering program is three years.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering (CSE) & 1. Overview & 2. Vision & 3. Mission & 4. Programme Educational Objectives (PEOs) & 5. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "How many semesters does the lateral entry program consist of?",
+    "answer": "The lateral entry program has six semesters.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering (CSE) & 1. Overview & 2. Vision & 3. Mission & 4. Programme Educational Objectives (PEOs) & 5. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the key drivers of employment growth?",
+    "answer": "The digital transformation across industries is a significant driver. Government programs like the Digital India Initiative, increasing implementation of smart city projects, IoT devices, and automation will drive the need for various professionals.",
+    "format": "exploratory",
+    "section": "Key Drivers of Employment Growth",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the expected growth areas in the AI market in India?",
+    "answer": "The AI market in India is expected to grow rapidly, creating a strong demand for AI researchers, ML engineers, and data scientists.",
+    "format": "factoid",
+    "section": "Key Drivers of Employment Growth",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the emerging job opportunities in the fintech sector?",
+    "answer": "Software engineers with expertise in financial technologies are sought after to build innovative payment systems, mobile banking apps, and secure financial products.",
+    "format": "exploratory",
+    "section": "Key Drivers of Employment Growth",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the skills required for professionals in the cloud computing market in India?",
+    "answer": "Professionals skilled in cloud computing platforms like AWS, Azure, and Google Cloud are in high demand.",
+    "format": "factoid",
+    "section": "Key Drivers of Employment Growth",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the key areas where blockchain technology is being used?",
+    "answer": "Blockchain technology is being used in areas like supply chain management, financial services, and smart contracts.",
+    "format": "factoid",
+    "section": "Key Drivers of Employment Growth",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the emerging job opportunities in the digital content market?",
+    "answer": "Job opportunities exist for game developers and media content management systems engineers in the digital content market.",
+    "format": "exploratory",
+    "section": "Key Drivers of Employment Growth",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the expected growth pace of the cloud computing market in India?",
+    "answer": "The cloud computing market in India is expected to grow at a strong pace.",
+    "format": "factoid",
+    "section": "Key Drivers of Employment Growth",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the skills required for professionals in the big data analytics and data visualization field?",
+    "answer": "Professionals skilled in big data analytics, data mining, and data visualization will be in demand.",
+    "format": "factoid",
+    "section": "Key Drivers of Employment Growth",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the key areas where IoT devices are being used?",
+    "answer": "IoT devices are being used in sectors like healthcare, agriculture, manufacturing, and home automation.",
+    "format": "factoid",
+    "section": "Key Drivers of Employment Growth",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What percentage of all available jobs in engineering are in Computer Science and Engineering?",
+    "answer": "Over 50 percent of all available jobs in engineering are in Computer Science and Engineering.",
+    "format": "factoid",
+    "section": "Employment Growth in Computer Science and Engineering (2025–2030)",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What percentage of jobs in the IT sector in India are found in the public arena?",
+    "answer": "Both private and public arenas are covered by the IT sector in India, with 60 percent of jobs found in the sector.",
+    "format": "factoid",
+    "section": "Employment Growth in Computer Science and Engineering (2025–2030)",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are some organizations in the public sector that offer roles in Computer Science and Engineering?",
+    "answer": "The public sector offers roles in organizations such as the Railways, Airports, ONGC, Remote Sensing, and the Banking Sector.",
+    "format": "factoid",
+    "section": "Employment Growth in Computer Science and Engineering (2025–2030)",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are some top companies in the private sector that offer roles in Computer Science and Engineering?",
+    "answer": "The private sector includes top companies such as TCS, Infosys, CTS, Wipro, HCL Technology, Tech Mahindra, Zoho, Intel, Accenture, IBM, and FSS.",
+    "format": "factoid",
+    "section": "Employment Growth in Computer Science and Engineering (2025–2030)",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the factors contributing to the highly promising employment opportunities for Computer Science and Engineering in India over the next five years?",
+    "answer": "The growing demand for technological innovation across multiple industries, digitalization, the adoption of advanced technologies, and the country's strong position as a global IT hub are contributing to a massive increase in job openings.",
+    "format": "exploratory",
+    "section": "Employment Growth in Computer Science and Engineering (2025–2030)",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "Is the employment growth in Computer Science and Engineering expected to be highly promising in India over the next five years?",
+    "answer": "Yes, the employment growth in Computer Science and Engineering is expected to be highly promising in India over the next five years.",
+    "format": "yes_no",
+    "section": "Employment Growth in Computer Science and Engineering (2025–2030)",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the expected duration of the highly promising employment opportunities for Computer Science and Engineering in India?",
+    "answer": "The next five years.",
+    "format": "factoid",
+    "section": "Employment Growth in Computer Science and Engineering (2025–2030)",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the reason behind the country's strong position as a global IT hub?",
+    "answer": "The country's strong position as a global IT hub is due to the growing demand for technological innovation across multiple industries, digitalization, the adoption of advanced technologies.",
+    "format": "exploratory",
+    "section": "Employment Growth in Computer Science and Engineering (2025–2030)",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the Programme Outcomes (PO) of the students in Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The Programme Outcomes define the foundational abilities of the students, including Engineering Knowledge, Problem Analysis, Design/Development of Solutions, Conduct Investigations, Modern Tool Usage, The Engineer and Society, Environment and Sustainability, Ethics, Individual and Team Work, Communication, Project Management and Finance, and Life-long Learning.",
+    "format": "exploratory",
+    "section": "6. Programme Outcomes (PO) & 7. Job Profiles",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the Programme Outcome (PO1)?",
+    "answer": "The Programme Outcome (PO1) is Engineering Knowledge, which requires applying mathematics, science, engineering fundamentals, and an engineering specialization to solve complex engineering problems.",
+    "format": "factoid",
+    "section": "6. Programme Outcomes (PO) & 7. Job Profiles",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the Programme Outcome (PO2)?",
+    "answer": "The Programme Outcome (PO2) is Problem Analysis, which involves identifying, formulating, reviewing research literature, and analyzing complex engineering problems to reach substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.",
+    "format": "factoid",
+    "section": "6. Programme Outcomes (PO) & 7. Job Profiles",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the Programme Outcome (PO3)?",
+    "answer": "The Programme Outcome (PO3) is Design/Development of Solutions, which requires designing solutions for complex engineering problems and designing system components or processes that meet specified needs with appropriate consideration for public health and safety, as well as cultural, societal, and environmental considerations.",
+    "format": "factoid",
+    "section": "6. Programme Outcomes (PO) & 7. Job Profiles",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the Programme Outcome (PO4)?",
+    "answer": "The Programme Outcome (PO4) is Conduct Investigations, which requires using research-based knowledge and methods, including the design of experiments, analysis and interpretation of data, and synthesis of information to provide valid conclusions.",
+    "format": "factoid",
+    "section": "6. Programme Outcomes (PO) & 7. Job Profiles",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the Programme Outcome (PO5)?",
+    "answer": "The Programme Outcome (PO5) is Modern Tool Usage, which involves creating, selecting, and applying appropriate techniques, resources, and modern engineering and IT tools, including prediction and modeling, to complex engineering activities with an understanding of their limitations.",
+    "format": "factoid",
+    "section": "6. Programme Outcomes (PO) & 7. Job Profiles",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the Programme Outcomes (PO) that emphasize the engineer and society?",
+    "answer": "The Programme Outcomes that emphasize the engineer and society are PO6 (The Engineer and Society), PO7 (Environment and Sustainability), and PO8 (Ethics), which require applying reasoning informed by contextual knowledge to assess societal, health, safety, legal, and cultural issues and the consequent responsibilities relevant to professional engineering practice.",
+    "format": "exploratory",
+    "section": "6. Programme Outcomes (PO) & 7. Job Profiles",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the Programme Outcome (PO6)?",
+    "answer": "The Programme Outcome (PO6) is The Engineer and Society, which requires applying reasoning informed by contextual knowledge to assess societal, health, safety, legal, and cultural issues and the consequent responsibilities relevant to professional engineering practice.",
+    "format": "factoid",
+    "section": "6. Programme Outcomes (PO) & 7. Job Profiles",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the Programme Outcome (PO7)?",
+    "answer": "The Programme Outcome (PO7) is Environment and Sustainability, which focuses on understanding the impact of professional engineering solutions in societal and environmental contexts, demonstrating the knowledge of and need for sustainable development.",
+    "format": "factoid",
+    "section": "6. Programme Outcomes (PO) & 7. Job Profiles",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the Programme Outcome (PO8)?",
+    "answer": "The Programme Outcome (PO8) is Ethics, which involves applying ethical principles and committing to professional ethics, responsibilities, and norms of engineering practice.",
+    "format": "factoid",
+    "section": "6. Programme Outcomes (PO) & 7. Job Profiles",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the Programme Outcome (PO9)?",
+    "answer": "The Programme Outcome (PO9) is Individual and Team Work, which requires functioning effectively as an individual, and as a member or leader in diverse teams and multidisciplinary settings.",
+    "format": "factoid",
+    "section": "6. Programme Outcomes (PO) & 7. Job Profiles",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the Programme Outcome (PO10)?",
+    "answer": "The Programme Outcome (PO10) is Communication, which ensures the ability to communicate effectively on complex engineering activities with the engineering community and society at large, including comprehending and writing effective reports, designing documentation, making effective presentations, and giving and receiving clear instructions.",
+    "format": "factoid",
+    "section": "6. Programme Outcomes (PO) & 7. Job Profiles",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the Programme Outcome (PO11)?",
+    "answer": "The Programme Outcome (PO11) is Project Management and Finance, which involves demonstrating knowledge and understanding of engineering and management principles and applying these to one's own work, managing projects, and working in multidisciplinary environments.",
+    "format": "factoid",
+    "section": "6. Programme Outcomes (PO) & 7. Job Profiles",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the Programme Outcome (PO12)?",
+    "answer": "The Programme Outcome (PO12) is Life-long Learning, which recognizes the need for and the ability to engage in independent and life-long learning in the broadest context of technological change.",
+    "format": "factoid",
+    "section": "6. Programme Outcomes (PO) & 7. Job Profiles",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the job profiles that the students of Mohamed Sathak A.J. College of Engineering can expect?",
+    "answer": "The job profiles that the students of Mohamed Sathak A.J. College of Engineering can expect are not explicitly mentioned in the provided context.",
+    "format": "exploratory",
+    "section": "6. Programme Outcomes (PO) & 7. Job Profiles",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the name of the principal of Mohamed Sathak A.J. College of Engineering?",
+    "answer": "Dr. K.S. Srinivasan",
+    "format": "factoid",
+    "section": "8. Faculty (2023-2024) & 9. Facilities and Laboratories & 10. Innovation Teaching Methods",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the course code for the C Programming course?",
+    "answer": "CS8261",
+    "format": "factoid",
+    "section": "8. Faculty (2023-2024) & 9. Facilities and Laboratories & 10. Innovation Teaching Methods",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the name of the Professor who joined on June 19, 2023?",
+    "answer": "Dr. Srinivasan (TNSCST)",
+    "format": "factoid",
+    "section": "8. Faculty (2023-2024) & 9. Facilities and Laboratories & 10. Innovation Teaching Methods",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the name of the laboratory that focuses on the CS8461 Object Oriented Analysis and Design course?",
+    "answer": "Object Oriented Analysis and Design Lab",
+    "format": "factoid",
+    "section": "8. Faculty (2023-2024) & 9. Facilities and Laboratories & 10. Innovation Teaching Methods",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the name of the department's Innovative Teaching Methods applied to Big Data Analytics?",
+    "answer": "CS8091",
+    "format": "factoid",
+    "section": "8. Faculty (2023-2024) & 9. Facilities and Laboratories & 10. Innovation Teaching Methods",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the name of the Assistant Professor who joined on December 9, 2022?",
+    "answer": "Mr. S. Vimalathithan",
+    "format": "factoid",
+    "section": "8. Faculty (2023-2024) & 9. Facilities and Laboratories & 10. Innovation Teaching Methods",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the name of the laboratory that supports the CS8581 Networks Lab course?",
+    "answer": "Networks Lab",
+    "format": "factoid",
+    "section": "8. Faculty (2023-2024) & 9. Facilities and Laboratories & 10. Innovation Teaching Methods",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What is the name of the subject that benefits from Innovative Teaching Methods and is taught in the department?",
+    "answer": "Computer Networks (CS8591), Object Oriented Analysis and Design (CS8592), Microprocessor and Microcontroller (EC8691), Software Engineering (CS8494), Computational Intelligence (IT8601), Mobile Communication (IT8602), Web Technology (IT8501), Data Structures and Algorithms (CD3291), Web Essentials (IT3401), Networks and Security (EC3401), Computer Graphics and Multimedia (CS8092), Problem Solving and Python Programming (GE3151), and Object Oriented Programming (CS3391)",
+    "format": "exploratory",
+    "section": "8. Faculty (2023-2024) & 9. Facilities and Laboratories & 10. Innovation Teaching Methods",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the high-demand roles in software development?",
+    "answer": "High demand roles include Software Developers and Engineers specializing in frontend, backend, and full-stack development, utilizing skills like Java, Python, C++, JavaScript, React, Node.js, and SQL.",
+    "format": "factoid",
+    "section": "Employment Opportunities in High Demand & Sectors with High Employment Potential",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What skills are required for Data Scientists and Data Engineers?",
+    "answer": "Data Scientists and Data Engineers specializing in Big Data Analytics, Machine Learning, and Artificial Intelligence require skills such as R, Python, TensorFlow, Spark, Hadoop, and SQL.",
+    "format": "factoid",
+    "section": "Employment Opportunities in High Demand & Sectors with High Employment Potential",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the key skills for Cybersecurity Specialists?",
+    "answer": "Cybersecurity Specialists focus on penetration testing, ethical hacking, and network security, mastering firewall management, cryptography, IDS/IPS systems, CISSP, and AWS Security.",
+    "format": "factoid",
+    "section": "Employment Opportunities in High Demand & Sectors with High Employment Potential",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What skills are required for Cloud Architects and Engineers?",
+    "answer": "Cloud Architects and Engineers concentrate on cloud infrastructure across AWS, Google Cloud, and Azure, using skills in cloud storage, infrastructure as code, serverless computing, and containerization with Docker and Kubernetes.",
+    "format": "factoid",
+    "section": "Employment Opportunities in High Demand & Sectors with High Employment Potential",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the key skills for Blockchain Developers?",
+    "answer": "Blockchain Developers specialize in smart contracts and decentralized applications, utilizing Ethereum, Solidity, Hyperledger, and crypto libraries.",
+    "format": "factoid",
+    "section": "Employment Opportunities in High Demand & Sectors with High Employment Potential",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What skills are required for DevOps Engineers?",
+    "answer": "DevOps Engineers focus on automation and continuous integration/continuous deployment pipelines, mastering tools like Jenkins, Docker, Kubernetes, and Terraform.",
+    "format": "factoid",
+    "section": "Employment Opportunities in High Demand & Sectors with High Employment Potential",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the key skills for AI and ML Engineers?",
+    "answer": "AI and ML Engineers specialize in deep learning, natural language processing, and computer vision with skills in TensorFlow, PyTorch, Keras, OpenCV, and Scikit-learn.",
+    "format": "factoid",
+    "section": "Employment Opportunities in High Demand & Sectors with High Employment Potential",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the key skills for Internet of Things Developers?",
+    "answer": "Internet of Things Developers create embedded systems and smart devices using Arduino, Raspberry Pi, Bluetooth, and MQTT.",
+    "format": "factoid",
+    "section": "Employment Opportunities in High Demand & Sectors with High Employment Potential",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the key skills for Game Developers?",
+    "answer": "Game Developers work on augmented and virtual reality, game engines, and interactive systems, employing skills in Unity, Unreal Engine, C#, 3D modeling, and game physics.",
+    "format": "factoid",
+    "section": "Employment Opportunities in High Demand & Sectors with High Employment Potential",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the sectors with high employment potential?",
+    "answer": "Sectors with high employment potential include IT Services and Software Development, Artificial Intelligence and Machine Learning adoption in healthcare, finance, e-commerce, and logistics, Cybersecurity, and Cloud Computing.",
+    "format": "exploratory",
+    "section": "Employment Opportunities in High Demand & Sectors with High Employment Potential",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the key areas of adoption for AI and ML?",
+    "answer": "AI and ML adoption is required in healthcare, finance, e-commerce, and logistics.",
+    "format": "factoid",
+    "section": "Employment Opportunities in High Demand & Sectors with High Employment Potential",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the key areas of growth for Cybersecurity?",
+    "answer": "Cybersecurity and the rapid growth of Fintech and Blockchain in India will drive the demand for software developers and blockchain engineers.",
+    "format": "factoid",
+    "section": "Employment Opportunities in High Demand & Sectors with High Employment Potential",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the key areas of growth for Cloud Computing?",
+    "answer": "Cloud Computing service providers need experts in cloud infrastructure, DevOps, and cloud security.",
+    "format": "factoid",
+    "section": "Employment Opportunities in High Demand & Sectors with High Employment Potential",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  },
+  {
+    "question": "What are the key areas of growth for E-commerce platforms?",
+    "answer": "E-commerce platforms require software engineers and developers to fuel their continuous growth and expansion.",
+    "format": "factoid",
+    "section": "Employment Opportunities in High Demand & Sectors with High Employment Potential",
+    "source_file": "msajce_cse.md",
+    "category": "Department — Computer Science & Engineering"
+  }
+]

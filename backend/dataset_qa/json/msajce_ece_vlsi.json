@@ -1,0 +1,354 @@
+[
+  {
+    "question": "What is the specialization in the Electronics Engineering course at MSAJCE?",
+    "answer": "The specialization in the Electronics Engineering course at MSAJCE is in VLSI Design and Technology.",
+    "format": "factoid",
+    "section": "Electronics Engineering with Specialization in VLSI Design and Technology",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the primary focus of the VLSI Design and Technology specialization?",
+    "answer": "The primary focus of the VLSI Design and Technology specialization is on the design and development of Very Large Scale Integration (VLSI) circuits and systems.",
+    "format": "exploratory",
+    "section": "Electronics Engineering with Specialization in VLSI Design and Technology",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the typical duration of the Electronics Engineering course with VLSI Design and Technology specialization at MSAJCE?",
+    "answer": "The typical duration of the Electronics Engineering course with VLSI Design and Technology specialization at MSAJCE is not explicitly mentioned in the provided context.",
+    "format": "factoid",
+    "section": "Electronics Engineering with Specialization in VLSI Design and Technology",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key areas of study in the VLSI Design and Technology specialization?",
+    "answer": "The key areas of study in the VLSI Design and Technology specialization include VLSI design, digital logic design, computer architecture, and embedded systems.",
+    "format": "exploratory",
+    "section": "Electronics Engineering with Specialization in VLSI Design and Technology",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "Is the VLSI Design and Technology specialization offered as a part of the Electronics Engineering course at MSAJCE?",
+    "answer": "Yes, the VLSI Design and Technology specialization is offered as a part of the Electronics Engineering course at MSAJCE.",
+    "format": "yes_no",
+    "section": "Electronics Engineering with Specialization in VLSI Design and Technology",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the career prospects for students who complete the Electronics Engineering course with VLSI Design and Technology specialization at MSAJCE?",
+    "answer": "The career prospects for students who complete the Electronics Engineering course with VLSI Design and Technology specialization at MSAJCE include opportunities in the fields of VLSI design, embedded systems, and digital electronics.",
+    "format": "exploratory",
+    "section": "Electronics Engineering with Specialization in VLSI Design and Technology",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the typical job roles available for students who complete the Electronics Engineering course with VLSI Design and Technology specialization at MSAJCE?",
+    "answer": "The typical job roles available for students who complete the Electronics Engineering course with VLSI Design and Technology specialization at MSAJCE include VLSI design engineer, embedded systems engineer, and digital electronics engineer.",
+    "format": "exploratory",
+    "section": "Electronics Engineering with Specialization in VLSI Design and Technology",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "Are there any research opportunities available for students who complete the Electronics Engineering course with VLSI Design and Technology specialization at MSAJCE?",
+    "answer": "The provided context does not mention any research opportunities available for students who complete the Electronics Engineering course with VLSI Design and Technology specialization at MSAJCE.",
+    "format": "factoid",
+    "section": "Electronics Engineering with Specialization in VLSI Design and Technology",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the name of the course offered by MSAJCE?",
+    "answer": "B.Tech in Electronics Engineering with Specialization in VLSI Design and Technology",
+    "format": "factoid",
+    "section": "1. Overview",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the main objective of providing this course?",
+    "answer": "To offer varying roles of employment featuring attractive salary incentives and solid professional growth, especially with the establishment of India’s largest semiconductor fab plant at Mysuru.",
+    "format": "exploratory",
+    "section": "1. Overview",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the estimated total manpower requirement over the next five to seven years?",
+    "answer": "Around 85,000 across undergraduate, postgraduate, and doctoral levels in the fields of VLSI Technology, Semiconductor Manufacturing, Electronics, Electrical, Mechanical, and Chemical Engineering.",
+    "format": "factoid",
+    "section": "1. Overview",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the name of the policy for full-flow custom design solutions?",
+    "answer": "Electronics System Design and Manufacturing policy",
+    "format": "factoid",
+    "section": "1. Overview",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the name of the program announced by the Government of India to fulfill the Aatma Nirbhar Bharath vision?",
+    "answer": "Semiconductor scheme",
+    "format": "factoid",
+    "section": "1. Overview",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the expected global semiconductor market size by 2030?",
+    "answer": "One trillion dollars",
+    "format": "factoid",
+    "section": "1. Overview",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the name of the Faculty that offers the B.Tech in Electronics Engineering with Specialization in VLSI Design and Technology?",
+    "answer": "Faculty of Electronics and Communication Engineering",
+    "format": "factoid",
+    "section": "1. Overview",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the process of designing and manufacturing integrated circuits called?",
+    "answer": "VLSI",
+    "format": "factoid",
+    "section": "1. Overview",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the areas where VLSI Design and its applications are found?",
+    "answer": "Signal processing, image processing, networks and communication applications, space applications, and quantum computing",
+    "format": "exploratory",
+    "section": "1. Overview",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the Programme Outcomes of the students?",
+    "answer": "The Programme Outcomes define the foundational abilities of the students, including Engineering Knowledge, Problem Analysis, Design/Development of Solutions, Conduct Investigations, Modern Tool Usage, The Engineer and Society, Environment and Sustainability, Ethics, Individual and Team Work, Communication, Project Management and Finance, and Life-long Learning.",
+    "format": "exploratory",
+    "section": "8. Programme Outcomes (PO) & 9. Job Profiles & VLSI Design Employment Opportunity Forecast by 2025 - 2030 in India",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the definition of Engineering Knowledge?",
+    "answer": "Engineering knowledge requires applying mathematics, science, engineering fundamentals, and an engineering specialization to solve complex engineering problems.",
+    "format": "factoid",
+    "section": "8. Programme Outcomes (PO) & 9. Job Profiles & VLSI Design Employment Opportunity Forecast by 2025 - 2030 in India",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the purpose of Problem Analysis?",
+    "answer": "Problem analysis involves identifying, formulating, reviewing research literature, and analyzing complex engineering problems to reach substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.",
+    "format": "exploratory",
+    "section": "8. Programme Outcomes (PO) & 9. Job Profiles & VLSI Design Employment Opportunity Forecast by 2025 - 2030 in India",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the role of Modern Tool Usage in the Programme Outcomes?",
+    "answer": "Modern tool usage involves creating, selecting, and applying appropriate techniques, resources, and modern engineering and IT tools, including prediction and modeling, to complex engineering activities with an understanding of their limitations.",
+    "format": "exploratory",
+    "section": "8. Programme Outcomes (PO) & 9. Job Profiles & VLSI Design Employment Opportunity Forecast by 2025 - 2030 in India",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the VLSI Design industry in India poised for in the next five years?",
+    "answer": "The VLSI Design industry in India is poised for substantial growth over the next five years, driven by advancements in Semiconductor technology, 5G and 6G networks, Automotive electronics, and the Internet of Things.",
+    "format": "factoid",
+    "section": "8. Programme Outcomes (PO) & 9. Job Profiles & VLSI Design Employment Opportunity Forecast by 2025 - 2030 in India",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key drivers of growth for the VLSI Design industry in India?",
+    "answer": "The key drivers of growth for the VLSI Design industry in India are advancements in Semiconductor technology, 5G and 6G networks, Automotive electronics, and the Internet of Things.",
+    "format": "comparison",
+    "section": "8. Programme Outcomes (PO) & 9. Job Profiles & VLSI Design Employment Opportunity Forecast by 2025 - 2030 in India",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "Is hostel accommodation mandatory for outstation students?",
+    "answer": "There is no information provided in the context regarding hostel accommodation being mandatory for outstation students.",
+    "format": "yes_no",
+    "section": "8. Programme Outcomes (PO) & 9. Job Profiles & VLSI Design Employment Opportunity Forecast by 2025 - 2030 in India",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the procedure to apply for scholarship?",
+    "answer": "There is no information provided in the context regarding the procedure to apply for scholarship.",
+    "format": "procedural",
+    "section": "8. Programme Outcomes (PO) & 9. Job Profiles & VLSI Design Employment Opportunity Forecast by 2025 - 2030 in India",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the duration of the B.Tech in Electronics Engineering with Specialization in VLSI Design and Technology for regular students?",
+    "answer": "The duration is four years for regular students.",
+    "format": "factoid",
+    "section": "2. Career Prospects & 3. Programme & 4. Vision & 5. Mission & 6. Programme Educational Objectives (PEOs) & 7. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the opportunities for VLSI engineers in the Semiconductor industry?",
+    "answer": "There are numerous job opportunities for VLSI engineers in the Semiconductor industry, including roles as Design Engineers, Verification Engineers, CAD Engineers, Application Engineers, Analog Circuit Designers, DFT Engineers, FPGA Verification Engineers, EDA Tool Validation Engineers, and VLSI Micro-architecture Engineers among many others.",
+    "format": "exploratory",
+    "section": "2. Career Prospects & 3. Programme & 4. Vision & 5. Mission & 6. Programme Educational Objectives (PEOs) & 7. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the total intake capacity for the B.Tech in Electronics Engineering with Specialization in VLSI Design and Technology?",
+    "answer": "The total intake is 30 seats, divided equally with 15 for the government quota and 15 for the management quota.",
+    "format": "factoid",
+    "section": "2. Career Prospects & 3. Programme & 4. Vision & 5. Mission & 6. Programme Educational Objectives (PEOs) & 7. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the prominent companies recruiting VLSI graduates?",
+    "answer": "Prominent companies recruiting VLSI graduates include Intel Corporation, Global Foundries, Micron Technologies, Marvell Semiconductor, ARM, AMD, NVIDIA, Infineon Technologies, MediaTek, NXP Semiconductors, TSMC, Qualcomm, Philips, Samsung, Siemens, IBM, Bosch, Wipro, Tata Elxsi, Dell, Apex Semiconductor, Free Scale Semiconductor, Texas Instruments, Synopsis, Cadence, and Microchip.",
+    "format": "exploratory",
+    "section": "2. Career Prospects & 3. Programme & 4. Vision & 5. Mission & 6. Programme Educational Objectives (PEOs) & 7. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the higher studies options for VLSI graduates?",
+    "answer": "The scope for higher studies includes pursuing an M.E., M.Tech, or M.B.A.",
+    "format": "factoid",
+    "section": "2. Career Prospects & 3. Programme & 4. Vision & 5. Mission & 6. Programme Educational Objectives (PEOs) & 7. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the mission of the college?",
+    "answer": "The mission involves imparting core fundamental knowledge and necessary skills through innovative teaching and learning methodologies. It aims to inculcate the critical thinking, ethics, lifelong learning, and creativity needed for both the industry and society.",
+    "format": "exploratory",
+    "section": "2. Career Prospects & 3. Programme & 4. Vision & 5. Mission & 6. Programme Educational Objectives (PEOs) & 7. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the Programme Educational Objectives (PEOs) of the B.Tech in Electronics Engineering with Specialization in VLSI Design and Technology?",
+    "answer": "The Programme Educational Objectives state that graduates will be prepared for analyzing, designing, developing, and testing software solutions and products with creativity and sustainability.",
+    "format": "exploratory",
+    "section": "2. Career Prospects & 3. Programme & 4. Vision & 5. Mission & 6. Programme Educational Objectives (PEOs) & 7. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the Program Specific Outcomes (PSOs) of the B.Tech in Electronics Engineering with Specialization in VLSI Design and Technology?",
+    "answer": "The Program Specific Outcomes emphasize that engineering graduates will be able to develop creative solutions by adapting emerging technologies and tools for real-time applications in the industry.",
+    "format": "exploratory",
+    "section": "2. Career Prospects & 3. Programme & 4. Vision & 5. Mission & 6. Programme Educational Objectives (PEOs) & 7. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the government public sector undertakings that recruit VLSI engineers?",
+    "answer": "Many government public sector undertakings also recruit VLSI engineers, such as SCL, ISRO, DRDO, HAL, and BEL.",
+    "format": "exploratory",
+    "section": "2. Career Prospects & 3. Programme & 4. Vision & 5. Mission & 6. Programme Educational Objectives (PEOs) & 7. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key industry drivers for the growth of the semiconductor industry in India?",
+    "answer": "The growth of the semiconductor industry in India is driven by the National Policy on Electronics, large-scale investments by companies like Intel, TSMC, Samsung, and Global Foundries, and the roll-out of 5G networks and planning for 6G.",
+    "format": "factoid",
+    "section": "Key Industry Drivers & Sector-Wise Job Growth Projections and Opportunities & Key Government and Industry Initiatives & Employment Forecast Summary",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What skills are in high demand for VLSI design and fabrication?",
+    "answer": "Proficiency in design tools such as Cadence, Mentor Graphics, Synopsys, and Xilinx Vivado, expertise in languages like Verilog, VHDL, SystemVerilog, and C or C++ for embedded systems, and knowledge of both analog circuits and digital circuits are essential.",
+    "format": "factoid",
+    "section": "Key Industry Drivers & Sector-Wise Job Growth Projections and Opportunities & Key Government and Industry Initiatives & Employment Forecast Summary",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key government and industry initiatives driving job creation in the semiconductor industry?",
+    "answer": "The National Semiconductor Mission, the Production-Linked Incentive scheme, and the push for Smart Cities and Digital India are key initiatives driving job creation in the semiconductor industry.",
+    "format": "factoid",
+    "section": "Key Industry Drivers & Sector-Wise Job Growth Projections and Opportunities & Key Government and Industry Initiatives & Employment Forecast Summary",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the sector-wise job growth projections and opportunities in the semiconductor industry?",
+    "answer": "Semiconductor Design is projected to see high growth, hiring heavily for Front-end VLSI design, SoC architecture, and physical design. Telecommunication for 5G and 6G networks seeks expertise in RFIC design, signal processing, and analog-digital integration.",
+    "format": "factoid",
+    "section": "Key Industry Drivers & Sector-Wise Job Growth Projections and Opportunities & Key Government and Industry Initiatives & Employment Forecast Summary",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the employment forecast summary for VLSI design in India?",
+    "answer": "VLSI Design in India will experience exceptional annual growth in the next five years, fueled by demand in semiconductor manufacturing, telecommunications, IoT, automotive, and AI hardware sectors.",
+    "format": "factoid",
+    "section": "Key Industry Drivers & Sector-Wise Job Growth Projections and Opportunities & Key Government and Industry Initiatives & Employment Forecast Summary",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key skills required for AI and ML Hardware projects?",
+    "answer": "Professionals with expertise in AI accelerators, FPGAs, GPUs, and edge computing hardware are in high demand for AI and ML Hardware projects.",
+    "format": "factoid",
+    "section": "Key Industry Drivers & Sector-Wise Job Growth Projections and Opportunities & Key Government and Industry Initiatives & Employment Forecast Summary",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key government and industry initiatives driving the demand for VLSI design in power electronics and control systems?",
+    "answer": "The shift toward Electric Vehicles and ADAS increases the need for VLSI design in power electronics and control systems, driven by the push for Smart Cities and Digital India.",
+    "format": "factoid",
+    "section": "Key Industry Drivers & Sector-Wise Job Growth Projections and Opportunities & Key Government and Industry Initiatives & Employment Forecast Summary",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key industry drivers for the growth of the semiconductor industry in India?",
+    "answer": "The growth of the semiconductor industry in India is driven by the National Policy on Electronics, large-scale investments by companies like Intel, TSMC, Samsung, and Global Foundries, and the roll-out of 5G networks and planning for 6G.",
+    "format": "exploratory",
+    "section": "Key Industry Drivers & Sector-Wise Job Growth Projections and Opportunities & Key Government and Industry Initiatives & Employment Forecast Summary",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key skills required for VLSI design in RF, analog, and mixed-signal design?",
+    "answer": "Proficiency in design tools such as Cadence, Mentor Graphics, Synopsys, and Xilinx Vivado, expertise in languages like Verilog, VHDL, SystemVerilog, and C or C++ for embedded systems, and knowledge of both analog circuits and digital circuits are essential.",
+    "format": "factoid",
+    "section": "Key Industry Drivers & Sector-Wise Job Growth Projections and Opportunities & Key Government and Industry Initiatives & Employment Forecast Summary",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key government and industry initiatives driving job creation in the semiconductor industry?",
+    "answer": "The National Semiconductor Mission, the Production-Linked Incentive scheme, and the push for Smart Cities and Digital India are key initiatives driving job creation in the semiconductor industry.",
+    "format": "exploratory",
+    "section": "Key Industry Drivers & Sector-Wise Job Growth Projections and Opportunities & Key Government and Industry Initiatives & Employment Forecast Summary",
+    "source_file": "msajce_ece_vlsi.md",
+    "category": "Department — Electronics & Communication"
+  }
+]

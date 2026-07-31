@@ -1,0 +1,946 @@
+[
+  {
+    "question": "What are the objectives of the Research and Development Cell at MSAJCE?",
+    "answer": "The Research and Development Cell aims to nurture research culture in MSAJCE by promoting research in newly emerging and challenging areas of Engineering, Technology, Science and Humanities. It also aims to create zeal among the students and faculty towards research and innovation, and to encourage them to publish their findings in conferences and journals.",
+    "format": "exploratory",
+    "section": "Research & 1. Objectives & 2. Research Advisory Committee",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who is the Head of Research at MSAJCE in Chennai?",
+    "answer": "Dr. B. Janarthanan",
+    "format": "factoid",
+    "section": "Research & 1. Objectives & 2. Research Advisory Committee",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What are the facilities and infrastructures provided by the Research and Development Cell to students and faculty?",
+    "answer": "The cell provides necessary facilities and infrastructures required for carrying out research.",
+    "format": "exploratory",
+    "section": "Research & 1. Objectives & 2. Research Advisory Committee",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the purpose of the Research Advisory Committee at MSAJCE?",
+    "answer": "The Research Advisory Committee is convened to assist the students to apply funding for conducting research under student project scheme to various funding agencies, and to work closely with the industry to understand their needs.",
+    "format": "exploratory",
+    "section": "Research & 1. Objectives & 2. Research Advisory Committee",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who are the Advisors of the Research Advisory Committee at MSAJCE?",
+    "answer": "Dr. K.S. Srinivasan, Dr. Parthiban, Dr. Somashekhar S Hiremath, and Dr. Sabitha Ramakrishnan",
+    "format": "factoid",
+    "section": "Research & 1. Objectives & 2. Research Advisory Committee",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the role of the Research and Development Cell in promoting Institute-Industry Collaboration?",
+    "answer": "The cell aims to work closely with the industry to understand their needs that eventually will result in new or improved products, processes, systems or services that can increase the company's productivity.",
+    "format": "exploratory",
+    "section": "Research & 1. Objectives & 2. Research Advisory Committee",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What are the funding agencies that the Research and Development Cell assists the students to apply for?",
+    "answer": "TNSCST, MSME, IEI, TNSCST, DST, AICTE, UGC, ISRO, DRDO, CSIR, and DBT",
+    "format": "factoid",
+    "section": "Research & 1. Objectives & 2. Research Advisory Committee",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What are the activities organized by the Research and Development Cell to promote research?",
+    "answer": "The cell will organize various workshops, seminars, and trainings related to promotion of research.",
+    "format": "exploratory",
+    "section": "Research & 1. Objectives & 2. Research Advisory Committee",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the purpose of the Research and Development Cell in supporting the government?",
+    "answer": "The cell aims to support the government in serving the society by taking up sponsored projects offered by agencies such as TNSCST, DST, AICTE, UGC, ISRO, DRDO, CSIR, and DBT.",
+    "format": "exploratory",
+    "section": "Research & 1. Objectives & 2. Research Advisory Committee",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the role of the Ph.D qualified faculty members of MSAJCE in the Research Advisory Committee?",
+    "answer": "All Ph.D qualified faculty members of MSAJCE act as Members of the committee.",
+    "format": "factoid",
+    "section": "Research & 1. Objectives & 2. Research Advisory Committee",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the course code for the Engineering Practices Lab manual?",
+    "answer": "The course code for the Engineering Practices Lab manual is L-78730/2018.",
+    "format": "factoid",
+    "section": "5. Copyright filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who filed a copyright for the Engineering Practices Lab manual?",
+    "answer": "Dr. R. Senthilkumar and G. Ramesh filed a copyright for the Engineering Practices Lab manual.",
+    "format": "factoid",
+    "section": "5. Copyright filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the code for the Labview Manual?",
+    "answer": "The code for the Labview Manual is 7675/2022-CO.",
+    "format": "factoid",
+    "section": "5. Copyright filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who filed a copyright for the Labview Manual?",
+    "answer": "Mr. Chintala Venkatesh and Mrs. R. Abirami filed a copyright for the Labview Manual.",
+    "format": "factoid",
+    "section": "5. Copyright filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the code for the Computer Aided Design Course Manual?",
+    "answer": "The code for the Computer Aided Design Course Manual is 11415/2022-CO.",
+    "format": "factoid",
+    "section": "5. Copyright filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who filed a copyright for the Computer Aided Design Course Manual?",
+    "answer": "Dr. R. Senthil Kumar, Mr. P. Saravanan, and Mr. D. Sakthivel filed a copyright for the Computer Aided Design Course Manual.",
+    "format": "factoid",
+    "section": "5. Copyright filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the code for the Computer Aided Design And Manufacturing Laboratory Manual?",
+    "answer": "The code for the Computer Aided Design And Manufacturing Laboratory Manual is 11417/2022-CO.",
+    "format": "factoid",
+    "section": "5. Copyright filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who filed a copyright for the Computer Aided Design And Manufacturing Laboratory Manual?",
+    "answer": "Dr. G. Ramesh, Mr. S.R. Mohan, and Mr. V. Vigneswara filed a copyright for the Computer Aided Design And Manufacturing Laboratory Manual.",
+    "format": "factoid",
+    "section": "5. Copyright filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the code for the Meterology And Measurements Laboratory Manual?",
+    "answer": "The code for the Meterology And Measurements Laboratory Manual is 11418/2022-CO.",
+    "format": "factoid",
+    "section": "5. Copyright filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who filed a copyright for the Meterology And Measurements Laboratory Manual?",
+    "answer": "Dr. S. Prasath, Mr. A. Muhammed Ifran, and Mr. J. Rajesh filed a copyright for the Meterology And Measurements Laboratory Manual.",
+    "format": "factoid",
+    "section": "5. Copyright filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the code for the Manufacturing Technology Laboratory Manual?",
+    "answer": "The code for the Manufacturing Technology Laboratory Manual is 11420/2022-CO.",
+    "format": "factoid",
+    "section": "5. Copyright filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who filed a copyright for the Manufacturing Technology Laboratory Manual?",
+    "answer": "Dr. R. Senthil Kumar, Dr. S. Prasath, and Mr. J. Rajesh filed a copyright for the Manufacturing Technology Laboratory Manual.",
+    "format": "factoid",
+    "section": "5. Copyright filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the code for the Computer Aided Simulation And Analysis Laboratory Manual?",
+    "answer": "The code for the Computer Aided Simulation And Analysis Laboratory Manual is 11412/2022-CO.",
+    "format": "factoid",
+    "section": "5. Copyright filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who filed a copyright for the Computer Aided Simulation And Analysis Laboratory Manual?",
+    "answer": "Dr. B. Janarthanan, Mr. P. Saravanan, and Mr. S.R. Mohan filed a copyright for the Computer Aided Simulation And Analysis Laboratory Manual.",
+    "format": "factoid",
+    "section": "5. Copyright filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the code for the Computer Aided Machine Drawing Laboratory Manual?",
+    "answer": "The code for the Computer Aided Machine Drawing Laboratory Manual is 11409/2022-CO.",
+    "format": "factoid",
+    "section": "5. Copyright filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who filed a copyright for the Computer Aided Machine Drawing Laboratory Manual?",
+    "answer": "Dr. R. Senthil Kumar, Mr. P. Saravanan, and Mr. D. Sakthivel filed a copyright for the Computer Aided Machine Drawing Laboratory Manual.",
+    "format": "factoid",
+    "section": "5. Copyright filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the code for the Revit Architecture Lab Manual?",
+    "answer": "The code for the Revit Architecture Lab Manual is 22218/2021-CO.",
+    "format": "factoid",
+    "section": "5. Copyright filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who filed a copyright for the Revit Architecture Lab Manual?",
+    "answer": "Dr. K.S. Srinivasan (Principal), Dr. I. Manju, and Ms. K. Gayathri filed a copyright for the Revit Architecture Lab Manual.",
+    "format": "factoid",
+    "section": "5. Copyright filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the code for the Bot Lab Manual?",
+    "answer": "The code for the Bot Lab Manual is 22219/2021-CO.",
+    "format": "factoid",
+    "section": "5. Copyright filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who filed a copyright for the Bot Lab Manual?",
+    "answer": "Dr. K.S. Srinivasan (Principal), Dr. I. Manju, and Mr. K. Vairaperumal filed a copyright for the Bot Lab Manual.",
+    "format": "factoid",
+    "section": "5. Copyright filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who filed a patent titled Design and implementation of a disaster management system using IoT and cloud computing techniques for a connected building to save lives with early warnings?",
+    "answer": "Dr. E. Dhiravidachelvi filed a patent titled Design and implementation of a disaster management system using IoT and cloud computing techniques for a connected building to save lives with early warnings, with the patent number 2020101867.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for Design and implementation of a disaster management system using IoT and cloud computing techniques for a connected building to save lives with early warnings?",
+    "answer": "The patent number for Design and implementation of a disaster management system using IoT and cloud computing techniques for a connected building to save lives with early warnings is 2020101867.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who jointly filed a patent for Vehicular Edge Computing Using A Smart Embedded System For Intelligent Transportation?",
+    "answer": "Dr. E. Dhiravidachelvi, Mrs. E. Jayanthi, Mrs. I. Suganthi, Mr. J. Raja, and Mr. S. Naveenkumar jointly filed a patent for Vehicular Edge Computing Using A Smart Embedded System For Intelligent Transportation, with patent number 202041033273.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for Vehicular Edge Computing Using A Smart Embedded System For Intelligent Transportation?",
+    "answer": "The patent number for Vehicular Edge Computing Using A Smart Embedded System For Intelligent Transportation is 202041033273.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who filed a patent for a Battery Swapping Smart Station for Future E-Vehicle Transportation?",
+    "answer": "Mr. K. Vairaperumal filed a patent for a Battery Swapping Smart Station for Future E-Vehicle Transportation, bearing the number 202141021897 A.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for a Battery Swapping Smart Station for Future E-Vehicle Transportation?",
+    "answer": "The patent number for a Battery Swapping Smart Station for Future E-Vehicle Transportation is 202141021897 A.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who filed a patent for A Vehicle Tire Control System at curved roads using intelligent interfaces and support vector machines?",
+    "answer": "Mr. Chintala Venkatesh filed a patent for A Vehicle Tire Control System at curved roads using intelligent interfaces and support vector machines, which is registered under 202141025111 A.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for A Vehicle Tire Control System at curved roads using intelligent interfaces and support vector machines?",
+    "answer": "The patent number for A Vehicle Tire Control System at curved roads using intelligent interfaces and support vector machines is 202141025111 A.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who filed a patent for a Real time based IOT Enabled Smart Metering System?",
+    "answer": "Mrs. D. Hema Sumitha filed a patent for a Real time based IOT Enabled Smart Metering System under the number 202141026200 A.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for a Real time based IOT Enabled Smart Metering System?",
+    "answer": "The patent number for a Real time based IOT Enabled Smart Metering System is 202141026200 A.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who jointly filed a patent for Fundamentals of Electrical Measuring Instruments?",
+    "answer": "Mrs. G. Premalatha and Dr. E. Dhiravidachelvi jointly filed a patent for Fundamentals of Electrical Measuring Instruments with the number 202141014294 A.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for Fundamentals of Electrical Measuring Instruments?",
+    "answer": "The patent number for Fundamentals of Electrical Measuring Instruments is 202141014294 A.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who filed a patent for a Wireless sensor network for long-term environmental checking for internet of things application?",
+    "answer": "Mr. M. Kamarajan and Mr. M. Ashokkumar filed a patent for a Wireless sensor network for long-term environmental checking for internet of things application, with the number 202141061248.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for a Wireless sensor network for long-term environmental checking for internet of things application?",
+    "answer": "The patent number for a Wireless sensor network for long-term environmental checking for internet of things application is 202141061248.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who filed a patent for a Deep learning based automatic eye cataract detection algorithm using MATLAB?",
+    "answer": "Mr. M. Kamarajan filed a patent for a Deep learning based automatic eye cataract detection algorithm using MATLAB under 202141061583A.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for a Deep learning based automatic eye cataract detection algorithm using MATLAB?",
+    "answer": "The patent number for a Deep learning based automatic eye cataract detection algorithm using MATLAB is 202141061583A.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who filed a patent for a Refrigerator with food warming apparatus attachment?",
+    "answer": "Mr. S.R. Mohan filed a patent for a Refrigerator with food warming apparatus attachment with the number 365189001.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for a Refrigerator with food warming apparatus attachment?",
+    "answer": "The patent number for a Refrigerator with food warming apparatus attachment is 365189001.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who filed a patent for A method and a device of Wireless Master Joystick Controller for Robotics?",
+    "answer": "Mr. D. Weslin and Mr. V. Vigneshwaran filed a patent for A method and a device of Wireless Master Joystick Controller for Robotics under 202241071210.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for A method and a device of Wireless Master Joystick Controller for Robotics?",
+    "answer": "The patent number for A method and a device of Wireless Master Joystick Controller for Robotics is 202241071210.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who filed a patent for A Smart Device to Monitoring the Optic Cable and Inform the Users in Case of any Discrepancies?",
+    "answer": "Dr. K.S. Srinivasan (TNSCST) and Mrs. Jayanthi filed a patent for A Smart Device to Monitoring the Optic Cable and Inform the Users in Case of any Discrepancies with the number 202241071306.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for A Smart Device to Monitoring the Optic Cable and Inform the Users in Case of any Discrepancies?",
+    "answer": "The patent number for A Smart Device to Monitoring the Optic Cable and Inform the Users in Case of any Discrepancies is 202241071306.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who filed a patent for Machine Learning - based closed-loop mixture of concrete equipment and the method?",
+    "answer": "Dr. Someshwaran and Mr. Tharani Kumar filed a patent for Machine Learning - based closed-loop mixture of concrete equipment and the method under 202241071309.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for Machine Learning - based closed-loop mixture of concrete equipment and the method?",
+    "answer": "The patent number for Machine Learning - based closed-loop mixture of concrete equipment and the method is 202241071309.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who filed a patent for Dedicated drone-based testing of building's strength located in a hazardous environment?",
+    "answer": "Dr. Balakrishnan and Mr. Vinothkumar filed a patent for Dedicated drone-based testing of building's strength located in a hazardous environment with the number 202241071308.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for Dedicated drone-based testing of building's strength located in a hazardous environment?",
+    "answer": "The patent number for Dedicated drone-based testing of building's strength located in a hazardous environment is 202241071308.",
+    "format": "factoid",
+    "section": "3. Patent Filed",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the name of the college that has published many patents?",
+    "answer": "Mohamed Sathak A.J. College of Engineering (MSAJCE)",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who published a patent for Design and implementation of a disaster management system using IoT and cloud computing techniques?",
+    "answer": "Dr. E. Dhiravidachelvi",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for Design and implementation of a disaster management system using IoT and cloud computing techniques?",
+    "answer": "2020101867",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who published a patent for Vehicular Edge Computing Using A Smart Embedded System For Intelligent Transportation?",
+    "answer": "Dr. E. Dhiravidachelvi, Mrs. E. Jayanthi, Mrs. I. Suganthi, Mr. J. Raja, and Mr. S. Naveenkumar",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for Vehicular Edge Computing Using A Smart Embedded System For Intelligent Transportation?",
+    "answer": "202041033273",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "How can the application statuses of these patents be checked?",
+    "answer": "The application statuses of these patents can be checked online.",
+    "format": "procedural",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who published a patent for A Vehicle Tire Control System at curved roads using intelligent interfaces and support vector machines?",
+    "answer": "Mr. Chintala Venkatesh",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for A Vehicle Tire Control System at curved roads using intelligent interfaces and support vector machines?",
+    "answer": "202141025111 A",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who published a patent for a Real time based IOT Enabled Smart Metering System?",
+    "answer": "Mrs. D. Hema Sumitha",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for a Real time based IOT Enabled Smart Metering System?",
+    "answer": "202141026200 A",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who published a patent for Fundamentals of Electrical Measuring Instruments?",
+    "answer": "Mrs. G. Premalatha and Dr. E. Dhiravidachelvi",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for Fundamentals of Electrical Measuring Instruments?",
+    "answer": "202141014294 A",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who published a patent for a Wireless sensor network for long-term environmental checking for internet of things application?",
+    "answer": "Mr. M. Kamarajan and Mr. M. Ashokkumar",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for a Wireless sensor network for long-term environmental checking for internet of things application?",
+    "answer": "202141061248",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who published a patent for a Deep learning based automatic eye cataract detection algorithm using MATLAB?",
+    "answer": "Mr. M. Kamarajan",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for a Deep learning based automatic eye cataract detection algorithm using MATLAB?",
+    "answer": "202141061583A",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who published a patent for a Refrigerator with food warming apparatus attachment?",
+    "answer": "Mr. S.R. Mohan",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for a Refrigerator with food warming apparatus attachment?",
+    "answer": "365189001",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who published a patent for A method and a device of Wireless Master Joystick Controller for Robotics?",
+    "answer": "Mr. D. Weslin and Mr. V. Vigneshwaran",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for A method and a device of Wireless Master Joystick Controller for Robotics?",
+    "answer": "202241071210",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who published a patent for A Smart Device to Monitoring the Optic Cable and Inform the Users in Case of any Discrepancies?",
+    "answer": "Dr. K.S. Srinivasan (TNSCST) and Mrs. Jayanthi",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for A Smart Device to Monitoring the Optic Cable and Inform the Users in Case of any Discrepancies?",
+    "answer": "202241071306",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who published a patent for Machine Learning - based closed-loop mixture of concrete equipment and the method?",
+    "answer": "Dr. Someshwaran and Mr. Tharani Kumar",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for Machine Learning - based closed-loop mixture of concrete equipment and the method?",
+    "answer": "202241071309",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who published a patent for Dedicated drone-based testing of building's strength located in a hazardous environment?",
+    "answer": "Dr. Balakrishnan and Mr. Vinothkumar",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for Dedicated drone-based testing of building's strength located in a hazardous environment?",
+    "answer": "202241071308",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who published a patent for an Unmanned Aerial Vehicle?",
+    "answer": "Dr. B. Janarthanam",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for an Unmanned Aerial Vehicle?",
+    "answer": "202041047806 A",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who published a patent for a Computer implemented method of image classification with extreme learning machine?",
+    "answer": "Mr. S. Senthil Pandi Sankareswaran",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for a Computer implemented method of image classification with extreme learning machine?",
+    "answer": "201941054497 A",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who published a patent for An AI and ML based system for building architecture and map designing?",
+    "answer": "Mr. A. Syed Ismail",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for An AI and ML based system for building architecture and map designing?",
+    "answer": "202141050400",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who published a patent for Real time crowd analysis using static video surveillance?",
+    "answer": "Mrs. G. Premalatha and Dr. E. Dhiravidachelvi",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for Real time crowd analysis using static video surveillance?",
+    "answer": "202141014294",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who published a patent for Study on Mechanical Characterization of Graphene reinforced Aluminium Metal Matrix Composites?",
+    "answer": "Mr. S.R. Mohan, Mr. V. Vigneshwaran, and Mr. D. Sakthivel",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for Study on Mechanical Characterization of Graphene reinforced Aluminium Metal Matrix Composites?",
+    "answer": "202141012155",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who published a patent for Friction stir welding of dissimilar aluminium alloys using tapered threaded tool profile?",
+    "answer": "Dr. S. Prasath",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for Friction stir welding of dissimilar aluminium alloys using tapered threaded tool profile?",
+    "answer": "202141005812",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who published a patent for Type 2 Diabetes detection and estimation from glucose levels by feature detection using machine learning algorithm?",
+    "answer": "Dr. B. Muthu Kumar",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for Type 2 Diabetes detection and estimation from glucose levels by feature detection using machine learning algorithm?",
+    "answer": "202041023885",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who published a patent for a Smart Painting Roller with Temperature Sensor to Detect the Temperature of Wall and Paint?",
+    "answer": "Dr. G Ramesh and Mr. S Syed Abudhahir",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for a Smart Painting Roller with Temperature Sensor to Detect the Temperature of Wall and Paint?",
+    "answer": "202241071203",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who published a patent for Design a Micro Strip Patch for Spectrum Utilization in Cognitive Radio Networks?",
+    "answer": "Mrs. I.S. Suganthi and Mrs. Priyadharshini",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for Design a Micro Strip Patch for Spectrum Utilization in Cognitive Radio Networks?",
+    "answer": "202241071307",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who published a patent for ML Strategy for Performance Enhancement of Phase Change Material for a Smart Control Solar Application?",
+    "answer": "Dr. I Manju and Mr. C. Venkatesh",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the patent number for ML Strategy for Performance Enhancement of Phase Change Material for a Smart Control Solar Application?",
+    "answer": "202241071305",
+    "format": "factoid",
+    "section": "4. Patent Published",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What are the names of the faculty members who have authored books?",
+    "answer": "Dr. K.S. Srinivasan, Dr. E. Dhiravidachelvi, Dr. P. Subramanian, Mr. D. Weslin, Mr. C. Daniel, Mr. S. Senthil Pandi, Dr. I. Manju, Mrs. G. Premalatha",
+    "format": "factoid",
+    "section": "6. Books and Book Chapters & 7. List of Supervisors",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What are the titles of the books authored by Dr. K.S. Srinivasan?",
+    "answer": "Communication Theory, Principles of Communication Engineering, Electric Circuits and Electronic Devices, Basic Electrical and Electronics Engineering, Digital Communication, Electronic Devices, Electronic Devices and Circuits, Electronic Circuits I, Electronic Circuits II, Electronics and Microprocessors, Digital Signal Processing, Electric Circuit Theory, Electronic Devices and Circuits as per the JNTU Syllabus",
+    "format": "factoid",
+    "section": "6. Books and Book Chapters & 7. List of Supervisors",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What are the titles of the books authored by Dr. E. Dhiravidachelvi?",
+    "answer": "Fundamentals of Electrical Measuring Instruments, Data Science for COVID-19, Applications of Big Data in Health Care",
+    "format": "factoid",
+    "section": "6. Books and Book Chapters & 7. List of Supervisors",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What are the ISBN numbers of the books authored by Dr. K.S. Srinivasan?",
+    "answer": "978-81-89638-43-6, 978-81-87721-95-6, 978-81-8472-085-3, 978-81-8472-086-0, 978-81-89638-19-1, 978-81-8472-254-3, 978-81-8472-101-0, 978-81-8472-100-3, 978-81-89638-16-0, 978-81-89638-19-1, 81-87721-46-4, 978-81-938894-2-8, 978-81-89638-08-5",
+    "format": "factoid",
+    "section": "6. Books and Book Chapters & 7. List of Supervisors",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What are the ISBN numbers of the books authored by Dr. E. Dhiravidachelvi?",
+    "answer": "1-978-93-83409-35-8, 978-0-12-824536-1, 978-0-820203-6, 978-93-83409-35-8",
+    "format": "factoid",
+    "section": "6. Books and Book Chapters & 7. List of Supervisors",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "Who are the co-authors of the book 'Wireless Sensor Networks'?",
+    "answer": "Dr. K.S. Srinivasan, Dr. P. Subramanian, Mr. D. Weslin",
+    "format": "factoid",
+    "section": "6. Books and Book Chapters & 7. List of Supervisors",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What is the title of the book authored by Mr. C. Daniel?",
+    "answer": "Impact of Lockdown for Research Scholars",
+    "format": "factoid",
+    "section": "6. Books and Book Chapters & 7. List of Supervisors",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What are the titles of the books authored by Mr. S. Senthil Pandi?",
+    "answer": "Machine Learning, Computer Networks",
+    "format": "factoid",
+    "section": "6. Books and Book Chapters & 7. List of Supervisors",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What are the names of the supervisors for research at MSAJCE?",
+    "answer": "Dr. K.S. Srinivasan, Dr. I. Manju, Dr. B. Janarthanan, Dr. G. Ramesh, Dr. S. Prasath, Dr. A. Suvitha, Dr. M. Vigneshkumar",
+    "format": "factoid",
+    "section": "6. Books and Book Chapters & 7. List of Supervisors",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What are the areas of supervision for Dr. K.S. Srinivasan?",
+    "answer": "VLSI Design, Digital Signal and Image Processing",
+    "format": "factoid",
+    "section": "6. Books and Book Chapters & 7. List of Supervisors",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What are the areas of supervision for Dr. I. Manju?",
+    "answer": "VLSI Design and Video Processing",
+    "format": "factoid",
+    "section": "6. Books and Book Chapters & 7. List of Supervisors",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What are the areas of supervision for Dr. B. Janarthanan?",
+    "answer": "Machine Design, Mechanical Vibrations, and Vehicle Dynamics",
+    "format": "factoid",
+    "section": "6. Books and Book Chapters & 7. List of Supervisors",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What are the areas of supervision for Dr. G. Ramesh?",
+    "answer": "Natural Fiber, Composite Material, and Mathematical Modeling",
+    "format": "factoid",
+    "section": "6. Books and Book Chapters & 7. List of Supervisors",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What are the areas of supervision for Dr. S. Prasath?",
+    "answer": "Welding Technology, Materials Engineering, and Manufacturing Engineering",
+    "format": "factoid",
+    "section": "6. Books and Book Chapters & 7. List of Supervisors",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What are the areas of supervision for Dr. A. Suvitha?",
+    "answer": "Inorganic Chemistry",
+    "format": "factoid",
+    "section": "6. Books and Book Chapters & 7. List of Supervisors",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  },
+  {
+    "question": "What are the areas of supervision for Dr. M. Vigneshkumar?",
+    "answer": "Remote Sensing, GIS, Survey and Geology, and Environmental Engineering",
+    "format": "factoid",
+    "section": "6. Books and Book Chapters & 7. List of Supervisors",
+    "source_file": "msajce_research.md",
+    "category": "Research & Publications"
+  }
+]

@@ -1,0 +1,330 @@
+[
+  {
+    "question": "What is the purpose of the SOCIALSERVICES section in the MSAJCE documentation?",
+    "answer": "The SOCIALSERVICES section is not explicitly mentioned in the provided context, but based on the title, it can be inferred that this section deals with the social services provided by the college.",
+    "format": "exploratory",
+    "section": "SOCIALSERVICES",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "Is there any information about the social services provided by MSAJCE in this context?",
+    "answer": "No, there is no information about the social services provided by MSAJCE in this context.",
+    "format": "yes_no",
+    "section": "SOCIALSERVICES",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the format of the SOCIALSERVICES section in the MSAJCE documentation?",
+    "answer": "The SOCIALSERVICES section is formatted as a heading with a title.",
+    "format": "factoid",
+    "section": "SOCIALSERVICES",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "Is there any information about the policies or procedures related to social services in this context?",
+    "answer": "No, there is no information about the policies or procedures related to social services in this context.",
+    "format": "yes_no",
+    "section": "SOCIALSERVICES",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "How many sections are there in the MSAJCE documentation?",
+    "answer": "There is at least one section, which is the SOCIALSERVICES section.",
+    "format": "factoid",
+    "section": "SOCIALSERVICES",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "Is there any information about the names of people involved in social services in this context?",
+    "answer": "No, there is no information about the names of people involved in social services in this context.",
+    "format": "yes_no",
+    "section": "SOCIALSERVICES",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the code or identifier for the SOCIALSERVICES section in the MSAJCE documentation?",
+    "answer": "There is no code or identifier mentioned for the SOCIALSERVICES section in this context.",
+    "format": "factoid",
+    "section": "SOCIALSERVICES",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "Is there any information about the links or resources related to social services in this context?",
+    "answer": "No, there is no information about the links or resources related to social services in this context.",
+    "format": "yes_no",
+    "section": "SOCIALSERVICES",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "When was the National Service Scheme (NSS) established at Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The National Service Scheme (NSS) was established at Mohamed Sathak A.J. College of Engineering in 2001.",
+    "format": "factoid",
+    "section": "1. NSS",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the primary goal of the NSS unit at MSAJCE?",
+    "answer": "The primary objectives of the NSS unit are multifaceted, including working among the people, enhancing the knowledge of themselves and the community, and applying their studies to practical use in addressing real-world difficulties.",
+    "format": "exploratory",
+    "section": "1. NSS",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What are some of the events organized by the NSS unit at MSAJCE?",
+    "answer": "The NSS unit has organized numerous events and activities, including blood donation camps, awareness programs on health and hygiene, consumer rights, environmental protection, and AIDS awareness programs.",
+    "format": "factoid",
+    "section": "1. NSS",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the role of NSS volunteers in the community?",
+    "answer": "NSS volunteers are expected to establish relationships with the society, identify needs, problems, and resources within the community, and relate their learning experiences to finding solutions to the problems identified.",
+    "format": "exploratory",
+    "section": "1. NSS",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the code of conduct for NSS volunteers at MSAJCE?",
+    "answer": "A code of conduct has been established for NSS volunteers, emphasizing the importance of working under the guidance of a group leader nominated by the program officer, maintaining the confidence and cooperation of the group and community leadership, and avoiding controversial issues.",
+    "format": "procedural",
+    "section": "1. NSS",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What events does the NSS section at MSAJCE organize to commemorate national importance days?",
+    "answer": "The NSS section organizes various events to commemorate national importance days, including National Youth Day, Independence Day, and Republic Day, as well as Road Safety Week.",
+    "format": "factoid",
+    "section": "1. NSS",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What notable events were organized by the NSS section in recent months?",
+    "answer": "The NSS section organized several notable events, including a Tobacco Awareness Rally, an Eye Screening Camp, a Cancer Awareness Rally, a Blood Donation Camp, and a Kavalan SOS App Awareness Program.",
+    "format": "factoid",
+    "section": "1. NSS",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the objective of the Financial Education Program conducted by the NSS section?",
+    "answer": "The Financial Education Program aimed to equip students with essential knowledge about personal finance and its management.",
+    "format": "exploratory",
+    "section": "1. NSS",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the focus of the Drug Awareness Program for School Students?",
+    "answer": "The Drug Awareness Program for School Students aimed to educate school students about the risks associated with drug addiction and promote a healthy lifestyle.",
+    "format": "exploratory",
+    "section": "1. NSS",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the primary goal of the YRC club?",
+    "answer": "The primary goals of the YRC club include conducting social and health awareness programs, educating students on the importance of maintaining their own health and that of others, and encouraging them to extend their humanitarian services to society.",
+    "format": "factoid",
+    "section": "2. YRC Club & 3. Unnat Bharath Abiyan ( UBA )",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "How many active members are there in the YRC club?",
+    "answer": "The YRC club has grown to comprise around 100 active members.",
+    "format": "factoid",
+    "section": "2. YRC Club & 3. Unnat Bharath Abiyan ( UBA )",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the First Aid Training offered by the YRC club?",
+    "answer": "The club offers First Aid Training to all its volunteers, equipping them with essential skills to make a positive impact.",
+    "format": "factoid",
+    "section": "2. YRC Club & 3. Unnat Bharath Abiyan ( UBA )",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the vision of transformational change in rural development processes?",
+    "answer": "The Unnat Bharat Abhiyan initiative draws inspiration from the vision of transformational change in rural development processes, which aims to promote the development of rural areas in line with Gandhi's vision of self-sufficient 'village republics'.",
+    "format": "exploratory",
+    "section": "2. YRC Club & 3. Unnat Bharath Abiyan ( UBA )",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the primary developmental disconnect that the Unnat Bharat Abhiyan initiative aims to address?",
+    "answer": "A significant developmental disconnect exists between rural and urban areas, with increasing urbanization being neither sustainable nor desirable.",
+    "format": "factoid",
+    "section": "2. YRC Club & 3. Unnat Bharath Abiyan ( UBA )",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the mission of the Unnat Bharat Abhiyan initiative?",
+    "answer": "The mission is conceptualized as a movement that enables processes connecting institutes of higher education with local communities, facilitating addressing the development challenges of rural India through participatory processes and the application of suitable technologies to accelerate sustainable growth.",
+    "format": "exploratory",
+    "section": "2. YRC Club & 3. Unnat Bharath Abiyan ( UBA )",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the primary objective of the YRC club?",
+    "answer": "By fostering a spirit of service and sense of duty among its members, the YRC club strives to promote a culture of selflessness and compassion.",
+    "format": "factoid",
+    "section": "2. YRC Club & 3. Unnat Bharath Abiyan ( UBA )",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the significance of the YRC club's activities?",
+    "answer": "Through its activities, the YRC club at MSAJCE seeks to promote a sense of unity and friendship among its members, transcending all forms of discrimination.",
+    "format": "exploratory",
+    "section": "2. YRC Club & 3. Unnat Bharath Abiyan ( UBA )",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the ultimate goal of the YRC club?",
+    "answer": "The club aims to cultivate a community of young individuals who are committed to serving others and making a meaningful difference in the world.",
+    "format": "factoid",
+    "section": "2. YRC Club & 3. Unnat Bharath Abiyan ( UBA )",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the name of the college mentioned in the context?",
+    "answer": "Mohamed Sathak A.J. College of Engineering (MSAJCE)",
+    "format": "factoid",
+    "section": "4. Activities",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What was the date of the Blood Donation Camp organized by MSAJCE in collaboration with Right Hospitals?",
+    "answer": "May 13, 2022",
+    "format": "factoid",
+    "section": "4. Activities",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What was the objective of the COVID-19 Awareness Programme organized by MSAJCE on February 5, 2020?",
+    "answer": "To benefit the students of Government Hr Sec School, Sholinganallur",
+    "format": "exploratory",
+    "section": "4. Activities",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What was the date of the COVID Vaccination Camp - Phase 1 organized by MSAJCE?",
+    "answer": "April 7, 2021",
+    "format": "factoid",
+    "section": "4. Activities",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What was the objective of the Talent Hunt Competition organized by MSAJCE on February 28, 2021?",
+    "answer": "To engage with school students from various places in Chennai",
+    "format": "exploratory",
+    "section": "4. Activities",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What was the date of the World Environmental Day Competition organized by MSAJCE in 2019?",
+    "answer": "June 5, 2019",
+    "format": "factoid",
+    "section": "4. Activities",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What was the objective of the Swachh Bharat initiative organized by MSAJCE on October 2, 2018?",
+    "answer": "To create awareness among students about individual and social responsibility",
+    "format": "exploratory",
+    "section": "4. Activities",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What was the date of the Dengue Awareness Programme organized by MSAJCE in 2018?",
+    "answer": "August 17, 2018",
+    "format": "factoid",
+    "section": "4. Activities",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What was the objective of the Blind Walk organized by MSAJCE in 2017?",
+    "answer": "To benefit the Siruseri Village People",
+    "format": "exploratory",
+    "section": "4. Activities",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What was the date of the BIRIYANI BUCKET CHALLENGE organized by MSAJCE in 2017?",
+    "answer": "December 31, 2017",
+    "format": "factoid",
+    "section": "4. Activities",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What was the objective of the TURTILE WALK 3.0 event organized by MSAJCE in 2018?",
+    "answer": "To engage the general public nearby the seashore",
+    "format": "exploratory",
+    "section": "4. Activities",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What was the date of the FIRST AID AWARENESS PROGRAMME organized by MSAJCE in 2018?",
+    "answer": "May 20, 2018",
+    "format": "factoid",
+    "section": "4. Activities",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What was the objective of the REGREEN CHENNAI MARATHON organized by MSAJCE in 2017?",
+    "answer": "To target people in and around Mathyakailash to Sholinganallur",
+    "format": "exploratory",
+    "section": "4. Activities",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What was the date of the MEDICAL CAMP AT THALAMPUR organized by MSAJCE in 2017?",
+    "answer": "February 17, 2017",
+    "format": "factoid",
+    "section": "4. Activities",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What was the objective of the VILLEGE CLEANING PROGRAMME organized by MSAJCE in 2016?",
+    "answer": "To target the people of Siruseri Village",
+    "format": "exploratory",
+    "section": "4. Activities",
+    "source_file": "msajce_socialservices.md",
+    "category": "General — MSAJCE"
+  }
+]

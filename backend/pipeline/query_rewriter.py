@@ -104,22 +104,36 @@ class QueryRewriter:
                 "Output ONLY the optimized, clean rewritten question without quotation marks or extra text."
             )
 
+        gateway_url = "http://localhost:3001"
         try:
-            res = requests.post(
-                "https://integrate.api.nvidia.com/v1/chat/completions",
-                headers={
-                    "Authorization": f"Bearer {self._api_key}",
-                    "Content-Type":  "application/json",
-                },
-                json={
-                    "model":       "meta/llama-3.1-8b-instruct",
-                    "messages":    [{"role": "user", "content": prompt}],
-                    "temperature": 0.0,
-                    "max_tokens":  200,
-                },
-                timeout=REWRITE_TIMEOUT_SEC,
-            )
-            res.raise_for_status()
+            try:
+                res = requests.post(
+                    f"{gateway_url}/v1/chat/completions",
+                    headers={"Content-Type": "application/json"},
+                    json={
+                        "model":       "deepseek/deepseek-v4-0709",
+                        "messages":    [{"role": "user", "content": prompt}],
+                        "temperature": 0.0,
+                        "max_tokens":  200,
+                    },
+                    timeout=REWRITE_TIMEOUT_SEC,
+                )
+                res.raise_for_status()
+            except Exception:
+                # Fallback to NVIDIA NIM
+                res = requests.post(
+                    "https://integrate.api.nvidia.com/v1/chat/completions",
+                    headers={"Authorization": f"Bearer {self._api_key}", "Content-Type": "application/json"},
+                    json={
+                        "model":       "meta/llama-3.1-8b-instruct",
+                        "messages":    [{"role": "user", "content": prompt}],
+                        "temperature": 0.0,
+                        "max_tokens":  200,
+                    },
+                    timeout=REWRITE_TIMEOUT_SEC,
+                )
+                res.raise_for_status()
+
             rewritten = res.json()["choices"][0]["message"]["content"].strip()
             # Strip any leading labels the model might add
             rewritten = re.sub(r"^(Standalone question:|Rewritten:|Question:)\s*", "", rewritten, flags=re.IGNORECASE).strip()

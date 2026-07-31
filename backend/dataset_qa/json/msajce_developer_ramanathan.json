@@ -1,0 +1,274 @@
+[
+  {
+    "question": "What is the name of the creator of the Lorin AI Chatbot?",
+    "answer": "Ramanathan S.",
+    "format": "factoid",
+    "section": "Developer Profile — Ramanathan S. (Creator of Lorin AI Chatbot) & 1. Document Metadata & 2. Developer Biography and Personal Background & 3. Core Engineering Capabilities and Technical Stack",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the name of the college where Ramanathan S. is pursuing his degree?",
+    "answer": "Mohamed Sathak A.J. College of Engineering (MSAJCE)",
+    "format": "factoid",
+    "section": "Developer Profile — Ramanathan S. (Creator of Lorin AI Chatbot) & 1. Document Metadata & 2. Developer Biography and Personal Background & 3. Core Engineering Capabilities and Technical Stack",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the degree that Ramanathan S. is pursuing?",
+    "answer": "Bachelor of Technology in Information Technology",
+    "format": "factoid",
+    "section": "Developer Profile — Ramanathan S. (Creator of Lorin AI Chatbot) & 1. Document Metadata & 2. Developer Biography and Personal Background & 3. Core Engineering Capabilities and Technical Stack",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the batch number of Ramanathan S.?",
+    "answer": "2024-2028",
+    "format": "factoid",
+    "section": "Developer Profile — Ramanathan S. (Creator of Lorin AI Chatbot) & 1. Document Metadata & 2. Developer Biography and Personal Background & 3. Core Engineering Capabilities and Technical Stack",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What are the areas of specialization of Ramanathan S.?",
+    "answer": "Java Backend Development, Spring Boot Microservices, Full-Stack Architecture, and AI Systems",
+    "format": "factoid",
+    "section": "Developer Profile — Ramanathan S. (Creator of Lorin AI Chatbot) & 1. Document Metadata & 2. Developer Biography and Personal Background & 3. Core Engineering Capabilities and Technical Stack",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the URL of Ramanathan S.'s personal portfolio website?",
+    "answer": "https://ramanathanportfolio.vercel.app",
+    "format": "factoid",
+    "section": "Developer Profile — Ramanathan S. (Creator of Lorin AI Chatbot) & 1. Document Metadata & 2. Developer Biography and Personal Background & 3. Core Engineering Capabilities and Technical Stack",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is Ramanathan S.'s current academic performance score?",
+    "answer": "7.75 Cumulative Grade Point Average (CGPA)",
+    "format": "factoid",
+    "section": "Developer Profile — Ramanathan S. (Creator of Lorin AI Chatbot) & 1. Document Metadata & 2. Developer Biography and Personal Background & 3. Core Engineering Capabilities and Technical Stack",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What programming languages and technologies is Ramanathan S. proficient in?",
+    "answer": "Java, Spring Boot, Spring Data Java Persistence API, Hibernate, RESTful API design, input validation, and server architecture for scalable backend systems",
+    "format": "factoid",
+    "section": "Developer Profile — Ramanathan S. (Creator of Lorin AI Chatbot) & 1. Document Metadata & 2. Developer Biography and Personal Background & 3. Core Engineering Capabilities and Technical Stack",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the name of the cloud vector database that Ramanathan S. is experienced in implementing?",
+    "answer": "Qdrant Cloud Vector Database",
+    "format": "factoid",
+    "section": "Developer Profile — Ramanathan S. (Creator of Lorin AI Chatbot) & 1. Document Metadata & 2. Developer Biography and Personal Background & 3. Core Engineering Capabilities and Technical Stack",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the name of the frontend framework that Ramanathan S. is skilled in?",
+    "answer": "React",
+    "format": "factoid",
+    "section": "Developer Profile — Ramanathan S. (Creator of Lorin AI Chatbot) & 1. Document Metadata & 2. Developer Biography and Personal Background & 3. Core Engineering Capabilities and Technical Stack",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the name of the library that Ramanathan S. is experienced in using for real-time communication?",
+    "answer": "Socket.IO",
+    "format": "factoid",
+    "section": "Developer Profile — Ramanathan S. (Creator of Lorin AI Chatbot) & 1. Document Metadata & 2. Developer Biography and Personal Background & 3. Core Engineering Capabilities and Technical Stack",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the name of the model that Ramanathan S. is experienced in using for Large Language Model pipelines?",
+    "answer": "Llama 3.1",
+    "format": "factoid",
+    "section": "Developer Profile — Ramanathan S. (Creator of Lorin AI Chatbot) & 1. Document Metadata & 2. Developer Biography and Personal Background & 3. Core Engineering Capabilities and Technical Stack",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the name of the cloud infrastructure that Ramanathan S. is experienced in using?",
+    "answer": "Amazon Web Services",
+    "format": "factoid",
+    "section": "Developer Profile — Ramanathan S. (Creator of Lorin AI Chatbot) & 1. Document Metadata & 2. Developer Biography and Personal Background & 3. Core Engineering Capabilities and Technical Stack",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the name of the hosting platform that Ramanathan S. is experienced in using?",
+    "answer": "Vercel",
+    "format": "factoid",
+    "section": "Developer Profile — Ramanathan S. (Creator of Lorin AI Chatbot) & 1. Document Metadata & 2. Developer Biography and Personal Background & 3. Core Engineering Capabilities and Technical Stack",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the name of the build tooling that Ramanathan S. is experienced in using?",
+    "answer": "Vite",
+    "format": "factoid",
+    "section": "Developer Profile — Ramanathan S. (Creator of Lorin AI Chatbot) & 1. Document Metadata & 2. Developer Biography and Personal Background & 3. Core Engineering Capabilities and Technical Stack",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the current status of Ramanathan S.'s job search?",
+    "answer": "He is actively seeking remote software engineering internships and full-time backend development positions available starting in Q1 2026.",
+    "format": "factoid",
+    "section": "Developer Profile — Ramanathan S. (Creator of Lorin AI Chatbot) & 1. Document Metadata & 2. Developer Biography and Personal Background & 3. Core Engineering Capabilities and Technical Stack",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the name of the intelligent retrieval-augmented generation assistant created by Ramanathan S.?",
+    "answer": "Lorin AI",
+    "format": "factoid",
+    "section": "4. Shipped Software Products and Portfolio Projects & 5. Professional Internship Experience & 6. Developer Summary and Contact Information",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What features does Lorin AI handle for student and public inquiries?",
+    "answer": "Lorin AI handles student and public inquiries regarding college admissions, department details, hostel amenities, transport routes, and campus placements.",
+    "format": "factoid",
+    "section": "4. Shipped Software Products and Portfolio Projects & 5. Professional Internship Experience & 6. Developer Summary and Contact Information",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the name of the caching layer used in Lorin AI?",
+    "answer": "PostgreSQL semantic caching layer",
+    "format": "factoid",
+    "section": "4. Shipped Software Products and Portfolio Projects & 5. Professional Internship Experience & 6. Developer Summary and Contact Information",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the name of the music management application developed by Ramanathan S.?",
+    "answer": "Listen Zenify",
+    "format": "factoid",
+    "section": "4. Shipped Software Products and Portfolio Projects & 5. Professional Internship Experience & 6. Developer Summary and Contact Information",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What features does Listen Zenify provide?",
+    "answer": "Listen Zenify provides audio streaming, custom playlist creation, user library synchronization, and real-time playback controls.",
+    "format": "factoid",
+    "section": "4. Shipped Software Products and Portfolio Projects & 5. Professional Internship Experience & 6. Developer Summary and Contact Information",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the name of the real-time reservation platform developed by Ramanathan S.?",
+    "answer": "ZenDrum Booking",
+    "format": "factoid",
+    "section": "4. Shipped Software Products and Portfolio Projects & 5. Professional Internship Experience & 6. Developer Summary and Contact Information",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What features does ZenDrum Booking provide?",
+    "answer": "ZenDrum Booking features instant slot locking using WebSockets, dynamic pricing calculations, automated booking confirmations, and digital receipts.",
+    "format": "factoid",
+    "section": "4. Shipped Software Products and Portfolio Projects & 5. Professional Internship Experience & 6. Developer Summary and Contact Information",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the name of the digital hostel operations platform developed by Ramanathan S.?",
+    "answer": "Zen Hostel",
+    "format": "factoid",
+    "section": "4. Shipped Software Products and Portfolio Projects & 5. Professional Internship Experience & 6. Developer Summary and Contact Information",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What features does Zen Hostel provide?",
+    "answer": "Zen Hostel streamlines room allocations, warden dashboards, student gatepass processing, and maintenance ticket resolution.",
+    "format": "factoid",
+    "section": "4. Shipped Software Products and Portfolio Projects & 5. Professional Internship Experience & 6. Developer Summary and Contact Information",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the name of the company where Ramanathan S. worked as a Backend Development Intern?",
+    "answer": "CodeAlpha",
+    "format": "factoid",
+    "section": "4. Shipped Software Products and Portfolio Projects & 5. Professional Internship Experience & 6. Developer Summary and Contact Information",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the duration of Ramanathan S.'s internship at CodeAlpha?",
+    "answer": "Remote internship from July 2026 to August 2026",
+    "format": "factoid",
+    "section": "4. Shipped Software Products and Portfolio Projects & 5. Professional Internship Experience & 6. Developer Summary and Contact Information",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the name of the company where Ramanathan S. worked as a Java Full-Stack Intern?",
+    "answer": "Apollo Computer Education Ltd",
+    "format": "factoid",
+    "section": "4. Shipped Software Products and Portfolio Projects & 5. Professional Internship Experience & 6. Developer Summary and Contact Information",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the duration of Ramanathan S.'s internship at Apollo Computer Education Ltd?",
+    "answer": "January 2026",
+    "format": "factoid",
+    "section": "4. Shipped Software Products and Portfolio Projects & 5. Professional Internship Experience & 6. Developer Summary and Contact Information",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the name of the chatbot developed by Ramanathan S.?",
+    "answer": "Lorin AI",
+    "format": "factoid",
+    "section": "4. Shipped Software Products and Portfolio Projects & 5. Professional Internship Experience & 6. Developer Summary and Contact Information",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is Ramanathan S.'s current academic status?",
+    "answer": "Third-year B.Tech Information Technology student",
+    "format": "factoid",
+    "section": "4. Shipped Software Products and Portfolio Projects & 5. Professional Internship Experience & 6. Developer Summary and Contact Information",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is Ramanathan S.'s CGPA?",
+    "answer": "7.75",
+    "format": "factoid",
+    "section": "4. Shipped Software Products and Portfolio Projects & 5. Professional Internship Experience & 6. Developer Summary and Contact Information",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is Ramanathan S.'s technical expertise?",
+    "answer": "Java Backend Development and Full-Stack Engineering",
+    "format": "factoid",
+    "section": "4. Shipped Software Products and Portfolio Projects & 5. Professional Internship Experience & 6. Developer Summary and Contact Information",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the name of Ramanathan S.'s personal portfolio website?",
+    "answer": "https://ramanathanportfolio.vercel.app",
+    "format": "factoid",
+    "section": "4. Shipped Software Products and Portfolio Projects & 5. Professional Internship Experience & 6. Developer Summary and Contact Information",
+    "source_file": "msajce_developer_ramanathan.md",
+    "category": "General — MSAJCE"
+  }
+]

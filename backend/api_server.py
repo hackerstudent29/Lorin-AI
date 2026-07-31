@@ -41,12 +41,22 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 NVIDIA_API_KEY = os.getenv("NVIDIA_API_KEY")
+VERCEL_AI_GATEWAY_KEY = os.getenv("AI_GATEWAY_API_KEY")
 QDRANT_URL     = os.getenv("QDRANT_URL")
 QDRANT_API_KEY = os.getenv("QDRANT_API_KEY")
 DATABASE_URL   = os.getenv("DATABASE_URL")
 
 qdrant_client   = QdrantClient(url=QDRANT_URL, api_key=QDRANT_API_KEY, timeout=30.0)
 COLLECTION_NAME = "college_knowledgebase"
+
+try:
+    qdrant_client.create_payload_index(
+        collection_name=COLLECTION_NAME,
+        field_name="source_file",
+        field_schema="keyword"
+    )
+except Exception as e:
+    pass
 
 # ── Initialise pipeline components at startup ─────────────────────────────────
 def _make_embed_fn():
@@ -56,12 +66,12 @@ def _make_embed_fn():
 
 bm25_manager        = BM25IndexManager(qdrant_client)
 spell_corrector     = SpellCorrector()
-faithfulness_checker = FaithfulnessChecker(NVIDIA_API_KEY)
+faithfulness_checker = FaithfulnessChecker(VERCEL_AI_GATEWAY_KEY or NVIDIA_API_KEY)
 
 def db_connect():
     return psycopg2.connect(DATABASE_URL)
 
-query_rewriter  = QueryRewriter(NVIDIA_API_KEY, db_conn_fn=db_connect)
+query_rewriter  = QueryRewriter(VERCEL_AI_GATEWAY_KEY or NVIDIA_API_KEY, db_conn_fn=db_connect)
 hybrid_retriever = None   # initialised after app startup (needs embed_fn)
 
 SEED_CACHE: list[dict] = [
@@ -125,14 +135,56 @@ All programmes are approved by AICTE and affiliated to Anna University, Chennai.
 Plus Architecture and Design programmes.""",
         "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Programmes Offered"}],
     },
+    {
+        "query": "need students who got scholarships from the batch of 2024-2028",
+        "answer": """Here is the list of students from the **2024-2028** batch who received the MSAJCE Alumni Scholarship:
+
+| Student Name | Department | Scholarship Date(s) | Details |
+| :--- | :--- | :--- | :--- |
+| **Mohamed Humdhan I** | Artificial Intelligence & Data Science (AIDS) | 09.07.2026, 10.05.2026 | Received sponsorship on two separate occasions. |
+| **Revathi A** | Electronics & Communication Engineering (ECE) | 07.03.2026 | Received sponsorship in March 2026. |
+| **Sireesh B** | Electronics & Communication Engineering (ECE) | 07.03.2026 | Received sponsorship in March 2026. |
+| **Mohammed Shahul Hameed B** | Electronics & Communication Engineering (ECE) | 06.03.2026 | Received sponsorship in March 2026. |
+| **Harini R** | Artificial Intelligence & Machine Learning (AIML) | 04.03.2026 | Received sponsorship in March 2026. |
+| **Jafeer Mohamed J** | Artificial Intelligence & Data Science (AIDS) | 04.03.2026 | Received sponsorship in March 2026. |
+| **Pirivindhan A** | Artificial Intelligence & Data Science (AIDS) | 26.02.2026 | Received sponsorship in February 2026. |
+| **Afreen Fathim S** | Electronics (VLSI Design & Technology) | 25.02.2026 | Received sponsorship in February 2026. |
+| **Afasr Ali N** | Artificial Intelligence & Machine Learning (AIML) | 24.02.2026 | Received sponsorship in February 2026. |
+| **Md Suhail F** | Computer Science & Engineering (CSE) | 22.02.2026 | Received sponsorship in February 2026. |""",
+        "citations": [{"source": "msajce_alumni.md", "page": "1", "section": "Alumni Scholarship Contribution"}],
+    },
+    {
+        "query": "students who got scholarships from the batch of 2024-2028",
+        "answer": """Here is the list of students from the **2024-2028** batch who received the MSAJCE Alumni Scholarship:
+
+| Student Name | Department | Scholarship Date(s) | Details |
+| :--- | :--- | :--- | :--- |
+| **Mohamed Humdhan I** | Artificial Intelligence & Data Science (AIDS) | 09.07.2026, 10.05.2026 | Received sponsorship on two separate occasions. |
+| **Revathi A** | Electronics & Communication Engineering (ECE) | 07.03.2026 | Received sponsorship in March 2026. |
+| **Sireesh B** | Electronics & Communication Engineering (ECE) | 07.03.2026 | Received sponsorship in March 2026. |
+| **Mohammed Shahul Hameed B** | Electronics & Communication Engineering (ECE) | 06.03.2026 | Received sponsorship in March 2026. |
+| **Harini R** | Artificial Intelligence & Machine Learning (AIML) | 04.03.2026 | Received sponsorship in March 2026. |
+| **Jafeer Mohamed J** | Artificial Intelligence & Data Science (AIDS) | 04.03.2026 | Received sponsorship in March 2026. |
+| **Pirivindhan A** | Artificial Intelligence & Data Science (AIDS) | 26.02.2026 | Received sponsorship in February 2026. |
+| **Afreen Fathim S** | Electronics (VLSI Design & Technology) | 25.02.2026 | Received sponsorship in February 2026. |
+| **Afasr Ali N** | Artificial Intelligence & Machine Learning (AIML) | 24.02.2026 | Received sponsorship in February 2026. |
+| **Md Suhail F** | Computer Science & Engineering (CSE) | 22.02.2026 | Received sponsorship in February 2026. |""",
+        "citations": [{"source": "msajce_alumni.md", "page": "1", "section": "Alumni Scholarship Contribution"}],
+    },
 ]
+
+def normalize_query_for_hash(query: str) -> str:
+    """Normalize query by stripping whitespace, trailing punctuation, and lowercasing."""
+    if not query:
+        return ""
+    return query.strip().rstrip("?").rstrip(".").rstrip("!").strip().lower()
 
 def seed_cache_entries():
     """Pre-populate query_cache with guaranteed correct answers for commonly failed queries."""
     try:
         conn = db_connect(); conn.autocommit = True; cur = conn.cursor()
         for entry in SEED_CACHE:
-            q_hash = hashlib.sha256(entry["query"].encode()).hexdigest()
+            q_hash = hashlib.sha256(normalize_query_for_hash(entry["query"]).encode()).hexdigest()
             # Only seed if no entry exists (don't overwrite self-healed answers)
             cur.execute("SELECT 1 FROM query_cache WHERE query_hash = %s", (q_hash,))
             if not cur.fetchone():
@@ -161,6 +213,10 @@ async def lifespan(app: FastAPI):
     # Seed critical Q&A pairs into cache so retriever failures never return blank answers
     seed_cache_entries()
     logger.info("[Startup] Pipeline ready.")
+    if VERCEL_AI_GATEWAY_KEY:
+        logger.info("[Startup] LLM routing: Vercel AI Gateway (primary) → NVIDIA NIM (fallback)")
+    else:
+        logger.info("[Startup] LLM routing: NVIDIA NIM (direct — no Vercel Gateway key found)")
     yield
 
 limiter = Limiter(key_func=get_remote_address)
@@ -233,6 +289,147 @@ def clean_chunk(text: str) -> str:
     return text.strip()
 
 
+def clean_links(text: str) -> str:
+    """Clean markdown links by removing leftover html anchor tags like </a, </a>, and ** within urls."""
+    if not text:
+        return text
+    def replace_link(match):
+        title = match.group(1)
+        url = match.group(2)
+        url = re.sub(r'</?a[^>]*>', '', url, flags=re.IGNORECASE)
+        url = url.replace('</a', '').replace('</a>', '')
+        url = url.replace('**', '')
+        url = url.replace('\\_', '_')
+        return f"[{title}]({url.strip()})"
+    
+    return re.sub(r'\[([^\]]+)\]\(([^)]+)\)', replace_link, text)
+
+
+def get_resource_links(keywords: str) -> str:
+    """Retrieve relevant verified resource links from msajce_all_resource_links.md based on keywords."""
+    try:
+        from qdrant_client.models import Filter, FieldCondition, MatchValue
+        link_filter = Filter(
+            must=[
+                FieldCondition(key="source_file", match=MatchValue(value="msajce_all_resource_links.md"))
+            ]
+        )
+        q_vec = get_nvidia_embedding(keywords, input_type="query")
+        if hasattr(qdrant_client, "query_points"):
+            r = qdrant_client.query_points(
+                collection_name=COLLECTION_NAME,
+                query=q_vec,
+                query_filter=link_filter,
+                limit=3,
+                with_payload=True
+            )
+            hits = r.points
+        else:
+            hits = qdrant_client.search(
+                collection_name=COLLECTION_NAME,
+                query_vector=q_vec,
+                query_filter=link_filter,
+                limit=3
+            )
+        
+        links = []
+        seen_urls = set()
+        for h in hits:
+            text = h.payload.get("text", "")
+            matches = re.findall(r'\[([^\]]+)\]\((https?://[^\)]+)\)', text)
+            for title, url in matches:
+                url = re.sub(r'</?a[^>]*>', '', url, flags=re.IGNORECASE)
+                url = url.replace('</a', '').replace('</a>', '').replace('**', '').replace('\\_', '_').strip()
+                if url not in seen_urls:
+                    seen_urls.add(url)
+                    links.append(f"- [{title}]({url})")
+                if len(links) >= 4:
+                    break
+            if len(links) >= 4:
+                break
+        if links:
+            return "\n\n### 🔗 Relevant Links & Resources\n" + "\n".join(links)
+    except Exception as e:
+        logger.warning(f"[ResourceLinks] Failed: {e}")
+    return ""
+
+
+
+# ── LLM routing helpers ────────────────────────────────────────────────────────
+GATEWAY_PROXY_URL = os.getenv("GATEWAY_PROXY_URL", "http://localhost:3001")
+
+# Models used for small/fast tasks via Vercel AI Gateway (Node.js proxy)
+_VERCEL_MODELS = {
+    "classify":  "google/gemini-2.5-flash-lite",   # intent classification
+    "rewrite":   "deepseek/deepseek-v4-0709",       # query rewriting
+    "faithful":  "deepseek/deepseek-v4-0709",       # faithfulness check
+    "followup":  "meta/llama-3.1-8b",               # follow-up generation
+}
+
+def call_vercel(messages: list, task: str = "classify", temperature: float = 0.0, max_tokens: int = 200, timeout: float = 8.0) -> dict:
+    """
+    Route SMALL/FAST tasks through the Node.js Gateway Proxy → Vercel AI Gateway.
+    Falls back to NVIDIA NIM if proxy is unavailable.
+    task: one of 'classify', 'rewrite', 'faithful', 'followup'
+    """
+    model = _VERCEL_MODELS.get(task, "google/gemini-2.5-flash-lite")
+    try:
+        res = requests.post(
+            f"{GATEWAY_PROXY_URL}/v1/chat/completions",
+            headers={"Content-Type": "application/json"},
+            json={"model": model, "messages": messages, "temperature": temperature, "max_tokens": max_tokens},
+            timeout=timeout,
+        )
+        res.raise_for_status()
+        logger.debug(f"[Vercel] {task} → {model}")
+        return res.json()
+    except requests.exceptions.ConnectionError:
+        logger.debug(f"[Vercel] Proxy not running for {task}, falling back to NVIDIA...")
+    except Exception as e:
+        logger.warning(f"[Vercel] {task} failed ({e}), falling back to NVIDIA...")
+
+    # NVIDIA fallback for small tasks
+    res = requests.post(
+        "https://integrate.api.nvidia.com/v1/chat/completions",
+        headers={"Authorization": f"Bearer {NVIDIA_API_KEY}", "Content-Type": "application/json"},
+        json={"model": "meta/llama-3.1-8b-instruct", "messages": messages,
+              "temperature": temperature, "max_tokens": max_tokens},
+        timeout=timeout,
+    )
+    res.raise_for_status()
+    logger.debug(f"[NVIDIA] {task} fallback → meta/llama-3.1-8b-instruct")
+    return res.json()
+
+
+def call_nvidia(messages: list, temperature: float = 0.1, max_tokens: int = 1000, stream: bool = False, timeout: float = 60.0):
+    """
+    Route MAIN/HEAVY tasks (RAG answer, guidance) directly through NVIDIA NIM.
+    Always uses meta/llama-3.1-8b-instruct for high-quality grounded answers.
+    """
+    headers = {"Authorization": f"Bearer {NVIDIA_API_KEY}", "Content-Type": "application/json"}
+    res = requests.post(
+        "https://integrate.api.nvidia.com/v1/chat/completions",
+        headers=headers,
+        json={"model": "meta/llama-3.1-8b-instruct", "messages": messages,
+              "temperature": temperature, "max_tokens": max_tokens, "stream": stream},
+        timeout=timeout,
+        stream=stream,
+    )
+    res.raise_for_status()
+    logger.debug("[NVIDIA] main answer → meta/llama-3.1-8b-instruct")
+    if stream:
+        return res
+    return res.json()
+
+
+# Backwards-compat alias (used by call sites not yet migrated)
+def call_llm(messages: list, model: str = "openai/gpt-4o-mini", temperature: float = 0.1,
+             max_tokens: int = 1000, stream: bool = False, timeout: float = 30.0):
+    """Legacy alias — routes to call_nvidia for main answer tasks."""
+    return call_nvidia(messages, temperature=temperature, max_tokens=max_tokens,
+                       stream=stream, timeout=timeout)
+
+
 # ── NVIDIA helpers ────────────────────────────────────────────────────────────
 def get_nvidia_embedding(text: str, input_type: str = "query") -> list:
     res = requests.post(
@@ -298,22 +495,17 @@ def generate_followup_questions(query: str, answer: str, context_blocks: Optiona
         "Generate 3 follow-up questions (JSON array only):"
     )
     try:
-        res = requests.post(
-            "https://integrate.api.nvidia.com/v1/chat/completions",
-            headers={"Authorization": f"Bearer {NVIDIA_API_KEY}", "Content-Type": "application/json"},
-            json={
-                "model": "meta/llama-3.1-8b-instruct",
-                "messages": [
-                    {"role": "system", "content": system_prompt},
-                    {"role": "user", "content": user_prompt}
-                ],
-                "temperature": 0.4,
-                "max_tokens": 160
-            },
-            timeout=3.5,
+        rj = call_vercel(
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt}
+            ],
+            task="followup",
+            temperature=0.4,
+            max_tokens=160,
+            timeout=5.0,
         )
-        res.raise_for_status()
-        content = res.json()["choices"][0]["message"]["content"].strip()
+        content = rj["choices"][0]["message"]["content"].strip()
         if content.startswith("```"):
             content = re.sub(r"^```(?:json)?\n?|```$", "", content, flags=re.MULTILINE).strip()
         m = re.search(r'\[.*\]', content, re.DOTALL)
@@ -386,16 +578,13 @@ def preprocess_query(query: str) -> dict:
         'JSON only: {"intent":"...","keywords":"...","category":null,"category_confidence":0.0,"direct_response":""}'
     )
     try:
-        res = requests.post(
-            "https://integrate.api.nvidia.com/v1/chat/completions",
-            headers={"Authorization": f"Bearer {NVIDIA_API_KEY}", "Content-Type": "application/json"},
-            json={"model":"meta/llama-3.1-8b-instruct",
-                  "messages":[{"role":"system","content":system_prompt},{"role":"user","content":query}],
-                  "temperature":0.0,"max_tokens":150},
-            timeout=15,
+        rj = call_vercel(
+            messages=[{"role":"system","content":system_prompt},{"role":"user","content":query}],
+            task="classify",
+            temperature=0.0,
+            max_tokens=150,
+            timeout=8.0,
         )
-        res.raise_for_status()
-        rj = res.json()
         raw = rj["choices"][0]["message"]["content"].strip()
         if raw.startswith("```"):
             raw = re.sub(r"^```(?:json)?\n?|```$", "", raw, flags=re.MULTILINE).strip()
@@ -447,17 +636,13 @@ FORMAT: Use clear Markdown with ## headings. Keep it concise but helpful.
 NEVER mention "sources", "documents", "chunks", or internal references.
 """
     try:
-        res = requests.post(
-            "https://integrate.api.nvidia.com/v1/chat/completions",
-            headers={"Authorization": f"Bearer {NVIDIA_API_KEY}", "Content-Type": "application/json"},
-            json={"model": "meta/llama-3.1-8b-instruct",
-                  "messages": [{"role": "system", "content": system_prompt},
-                                {"role": "user", "content": user_query}],
-                  "temperature": 0.3, "max_tokens": 1000},
-            timeout=30,
+        rj = call_nvidia(
+            messages=[{"role": "system", "content": system_prompt},
+                      {"role": "user", "content": user_query}],
+            temperature=0.3,
+            max_tokens=1000,
+            timeout=45.0,
         )
-        res.raise_for_status()
-        rj = res.json()
         return rj["choices"][0]["message"]["content"].strip(), rj.get("usage", {})
     except Exception as e:
         logger.error(f"[LLM-Guidance] Generation failed: {e}")
@@ -548,9 +733,7 @@ RULES:
     - Mention MTC (public state transport) buses (such as 102, 105, 570, 221H, B19) only as secondary/alternative options.
     - NEVER suggest MTC state transport as the primary option if a college bus route is available for that location.
 12. STRICT GROUNDING ON STOPS & LOCATIONS: Never assume, infer, or hallucinate that a bus route passes through a location or stop unless that location/stop is EXPLICITLY listed in the SOURCES for that specific route. For example, if a route lists 'Adyar at 7:00 AM', do not claim it passes through 'Velachery' at 7:00 AM. Only mention routes that explicitly contain the user's requested stop/location in their route description in the SOURCES.
-
-
-
+13. COLLEGE BUS ROUTES FORMATTING: Whenever you output details of a college bus route (e.g., Route AR 3, Route AR 4, etc.) or stops/timings, you MUST format the list of stops and timings as a standard markdown table with columns like `| Stop / Landmark | Arrival Time |`. Do not describe the route stops in a paragraph, sentence, or simple list. Above the table, state the driver name, contact number, and start/departure details clearly.
 
 SOURCES:
 {context_str}
@@ -563,16 +746,12 @@ SOURCES:
     messages.append({"role": "user", "content": user_query})
 
     try:
-        res = requests.post(
-            "https://integrate.api.nvidia.com/v1/chat/completions",
-            headers={"Authorization": f"Bearer {NVIDIA_API_KEY}", "Content-Type": "application/json"},
-            json={"model":"meta/llama-3.1-8b-instruct",
-                  "messages": messages,
-                  "temperature":0.1,"max_tokens":max_tok},
-            timeout=30,
+        rj = call_nvidia(
+            messages=messages,
+            temperature=0.1,
+            max_tokens=max_tok,
+            timeout=60.0,
         )
-        res.raise_for_status()
-        rj = res.json()
         return rj["choices"][0]["message"]["content"].strip(), rj.get("usage",{})
     except Exception as e:
         logger.error(f"[LLM] Generation failed: {e}")
@@ -610,6 +789,7 @@ RULES:
     - Mention MTC (public state transport) buses (such as 102, 105, 570, 221H, B19) only as secondary/alternative options.
     - NEVER suggest MTC state transport as the primary option if a college bus route is available for that location.
 12. STRICT GROUNDING ON STOPS & LOCATIONS: Never assume, infer, or hallucinate that a bus route passes through a location or stop unless that location/stop is EXPLICITLY listed in the SOURCES for that specific route. For example, if a route lists 'Adyar at 7:00 AM', do not claim it passes through 'Velachery' at 7:00 AM. Only mention routes that explicitly contain the user's requested stop/location in their route description in the SOURCES.
+13. COLLEGE BUS ROUTES FORMATTING: Whenever you output details of a college bus route (e.g., Route AR 3, Route AR 4, etc.) or stops/timings, you MUST format the list of stops and timings as a standard markdown table with columns like `| Stop / Landmark | Arrival Time |`. Do not describe the route stops in a paragraph, sentence, or simple list. Above the table, state the driver name, contact number, and start/departure details clearly.
 
 
 
@@ -619,17 +799,14 @@ SOURCES:
 """
     import json
     try:
-        res = requests.post(
-            "https://integrate.api.nvidia.com/v1/chat/completions",
-            headers={"Authorization": f"Bearer {NVIDIA_API_KEY}", "Content-Type": "application/json"},
-            json={"model":"meta/llama-3.1-8b-instruct",
-                  "messages":[{"role":"system","content":system_prompt},
-                               {"role":"user","content":user_query}],
-                  "temperature":0.1,"max_tokens":max_tok, "stream": True},
-            timeout=30,
-            stream=True
+        res = call_nvidia(
+            messages=[{"role":"system","content":system_prompt},
+                       {"role":"user","content":user_query}],
+            temperature=0.1,
+            max_tokens=max_tok,
+            stream=True,
+            timeout=60.0,
         )
-        res.raise_for_status()
         
         for line in res.iter_lines():
             if line:
@@ -755,7 +932,7 @@ def clear_cache(query_text: Optional[str] = Query(default=None)):
     try:
         conn = db_connect(); conn.autocommit = True; cur = conn.cursor()
         if query_text:
-            h = hashlib.sha256(query_text.lower().encode()).hexdigest()
+            h = hashlib.sha256(normalize_query_for_hash(query_text).encode()).hexdigest()
             cur.execute("DELETE FROM query_cache WHERE query_hash=%s", (h,))
         else:
             cur.execute("DELETE FROM query_cache")
@@ -825,17 +1002,28 @@ def process_feedback_correction(message_id: str, session_id: str, rating: int):
 
         logger.info(f"[Self-Healing] Analyzing 👎 feedback for query: '{user_query[:50]}'")
 
-        # Step 1: LLM Evaluator (Judge) prompt
+        # Fetch context for evaluation (ground truth reference documents)
+        candidates = hybrid_retriever.retrieve(user_query, user_query, category=None) if hybrid_retriever else []
+        context_str = ""
+        if candidates:
+            context_str = "\n\n".join(clean_chunk(c.get("text", "") or c.get("payload", {}).get("text", "")) for c in candidates[:5] if (c.get("text", "") or c.get("payload", {}).get("text", "")))
+
+        # Step 1: LLM Evaluator (Judge) prompt with Reference Context
         judge_prompt = f"""You are an objective AI evaluator analyzing negative user feedback.
 User Question: "{user_query}"
 Assistant Answer: "{original_answer}"
 
-Evaluate if the assistant answer has a genuine factual error, hallucination, or QA mismatch relative to the user question.
+GROUND TRUTH REFERENCE CONTEXT:
+{context_str}
+
+Evaluate if the assistant answer has a genuine factual error, contradiction, hallucination, or mismatch relative to the ground truth reference context.
+If the assistant gave a correct answer based on the reference context, but the user is just unhappy with the policy (e.g. fee is too high, no refund, bus timings do not suit them), classify it as USER_DISSATISFACTION_OR_FUN.
+If the assistant gave an answer that contradicts the context, contains incorrect figures/names, or failed to answer the question properly, classify it as REAL_QA_MISMATCH.
 
 Respond ONLY with valid JSON matching this schema:
 {{
   "verdict": "REAL_QA_MISMATCH" or "USER_DISSATISFACTION_OR_FUN",
-  "reason": "Short 1-sentence explanation of your verdict."
+  "reason": "Short 1-sentence explanation of why the answer is wrong or correct."
 }}
 """
         judge_res = requests.post(
@@ -889,7 +1077,7 @@ Respond ONLY with valid JSON matching this schema:
                 corrected_answer, _ = generate_answer(user_query, context_blocks)
 
                 # Purge old cache entry and store corrected answer
-                query_hash = hashlib.sha256(user_query.lower().encode()).hexdigest()
+                query_hash = hashlib.sha256(normalize_query_for_hash(user_query).encode()).hexdigest()
                 cur.execute("DELETE FROM query_cache WHERE query_hash = %s", (query_hash,))
                 
                 citations_json = json.dumps(citations)
@@ -900,7 +1088,7 @@ Respond ONLY with valid JSON matching this schema:
                         SET response_text = EXCLUDED.response_text,
                             citations = EXCLUDED.citations,
                             created_at = CURRENT_TIMESTAMP
-                """, (query_hash, user_query.lower(), corrected_answer, citations_json))
+                """, (query_hash, normalize_query_for_hash(user_query), corrected_answer, citations_json))
                 cache_updated = True
                 logger.info(f"[Self-Healing] Updated cache with corrected answer for '{user_query[:50]}'")
 
@@ -933,6 +1121,22 @@ def feedback_endpoint(req: FeedbackRequest, background_tasks: BackgroundTasks, r
         if not cur.fetchone():
             cur.close(); conn.close()
             raise HTTPException(404, detail={"error": "message not found"})
+
+        # Purge bad cache immediately on negative rating (-1)
+        if req.rating == -1:
+            cur.execute("""
+                SELECT content FROM chat_messages 
+                WHERE session_id = %s::uuid AND role = 'user' AND created_at <= (
+                    SELECT created_at FROM chat_messages WHERE id = %s::uuid
+                )
+                ORDER BY created_at DESC LIMIT 1
+            """, (req.session_id, req.message_id))
+            user_row = cur.fetchone()
+            if user_row:
+                user_query = user_row[0]
+                q_hash = hashlib.sha256(normalize_query_for_hash(user_query).encode()).hexdigest()
+                cur.execute("DELETE FROM query_cache WHERE query_hash = %s", (q_hash,))
+                logger.info(f"[Feedback] Synchronously purged query cache for query: '{user_query[:50]}'")
 
         # Upsert — allow changing rating (Req 9.7)
         cur.execute("""
@@ -1084,7 +1288,7 @@ def chat_endpoint(req: ChatRequest, request: Request):
         raise HTTPException(400, "Query cannot be empty.")
 
     # ── Step 0a: Exact Cache lookup (bypasses all LLM processing) ─────────────
-    q_hash = hashlib.sha256(user_query.lower().encode()).hexdigest()
+    q_hash = hashlib.sha256(normalize_query_for_hash(user_query).encode()).hexdigest()
     if not getattr(req, "bypass_cache", False):
         try:
             conn = db_connect(); conn.autocommit = True; cur = conn.cursor()
@@ -1125,21 +1329,31 @@ def chat_endpoint(req: ChatRequest, request: Request):
     active_query = corrected_query
     was_rewritten = False
     prep = None
+    q_vec = None
 
-    if has_history:
-        import concurrent.futures
-        with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
+    import concurrent.futures
+    with concurrent.futures.ThreadPoolExecutor(max_workers=3) as executor:
+        # Start embedding corrected_query in parallel with intent and rewrite calls
+        fut_embed = executor.submit(get_nvidia_embedding, corrected_query, "query")
+        
+        if has_history:
             fut_rewrite = executor.submit(query_rewriter.rewrite, corrected_query, req.session_id)
             fut_prep = executor.submit(preprocess_query, corrected_query)
             
             rewritten_query, was_rewritten = fut_rewrite.result()
             prep = fut_prep.result()
             
-        if was_rewritten:
-            active_query = rewritten_query
-            prep["keywords"] = active_query
-    else:
-        prep = preprocess_query(corrected_query)
+            if was_rewritten:
+                active_query = rewritten_query
+                prep["keywords"] = active_query
+                # Re-embed the rewritten query synchronously since it changed
+                q_vec = get_nvidia_embedding(active_query, "query")
+            else:
+                q_vec = fut_embed.result()
+        else:
+            fut_prep = executor.submit(preprocess_query, corrected_query)
+            prep = fut_prep.result()
+            q_vec = fut_embed.result()
 
     # ── Step 2: Intent + keyword expansion on active_query ──────────────────────
     intent    = prep.get("intent", "college_query")
@@ -1207,6 +1421,7 @@ def chat_endpoint(req: ChatRequest, request: Request):
             citations_list.append({"source": payload.get("source_file","MSAJCE"), "page": str(payload.get("page_number","")), "section": payload.get("section_title","")})
 
         answer, g_usage = generate_guidance_answer(active_query, context_blocks)
+        answer = clean_links(answer)
         followups = generate_followup_questions(active_query, answer, context_blocks)
         msg_id = save_message(req.session_id, "assistant", answer, {"intent": "guidance_query", "followups": followups})
 
@@ -1256,8 +1471,65 @@ def chat_endpoint(req: ChatRequest, request: Request):
     try:
         if hybrid_retriever is None:
             raise RuntimeError("HybridRetriever not initialised")
-        candidates = hybrid_retriever.retrieve(retrieval_query, keywords, category, entity_id)
+        candidates = hybrid_retriever.retrieve(retrieval_query, keywords, category, entity_id, q_vec=q_vec)
         candidates = [c for c in candidates if c.get("payload", {}).get("source_file") != "msajce_all_resource_links.md"]
+
+        # ── Document Routing based on FAQ matches or Transport boosts ─────────
+        faq_source_files = []
+        
+        # If this is a transport query, route specifically to the transport file
+        if is_transport_q:
+            faq_source_files.append("msajce_transport.pdf")
+            
+        for c in candidates[:3]:
+            payload = c.get("payload", {})
+            if payload.get("document_type") == "faq":
+                src = payload.get("source_file")
+                if src and src not in faq_source_files:
+                    faq_source_files.append(src)
+                    
+        if faq_source_files:
+            # Expand to include both .pdf and .md files
+            expanded_source_files = []
+            for f in faq_source_files:
+                base = os.path.splitext(f)[0]
+                expanded_source_files.append(f"{base}.pdf")
+                expanded_source_files.append(f"{base}.md")
+                
+            logger.info(f"[Routing] FAQ/Transport match. Routing query to source files: {expanded_source_files}")
+            
+            from qdrant_client.models import Filter, FieldCondition, MatchAny
+            route_filter = Filter(
+                must=[
+                    FieldCondition(key="source_file", match=MatchAny(any=expanded_source_files))
+                ]
+            )
+            
+            if hasattr(qdrant_client, "query_points"):
+                r = qdrant_client.query_points(
+                    collection_name=COLLECTION_NAME,
+                    query=q_vec,
+                    query_filter=route_filter,
+                    limit=12,
+                    with_payload=True
+                )
+                route_hits = r.points
+            else:
+                route_hits = qdrant_client.search(
+                    collection_name=COLLECTION_NAME,
+                    query_vector=q_vec,
+                    query_filter=route_filter,
+                    limit=12
+                )
+                
+            route_candidates = []
+            for h in route_hits:
+                if h.payload.get("source_file") != "msajce_all_resource_links.md":
+                    route_candidates.append({"text": h.payload.get("text", ""), "payload": h.payload})
+                    
+            if route_candidates:
+                candidates = route_candidates
+
         passages   = [c["text"] for c in candidates]
         payloads   = [c["payload"] for c in candidates]
     except Exception as e:
@@ -1373,19 +1645,47 @@ def chat_endpoint(req: ChatRequest, request: Request):
                 yield f"data: {json.dumps({'type': 'error', 'text': str(e)})}\n\n"
 
         return StreamingResponse(event_stream(), media_type="text/event-stream")
+    
+    logger.info("[Chat] Starting main LLM answer generation...")
     answer, g_usage = generate_answer(user_query, context_blocks, session_id=req.session_id)
+    logger.info("[Chat] Main LLM answer generation complete.")
+    
+    answer = clean_links(answer)
 
-    # ── Step 6b: Faithfulness check (conditional on low confidence) ───────────
+    # If the answer indicates missing info or request for links, append relevant verified resource links
+    fallback_indicators = [
+        "couldn't find", "not have the specific details", "unable to find", 
+        "no specific details", "placement statistics or details", 
+        "contact the placement cell", "official website", "contact the college directly",
+        "please reach out to", "would be happy to help"
+    ]
+    has_fallback = any(ind in answer.lower() for ind in fallback_indicators)
+    link_query_words = ["link", "url", "portal", "website", "apply", "form", "pdf"]
+    wants_links = any(w in user_query.lower() for w in link_query_words)
+    
+    if has_fallback or wants_links:
+        logger.info("[Chat] Fallback/link request detected. Fetching resource links...")
+        extra_links = get_resource_links(keywords)
+        if extra_links:
+            extra_links = clean_links(extra_links)
+            answer += extra_links
+            logger.info("[Chat] Appended resource links.")
+
+    # ── Step 6b: Faithfulness check & Follow-up question generation in parallel ──
+    logger.info("[Chat] Launching faithfulness and follow-up checks in parallel...")
     context_for_check = "\n\n".join(context_str_parts)
-    should_replace, faith_invoked, faith_passed = faithfulness_checker.check(
-        answer, context_for_check, max_logit
-    )
+    import concurrent.futures
+    with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
+        fut_faith = executor.submit(faithfulness_checker.check, answer, context_for_check, max_logit)
+        fut_follow = executor.submit(generate_followup_questions, user_query, answer, None)
+        
+        should_replace, faith_invoked, faith_passed = fut_faith.result()
+        followups = fut_follow.result()
+    logger.info("[Chat] Parallel checks complete.")
+
     if (should_replace and not top) or not context_blocks:
         answer = faithfulness_checker.fallback_message
         citations_list = []
-
-    # ── Step 7: Save assistant message + trace ────────────────────────────────
-    followups = generate_followup_questions(user_query, answer, context_blocks=None)
     trace = {
         "spell_corrections":         corrections,
         "was_rewritten":             was_rewritten,

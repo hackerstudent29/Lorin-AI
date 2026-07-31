@@ -1,0 +1,74 @@
+[
+  {
+    "question": "What is the National Institutional Ranking Framework (NIRF)?",
+    "answer": "The National Institutional Ranking Framework (NIRF) is a methodology adopted by the Ministry of Education, Government of India, to rank institutions of higher education across the country.",
+    "format": "factoid",
+    "section": "National Institutional Ranking Framework (NIRF) Overview & 1. NIRF Overview & 2. NIRF 2026 Submissions & 3. NIRF 2025 Submissions",
+    "source_file": "msajce_nirf.md",
+    "category": "NIRF Ranking"
+  },
+  {
+    "question": "In which categories does MSAJCE participate in NIRF rankings?",
+    "answer": "MSAJCE participates in NIRF rankings annually and submits data across three categories, which are Engineering, Overall, and Innovation.",
+    "format": "factoid",
+    "section": "National Institutional Ranking Framework (NIRF) Overview & 1. NIRF Overview & 2. NIRF 2026 Submissions & 3. NIRF 2025 Submissions",
+    "source_file": "msajce_nirf.md",
+    "category": "NIRF Ranking"
+  },
+  {
+    "question": "Where can I find the submission document for the Engineering category for NIRF 2026?",
+    "answer": "The submission document for the Engineering category can be accessed at https://www.msjace-edu.in/uploads/nift/MSAJCE-ENGG-2026.pdf.",
+    "format": "factoid",
+    "section": "National Institutional Ranking Framework (NIRF) Overview & 1. NIRF Overview & 2. NIRF 2026 Submissions & 3. NIRF 2025 Submissions",
+    "source_file": "msajce_nirf.md",
+    "category": "NIRF Ranking"
+  },
+  {
+    "question": "Is the submission document for the Overall category for NIRF 2026 available?",
+    "answer": "Yes, the submission document for the Overall category is available at https://www.msjace-edu.in/uploads/nift/MSAJCE-OVERALL-2026.pdf.",
+    "format": "yes_no",
+    "section": "National Institutional Ranking Framework (NIRF) Overview & 1. NIRF Overview & 2. NIRF 2026 Submissions & 3. NIRF 2025 Submissions",
+    "source_file": "msajce_nirf.md",
+    "category": "NIRF Ranking"
+  },
+  {
+    "question": "How can I access the submission document for the Innovation category for NIRF 2026?",
+    "answer": "The submission document for the Innovation category can be downloaded from https://www.msjace-edu.in/uploads/nift/MSAJCE-INNOV-2026.pdf.",
+    "format": "procedural",
+    "section": "National Institutional Ranking Framework (NIRF) Overview & 1. NIRF Overview & 2. NIRF 2026 Submissions & 3. NIRF 2025 Submissions",
+    "source_file": "msajce_nirf.md",
+    "category": "NIRF Ranking"
+  },
+  {
+    "question": "Did MSAJCE submit its data for the 2025 NIRF rankings?",
+    "answer": "Yes, MSAJCE also submitted its data for the 2025 NIRF rankings.",
+    "format": "yes_no",
+    "section": "National Institutional Ranking Framework (NIRF) Overview & 1. NIRF Overview & 2. NIRF 2026 Submissions & 3. NIRF 2025 Submissions",
+    "source_file": "msajce_nirf.md",
+    "category": "NIRF Ranking"
+  },
+  {
+    "question": "Where can I find the submission document for the Engineering category for NIRF 2025?",
+    "answer": "The submission document for the Engineering category can be found at https://www.msjace-edu.in/uploads/nift/MSAJCE-ENGG-2025.pdf.",
+    "format": "factoid",
+    "section": "National Institutional Ranking Framework (NIRF) Overview & 1. NIRF Overview & 2. NIRF 2026 Submissions & 3. NIRF 2025 Submissions",
+    "source_file": "msajce_nirf.md",
+    "category": "NIRF Ranking"
+  },
+  {
+    "question": "What is the purpose of NIRF rankings?",
+    "answer": "The purpose of NIRF rankings is to rank institutions of higher education across the country.",
+    "format": "exploratory",
+    "section": "National Institutional Ranking Framework (NIRF) Overview & 1. NIRF Overview & 2. NIRF 2026 Submissions & 3. NIRF 2025 Submissions",
+    "source_file": "msajce_nirf.md",
+    "category": "NIRF Ranking"
+  },
+  {
+    "question": "Who adopts the National Institutional Ranking Framework (NIRF) methodology?",
+    "answer": "The Ministry of Education, Government of India, adopts the National Institutional Ranking Framework (NIRF) methodology.",
+    "format": "factoid",
+    "section": "National Institutional Ranking Framework (NIRF) Overview & 1. NIRF Overview & 2. NIRF 2026 Submissions & 3. NIRF 2025 Submissions",
+    "source_file": "msajce_nirf.md",
+    "category": "NIRF Ranking"
+  }
+]

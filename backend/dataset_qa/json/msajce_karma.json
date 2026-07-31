@@ -1,0 +1,66 @@
+[
+  {
+    "question": "What is the name of the AICTE initiative for skill development?",
+    "answer": "The Kaushal Augmentation and Restructuring Mission of AICTE (KARMA)",
+    "format": "factoid",
+    "section": "Kaushal Augmentation and Restructuring Mission of AICTE (KARMA) & 1. Overview and Objectives & 2. Skilling Models & 3. College Implementation and Approvals",
+    "source_file": "msajce_karma.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the primary objective of the KARMA initiative?",
+    "answer": "To overcome the dual challenge of the scarcity of skilled manpower in jobs and the low skill level of those who are presently employed.",
+    "format": "exploratory",
+    "section": "Kaushal Augmentation and Restructuring Mission of AICTE (KARMA) & 1. Overview and Objectives & 2. Skilling Models & 3. College Implementation and Approvals",
+    "source_file": "msajce_karma.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the focus of the training provided under the KARMA scheme?",
+    "answer": "Domain-specific, demand-led skill training activities, preferably in core engineering sectors, leading directly to employment.",
+    "format": "factoid",
+    "section": "Kaushal Augmentation and Restructuring Mission of AICTE (KARMA) & 1. Overview and Objectives & 2. Skilling Models & 3. College Implementation and Approvals",
+    "source_file": "msajce_karma.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates to participate in the KARMA scheme?",
+    "answer": "Candidates who have passed at least the tenth standard or completed ITI courses.",
+    "format": "factoid",
+    "section": "Kaushal Augmentation and Restructuring Mission of AICTE (KARMA) & 1. Overview and Objectives & 2. Skilling Models & 3. College Implementation and Approvals",
+    "source_file": "msajce_karma.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What are the three models proposed by AICTE for the skilling of in-school students, school dropouts, and students pursuing technical education?",
+    "answer": "Model 1 targets school dropouts, Model 2 targets advanced-level skilling for students already studying in AICTE-approved technical institutions, and Model 3 integrates school education with higher education to skill students.",
+    "format": "exploratory",
+    "section": "Kaushal Augmentation and Restructuring Mission of AICTE (KARMA) & 1. Overview and Objectives & 2. Skilling Models & 3. College Implementation and Approvals",
+    "source_file": "msajce_karma.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What are the two courses approved by AICTE for Mohamed Sathak A.J. College of Engineering under Model 1?",
+    "answer": "Computer Hardware Network Maintenance and Refrigeration and Air Conditioning Technician.",
+    "format": "factoid",
+    "section": "Kaushal Augmentation and Restructuring Mission of AICTE (KARMA) & 1. Overview and Objectives & 2. Skilling Models & 3. College Implementation and Approvals",
+    "source_file": "msajce_karma.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "What are the five courses approved by AICTE for Mohamed Sathak A.J. College of Engineering under Model 2?",
+    "answer": "AI and Machine Learning Developer, Refrigeration and Air Conditioning Technician, Additive Manufacturing Technician focusing on 3D printing, Certificate Course in Embedded System Design using ARM Cortex Microcontrollers, and Architectural Drafting and Basic 3D Design using Autodesk Revit.",
+    "format": "factoid",
+    "section": "Kaushal Augmentation and Restructuring Mission of AICTE (KARMA) & 1. Overview and Objectives & 2. Skilling Models & 3. College Implementation and Approvals",
+    "source_file": "msajce_karma.md",
+    "category": "General — MSAJCE"
+  },
+  {
+    "question": "How can one access the official approval letter for Model 1 and Model 2?",
+    "answer": "Through the AICTE facilities portal.",
+    "format": "procedural",
+    "section": "Kaushal Augmentation and Restructuring Mission of AICTE (KARMA) & 1. Overview and Objectives & 2. Skilling Models & 3. College Implementation and Approvals",
+    "source_file": "msajce_karma.md",
+    "category": "General — MSAJCE"
+  }
+]

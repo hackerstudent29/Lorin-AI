@@ -1,0 +1,666 @@
+[
+  {
+    "question": "What is the primary objective of the Placement Committee at MSAJCE?",
+    "answer": "The primary objectives include providing employment opportunities for students in reputable companies, organizing on and off-campus recruitment drives, and training students in essential employability skills.",
+    "format": "factoid",
+    "section": "PLACEMENT & 1. Overview & 2. Facilities",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What types of training and certification courses are offered to students?",
+    "answer": "Value-added certification courses are offered to equip students with domain-specific knowledge, and mock aptitude tests, interviews, and group discussions are conducted to prepare them for the job market.",
+    "format": "factoid",
+    "section": "PLACEMENT & 1. Overview & 2. Facilities",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "Who are the members of the Placement Committee at MSAJCE?",
+    "answer": "The members include Mr. S.V. Vinodh (Placement Officer), Mr. Ajin Sijo John (Assistant Placement Officer), Mrs. N. Kavitha (member), and Mr. V.A. Babu Charies Earnest (member).",
+    "format": "factoid",
+    "section": "PLACEMENT & 1. Overview & 2. Facilities",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What types of facilities are available at MSAJCE for placement activities?",
+    "answer": "Well-furnished, air-conditioned rooms, well-established computer labs, an air-conditioned auditorium, seminar halls, meeting halls, and dedicated rooms for group discussions are available.",
+    "format": "factoid",
+    "section": "PLACEMENT & 1. Overview & 2. Facilities",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the purpose of the Student Training Program at MSAJCE?",
+    "answer": "The program is designed to equip students with the necessary skills and knowledge to succeed in their chosen fields.",
+    "format": "factoid",
+    "section": "PLACEMENT & 1. Overview & 2. Facilities",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the duration of the Student Training Program at MSAJCE?",
+    "answer": "The program is available for the academic years 2022-23, 2023-24, 2024-25, and 2025-26.",
+    "format": "factoid",
+    "section": "PLACEMENT & 1. Overview & 2. Facilities",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What types of support services are available to students at MSAJCE?",
+    "answer": "Career counseling, mentorship, and personalized guidance are available to help students choose the best possible stream and achieve their goals.",
+    "format": "factoid",
+    "section": "PLACEMENT & 1. Overview & 2. Facilities",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the role of the Placement Committee in achieving the objectives of MSAJCE?",
+    "answer": "The Placement Committee plays a vital role in achieving the objectives of MSAJCE, including providing employment opportunities, organizing recruitment drives, and training students in employability skills.",
+    "format": "exploratory",
+    "section": "PLACEMENT & 1. Overview & 2. Facilities",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What types of events and activities are held in the seminar halls and meeting halls at MSAJCE?",
+    "answer": "Various events and activities are held in the seminar halls and meeting halls, including workshops on recent technologies and industrial visits.",
+    "format": "factoid",
+    "section": "PLACEMENT & 1. Overview & 2. Facilities",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What academic years are notable periods for placements at MSAJCE?",
+    "answer": "The academic years 2022-2023 and 2021-2022 are notable periods, with MSAJCE having facilitated placements for students during these times.",
+    "format": "factoid",
+    "section": "5. Placement Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "Does MSAJCE have a history of facilitating placements for students?",
+    "answer": "Yes, MSAJCE has facilitated placements for students during the academic years 2022-2023, 2021-2022, 2020-2021, 2019-2020, 2018-2019, 2017-2018, and 2016-2017.",
+    "format": "yes_no",
+    "section": "5. Placement Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the objective of MSAJCE's placement initiatives?",
+    "answer": "The objective of MSAJCE's placement initiatives is to provide students with opportunities for growth and development.",
+    "format": "exploratory",
+    "section": "5. Placement Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "Which academic years witnessed MSAJCE's efforts in securing placements for its students?",
+    "answer": "The academic years 2022-2023, 2021-2022, 2020-2021, 2019-2020, 2018-2019, 2017-2018, and 2016-2017 witnessed MSAJCE's efforts in securing placements for its students.",
+    "format": "factoid",
+    "section": "5. Placement Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the significance of the academic years 2022-2023 and 2021-2022 in MSAJCE's placement history?",
+    "answer": "The academic years 2022-2023 and 2021-2022 are notable periods, with MSAJCE having facilitated placements for students during these times.",
+    "format": "factoid",
+    "section": "5. Placement Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "Does MSAJCE have a commitment to providing students with opportunities for growth and development?",
+    "answer": "Yes, MSAJCE has a commitment to providing students with opportunities for growth and development, as evident from its placement initiatives.",
+    "format": "yes_no",
+    "section": "5. Placement Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the role of MSAJCE in providing students with opportunities for career advancement?",
+    "answer": "MSAJCE plays a significant role in providing students with opportunities for career advancement through its placement initiatives.",
+    "format": "exploratory",
+    "section": "5. Placement Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "Which academic years saw MSAJCE working towards providing students with opportunities for career advancement?",
+    "answer": "The academic years 2018-2019 and 2017-2018 saw MSAJCE working towards providing students with opportunities for career advancement.",
+    "format": "factoid",
+    "section": "5. Placement Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the history of MSAJCE's placement initiatives?",
+    "answer": "MSAJCE's placement initiatives have a history spanning multiple academic years, including 2022-2023, 2021-2022, 2020-2021, 2019-2020, 2018-2019, 2017-2018, and 2016-2017.",
+    "format": "exploratory",
+    "section": "5. Placement Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the purpose of the Industry-Institute Interaction Cell?",
+    "answer": "The Industry-Institute Interaction Cell at Mohamed Sathak A.J. College of Engineering (MSAJCE) plays a vital role in fostering strong collaboration between academia and industry to enhance learning, innovation, and employability among students.",
+    "format": "factoid",
+    "section": "6. Industry Institution Interaction Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What are the objectives of the Industry-Institute Interaction Cell?",
+    "answer": "The objectives of the Industry-Institute Interaction Cell are multifaceted and far-reaching, including facilitating regular interactions with industry experts, supporting curriculum enhancement through industry participation, and providing students with exposure to industry through periodic industrial visits and internship opportunities.",
+    "format": "exploratory",
+    "section": "6. Industry Institution Interaction Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What are the initiatives taken by the Industry-Institute Interaction Cell to provide students with hands-on experience and exposure to industry practices?",
+    "answer": "The Industry-Institute Interaction Cell provides students with hands-on experience and exposure to industry practices through various initiatives such as internships, industrial visits, and expert interactions.",
+    "format": "factoid",
+    "section": "6. Industry Institution Interaction Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "How does the Industry-Institute Interaction Cell support faculty members in aligning academic practices with industry needs?",
+    "answer": "The Industry-Institute Interaction Cell supports faculty members in aligning academic practices with industry needs by providing them with opportunities to stay updated on the latest advancements in their respective domains through Faculty Development Programs (FDPs) and consultancy activities in collaboration with industries.",
+    "format": "procedural",
+    "section": "6. Industry Institution Interaction Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What are the benefits of the Industry-Institute Interaction Cell's activities for students?",
+    "answer": "The Industry-Institute Interaction Cell's activities provide students with hands-on experience and exposure to industry practices, thereby enhancing their employability and career prospects.",
+    "format": "exploratory",
+    "section": "6. Industry Institution Interaction Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What are the roles and responsibilities of the Industry-Institute Interaction Cell team?",
+    "answer": "The Industry-Institute Interaction Cell team has been actively engaged in various activities across different academic years, including MoUs, internships, placements, industry visits, and advisory board meetings.",
+    "format": "exploratory",
+    "section": "6. Industry Institution Interaction Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What are the outcomes of the Industry-Institute Interaction Cell's activities?",
+    "answer": "The Industry-Institute Interaction Cell's activities have been instrumental in providing students with hands-on experience and exposure to industry practices, thereby enhancing their employability and career prospects.",
+    "format": "exploratory",
+    "section": "6. Industry Institution Interaction Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What are the types of collaborative activities facilitated by the Industry-Institute Interaction Cell?",
+    "answer": "The Industry-Institute Interaction Cell facilitates a range of collaborative activities, including workshops, conferences, seminars, and guest lectures, which have seen active participation from both academia and industry.",
+    "format": "factoid",
+    "section": "6. Industry Institution Interaction Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the role of the Industry-Institute Interaction Cell in establishing industry-oriented laboratories and Centers of Excellence (CoEs) to support practical learning and innovation?",
+    "answer": "The Industry-Institute Interaction Cell plays a pivotal role in establishing industry-oriented laboratories and Centers of Excellence (CoEs) to support practical learning and innovation.",
+    "format": "factoid",
+    "section": "6. Industry Institution Interaction Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What are the benefits of the Industry-Institute Interaction Cell's Faculty Development Programs (FDPs) for faculty members?",
+    "answer": "The Industry-Institute Interaction Cell's Faculty Development Programs (FDPs) enable faculty members to stay updated on the latest advancements in their respective domains.",
+    "format": "exploratory",
+    "section": "6. Industry Institution Interaction Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What are the types of training provided to faculty members by the Industry-Institute Interaction Cell?",
+    "answer": "The Industry-Institute Interaction Cell provides faculty members with training to upgrade their technical knowledge and industry exposure.",
+    "format": "factoid",
+    "section": "6. Industry Institution Interaction Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the name of the Placement Officer at Mohamed Sathak AJ College of Engineering?",
+    "answer": "The name of the Placement Officer is Mr. S.V. Vinodh.",
+    "format": "factoid",
+    "section": "8. Get in touch with us",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the contact number of Mr. S.V. Vinodh, the Placement Officer?",
+    "answer": "You can contact Mr. S.V. Vinodh directly via phone at +91-99409 02255 or +91-89037 66391.",
+    "format": "factoid",
+    "section": "8. Get in touch with us",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the email address of the placement team at Mohamed Sathak AJ College of Engineering?",
+    "answer": "You can also send an email to the placement team at placement@MSAJCE-edu.in.",
+    "format": "factoid",
+    "section": "8. Get in touch with us",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the official website of Mohamed Sathak AJ College of Engineering?",
+    "answer": "For more information about MSAJCE and its placement activities, you can visit their official website at www.MSAJCE-edu.in.",
+    "format": "factoid",
+    "section": "8. Get in touch with us",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the location of Mohamed Sathak AJ College of Engineering?",
+    "answer": "MSAJCE is located at 34, Rajiv Gandhi Salai, also known as OMR, within the Siruseri IT Park in Siruseri, Chennai.",
+    "format": "factoid",
+    "section": "8. Get in touch with us",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the pin code of Mohamed Sathak AJ College of Engineering?",
+    "answer": "The pin code of MSAJCE is 603103.",
+    "format": "factoid",
+    "section": "8. Get in touch with us",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "How can I contact the placement team at Mohamed Sathak AJ College of Engineering?",
+    "answer": "You can contact Mr. S.V. Vinodh directly via phone or send an email to the placement team at placement@MSAJCE-edu.in.",
+    "format": "scenario",
+    "section": "8. Get in touch with us",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What are the contact details of the Placement Officer at Mohamed Sathak AJ College of Engineering?",
+    "answer": "You can contact Mr. S.V. Vinodh directly via phone at +91-99409 02255 or +91-89037 66391, or send an email to the placement team at placement@MSAJCE-edu.in.",
+    "format": "procedural",
+    "section": "8. Get in touch with us",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "Is there a specific email address for the Placement Officer at Mohamed Sathak AJ College of Engineering?",
+    "answer": "No, there is a general email address for the placement team at placement@MSAJCE-edu.in.",
+    "format": "yes_no",
+    "section": "8. Get in touch with us",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the primary objective of the Higher Education Cell at Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The primary objective of the Higher Education Cell is to create awareness among students about the opportunities available for higher education in India and abroad, and to motivate students to reach their goals and realize their full potential in the higher education sector.",
+    "format": "exploratory",
+    "section": "7. Higher Education Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "Who is the Head of the Higher Education Committee at Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The Head of the Higher Education Committee is Mr. S.V. Vinodh, Assistant Professor in the Electrical and Electronics Engineering department.",
+    "format": "factoid",
+    "section": "7. Higher Education Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What are the competitive examinations that the Higher Education Committee provides guidance to students on how to apply for and appear in?",
+    "answer": "The Higher Education Committee provides guidance to students on how to apply for and appear in competitive examinations such as GATE, CAT, GRE, and TOEFL.",
+    "format": "factoid",
+    "section": "7. Higher Education Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the role of Mr. V.A. Babu Charies Earnest in the Higher Education Committee?",
+    "answer": "Mr. V.A. Babu Charies Earnest is a member of the Higher Education Committee and brings his expertise and experience as a TEDx Speaker to the table.",
+    "format": "factoid",
+    "section": "7. Higher Education Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the name of the event organized by the Higher Education Cell on August 29, 2023, which was conducted by Mr. Inez Parris?",
+    "answer": "The event organized by the Higher Education Cell on August 29, 2023, which was conducted by Mr. Inez Parris, was a session on IELTS demo.",
+    "format": "factoid",
+    "section": "7. Higher Education Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the name of the international education specialist who led the international education seminar presentation on August 25, 2023?",
+    "answer": "The international education specialist who led the international education seminar presentation on August 25, 2023, was a resource person from IDP.",
+    "format": "factoid",
+    "section": "7. Higher Education Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the name of the program that Yashwanth R pursued at IIT Hyderabad?",
+    "answer": "Yashwanth R pursued his M.Tech in Material Science and Metallurgical Engineering at IIT Hyderabad.",
+    "format": "factoid",
+    "section": "7. Higher Education Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the name of the university that Sendhil Sasikala and Sreenidhi Alagesan pursued their MS in Material Science at?",
+    "answer": "Sendhil Sasikala and Sreenidhi Alagesan pursued their MS in Material Science at Darmstadt University of Technology in Germany.",
+    "format": "factoid",
+    "section": "7. Higher Education Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the name of the event organized by the Higher Education Cell on February 21, 2023, which was conducted in collaboration with SI-UK Consultancy Services?",
+    "answer": "The event organized by the Higher Education Cell on February 21, 2023, which was conducted in collaboration with SI-UK Consultancy Services, was a seminar on studying in the UK.",
+    "format": "factoid",
+    "section": "7. Higher Education Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the name of the company that Mr. Sujith Menon is the CEO of?",
+    "answer": "Mr. Sujith Menon is the CEO of Synergy Group of Companies.",
+    "format": "factoid",
+    "section": "7. Higher Education Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the name of the program that Aabith Hussain J pursued at Crescent Institute of Science and Technology?",
+    "answer": "Aabith Hussain J pursued his MBA in Management Studies at Crescent Institute of Science and Technology.",
+    "format": "factoid",
+    "section": "7. Higher Education Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the name of the university that Merlin Salbia S pursued her ME in Structural Engineering at?",
+    "answer": "Merlin Salbia S pursued her ME in Structural Engineering at Government College of Engineering Tirunelveli.",
+    "format": "factoid",
+    "section": "7. Higher Education Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the name of the event organized by the Higher Education Cell on March 19, 2022, which was conducted in collaboration with Challas Consultancy Services?",
+    "answer": "The event organized by the Higher Education Cell on March 19, 2022, which was conducted in collaboration with Challas Consultancy Services, was a study abroad event.",
+    "format": "factoid",
+    "section": "7. Higher Education Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the name of the program that Danisha Jothi M pursued at Sri Sairam Engineering College?",
+    "answer": "Danisha Jothi M pursued her ME in Embedded System Technology at Sri Sairam Engineering College.",
+    "format": "factoid",
+    "section": "7. Higher Education Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the name of the program that Prakash Ravichandran pursued at PSB Academy?",
+    "answer": "Prakash Ravichandran pursued his MS - Cyber Security program at PSB Academy.",
+    "format": "factoid",
+    "section": "7. Higher Education Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the name of the program that Syed Zaheer Abbas N pursued at SRM Valliammai Engineering College?",
+    "answer": "Syed Zaheer Abbas N pursued his ME Industrial Safety Engineering program at SRM Valliammai Engineering College.",
+    "format": "factoid",
+    "section": "7. Higher Education Cell",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "How many students interned at Lenovo in the 2022-2023 academic year?",
+    "answer": "A total of 75 students from Mohamed Sathak A.J. College of Engineering interned at Lenovo in the 2022-2023 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the number of students who interned at Zoho Tech's in the 2022-2023 academic year?",
+    "answer": "51 students interned at Zoho Tech's in the 2022-2023 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "Which companies provided internship opportunities to students in the 2022-2023 academic year?",
+    "answer": "The companies that provided internship opportunities to students in the 2022-2023 academic year include Lenovo, Zoho Tech's, Green Valleys Shelters Pvt. Ltd., Thermodyn, Sri KVS Industries, Ozaro Media Teck, Openwave, Preethi Engineering, TVS Mobility, Disenosys, AG Active Galaxy, Diamond Engineering, Pantech e learning pvt. Ltd., NLC, Vignesh Engineering Industries, AIS Glasses, AWS Steels, Pungai Industries, Builders World, Shiash Info Solutions Private Limited, Alsha Solutions, Hasna Technology, Customber Labs, National Institute of Wind Energy, UDS, Eat My News, JFX Media, JASS Metal Works LLC, Recode Solution, Smarther, Avishkar Tech Solutions, Uniconverge Technologies Pvt. Ltd., Exposys Data Labs, NoobTron Private Limited, CodSoft, InternPe, RR Electronics, Broadline Computer Systems, Codebind Technologies, NuClass, and Verzo.",
+    "format": "exploratory",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "How many students interned at TVS Mobility in the 2022-2023 academic year?",
+    "answer": "TVS Mobility provided internship opportunities to 10 students in the 2022-2023 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the number of students who interned at Preethi Engineering in the 2022-2023 academic year?",
+    "answer": "Preethi Engineering had 14 students interning with them in the 2022-2023 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the range of academic years included in the internship details section?",
+    "answer": "The internship details section encompasses a range of academic years, from 2020-2021 to 2024-2025.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "Which academic years are represented in the internship details section?",
+    "answer": "The years 2020-2021, 2021-2022, 2022-2023, 2023-2024, and 2024-2025 are included in the section.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the number of students who interned at Thermodyn in the 2022-2023 academic year?",
+    "answer": "Thermodyn had 39 students interning with them in the 2022-2023 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "How many students interned at Sri KVS Industries in the 2022-2023 academic year?",
+    "answer": "Sri KVS Industries provided internship opportunities to 30 students in the 2022-2023 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the number of students who interned at Ozaro Media Teck in the 2022-2023 academic year?",
+    "answer": "Ozaro Media Teck had 34 students interning with them in the 2022-2023 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "How many students interned at Openwave in the 2022-2023 academic year?",
+    "answer": "Openwave, Chennai, took in 16 students in the 2022-2023 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the number of students who interned at Preethi Engineering in the 2021-2022 academic year?",
+    "answer": "Preethi Engineering had 8 students interning with them in the 2021-2022 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "How many students interned at Caprisio Securities in the 2021-2022 academic year?",
+    "answer": "Caprisio Securities had 10 students interning with them in the 2021-2022 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the number of students who interned at Veelog Nanoceramic Private Limited in the 2021-2022 academic year?",
+    "answer": "Veelog Nanoceramic Private Limited provided internship opportunities to 15 students in the 2021-2022 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "How many students interned at Prinston Smart Engineers in the 2021-2022 academic year?",
+    "answer": "Prinston Smart Engineers offered internships to 3 students in the 2021-2022 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the number of students who interned at Kinnagam Interiors and Construction in the 2021-2022 academic year?",
+    "answer": "Kinnagam Interiors and Construction took on 1 student in the 2021-2022 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "How many students interned at Crime Bharat in the 2021-2022 academic year?",
+    "answer": "Crime Bharat took on 1 student in the 2021-2022 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the number of students who interned at Cyber Crime in the 2021-2022 academic year?",
+    "answer": "Cyber Crime provided internships to 1 student in the 2021-2022 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "How many students interned at Velan Motors in the 2021-2022 academic year?",
+    "answer": "Velan Motors provided internships to 1 student in the 2021-2022 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the number of students who interned at Ero Design Consultant in the 2021-2022 academic year?",
+    "answer": "Ero Design Consultant offered internships to 3 students in the 2021-2022 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "How many students interned at Atalon in the 2021-2022 academic year?",
+    "answer": "Atalon offered internships to 3 students in the 2021-2022 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the number of students who interned at Vegan Creative Engineering Solutions and Contracting in the 2021-2022 academic year?",
+    "answer": "Vegan Creative Engineering Solutions and Contracting provided internships to 3 students in the 2021-2022 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "How many students interned at OSI Digital Inc in the 2021-2022 academic year?",
+    "answer": "OSI Digital Inc took on 2 students in the 2021-2022 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the number of students who interned at AICL in the 2021-2022 academic year?",
+    "answer": "AICL offered internships to 3 students in the 2021-2022 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "How many students interned at Gowatr Private Limited in the 2021-2022 academic year?",
+    "answer": "Gowatr Private Limited provided internships to 11 students in the 2021-2022 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the number of students who interned at Precision Instrument & Electronics (Madras) Pvt Ltd in the 2021-2022 academic year?",
+    "answer": "Precision Instrument & Electronics (Madras) Pvt Ltd offered internships to 9 students in the 2021-2022 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "How many students interned at Pantech Solutions in the 2021-2022 academic year?",
+    "answer": "Pantech Solutions took on 6 students in the 2021-2022 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "What is the number of students who interned at Samundeeswari Construction in the 2021-2022 academic year?",
+    "answer": "Samundeeswari Construction provided internships to 1 student in the 2021-2022 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  },
+  {
+    "question": "How many students interned at Thermodynedutech in the 2021-2022 academic year?",
+    "answer": "Thermodynedutech offered internships to 31 students in the 2021-2022 academic year.",
+    "format": "factoid",
+    "section": "3. Student Internship Details & 4. Internship Details",
+    "source_file": "msajce_placement.md",
+    "category": "Placement & Careers"
+  }
+]

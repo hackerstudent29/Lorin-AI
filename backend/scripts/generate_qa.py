@@ -5,6 +5,10 @@ import asyncio
 import aiohttp
 from typing import List, Dict, Any
 from pathlib import Path
+from dotenv import load_dotenv
+
+# Load environmental variables
+load_dotenv(Path(__file__).parent.parent / ".env")
 
 NVIDIA_API_KEY = os.environ.get("NVIDIA_API_KEY", "")
 if not NVIDIA_API_KEY:
@@ -13,6 +17,9 @@ if not NVIDIA_API_KEY:
 DATASET_DIR = Path(__file__).parent.parent / "dataset"
 QA_OUT_DIR = Path(__file__).parent.parent / "qa_datasets"
 QA_OUT_DIR.mkdir(exist_ok=True)
+
+# Global semaphore to control Nvidia API rate limits (40 RPM limit)
+SEMAPHORE = asyncio.Semaphore(2)
 
 CATEGORIES = {
     "qa_departments": [
@@ -85,23 +92,24 @@ Requirements:
     max_retries = 3
     for attempt in range(max_retries):
         try:
-            async with session.post("https://integrate.api.nvidia.com/v1/chat/completions", headers=headers, json=payload, timeout=90) as res:
-                res.raise_for_status()
-                data = await res.json()
-                content = data["choices"][0]["message"]["content"].strip()
-                
-                if content.startswith("```"):
-                    import re
-                    content = re.sub(r"^```(?:json)?\n?|```$", "", content, flags=re.MULTILINE).strip()
-                
-                try:
-                    qa_pairs = json.loads(content)
-                    if isinstance(qa_pairs, list):
-                        for qa in qa_pairs:
-                            qa["source_file"] = source_file
-                        return qa_pairs
-                except json.JSONDecodeError:
-                    print(f"Warning: Failed to parse JSON from output of {source_file} (Attempt {attempt+1})")
+            async with SEMAPHORE:
+                async with session.post("https://integrate.api.nvidia.com/v1/chat/completions", headers=headers, json=payload, timeout=90) as res:
+                    res.raise_for_status()
+                    data = await res.json()
+            
+            content = data["choices"][0]["message"]["content"].strip()
+            if content.startswith("```"):
+                import re
+                content = re.sub(r"^```(?:json)?\n?|```$", "", content, flags=re.MULTILINE).strip()
+            
+            try:
+                qa_pairs = json.loads(content)
+                if isinstance(qa_pairs, list):
+                    for qa in qa_pairs:
+                        qa["source_file"] = source_file
+                    return qa_pairs
+            except json.JSONDecodeError:
+                print(f"Warning: Failed to parse JSON from output of {source_file} (Attempt {attempt+1})")
         except Exception as e:
             print(f"Error on API request for {source_file} (Attempt {attempt+1}): {e}")
         
@@ -152,12 +160,13 @@ async def get_embeddings(session: aiohttp.ClientSession, texts: List[str]) -> Li
         }
         for attempt in range(3):
             try:
-                async with session.post("https://integrate.api.nvidia.com/v1/embeddings", headers=headers, json=payload, timeout=60) as res:
-                    res.raise_for_status()
-                    data = await res.json()
-                    sorted_data = sorted(data["data"], key=lambda x: x["index"])
-                    all_embeddings.extend([item["embedding"] for item in sorted_data])
-                    break
+                async with SEMAPHORE:
+                    async with session.post("https://integrate.api.nvidia.com/v1/embeddings", headers=headers, json=payload, timeout=60) as res:
+                        res.raise_for_status()
+                        data = await res.json()
+                sorted_data = sorted(data["data"], key=lambda x: x["index"])
+                all_embeddings.extend([item["embedding"] for item in sorted_data])
+                break
             except Exception as e:
                 print(f"Embedding error (Attempt {attempt+1}): {e}")
                 await asyncio.sleep(5)

@@ -1,0 +1,458 @@
+[
+  {
+    "question": "What are the Programme Educational Objectives of the college?",
+    "answer": "The Programme Educational Objectives state that graduates will be prepared for analyzing, designing, developing, and testing software solutions and products with creativity and sustainability.",
+    "format": "factoid",
+    "section": "5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What skills will graduates possess after completing the programme?",
+    "answer": "Graduates will be skilled in the use of modern tools for critical problem solving and analyzing industrial and societal requirements, and will also be prepared with managerial and leadership skills for their careers and for starting up their own firms.",
+    "format": "factoid",
+    "section": "5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the Program Specific Outcomes of the college?",
+    "answer": "The Program Specific Outcomes emphasize that engineering graduates will be able to develop creative solutions by adapting emerging technologies and tools for real-time applications in the industry.",
+    "format": "factoid",
+    "section": "5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the specific outcome of developing software solutions and innovative mobile apps?",
+    "answer": "They will also apply their acquired knowledge to develop software solutions and innovative mobile apps for various automation applications.",
+    "format": "factoid",
+    "section": "5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the purpose of the Programme Educational Objectives?",
+    "answer": "The Programme Educational Objectives are to prepare graduates for analyzing, designing, developing, and testing software solutions and products with creativity and sustainability.",
+    "format": "exploratory",
+    "section": "5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key areas of focus for the graduates after completing the programme?",
+    "answer": "The key areas of focus for the graduates include analyzing, designing, developing, and testing software solutions and products, as well as possessing managerial and leadership skills.",
+    "format": "exploratory",
+    "section": "5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "Is developing creative solutions by adapting emerging technologies and tools a key outcome of the programme?",
+    "answer": "Yes, developing creative solutions by adapting emerging technologies and tools for real-time applications in the industry is a key outcome of the programme.",
+    "format": "yes_no",
+    "section": "5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the role of the graduates in developing software solutions and innovative mobile apps?",
+    "answer": "The graduates will apply their acquired knowledge to develop software solutions and innovative mobile apps for various automation applications.",
+    "format": "exploratory",
+    "section": "5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the name of the faculty offering the B.Tech program in Electronics and Communication Engineering with a Specialization in Advanced Communication Technology?",
+    "answer": "The faculty of Electronics and Communication Engineering offers the B.Tech program in Electronics and Communication Engineering with a Specialization in Advanced Communication Technology.",
+    "format": "factoid",
+    "section": "Electronics and Communication Engineering with Specialization in Advanced Communication Technology & 1. Overview & 2. Programme & 3. Vision & 4. Mission",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the modern communication systems covered in the program?",
+    "answer": "The program focuses on modern communication systems such as wireless and optical communication, RF and microwave communication, laser and light wave communication, and next-generation advanced communication technologies.",
+    "format": "factoid",
+    "section": "Electronics and Communication Engineering with Specialization in Advanced Communication Technology & 1. Overview & 2. Programme & 3. Vision & 4. Mission",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the subjects explored in the program?",
+    "answer": "The curriculum deeply covers massive multiple-input multiple-output, beamforming through advanced digital signal processing, device-to-device communication, millimeter-wave technologies, communication networks, embedded systems, the Internet of Things, cyber and network security, information theory and coding. Additionally, subjects like satellite communication, navigation systems, and quantum and molecular communication are also explored.",
+    "format": "factoid",
+    "section": "Electronics and Communication Engineering with Specialization in Advanced Communication Technology & 1. Overview & 2. Programme & 3. Vision & 4. Mission",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the professional prospects for students after completing the course?",
+    "answer": "Through this course, students will have professional prospects in a range of industries, including network providers such as BSNL and AIRTEL, as well as in manufacturing, healthcare, education, the IT sector, civil aviation, defense, postal and railway departments, All India Radio and TV stations, the Indian Telecom Sector, the National Physics Lab, and numerous companies like Bharat Electronics Ltd, ONGC, SAIL, Cisco, Havells, 3M India, Reliance, Bajaj, Bosch, and Philips.",
+    "format": "factoid",
+    "section": "Electronics and Communication Engineering with Specialization in Advanced Communication Technology & 1. Overview & 2. Programme & 3. Vision & 4. Mission",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the duration of the program for regular students?",
+    "answer": "The duration is four years for regular students.",
+    "format": "factoid",
+    "section": "Electronics and Communication Engineering with Specialization in Advanced Communication Technology & 1. Overview & 2. Programme & 3. Vision & 4. Mission",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the total intake capacity of the program?",
+    "answer": "The total intake is 30 seats, divided equally with 15 for the government quota and 15 for the management quota.",
+    "format": "factoid",
+    "section": "Electronics and Communication Engineering with Specialization in Advanced Communication Technology & 1. Overview & 2. Programme & 3. Vision & 4. Mission",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the eligibility requirement for the program?",
+    "answer": "Eligibility for the program requires completion of the 10+2 system of education, and students must have secured a pass in Physics, Chemistry, and Mathematics in their qualifying examination.",
+    "format": "factoid",
+    "section": "Electronics and Communication Engineering with Specialization in Advanced Communication Technology & 1. Overview & 2. Programme & 3. Vision & 4. Mission",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the opportunities available for students after completing the program?",
+    "answer": "Opportunities are vast in public sector undertakings and the government sector. The scope for higher studies includes pursuing an M.E., M.Tech, or M.B.A.",
+    "format": "factoid",
+    "section": "Electronics and Communication Engineering with Specialization in Advanced Communication Technology & 1. Overview & 2. Programme & 3. Vision & 4. Mission",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the vision of the institution?",
+    "answer": "The vision is to be a center of excellence for transforming students into proficient Communication Engineers through sustainable practices.",
+    "format": "factoid",
+    "section": "Electronics and Communication Engineering with Specialization in Advanced Communication Technology & 1. Overview & 2. Programme & 3. Vision & 4. Mission",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the mission of the institution?",
+    "answer": "The mission involves imparting core fundamental knowledge and necessary skills in communication systems through innovative teaching and learning methodologies. It aims to inculcate the critical thinking, ethics, lifelong learning, and creativity needed for both the industry and society.",
+    "format": "factoid",
+    "section": "Electronics and Communication Engineering with Specialization in Advanced Communication Technology & 1. Overview & 2. Programme & 3. Vision & 4. Mission",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the Programme Outcomes defined in the context?",
+    "answer": "The Programme Outcomes define the foundational abilities of the students.",
+    "format": "exploratory",
+    "section": "7. Programme Outcomes (PO)",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the definition of Engineering Knowledge (PO1)?",
+    "answer": "Engineering knowledge requires applying mathematics, science, engineering fundamentals, and an engineering specialization to solve complex engineering problems.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO)",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What skills are required for Problem Analysis (PO2)?",
+    "answer": "Problem analysis involves identifying, formulating, reviewing research literature, and analyzing complex engineering problems to reach substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO)",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the role of Design/Development of Solutions (PO3) in the Programme Outcomes?",
+    "answer": "For the design and development of solutions, students must design solutions for complex engineering problems and design system components or processes that meet specified needs with appropriate consideration for public health and safety, as well as cultural, societal, and environmental considerations.",
+    "format": "exploratory",
+    "section": "7. Programme Outcomes (PO)",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key aspects of Conduct Investigations (PO4)?",
+    "answer": "Conducting investigations of complex problems requires using research-based knowledge and methods, including the design of experiments, analysis and interpretation of data, and synthesis of information to provide valid conclusions.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO)",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What does Modern Tool Usage (PO5) involve?",
+    "answer": "Modern tool usage involves creating, selecting, and applying appropriate techniques, resources, and modern engineering and IT tools, including prediction and modeling, to complex engineering activities with an understanding of their limitations.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO)",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the focus of The Engineer and Society (PO6)?",
+    "answer": "Further Programme Outcomes emphasize the engineer and society, applying reasoning informed by contextual knowledge to assess societal, health, safety, legal, and cultural issues and the consequent responsibilities relevant to professional engineering practice.",
+    "format": "exploratory",
+    "section": "7. Programme Outcomes (PO)",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the objective of Environment and Sustainability (PO7)?",
+    "answer": "Environment and sustainability focus on understanding the impact of professional engineering solutions in societal and environmental contexts, demonstrating the knowledge of and need for sustainable development.",
+    "format": "exploratory",
+    "section": "7. Programme Outcomes (PO)",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the role of Ethics (PO8) in the Programme Outcomes?",
+    "answer": "Ethics involves applying ethical principles and committing to professional ethics, responsibilities, and norms of engineering practice.",
+    "format": "exploratory",
+    "section": "7. Programme Outcomes (PO)",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What skills are required for Individual and Team Work (PO9)?",
+    "answer": "Individual and teamwork require functioning effectively as an individual, and as a member or leader in diverse teams and multidisciplinary settings.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO)",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the focus of Communication (PO10)?",
+    "answer": "Communication ensures the ability to communicate effectively on complex engineering activities with the engineering community and society at large, including comprehending and writing effective reports, designing documentation, making effective presentations, and giving and receiving clear instructions.",
+    "format": "exploratory",
+    "section": "7. Programme Outcomes (PO)",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the objective of Project Management and Finance (PO11)?",
+    "answer": "Project management and finance involve demonstrating knowledge and understanding of engineering and management principles and applying these to one's own work, managing projects, and working in multidisciplinary environments.",
+    "format": "exploratory",
+    "section": "7. Programme Outcomes (PO)",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the focus of Life-long Learning (PO12)?",
+    "answer": "Finally, life-long learning recognizes the need for and the ability to engage in independent and life-long learning in the broadest context of technological change.",
+    "format": "exploratory",
+    "section": "7. Programme Outcomes (PO)",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the job profiles for Electronics and Communication Engineers?",
+    "answer": "The job profiles for Electronics and Communication Engineers encompass various roles such as Design Engineer, ASIC Engineer, Embedded Engineer, Network Support Engineer, Software Engineer, Quality Analyst, Technician, Chief Technical Officer, ECE Engineering Consultant, and Data Analyst.",
+    "format": "exploratory",
+    "section": "8. Job Profiles & Employment Forecast in Advanced Communication Technology in India (2025 - 2030) & Key Industry Drivers",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the average annual salary of a Design Engineer?",
+    "answer": "The average annual salary of a Design Engineer is 4 to 5 lakhs.",
+    "format": "factoid",
+    "section": "8. Job Profiles & Employment Forecast in Advanced Communication Technology in India (2025 - 2030) & Key Industry Drivers",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the average annual salary of an ASIC Engineer?",
+    "answer": "The average annual salary of an ASIC Engineer is 20 lakhs.",
+    "format": "factoid",
+    "section": "8. Job Profiles & Employment Forecast in Advanced Communication Technology in India (2025 - 2030) & Key Industry Drivers",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the average annual salary of an Embedded Engineer?",
+    "answer": "The average annual salary of an Embedded Engineer is 16 lakhs.",
+    "format": "factoid",
+    "section": "8. Job Profiles & Employment Forecast in Advanced Communication Technology in India (2025 - 2030) & Key Industry Drivers",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the average annual salary of a Network Support Engineer?",
+    "answer": "The average annual salary of a Network Support Engineer is 3 to 4 lakhs.",
+    "format": "factoid",
+    "section": "8. Job Profiles & Employment Forecast in Advanced Communication Technology in India (2025 - 2030) & Key Industry Drivers",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the average annual salary of a Software Engineer?",
+    "answer": "The average annual salary of a Software Engineer is between 4 to 12 lakhs.",
+    "format": "factoid",
+    "section": "8. Job Profiles & Employment Forecast in Advanced Communication Technology in India (2025 - 2030) & Key Industry Drivers",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the average annual salary of a Quality Analyst?",
+    "answer": "The average annual salary of a Quality Analyst is 4.5 lakhs.",
+    "format": "factoid",
+    "section": "8. Job Profiles & Employment Forecast in Advanced Communication Technology in India (2025 - 2030) & Key Industry Drivers",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the average annual salary of a Technician?",
+    "answer": "The average annual salary of a Technician is 2 to 2.5 lakhs.",
+    "format": "factoid",
+    "section": "8. Job Profiles & Employment Forecast in Advanced Communication Technology in India (2025 - 2030) & Key Industry Drivers",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the average annual salary of a Chief Technical Officer?",
+    "answer": "The average annual salary of a Chief Technical Officer is 18 lakhs.",
+    "format": "factoid",
+    "section": "8. Job Profiles & Employment Forecast in Advanced Communication Technology in India (2025 - 2030) & Key Industry Drivers",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the average annual salary of an ECE Engineering Consultant?",
+    "answer": "The average annual salary of an ECE Engineering Consultant is 20 lakhs.",
+    "format": "factoid",
+    "section": "8. Job Profiles & Employment Forecast in Advanced Communication Technology in India (2025 - 2030) & Key Industry Drivers",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the average annual salary of a Data Analyst?",
+    "answer": "The average annual salary of a Data Analyst is between 5 to 8 lakhs.",
+    "format": "factoid",
+    "section": "8. Job Profiles & Employment Forecast in Advanced Communication Technology in India (2025 - 2030) & Key Industry Drivers",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key industry drivers for the field of Advanced Communication Technology in India?",
+    "answer": "The key industry drivers for the field of Advanced Communication Technology in India include the deployment of 5G and preparations for 6G, the Internet of Things, satellite communications, and wireless technologies.",
+    "format": "exploratory",
+    "section": "8. Job Profiles & Employment Forecast in Advanced Communication Technology in India (2025 - 2030) & Key Industry Drivers",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the areas of growth in telecom infrastructure?",
+    "answer": "The areas of growth in telecom infrastructure include network security, wireless communication, and millimeter-wave technology.",
+    "format": "exploratory",
+    "section": "8. Job Profiles & Employment Forecast in Advanced Communication Technology in India (2025 - 2030) & Key Industry Drivers",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the job openings in wireless broadband?",
+    "answer": "The job openings in wireless broadband include positions focusing on millimeter-wave systems, software-defined radio, and advanced modulation techniques.",
+    "format": "exploratory",
+    "section": "8. Job Profiles & Employment Forecast in Advanced Communication Technology in India (2025 - 2030) & Key Industry Drivers",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the areas of growth in connected devices for smart cities and industrial IoT?",
+    "answer": "The areas of growth in connected devices for smart cities and industrial IoT include low-power communication protocols, sensor networks, embedded systems, and edge computing.",
+    "format": "exploratory",
+    "section": "8. Job Profiles & Employment Forecast in Advanced Communication Technology in India (2025 - 2030) & Key Industry Drivers",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the projected growth rate for the Telecom sector for 5G and 6G?",
+    "answer": "The Telecom sector for 5G and 6G is projected to grow by 10 to 12 percent per year.",
+    "format": "factoid",
+    "section": "Sector-Wise Job Growth Projections and Opportunities & Key Government Initiatives and Policy Impacts & Skills and Certifications Demand in Industry",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key areas of focus for the IoT and Embedded Systems sector?",
+    "answer": "The IoT and Embedded Systems sector is expected to grow by 15 to 18 percent, hiring for IoT communication protocols, sensor networks, and edge computing.",
+    "format": "factoid",
+    "section": "Sector-Wise Job Growth Projections and Opportunities & Key Government Initiatives and Policy Impacts & Skills and Certifications Demand in Industry",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key areas of focus for Research and Development sector for next-generation communications?",
+    "answer": "The Research and Development sector for next-generation communications will see a 10 to 14 percent growth rate, seeking experts in quantum communication, optical wireless, and 6G technologies.",
+    "format": "factoid",
+    "section": "Sector-Wise Job Growth Projections and Opportunities & Key Government Initiatives and Policy Impacts & Skills and Certifications Demand in Industry",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key roles that will experience high to very high job growth?",
+    "answer": "Roles such as Telecom Engineer, Satellite Communication Engineer, IoT Network Engineer, and Network Security Engineer will experience high to very high job growth.",
+    "format": "factoid",
+    "section": "Sector-Wise Job Growth Projections and Opportunities & Key Government Initiatives and Policy Impacts & Skills and Certifications Demand in Industry",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key skills required for the roles that will experience high to very high job growth?",
+    "answer": "These roles require skills in RF design, antenna design, millimeter-wave technologies, network optimization, low-power protocols, cybersecurity, and encryption.",
+    "format": "factoid",
+    "section": "Sector-Wise Job Growth Projections and Opportunities & Key Government Initiatives and Policy Impacts & Skills and Certifications Demand in Industry",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the objective of the National Digital Communications Policy of 2018?",
+    "answer": "The National Digital Communications Policy of 2018 aims to position India as a global leader in communication technologies, attracting investment in 5G and beyond.",
+    "format": "exploratory",
+    "section": "Sector-Wise Job Growth Projections and Opportunities & Key Government Initiatives and Policy Impacts & Skills and Certifications Demand in Industry",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the impact of the Production Linked Incentive scheme on the sector?",
+    "answer": "The Production Linked Incentive scheme boosts the manufacturing of telecom equipment and network components in India, leading to significant job creation in the sector.",
+    "format": "factoid",
+    "section": "Sector-Wise Job Growth Projections and Opportunities & Key Government Initiatives and Policy Impacts & Skills and Certifications Demand in Industry",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key skills and certifications required for professionals in the industry?",
+    "answer": "Professionals need expertise in 5G and 6G, with certifications from 3GPP, IEEE, and Cisco. Knowledge of IoT and embedded systems, including Arduino, Raspberry Pi, STM32, and LoRaWAN, is essential.",
+    "format": "factoid",
+    "section": "Sector-Wise Job Growth Projections and Opportunities & Key Government Initiatives and Policy Impacts & Skills and Certifications Demand in Industry",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key wireless protocols that professionals need to be familiar with?",
+    "answer": "Familiarity with wireless protocols such as Wi-Fi 6, Bluetooth, LoRa, and NB-IoT is necessary.",
+    "format": "factoid",
+    "section": "Sector-Wise Job Growth Projections and Opportunities & Key Government Initiatives and Policy Impacts & Skills and Certifications Demand in Industry",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key areas of focus for the Space Policy?",
+    "answer": "The Space Policy promotes private-sector participation in satellite communications.",
+    "format": "factoid",
+    "section": "Sector-Wise Job Growth Projections and Opportunities & Key Government Initiatives and Policy Impacts & Skills and Certifications Demand in Industry",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the impact of the Smart Cities Mission on the industry?",
+    "answer": "The Smart Cities Mission generates demand for IoT, broadband, and wireless communication infrastructure.",
+    "format": "factoid",
+    "section": "Sector-Wise Job Growth Projections and Opportunities & Key Government Initiatives and Policy Impacts & Skills and Certifications Demand in Industry",
+    "source_file": "msajce_ece-act.md",
+    "category": "Department — Electronics & Communication"
+  }
+]

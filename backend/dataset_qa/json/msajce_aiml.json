@@ -1,0 +1,682 @@
+[
+  {
+    "question": "What is Artificial Intelligence?",
+    "answer": "Artificial Intelligence is a technology that enables machines to reproduce human behavior.",
+    "format": "factoid",
+    "section": "Artificial Intelligence and Machine Learning (CSE - AIML) & 1. Overview & 2. Career Prospects & 3. Vision",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What is Machine Learning?",
+    "answer": "Machine Learning is a sub-part of Artificial Intelligence by which machines automatically learn from past data without programming.",
+    "format": "factoid",
+    "section": "Artificial Intelligence and Machine Learning (CSE - AIML) & 1. Overview & 2. Career Prospects & 3. Vision",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What is the B.Tech in Computer Science and Engineering with Specialization in Artificial Intelligence and Machine Learning?",
+    "answer": "The B.Tech in Computer Science and Engineering with Specialization in Artificial Intelligence and Machine Learning provides budding engineers with a spectacular array of courses dedicated to frontiers in the field with a foundation of Computer Science and Engineering.",
+    "format": "factoid",
+    "section": "Artificial Intelligence and Machine Learning (CSE - AIML) & 1. Overview & 2. Career Prospects & 3. Vision",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the career prospects for graduates of the program?",
+    "answer": "With a huge explosion in data and its applications, a career in this field can be very promising as a Big Data Engineer, Business Intelligence Developer, Data Scientist, Machine Learning Engineer, Research Scientist, AI Data Analyst, AI Engineer, or Robotics Scientist.",
+    "format": "exploratory",
+    "section": "Artificial Intelligence and Machine Learning (CSE - AIML) & 1. Overview & 2. Career Prospects & 3. Vision",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "Which companies have recruited students from the program?",
+    "answer": "Students have been recruited by reputed industries like Microsoft, Amazon, Goldman Sachs, Oracle GBU, Cisco, Dell Technologies, and Accenture, among others.",
+    "format": "factoid",
+    "section": "Artificial Intelligence and Machine Learning (CSE - AIML) & 1. Overview & 2. Career Prospects & 3. Vision",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What is the vision of the program?",
+    "answer": "The vision is to be a center of excellence for transforming students into proficient Artificial Intelligence and Machine Learning Engineers through sustainable practices.",
+    "format": "factoid",
+    "section": "Artificial Intelligence and Machine Learning (CSE - AIML) & 1. Overview & 2. Career Prospects & 3. Vision",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the specialized areas offered in the program?",
+    "answer": "The specialized areas are offered as minor specializations about machine learning, deep learning, natural language processing, computer vision, data mining, and special courses like Explainable AI, Generative Adversarial Networks, Multimodal AI, and Regenerative AI.",
+    "format": "factoid",
+    "section": "Artificial Intelligence and Machine Learning (CSE - AIML) & 1. Overview & 2. Career Prospects & 3. Vision",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What tools and technologies are used in the program?",
+    "answer": "The students will also gain hands-on experience with tools and technologies such as Python, R, TensorFlow, Spark, Hadoop, and many more.",
+    "format": "factoid",
+    "section": "Artificial Intelligence and Machine Learning (CSE - AIML) & 1. Overview & 2. Career Prospects & 3. Vision",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What is the demand for skilled professionals in the field?",
+    "answer": "The demand for skilled professionals in this field is growing exponentially, and there is a huge shortage of talent worldwide.",
+    "format": "factoid",
+    "section": "Artificial Intelligence and Machine Learning (CSE - AIML) & 1. Overview & 2. Career Prospects & 3. Vision",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the job descriptions for graduates of the program?",
+    "answer": "With a specific job description on Artificial Intelligence and Machine Learning, students have been recruited by reputed industries.",
+    "format": "exploratory",
+    "section": "Artificial Intelligence and Machine Learning (CSE - AIML) & 1. Overview & 2. Career Prospects & 3. Vision",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What is the average salary for graduates of the program?",
+    "answer": "Both the entry-level as well as high-level positions offer an annual average salary that is higher than the average salary of any other engineering graduate.",
+    "format": "factoid",
+    "section": "Artificial Intelligence and Machine Learning (CSE - AIML) & 1. Overview & 2. Career Prospects & 3. Vision",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What is the mission of Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The mission involves imparting core fundamental knowledge and necessary skills in Artificial Intelligence and Data Science through innovative teaching and learning methodologies.",
+    "format": "factoid",
+    "section": "4. Mission & 5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the Programme Educational Objectives (PEOs) of the college?",
+    "answer": "The Programme Educational Objectives state that graduates will be prepared for analyzing, designing, developing, and testing software solutions and products with creativity and sustainability.",
+    "format": "factoid",
+    "section": "4. Mission & 5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the skills that the college aims to inculcate in its students?",
+    "answer": "The college aims to inculcate critical thinking, ethics, lifelong learning, and creativity needed for both the industry and society.",
+    "format": "factoid",
+    "section": "4. Mission & 5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the Program Specific Outcomes (PSOs) of the college?",
+    "answer": "The Program Specific Outcomes emphasize that engineering graduates will be able to develop creative solutions by adapting emerging technologies and tools for real-time applications in the industry.",
+    "format": "factoid",
+    "section": "4. Mission & 5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the key skills that graduates will be prepared with according to PEO1?",
+    "answer": "According to PEO1, graduates will be prepared with managerial and leadership skills for their careers and for starting up their own firms.",
+    "format": "factoid",
+    "section": "4. Mission & 5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the key skills that graduates will be prepared with according to PSO2?",
+    "answer": "According to PSO2, graduates will be able to apply their acquired knowledge to develop software solutions and innovative mobile apps for various automation applications.",
+    "format": "factoid",
+    "section": "4. Mission & 5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the key outcomes that the college aims to achieve through its mission?",
+    "answer": "The college aims to achieve all-around competencies for students' careers, higher education, and self-employability.",
+    "format": "exploratory",
+    "section": "4. Mission & 5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the key areas of focus for the college's Programme Educational Objectives (PEOs)?",
+    "answer": "The Programme Educational Objectives focus on preparing graduates for analyzing, designing, developing, and testing software solutions and products with creativity and sustainability.",
+    "format": "exploratory",
+    "section": "4. Mission & 5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the key areas of focus for the college's Program Specific Outcomes (PSOs)?",
+    "answer": "The Program Specific Outcomes focus on developing creative solutions by adapting emerging technologies and tools for real-time applications in the industry.",
+    "format": "exploratory",
+    "section": "4. Mission & 5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the Programme Outcomes of the students?",
+    "answer": "The Programme Outcomes define the foundational abilities of the students, which include Engineering Knowledge, Problem Analysis, Design/Development of Solutions, Conduct Investigations, Modern Tool Usage, The Engineer and Society, Environment and Sustainability, Ethics, Individual and Team Work, Communication, Project Management and Finance, and Life-long Learning.",
+    "format": "exploratory",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What is the Programme Outcome (PO1)?",
+    "answer": "Engineering Knowledge requires applying mathematics, science, engineering fundamentals, and an engineering specialization to solve complex engineering problems.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What does Programme Outcome (PO2) involve?",
+    "answer": "Problem analysis involves identifying, formulating, reviewing research literature, and analyzing complex engineering problems to reach substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What is the purpose of Programme Outcome (PO3)?",
+    "answer": "For the design and development of solutions, students must design solutions for complex engineering problems and design system components or processes that meet specified needs with appropriate consideration for public health and safety, as well as cultural, societal, and environmental considerations.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What is Programme Outcome (PO4) about?",
+    "answer": "Conducting investigations of complex problems requires using research-based knowledge and methods, including the design of experiments, analysis and interpretation of data, and synthesis of information to provide valid conclusions.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What does Programme Outcome (PO5) involve?",
+    "answer": "Modern tool usage involves creating, selecting, and applying appropriate techniques, resources, and modern engineering and IT tools, including prediction and modeling, to complex engineering activities with an understanding of their limitations.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What is the focus of Programme Outcome (PO6)?",
+    "answer": "Further Programme Outcomes emphasize the engineer and society, applying reasoning informed by contextual knowledge to assess societal, health, safety, legal, and cultural issues and the consequent responsibilities relevant to professional engineering practice.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What is Programme Outcome (PO7) about?",
+    "answer": "Environment and sustainability focus on understanding the impact of professional engineering solutions in societal and environmental contexts, demonstrating the knowledge of and need for sustainable development.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What is Programme Outcome (PO8) about?",
+    "answer": "Ethics involves applying ethical principles and committing to professional ethics, responsibilities, and norms of engineering practice.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What is Programme Outcome (PO9) about?",
+    "answer": "Individual and teamwork require functioning effectively as an individual, and as a member or leader in diverse teams and multidisciplinary settings.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What is Programme Outcome (PO10) about?",
+    "answer": "Communication ensures the ability to communicate effectively on complex engineering activities with the engineering community and society at large, including comprehending and writing effective reports, designing documentation, making effective presentations, and giving and receiving clear instructions.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What is Programme Outcome (PO11) about?",
+    "answer": "Project management and finance involve demonstrating knowledge and understanding of engineering and management principles and applying these to one's own work, managing projects, and working in multidisciplinary environments.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What is Programme Outcome (PO12) about?",
+    "answer": "Life-long learning recognizes the need for and the ability to engage in independent and life-long learning in the broadest context of technological change.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the Programme Outcomes that emphasize the engineer and society?",
+    "answer": "Programme Outcomes PO6, PO7, PO8, PO9, PO10, PO11, and PO12 emphasize the engineer and society, applying reasoning informed by contextual knowledge to assess societal, health, safety, legal, and cultural issues and the consequent responsibilities relevant to professional engineering practice.",
+    "format": "comparison",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What is the objective of the Incubation Centre?",
+    "answer": "The Incubation Centre's objective is not explicitly mentioned in the provided context.",
+    "format": "exploratory",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What is the expected growth rate of the industry in India?",
+    "answer": "The industry in India is projected to grow at a Compound Annual Growth Rate of about 30 to 40 percent in the next five years.",
+    "format": "factoid",
+    "section": "Expected Growth and Salary Trends & Certifications and Skills to Upskill",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the expected average annual compensation ranges for certain roles?",
+    "answer": "Roles like Research Scientist, Machine Learning Engineer, and Data Scientist will receive an average annual compensation ranging from 12 to 30 lakhs.",
+    "format": "factoid",
+    "section": "Expected Growth and Salary Trends & Certifications and Skills to Upskill",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the average annual compensation ranges for entry-level, mid-level, and senior-level roles?",
+    "answer": "Entry-level roles for zero to two years of experience typically offer 6 to 12 Lakhs per annum, mid-level roles for three to five years offer 12 to 20 Lakhs per annum, and senior-level roles for over five years offer 20 to 35 Lakhs per annum.",
+    "format": "factoid",
+    "section": "Expected Growth and Salary Trends & Certifications and Skills to Upskill",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the expected average annual compensation ranges for Research Scientists and Project Managers?",
+    "answer": "Research Scientists can earn 25 to 50 Lakhs per annum depending on expertise, and Project Managers can earn 30 to 60 Lakhs per annum for senior positions.",
+    "format": "factoid",
+    "section": "Expected Growth and Salary Trends & Certifications and Skills to Upskill",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What skills are required to upskill in this field?",
+    "answer": "Professionals need to learn Python and R for data manipulation and model development, master TensorFlow, PyTorch, and Keras for deep learning, and learn data science tools like Pandas, NumPy, and SciPy for data wrangling and analysis.",
+    "format": "factoid",
+    "section": "Expected Growth and Salary Trends & Certifications and Skills to Upskill",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the recommended certifications for professionals in this field?",
+    "answer": "Recommended certifications include Google Professional Machine Learning Engineer, AWS Certified Machine Learning Specialty, Microsoft Certified Azure AI Engineer Associate, IBM AI Engineering Professional Certificate, and Certified Data Scientist.",
+    "format": "factoid",
+    "section": "Expected Growth and Salary Trends & Certifications and Skills to Upskill",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the recommended further learning paths for professionals in this field?",
+    "answer": "Further learning through the Deep Learning Specialization, Advanced Machine Learning Specialization, and Natural Language Processing with Deep Learning is highly encouraged.",
+    "format": "factoid",
+    "section": "Expected Growth and Salary Trends & Certifications and Skills to Upskill",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the target job applications for professionals in this field?",
+    "answer": "Targeted job applications should focus on large tech firms like Google, Microsoft, Amazon, NVIDIA, IBM, TCS, and Infosys, as well as startups in cities like Bangalore, Hyderabad, and Pune, and freelancing platforms like Upwork and Freelancer.",
+    "format": "factoid",
+    "section": "Expected Growth and Salary Trends & Certifications and Skills to Upskill",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the essential natural language processing frameworks for text processing and sentiment analysis?",
+    "answer": "Natural language processing frameworks like SpaCy and Hugging Face are essential for text processing and sentiment analysis.",
+    "format": "factoid",
+    "section": "Expected Growth and Salary Trends & Certifications and Skills to Upskill",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What is the expected growth rate of the industry in India?",
+    "answer": "The industry in India is projected to grow at a Compound Annual Growth Rate of about 30 to 40 percent in the next five years.",
+    "format": "factoid",
+    "section": "Expected Growth and Salary Trends & Certifications and Skills to Upskill",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the expected average annual compensation ranges for certain roles?",
+    "answer": "Roles like Research Scientist, Machine Learning Engineer, and Data Scientist will receive an average annual compensation ranging from 12 to 30 lakhs.",
+    "format": "factoid",
+    "section": "Expected Growth and Salary Trends & Certifications and Skills to Upskill",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the key job roles in India (2025-2030)?",
+    "answer": "Machine Learning Engineers, Data Scientists, AI Research Scientists, Deep Learning Engineers, AI and Machine Learning Product Managers, Natural Language Processing Engineers, AI Software Engineers, and AI Ethics Specialists.",
+    "format": "exploratory",
+    "section": "Key Job Roles in India (2025-2030) & Industry-Specific Job Trends",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What skills do Machine Learning Engineers use?",
+    "answer": "Python, TensorFlow, PyTorch, Scikit-learn, statistical analysis, model optimization, neural networks, and deep learning.",
+    "format": "factoid",
+    "section": "Key Job Roles in India (2025-2030) & Industry-Specific Job Trends",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "In which industries are Machine Learning Engineers in high demand?",
+    "answer": "E-commerce, finance, automotive, and manufacturing.",
+    "format": "factoid",
+    "section": "Key Job Roles in India (2025-2030) & Industry-Specific Job Trends",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What skills do Data Scientists use?",
+    "answer": "Python, R, SQL, data visualization tools, deep learning, time-series forecasting, and big data tools.",
+    "format": "factoid",
+    "section": "Key Job Roles in India (2025-2030) & Industry-Specific Job Trends",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "In which industries are Data Scientists in demand?",
+    "answer": "Finance, retail, healthcare, and telecom.",
+    "format": "factoid",
+    "section": "Key Job Roles in India (2025-2030) & Industry-Specific Job Trends",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What is the focus of AI Research Scientists?",
+    "answer": "Cutting-edge research in fields such as natural language processing, computer vision, reinforcement learning, deep learning, and ethics.",
+    "format": "exploratory",
+    "section": "Key Job Roles in India (2025-2030) & Industry-Specific Job Trends",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "In which sectors are Deep Learning Engineers in high demand?",
+    "answer": "Healthcare, automotive, gaming, and financial services.",
+    "format": "factoid",
+    "section": "Key Job Roles in India (2025-2030) & Industry-Specific Job Trends",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What skills do Deep Learning Engineers use?",
+    "answer": "TensorFlow, Keras, PyTorch, and image processing skills.",
+    "format": "factoid",
+    "section": "Key Job Roles in India (2025-2030) & Industry-Specific Job Trends",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What is the focus of AI and Machine Learning Product Managers?",
+    "answer": "Managing product development, coordinating between engineering, research, and business teams, and ensuring successful deployment.",
+    "format": "exploratory",
+    "section": "Key Job Roles in India (2025-2030) & Industry-Specific Job Trends",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "In which sectors are AI and Machine Learning Product Managers in demand?",
+    "answer": "Tech companies, startups, and enterprise software.",
+    "format": "factoid",
+    "section": "Key Job Roles in India (2025-2030) & Industry-Specific Job Trends",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What skills do Natural Language Processing Engineers use?",
+    "answer": "Algorithms, text mining, deep learning, Python, and frameworks like SpaCy and NLTK.",
+    "format": "factoid",
+    "section": "Key Job Roles in India (2025-2030) & Industry-Specific Job Trends",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "In which sectors are Natural Language Processing Engineers in high demand?",
+    "answer": "Customer service, chatbots, content recommendation, and voice assistants.",
+    "format": "factoid",
+    "section": "Key Job Roles in India (2025-2030) & Industry-Specific Job Trends",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What is the focus of AI Software Engineers?",
+    "answer": "Designing and building applications, implementing models in real-world environments, and integrating them into existing software systems.",
+    "format": "exploratory",
+    "section": "Key Job Roles in India (2025-2030) & Industry-Specific Job Trends",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "In which sectors are AI Software Engineers in demand?",
+    "answer": "Finance, retail, manufacturing, and healthcare.",
+    "format": "factoid",
+    "section": "Key Job Roles in India (2025-2030) & Industry-Specific Job Trends",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What is the focus of AI Ethics Specialists?",
+    "answer": "Ensuring systems are developed and used ethically, focusing on bias reduction, fairness, transparency, and accountability.",
+    "format": "exploratory",
+    "section": "Key Job Roles in India (2025-2030) & Industry-Specific Job Trends",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "In which sectors are AI Ethics Specialists in demand?",
+    "answer": "Government organizations, big tech companies, and research institutions.",
+    "format": "factoid",
+    "section": "Key Job Roles in India (2025-2030) & Industry-Specific Job Trends",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the trends in healthcare?",
+    "answer": "Medical diagnostics, personalized treatment, drug discovery, robot-assisted surgery, medical applications, bioinformatics, and healthcare data analytics.",
+    "format": "factoid",
+    "section": "Key Job Roles in India (2025-2030) & Industry-Specific Job Trends",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the trends in finance and banking?",
+    "answer": "Fraud detection, credit scoring, personalized banking services, automated trading, financial data scientists, quantitative analysts, and risk management.",
+    "format": "factoid",
+    "section": "Key Job Roles in India (2025-2030) & Industry-Specific Job Trends",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the trends in automotive and autonomous vehicles?",
+    "answer": "Self-driving cars, smart transportation systems, computer vision, sensor fusion, and real-time decision-making.",
+    "format": "factoid",
+    "section": "Key Job Roles in India (2025-2030) & Industry-Specific Job Trends",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the trends in retail and e-commerce?",
+    "answer": "Transforming the customer experience through personalized recommendations, dynamic pricing, and supply chain optimization.",
+    "format": "factoid",
+    "section": "Key Job Roles in India (2025-2030) & Industry-Specific Job Trends",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the key sectors in India poised for substantial growth over the next five years?",
+    "answer": "The Artificial Intelligence and Machine Learning sectors are poised for substantial growth over the next five years.",
+    "format": "factoid",
+    "section": "Employment Forecast in India by 2025 - 2030",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the industries where AI and ML technologies are expected to drive demand for skilled professionals?",
+    "answer": "Healthcare, finance, e-commerce, retail, manufacturing, and agriculture are the industries where AI and ML technologies are expected to drive demand for skilled professionals.",
+    "format": "factoid",
+    "section": "Employment Forecast in India by 2025 - 2030",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are the key factors driving the employment forecast in India?",
+    "answer": "Increased adoption across industries, government initiatives, and investments are the key factors driving the employment forecast in India.",
+    "format": "factoid",
+    "section": "Employment Forecast in India by 2025 - 2030",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are some of the government initiatives and investments driving growth in research and projects?",
+    "answer": "Digital India, the National AI Strategy, and partnerships with academic institutions and startups are some of the government initiatives and investments driving growth in research and projects.",
+    "format": "factoid",
+    "section": "Employment Forecast in India by 2025 - 2030",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are some of the programs stimulating demand in the public sector?",
+    "answer": "AI for All, AI-enabled Smart Cities, and AI-powered education are some of the programs stimulating demand in the public sector.",
+    "format": "factoid",
+    "section": "Employment Forecast in India by 2025 - 2030",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are some of the areas where large enterprises are automating repetitive tasks using algorithms?",
+    "answer": "Customer support, supply chain management, manufacturing, and human resources are some of the areas where large enterprises are automating repetitive tasks using algorithms.",
+    "format": "factoid",
+    "section": "Employment Forecast in India by 2025 - 2030",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are some of the areas where skilled professionals are required due to the push for research and development?",
+    "answer": "Deep learning, computer vision, natural language processing, and reinforcement learning are some of the areas where skilled professionals are required due to the push for research and development.",
+    "format": "factoid",
+    "section": "Employment Forecast in India by 2025 - 2030",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "Which global tech giants have set up research and development centers in India?",
+    "answer": "Google, Microsoft, IBM, and Intel are some of the global tech giants that have set up research and development centers in India.",
+    "format": "factoid",
+    "section": "Employment Forecast in India by 2025 - 2030",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are some of the areas where increased investment in startups is driving demand for professionals?",
+    "answer": "Product development, infrastructure, and application deployment are some of the areas where increased investment in startups is driving demand for professionals.",
+    "format": "factoid",
+    "section": "Employment Forecast in India by 2025 - 2030",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are some of the areas where the integration of AI and ML technologies is increasing related jobs?",
+    "answer": "Computer vision, sensors, Internet of Things, and integration are some of the areas where the integration of AI and ML technologies is increasing related jobs.",
+    "format": "factoid",
+    "section": "Employment Forecast in India by 2025 - 2030",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What is the expected growth of the AI and ML sectors in India over the next five years?",
+    "answer": "The Artificial Intelligence and Machine Learning sectors in India are poised for substantial growth over the next five years.",
+    "format": "factoid",
+    "section": "Employment Forecast in India by 2025 - 2030",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are some of the companies investing heavily in AI and ML solutions?",
+    "answer": "Indian startups and established players like Infosys, Wipro, and TCS are investing heavily in AI and ML solutions.",
+    "format": "factoid",
+    "section": "Employment Forecast in India by 2025 - 2030",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are some of the government initiatives and investments driving growth in research and projects?",
+    "answer": "Digital India, the National AI Strategy, and partnerships with academic institutions and startups are some of the government initiatives and investments driving growth in research and projects.",
+    "format": "factoid",
+    "section": "Employment Forecast in India by 2025 - 2030",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are some of the programs stimulating demand in the public sector?",
+    "answer": "AI for All, AI-enabled Smart Cities, and AI-powered education are some of the programs stimulating demand in the public sector.",
+    "format": "factoid",
+    "section": "Employment Forecast in India by 2025 - 2030",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are some of the areas where large enterprises are automating repetitive tasks using algorithms?",
+    "answer": "Customer support, supply chain management, manufacturing, and human resources are some of the areas where large enterprises are automating repetitive tasks using algorithms.",
+    "format": "factoid",
+    "section": "Employment Forecast in India by 2025 - 2030",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are some of the areas where skilled professionals are required due to the push for research and development?",
+    "answer": "Deep learning, computer vision, natural language processing, and reinforcement learning are some of the areas where skilled professionals are required due to the push for research and development.",
+    "format": "factoid",
+    "section": "Employment Forecast in India by 2025 - 2030",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "Which global tech giants have set up research and development centers in India?",
+    "answer": "Google, Microsoft, IBM, and Intel are some of the global tech giants that have set up research and development centers in India.",
+    "format": "factoid",
+    "section": "Employment Forecast in India by 2025 - 2030",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are some of the areas where increased investment in startups is driving demand for professionals?",
+    "answer": "Product development, infrastructure, and application deployment are some of the areas where increased investment in startups is driving demand for professionals.",
+    "format": "factoid",
+    "section": "Employment Forecast in India by 2025 - 2030",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  },
+  {
+    "question": "What are some of the areas where the integration of AI and ML technologies is increasing related jobs?",
+    "answer": "Computer vision, sensors, Internet of Things, and integration are some of the areas where the integration of AI and ML technologies is increasing related jobs.",
+    "format": "factoid",
+    "section": "Employment Forecast in India by 2025 - 2030",
+    "source_file": "msajce_aiml.md",
+    "category": "Department — AI & Machine Learning"
+  }
+]

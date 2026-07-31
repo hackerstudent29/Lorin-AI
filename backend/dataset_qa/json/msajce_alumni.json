@@ -1,0 +1,2674 @@
+[
+  {
+    "question": "What is the primary objective of the MSAJCE Alumni Association?",
+    "answer": "The primary objective of the association is to foster a strong intellectual and emotional bond between the alumni and MSAJCE, thereby promoting a sense of connectedness and community.",
+    "format": "factoid",
+    "section": "**MSAJCE** Alumni Association & 1. Overview",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the key goals of the MSAJCE Alumni Association?",
+    "answer": "The key goals of the association are to establish and renew relationships between students, alumni, and MSAJCE, with the aim of providing a supportive network for future engineers.",
+    "format": "factoid",
+    "section": "**MSAJCE** Alumni Association & 1. Overview",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "How does the MSAJCE Alumni Association encourage its members to participate in activities?",
+    "answer": "The association encourages its members to participate enthusiastically in various activities organized by MSAJCE, promoting a spirit of goodwill and voluntary commitment.",
+    "format": "factoid",
+    "section": "**MSAJCE** Alumni Association & 1. Overview",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What kind of assistance does the MSAJCE Alumni Association provide to students in need?",
+    "answer": "The association provides financial support through funds and scholarships to students in need.",
+    "format": "factoid",
+    "section": "**MSAJCE** Alumni Association & 1. Overview",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is one of the ways the MSAJCE Alumni Association assists students in need?",
+    "answer": "The association offers financial support through funds and scholarships.",
+    "format": "factoid",
+    "section": "**MSAJCE** Alumni Association & 1. Overview",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the MSAJCE Alumni Association's aim regarding employment opportunities?",
+    "answer": "The association aims to gather and maintain a comprehensive database of employment opportunities, facilitating placements and career growth for its members.",
+    "format": "factoid",
+    "section": "**MSAJCE** Alumni Association & 1. Overview",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What does the MSAJCE Alumni Association plan to arrange for students?",
+    "answer": "The association plans to arrange teaching and training classes for students, contributing to the overall upgrading of MSAJCE and its academic programs.",
+    "format": "factoid",
+    "section": "**MSAJCE** Alumni Association & 1. Overview",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the MSAJCE Alumni Association's aim regarding the overall upgrading of MSAJCE?",
+    "answer": "The association aims to arrange teaching and training classes for students, contributing to the overall upgrading of MSAJCE and its academic programs.",
+    "format": "factoid",
+    "section": "**MSAJCE** Alumni Association & 1. Overview",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Is hostel accommodation mandatory for outstation students?",
+    "answer": "This information is not provided in the context.",
+    "format": "yes_no",
+    "section": "**MSAJCE** Alumni Association & 1. Overview",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the procedure to apply for scholarship?",
+    "answer": "This information is not provided in the context.",
+    "format": "procedural",
+    "section": "**MSAJCE** Alumni Association & 1. Overview",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "How can alumni register for the meet?",
+    "answer": "This information is not provided in the context.",
+    "format": "procedural",
+    "section": "**MSAJCE** Alumni Association & 1. Overview",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the objective of the MSAJCE Alumni Association?",
+    "answer": "The primary objective of the association is to foster a strong intellectual and emotional bond between the alumni and MSAJCE, thereby promoting a sense of connectedness and community.",
+    "format": "exploratory",
+    "section": "**MSAJCE** Alumni Association & 1. Overview",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the topic of Section 3 and 4 in the MSAJCE documentation?",
+    "answer": "Section 3 and 4 in the MSAJCE documentation cover the MSEC Alumni Association Registration Certificate and Reports, respectively.",
+    "format": "factoid",
+    "section": "3. MSEC Alumni Association Registration Certificate & 4. MSEC Alumni Association Reports",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Is there a specific section for Alumni Association in the MSAJCE documentation?",
+    "answer": "Yes, Section 3 and 4 in the MSAJCE documentation are dedicated to the MSEC Alumni Association Registration Certificate and Reports.",
+    "format": "yes_no",
+    "section": "3. MSEC Alumni Association Registration Certificate & 4. MSEC Alumni Association Reports",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the purpose of the MSEC Alumni Association Registration Certificate?",
+    "answer": "The purpose of the MSEC Alumni Association Registration Certificate is not explicitly mentioned in the context, but it is likely related to verifying the authenticity of the Alumni Association.",
+    "format": "exploratory",
+    "section": "3. MSEC Alumni Association Registration Certificate & 4. MSEC Alumni Association Reports",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What type of information is typically included in the MSEC Alumni Association Reports?",
+    "answer": "The MSEC Alumni Association Reports likely include information such as the number of alumni, their achievements, and other relevant data.",
+    "format": "exploratory",
+    "section": "3. MSEC Alumni Association Registration Certificate & 4. MSEC Alumni Association Reports",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Are there any specific procedures or steps mentioned in the context for obtaining the MSEC Alumni Association Registration Certificate or Reports?",
+    "answer": "No, there are no specific procedures or steps mentioned in the context for obtaining the MSEC Alumni Association Registration Certificate or Reports.",
+    "format": "procedural",
+    "section": "3. MSEC Alumni Association Registration Certificate & 4. MSEC Alumni Association Reports",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Can you compare the importance of the MSEC Alumni Association Registration Certificate and Reports?",
+    "answer": "The MSEC Alumni Association Registration Certificate and Reports are both important, but the certificate is likely more critical for verifying the authenticity of the Alumni Association, while the reports provide valuable information about the alumni.",
+    "format": "comparison",
+    "section": "3. MSEC Alumni Association Registration Certificate & 4. MSEC Alumni Association Reports",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What should a student do if they have lost their ID card?",
+    "answer": "Unfortunately, there is no information in the context about what to do if a student has lost their ID card.",
+    "format": "scenario",
+    "section": "3. MSEC Alumni Association Registration Certificate & 4. MSEC Alumni Association Reports",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Is there a specific link or resource mentioned in the context for accessing the MSEC Alumni Association Registration Certificate or Reports?",
+    "answer": "No, there is no specific link or resource mentioned in the context for accessing the MSEC Alumni Association Registration Certificate or Reports.",
+    "format": "factoid",
+    "section": "3. MSEC Alumni Association Registration Certificate & 4. MSEC Alumni Association Reports",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the date of the Silver Jubilee Event?",
+    "answer": "April 17, 2026",
+    "format": "factoid",
+    "section": "5. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who served as Alumni Guests of Honour at the Silver Jubilee Event?",
+    "answer": "Anbazhagan, Saranraj Saravanan, and Mohammed Ateeq",
+    "format": "factoid",
+    "section": "5. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What event took place on April 8, 2026?",
+    "answer": "Abdur Rahim Saleh, CEO of V5 Innovations, participated as an alumnus in the Engineers Edge 3.0 programme.",
+    "format": "factoid",
+    "section": "5. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who attended the AAC Meeting on February 13, 2026?",
+    "answer": "Deepak, an alumnus from the 2011-2015 batch",
+    "format": "factoid",
+    "section": "5. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who delivered a session titled 'My Story Successful Innovators' in September 2025?",
+    "answer": "Diwakaran, Managing Director of DKM Enterprises",
+    "format": "factoid",
+    "section": "5. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "How many students from the EEE Department got placed in 'The BIM Engineers' Company on September 8, 2025?",
+    "answer": "One student",
+    "format": "factoid",
+    "section": "5. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who received the Lifetime Achievement Award at the Silver Jubilee Reunion Meet 2025?",
+    "answer": "Ahamed Jameel A.M.T from the 2001-2005 batch",
+    "format": "factoid",
+    "section": "5. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the event that took place on October 26, 2024?",
+    "answer": "The Alumni Association Meet",
+    "format": "factoid",
+    "section": "5. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "How many alumni participated in the Alumni Association Meet on October 26, 2024?",
+    "answer": "Around 23 alumni",
+    "format": "factoid",
+    "section": "5. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who was invited as the guest of honor for the First Year Induction on September 9, 2024?",
+    "answer": "Rahul Murali, a Product Manager at Thoughtworks Technologies",
+    "format": "factoid",
+    "section": "5. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the event that took place on September 17, 2022?",
+    "answer": "The Engineers Day Celebration",
+    "format": "factoid",
+    "section": "5. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who was awarded the Best Alumni of the Decade at the Engineers Day Celebration on September 17, 2022?",
+    "answer": "Ahamed Jameel, Technical Consultant at HCL",
+    "format": "factoid",
+    "section": "5. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who were the recipients of the Best Engineers award during the Engineers Day Event on October 23, 2021?",
+    "answer": "Alumni Saravanan, Ashiq, Ganesh, Shiblee, Thahir, and Jaleel",
+    "format": "factoid",
+    "section": "5. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the event that took place on February 13, 2021?",
+    "answer": "An Alumni Meet specifically for the batches of 2005, 2006, and 2007",
+    "format": "factoid",
+    "section": "5. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the purpose of the Alumni Feedback section?",
+    "answer": "The Alumni Feedback section is not explicitly mentioned in the provided context, but it is likely intended to collect feedback from alumni for the improvement of the college.",
+    "format": "exploratory",
+    "section": "8. Alumni Feedback",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Is there any specific information about alumni feedback in the provided context?",
+    "answer": "No, there is no specific information about alumni feedback in the provided context.",
+    "format": "factoid",
+    "section": "8. Alumni Feedback",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the typical content of the Alumni Feedback section in a college?",
+    "answer": "The typical content of the Alumni Feedback section in a college may include feedback forms, surveys, or other mechanisms to collect feedback from alumni.",
+    "format": "exploratory",
+    "section": "8. Alumni Feedback",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "How can alumni provide feedback to the college?",
+    "answer": "Unfortunately, the provided context does not mention the specific process or mechanism for alumni to provide feedback to the college.",
+    "format": "procedural",
+    "section": "8. Alumni Feedback",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Is there any information about the benefits of providing feedback to the college?",
+    "answer": "No, there is no information about the benefits of providing feedback to the college in the provided context.",
+    "format": "factoid",
+    "section": "8. Alumni Feedback",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the expected outcome of the Alumni Feedback section?",
+    "answer": "The expected outcome of the Alumni Feedback section is likely to improve the college's services and facilities based on the feedback received from alumni.",
+    "format": "exploratory",
+    "section": "8. Alumni Feedback",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Is there any specific information about the frequency of alumni feedback collection?",
+    "answer": "No, there is no specific information about the frequency of alumni feedback collection in the provided context.",
+    "format": "factoid",
+    "section": "8. Alumni Feedback",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "How can the college use the feedback from alumni to improve its services?",
+    "answer": "The college can use the feedback from alumni to identify areas of improvement, make necessary changes, and provide better services to its students and alumni.",
+    "format": "exploratory",
+    "section": "8. Alumni Feedback",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the total amount sponsored by the MSAJCE Alumni Association?",
+    "answer": "The total amount sponsored by the MSAJCE Alumni Association is Rs. 40,16,472.",
+    "format": "factoid",
+    "section": "7. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who received the scholarship on two separate occasions?",
+    "answer": "Mohamed Humdhan I, a student from the 2024-2028 batch of the AIDS department, received the scholarship on two separate occasions.",
+    "format": "factoid",
+    "section": "7. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the student who received the scholarship on 18.06.2026?",
+    "answer": "Mohamed Uawais A from the 2023-2027 batch of the CSE department.",
+    "format": "factoid",
+    "section": "7. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the department of the student who received the scholarship on 07.03.2026?",
+    "answer": "The department of the student who received the scholarship on 07.03.2026 is not specified.",
+    "format": "factoid",
+    "section": "7. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who are some of the students from the 2023-2027 and 2024-2028 batches of various departments who have benefited from the alumni scholarship?",
+    "answer": "These students include Priyadharshini S, Revathi A, Sireesh B, Mohammed Shahul Hameed B, Rahya N, Rahini Mugil J, Gopika R, Sujatha R, Harini R, Prathiba M, Doorika M, Jafeer Mohamed J, and Pirivindhan A.",
+    "format": "factoid",
+    "section": "7. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the alumni from the 2023-2027 and 2024-2028 batches who have also received scholarships?",
+    "answer": "These alumni include Rahim Basha W, Mohamed ZiamZian A, Ameer Shahith M, Abdullah N, Afreen Fathim S, Afasr Ali N, Afrin Fathima B, Pragatha, Samira Farhana T, Md Suhail F, Mahira Sultana, and Mohamed Salman J.",
+    "format": "factoid",
+    "section": "7. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the student who received the scholarship on 29.05.2025?",
+    "answer": "The name of the student who received the scholarship on 29.05.2025 is not specified.",
+    "format": "factoid",
+    "section": "7. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the department of the student who received the scholarship on 07.03.2025?",
+    "answer": "The department of the student who received the scholarship on 07.03.2025 is not specified.",
+    "format": "factoid",
+    "section": "7. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the student who received the scholarship on 30.09.2024?",
+    "answer": "The Hockey Team received sports jerseys on 30.09.2024.",
+    "format": "factoid",
+    "section": "7. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the student who received the scholarship on 01.08.2024?",
+    "answer": "V.Abinaya, M.Mohamed Afsal, and B.Dhanalakshmi from the 2021-2025 and 2022-2026 batches received scholarships on 01.08.2024.",
+    "format": "factoid",
+    "section": "7. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the student who received the scholarship on 12.05.2024?",
+    "answer": "B.Dhanalakshmi from the 2022-2026 batch received a scholarship on 12.05.2024.",
+    "format": "factoid",
+    "section": "7. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the student who received the scholarship on 16.03.2024?",
+    "answer": "Pragatha from the 2023-2027 batch of the CSE department received a scholarship on 16.03.2024.",
+    "format": "factoid",
+    "section": "7. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who are some of the alumni from the 2022-2026 batch who made contributions to the MSAJCE Alumni Scholarship?",
+    "answer": "These alumni include Md Abdul Kalam from CSBS, Nazmi A from CSE, Abu Jabar Mubarak from CSBS, Nilofer Nisha from ECE, Amirudeen from IT, and N. Abdullah from IT.",
+    "format": "factoid",
+    "section": "7. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the student who made two separate donations on March 9, 2024?",
+    "answer": "Ahamed Sheik from the 2021-2025 CSE batch made two separate donations, one on March 9, 2024, and another on November 9, 2023.",
+    "format": "factoid",
+    "section": "7. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the student who made two separate donations on April 6 and 7, 2023?",
+    "answer": "Md Sajith S from the 2022-2026 ECE batch made two separate donations, one on April 7, 2023, and another on April 6, 2023.",
+    "format": "factoid",
+    "section": "7. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the student who made two separate donations on March 18, 2023, and September 15, 2022?",
+    "answer": "Abdullah S from the 2020-2024 IT batch made two separate donations, one on March 18, 2023, and another on September 15, 2022.",
+    "format": "factoid",
+    "section": "7. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the student who made three separate donations on August 2, 2022, March 30, 2022, and February 13, 2021?",
+    "answer": "Aayathul Mufarak A from the 2019-2023 MECH batch made three separate donations, one on August 2, 2022, another on March 30, 2022, and a third on February 13, 2021.",
+    "format": "factoid",
+    "section": "7. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the student who made a second donation on February 13, 2021?",
+    "answer": "Akshaya K from the 2019-2023 ECE batch made a second donation on February 13, 2021.",
+    "format": "factoid",
+    "section": "7. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable alumni from the 2001-2005 batch of Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The notable alumni from the 2001-2005 batch include Mr. Purushothaman N, Ms. Sabana Yasmi, Mr. Saravanan Perumal, Mr. Mohammed Fareed, Mr. Ahamed Jameel, Mr. Feroz Khan, Mr. Fayad Ahamed, Mr. Mohammed Azeem, Mr. Srikanth K, Mr. Majed Arafat, Mr. Santhosh Kumar V, Mr. Anbazhagan AT, Mr. Balagurunathan, Dr. Ezhilazhagan C, Mr. Suresh Kumar N, Mr. Mohammed Kamaal Yasin, Mr. Abdul Jaleel, Mr. Imran Sheik, and Mr. Mohamed Yusuff Shah.",
+    "format": "factoid",
+    "section": "6. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable alumni from the 2002-2006 batch of Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The notable alumni from the 2002-2006 batch include Mr. Md Yasar, Mr. Raju, Mr. Syed Faiyaz Hussain, Ms. Harini Raman, Mr. Hafeez Rahman, Mr. Mohamed Yusuff Shah, Ms. Uma Maheshwari G, Mr. Chandra Bose, Mr. Ahmed Mubeen, Mr. Arun Natarajan, Mr. Ashik Mohamed, Mr. Mohamed Thahir N, Ms. Misbah Khairunissa A, Ms. Reshma M, Mr. Nizamuddin K, Mr. Abubucker Siddiq, Ms. Lakshmi Narayanan, Mr. Ahmad Abdullateef, Mr. Mohamed Hussain T R, Mr. Sivanathan, Mr. Rahul Murali, Mr. Vinoth Kumar Manickam, Mr. Sathakathulla E, Mr. Noorul Jaman, Mr. Shaik Salaudeen, Mr. Sakthi Ajay, Mr. Sheikh Azharuddin, Ms. Akila Rajesh, Mr. Deiva, Mr. Nasarullah S, Mr. Feroz Khan, Mr. Marzook Ahamed, Mr. Mohamed Yousuf Shariff, M. Sharmela, Mr. Vignesh, Mr. Harish N, Mr. Ram Prabhu S, Ms. Reshma Rahila S, Mr. Mohammed Asif, Mr. Syed Haja Shereef S, Mr. Shanthoshkumar J, Mr. Safeeq Ahamed S, Mr. Shaik Fathhullah S, Mr. Md Mubarak, Mr. Md Junaid A, Mr. Sabari Murugan, Mr. Jawahar Shalim, Mr. Abdul Mukshith A, Mr. Mohamed Ali Hasan, Mr. Imran L, Mr. Shamsudeen A, Mr. Nadir Khan, Mr. Sathiyan, Mr. Md Zaid, Mr. Abdul Rahman, Mr. Mohammed Rizwan Ali, Mr. Krishna Kumar, Ahamed Jameel A M T, Elavarasan, Mallam Mustak, Behin Samuel, Abdul Wahab, Firthouse, and Mr. Syed Shahul Hameed.",
+    "format": "factoid",
+    "section": "6. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable entrepreneurs from the 2001-2005 batch of Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The notable entrepreneurs from the 2001-2005 batch include Mr. Abdul Rahman, Mr. Mohammed Rizwan Ali, Mr. Krishna Kumar, Ahamed Jameel A M T, Elavarasan, Mallam Mustak, Behin Samuel, Abdul Wahab, Firthouse, and Mr. Syed Shahul Hameed.",
+    "format": "factoid",
+    "section": "6. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable alumni from the 2006-2010 batch of Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The notable alumni from the 2006-2010 batch include Mr. Mohammed Zubair, Abdul Majeed Shiblee, F H M Afzal Bijli, Abdul Kader, Mohammed Parvez Shariff, Kalidoss .J, Mohamed Jiavur Rahman T H, Sadhaam, Nazhrudeen, Prasand P, K.Hakeem, P.Arun Kumar, Abdul Riyaz M, Sabarish S R, Mohan Kumar, Adil Ibrahim, J.Mohamed Salman Azeem, Veeramanikandan P, J. MOHAMMED ABBAS ALI, RAFI ANSARI, Mohamed Afroze, Salmaa Gaffoor, Basker, Abdullah, Md Hyder Shareef, Mohamed Naveeth B, Ashwin P, Dhanachezian K, Dawan, Akther Ilyas, Ram Kumar, Syed Aakhib Mohammed, and Mr. Suhaib.",
+    "format": "factoid",
+    "section": "6. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable entrepreneurs from the 2006-2010 batch of Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The notable entrepreneurs from the 2006-2010 batch include Mr. Mohammed Zubair, Abdul Majeed Shiblee, F H M Afzal Bijli, Abdul Kader, Mohammed Parvez Shariff, Kalidoss .J, Mohamed Jiavur Rahman T H, Sadhaam, Nazhrudeen, Prasand P, K.Hakeem, P.Arun Kumar, Abdul Riyaz M, Sabarish S R, Mohan Kumar, Adil Ibrahim, J.Mohamed Salman Azeem, Veeramanikandan P, J. MOHAMMED ABBAS ALI, RAFI ANSARI, Mohamed Afroze, Salmaa Gaffoor, Basker, Abdullah, Md Hyder Shareef, Mohamed Naveeth B, Ashwin P, Dhanachezian K, Dawan, Akther Ilyas, Ram Kumar, Syed Aakhib Mohammed, and Mr. Suhaib.",
+    "format": "factoid",
+    "section": "6. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable alumni from the 2007-2011 batch of Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The notable alumni from the 2007-2011 batch include Mr. Mohammed Parvez Shariff, Kalidoss .J, Mohamed Jiavur Rahman T H, Sadhaam, Nazhrudeen, Prasand P, K.Hakeem, P.Arun Kumar, Abdul Riyaz M, Sabarish S R, Mohan Kumar, Adil Ibrahim, J.Mohamed Salman Azeem, Veeramanikandan P, J. MOHAMMED ABBAS ALI, RAFI ANSARI, Mohamed Afroze, Salmaa Gaffoor, Basker, and Mr. Suhaib.",
+    "format": "factoid",
+    "section": "6. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable entrepreneurs from the 2007-2011 batch of Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The notable entrepreneurs from the 2007-2011 batch include Mr. Mohammed Parvez Shariff, Kalidoss .J, Mohamed Jiavur Rahman T H, Sadhaam, Nazhrudeen, Prasand P, K.Hakeem, P.Arun Kumar, Abdul Riyaz M, Sabarish S R, Mohan Kumar, Adil Ibrahim, J.Mohamed Salman Azeem, Veeramanikandan P, J. MOHAMMED ABBAS ALI, RAFI ANSARI, Mohamed Afroze, Salmaa Gaffoor, Basker, and Mr. Suhaib.",
+    "format": "factoid",
+    "section": "6. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable alumni from the 2011-2015 batch of Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The notable alumni from the 2011-2015 batch include Mr. Veeramanikandan P, J. MOHAMMED ABBAS ALI, RAFI ANSARI, Mohamed Afroze, Salmaa Gaffoor, Basker, Mr. Suhaib, Mr. Vignesh, Mr. Harish N, Mr. Ram Prabhu S, Ms. Reshma Rahila S, Mr. Mohammed Asif, Mr. Syed Haja Shereef S, Mr. Shanthoshkumar J, Mr. Safeeq Ahamed S, Mr. Shaik Fathhullah S, Mr. Md Mubarak, Mr. Md Junaid A, Mr. Sabari Murugan, Mr. Jawahar Shalim, Mr. Abdul Mukshith A, Mr. Mohamed Ali Hasan, Mr. Imran L, Mr. Shamsudeen A, Mr. Nadir Khan, Mr. Sathiyan, Mr. Md Zaid, Mr. Abdul Rahman, Mr. Mohammed Rizwan Ali, Mr. Krishna Kumar, Ahamed Jameel A M T, Elavarasan, Mallam Mustak, Behin Samuel, Abdul Wahab, Firthouse, and Mr. Syed Shahul Hameed.",
+    "format": "factoid",
+    "section": "6. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable alumni from the 2018-2022 batch of Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The notable alumni from the 2018-2022 batch include Mr. Akther Ilyas, Ram Kumar, Syed Aakhib Mohammed, and Mr. Suhaib.",
+    "format": "factoid",
+    "section": "6. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable entrepreneurs from the 2018-2022 batch of Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The notable entrepreneurs from the 2018-2022 batch include Mr. Akther Ilyas, Ram Kumar, Syed Aakhib Mohammed, and Mr. Suhaib.",
+    "format": "factoid",
+    "section": "6. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable alumni from the 2022-2026 batch of Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The notable alumni from the 2022-2026 batch include Mr. Suhaib.",
+    "format": "factoid",
+    "section": "6. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the event mentioned in the context?",
+    "answer": "The Alumni Meet - 2k23",
+    "format": "factoid",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Which batches of students attended the Alumni Meet - 2k23?",
+    "answer": "The 2009 to 2020 batches of Mohamed Sathak A.J. College of Engineering",
+    "format": "factoid",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of Mr. Md Mubarak?",
+    "answer": "He serves as the MEP Team Leader at EJADAH UAE",
+    "format": "factoid",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of Mr. Md Junaid A?",
+    "answer": "He works as an Estimation/Quantity Surveyor Engineer at ELEMEC ELECTRICAL CONTRACTING LLC",
+    "format": "factoid",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of Mr. Sabari Murugan?",
+    "answer": "He holds the position of Associate Design Engineer at Wall Technology",
+    "format": "factoid",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of Mr. Jawahar Shalim?",
+    "answer": "He is the Team Leader at Milkbasket",
+    "format": "factoid",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of Mr. Abdul Mukshith A?",
+    "answer": "He works as a Senior BIM Engineer at MICRON ELECTRICALS",
+    "format": "factoid",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of Mr. Mohamed Ali Hasan?",
+    "answer": "He is the Operation Head at Veena Jewellers",
+    "format": "factoid",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of Mr. Imran L?",
+    "answer": "He serves as a Site Engineer at Al Rasheediah Safety and Security est, Abudhabi",
+    "format": "factoid",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of Mr. Shamsudeen A?",
+    "answer": "He works as a Software Engineer at HCL",
+    "format": "factoid",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of Mr. Nadir Khan?",
+    "answer": "He serves as a Supply Chain Engineer at Inaithiram Impex Internet Pvt Ltd",
+    "format": "factoid",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of Mr. Sathiyan?",
+    "answer": "He works as a Software Engineer at Relevantz Technology Services Pvt Ltd",
+    "format": "factoid",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of Mr. Md Zaid?",
+    "answer": "He is a Software Engineer at TCS",
+    "format": "factoid",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of Ms. Senthamizh Selvi?",
+    "answer": "She works as a Business Development Executive",
+    "format": "factoid",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of Mr. Aadil Ibrahim?",
+    "answer": "He serves as a Home Elevator Advisor",
+    "format": "factoid",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of Mr. Mohan Kumar?",
+    "answer": "He is the CEO/Founder of his company",
+    "format": "factoid",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of Ms. Yousuf Zulaikha?",
+    "answer": "She works as an AR Specialist",
+    "format": "factoid",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of Mr. Vignesh?",
+    "answer": "He serves as a PMO - Auditor",
+    "format": "factoid",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of Mr. Kannan?",
+    "answer": "He is an NDT Level-2 Inspector",
+    "format": "factoid",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of Mr. Mohamed Abdullah?",
+    "answer": "He graduated in 2015 and works as an Automation Engineer",
+    "format": "factoid",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of Mr. Kalil Ahmed?",
+    "answer": "He serves as an Electrical Design Engineer",
+    "format": "factoid",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of Mr. Harikrishna?",
+    "answer": "He works as an Insurance Surveyor",
+    "format": "factoid",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of Ms. Preeta Rani?",
+    "answer": "She serves as an Assistant Engineer",
+    "format": "factoid",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of Mr. Nadeem?",
+    "answer": "He works as an HVAC Plant Engineer",
+    "format": "factoid",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of Mr. Mohamed Arsath?",
+    "answer": "He is an Assistant Engineer",
+    "format": "factoid",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who are the notable entrepreneurs from the 2001-2005 batch?",
+    "answer": "Mr. Abdul Rahman, Mr. Mohammed Rizwan Ali, Mr. Krishna Kumar, Ahamed Jameel A M T, Elavarasan, Mallam Mustak, Behin Samuel, and Abdul Wahab",
+    "format": "exploratory",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the primary objective of the Alumni Association of Mohamed Sathak A.J. College of Engineering?",
+    "answer": "To foster a strong intellectual and emotional bond between the alumni and MSAJCE, thereby promoting a sense of connectedness and community",
+    "format": "exploratory",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the benefits of joining the Alumni Association of Mohamed Sathak A.J. College of Engineering?",
+    "answer": "Alumni can re-establish and renew relationships with their fellow students, participate in various college activities, receive support from the association, and access a comprehensive database of employment opportunities",
+    "format": "exploratory",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the initiatives planned by the Alumni Association of Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The association plans to arrange teaching and training classes for students, further contributing to the overall growth and development of MSAJCE",
+    "format": "exploratory",
+    "section": "9. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the purpose of MSEC Alumni Association Registration Certificate?",
+    "answer": "The MSEC Alumni Association Registration Certificate is not explicitly mentioned in the context, but it can be inferred that it is a document that certifies the registration of the MSEC Alumni Association.",
+    "format": "exploratory",
+    "section": "11. MSEC Alumni Association Registration Certificate & 12. MSEC Alumni Association Reports",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Is there a mention of any reports related to the MSEC Alumni Association?",
+    "answer": "Yes, there is a mention of MSEC Alumni Association Reports, but no further details are provided.",
+    "format": "yes_no",
+    "section": "11. MSEC Alumni Association Registration Certificate & 12. MSEC Alumni Association Reports",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the purpose of MSEC Alumni Association Reports?",
+    "answer": "Unfortunately, the context does not provide any information about the purpose of MSEC Alumni Association Reports.",
+    "format": "exploratory",
+    "section": "11. MSEC Alumni Association Registration Certificate & 12. MSEC Alumni Association Reports",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Are there any specific details mentioned about the MSEC Alumni Association Registration Certificate?",
+    "answer": "No, there are no specific details mentioned about the MSEC Alumni Association Registration Certificate.",
+    "format": "factoid",
+    "section": "11. MSEC Alumni Association Registration Certificate & 12. MSEC Alumni Association Reports",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Are there any procedures or steps mentioned for the MSEC Alumni Association Reports?",
+    "answer": "No, there are no procedures or steps mentioned for the MSEC Alumni Association Reports.",
+    "format": "procedural",
+    "section": "11. MSEC Alumni Association Registration Certificate & 12. MSEC Alumni Association Reports",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Is there any comparison mentioned between the MSEC Alumni Association Registration Certificate and the MSEC Alumni Association Reports?",
+    "answer": "No, there is no comparison mentioned between the MSEC Alumni Association Registration Certificate and the MSEC Alumni Association Reports.",
+    "format": "comparison",
+    "section": "11. MSEC Alumni Association Registration Certificate & 12. MSEC Alumni Association Reports",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Are there any situational queries or scenarios mentioned in the context?",
+    "answer": "No, there are no situational queries or scenarios mentioned in the context.",
+    "format": "factoid",
+    "section": "11. MSEC Alumni Association Registration Certificate & 12. MSEC Alumni Association Reports",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who is the current President of the MSAJCE Alumni Association?",
+    "answer": "Dr. K.S. Dr. K.S. Srinivasan, serving from 2024 till now.",
+    "format": "factoid",
+    "section": "10. Office Bearers",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of the Secretary in the MSAJCE Alumni Association?",
+    "answer": "The Secretary is Mr. Ahamed Jameel A.M.T, who serves as the Secretary.",
+    "format": "factoid",
+    "section": "10. Office Bearers",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who is the Treasurer of the MSAJCE Alumni Association?",
+    "answer": "The Treasurer is Dr. S. Vijayakumar, the Administrative Officer.",
+    "format": "factoid",
+    "section": "10. Office Bearers",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who are the Joint Secretaries of the MSAJCE Alumni Association?",
+    "answer": "The Joint Secretaries are Mr. M.M. Syed Sultan Allaudeen, Mr. Asim Ali L, and Mr. Abdul Majeed Shiblee.",
+    "format": "factoid",
+    "section": "10. Office Bearers",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who is the Vice President of the MSAJCE Alumni Association?",
+    "answer": "The Vice President is Mr. J. Abdul Rahman.",
+    "format": "factoid",
+    "section": "10. Office Bearers",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who is the Program Coordinator of the MSAJCE Alumni Association?",
+    "answer": "The Program Coordinator is Mr. Mikail Ismail.",
+    "format": "factoid",
+    "section": "10. Office Bearers",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of the Executive Members in the MSAJCE Alumni Association?",
+    "answer": "The Executive Members comprise a diverse group of alumni, including Mr. J. Abdul Rahman, Mr. Mohamed Yasar, Mr. M.M. Syed Sultan Allaudeen, Mr. Asim Ali L, Mr. Abdul Majeed Shiblee, Mr. Kalidoss, Mr. Noorul Jaman, Mr. N. Naveen, Ms. J. Stella Marry, Mr. Mikali Ismail, Mr. Mohammed Umar Farook B, Mr. Mano Raja, Mr. N. Abdul Hameed, Mr. Narenthiran, and Mr. J. Prasanth.",
+    "format": "exploratory",
+    "section": "10. Office Bearers",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who were the office bearers of the MSAJCE Alumni Association during the 2023-2024 term?",
+    "answer": "The office bearers during the 2023-2024 term were Dr. K.S. Dr. K.S. Srinivasan as the President, Mr. Ahamed Jameel A.M.T as the Secretary, and Dr. S. Vijayakumar as the Treasurer.",
+    "format": "factoid",
+    "section": "10. Office Bearers",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who were the Executive Members of the MSAJCE Alumni Association during the 2023-2024 term?",
+    "answer": "The Executive Members during the 2023-2024 term included Mr. J. Abdul Rahman, Mr. Mohamed Yasar, Mr. M.M. Syed Sultan Allaudeen, Mr. Asim Ali L, Mr. Abdul Majeed Shiblee, Mr. Kalidoss, Mr. Noorul Jaman, Mr. N. Naveen, Ms. J. Stella Marry, Mr. Mikali Ismail, Mr. Mohammed Umar Farook B, Mr. Mano Raja, Mr. N. Abdul Hameed, Mr. Narenthiran, and Mr. J. Prasanth.",
+    "format": "factoid",
+    "section": "10. Office Bearers",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who were the office bearers of the MSAJCE Alumni Association during the 2022-2023 term?",
+    "answer": "The office bearers during the 2022-2023 term were Dr. K.S. Dr. K.S. Srinivasan as the President, Mr. Ahamed Jameel A.M.T as the Secretary, and Dr. S. Vijayakumar as the Treasurer.",
+    "format": "factoid",
+    "section": "10. Office Bearers",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who were the Executive Members of the MSAJCE Alumni Association during the 2022-2023 term?",
+    "answer": "The Executive Members during the 2022-2023 term included Mr. J. Abdul Rahman, Mr. Mohamed Yasar, Mr. M.M. Syed Sultan Allaudeen, Mr. Asim Ali L, Mr. Abdul Majeed Shiblee, and several others.",
+    "format": "factoid",
+    "section": "10. Office Bearers",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who were the office bearers of the MSAJCE Alumni Association during the 2021-2022 term?",
+    "answer": "The office bearers during the 2021-2022 term were Dr. K.S. Dr. K.S. Srinivasan as the President, Mr. Ahamed Jameel A.M.T as the Secretary, and Dr. S. Vijayakumar as the Treasurer.",
+    "format": "factoid",
+    "section": "10. Office Bearers",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who were the Executive Members of the MSAJCE Alumni Association during the 2021-2022 term?",
+    "answer": "The Executive Members during the 2021-2022 term included Mr. J. Abdul Rahman, Mr. Mohamed Yasar, Mr. M.M. Syed Sultan Allaudeen, Mr. Asim Ali L, Mr. Abdul Majeed Shiblee, and several others.",
+    "format": "factoid",
+    "section": "10. Office Bearers",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who were the office bearers of the MSAJCE Alumni Association during the 2020-2021 term?",
+    "answer": "The office bearers during the 2020-2021 term were Dr. K.S. Dr. K.S. Srinivasan as the President, Mr. J. Kalidoss as the Vice President, Dr. R. Senthilkumar as the Secretary, and Dr. S. Vijayakumar as the Treasurer.",
+    "format": "factoid",
+    "section": "10. Office Bearers",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who were the Executive Members of the MSAJCE Alumni Association during the 2020-2021 term?",
+    "answer": "The Executive Members during the 2020-2021 term included Dr. S. Prasath, Mrs. K. Saipriya, Mr. A. Abdul Gafoor, Mr. Mikali Ismail, Mr. Ahamed Jameel A.M.T, Mr. Syed Mosin Akram, Mr. Salman Akram, Mr. Shaik Suhail Ahmed, Mr. Shahul Hameed Sirajdeen, Mr. Nishathul Hasan, Mr. Mohammed Aslam, and Mr. Vignesh Rajendiran.",
+    "format": "factoid",
+    "section": "10. Office Bearers",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who is the current President of the MSAJCE Alumni?",
+    "answer": "Dr. K.S. Dr. K.S. Srinivasan is the current President of the MSAJCE Alumni.",
+    "format": "factoid",
+    "section": "2. Office Bearers",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the roles of the Joint Secretaries in the Alumni?",
+    "answer": "The Joint Secretaries are Mr. M.M. Syed Sultan Allaudeen, Mr. Asim Ali L, and Mr. Abdul Majeed Shiblee.",
+    "format": "factoid",
+    "section": "2. Office Bearers",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Is there a Treasurer in the Alumni?",
+    "answer": "Yes, the Treasurer is an Administrative Officer.",
+    "format": "yes_no",
+    "section": "2. Office Bearers",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of Mr. Mikail Ismail in the Alumni?",
+    "answer": "Mr. Mikail Ismail serves as the Program Coordinator.",
+    "format": "factoid",
+    "section": "2. Office Bearers",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the roles of the Executive Members in the Alumni?",
+    "answer": "The Executive Members include various individuals such as Mr. Noorul Jaman, Mr. N. Naveen, Mr. Mikail Ismail, and others.",
+    "format": "factoid",
+    "section": "2. Office Bearers",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who were the office bearers in the 2023-2024 term?",
+    "answer": "The office bearers in the 2023-2024 term included Dr. K.S. Dr. K.S. Srinivasan as President, Mr. Ahamed Jameel A.M.T as Secretary, and Dr. S. Vijayakumar as Treasurer.",
+    "format": "factoid",
+    "section": "2. Office Bearers",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the role of Dr. S. Vijayakumar in the Alumni?",
+    "answer": "Dr. S. Vijayakumar serves as the Treasurer and has also held the role of Administrative Officer.",
+    "format": "factoid",
+    "section": "2. Office Bearers",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who were the office bearers in the 2022-2023 term?",
+    "answer": "The office bearers in the 2022-2023 term included Dr. K.S. Dr. K.S. Srinivasan as President, Mr. Ahamed Jameel A.M.T as Secretary, and Dr. S. Vijayakumar as Treasurer.",
+    "format": "factoid",
+    "section": "2. Office Bearers",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who were the office bearers in the 2021-2022 term?",
+    "answer": "The office bearers in the 2021-2022 term included Dr. K.S. Dr. K.S. Srinivasan as President, Mr. Ahamed Jameel A.M.T as Secretary, and Dr. S. Vijayakumar as Treasurer.",
+    "format": "factoid",
+    "section": "2. Office Bearers",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who were the office bearers in the 2020-2021 term?",
+    "answer": "The office bearers in the 2020-2021 term included Dr. K.S. Dr. K.S. Srinivasan as President, Mr. J. Kalidoss as Vice President, Dr. R. Senthilkumar as Secretary, and Dr. S. Vijayakumar as Treasurer.",
+    "format": "factoid",
+    "section": "2. Office Bearers",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the event where Anbazhagan, Saranraj Saravanan, and Mohammed Ateeq were honored as Alumni Guests of Honour?",
+    "answer": "The Silver Jubilee Event",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who attended the Engineers Edge 3.0 event as an alumni representative?",
+    "answer": "Abdur Rahim Saleh, CEO of V5 Innovations",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the session where Diwakaran shared his inspiring story?",
+    "answer": "My Story Successful Innovators",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who facilitated the placement of a student in The BIM Engineers Company, specifically in the EEE Department?",
+    "answer": "Ahamed Jameel, Alumni Secretary",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "How many students from the AIDS and CSBS Departments secured placements at StayIndiaDigital on 10th July 2025?",
+    "answer": "Six",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the event where Ms. Vani Parachuri and Ms. P.Rosiah were honored with the Women Achiever Award?",
+    "answer": "International Women's Day",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the donation made by the alumni of the 2001-2005 batch towards the MSAJCE Alumni Sports Pavilion?",
+    "answer": "The Silver Jubilee Reunion Meet 2025",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who conducted the session 'From Idea to Impact: Exploring Opportunities in the Startup Eco System'?",
+    "answer": "Naveen Zahir, Founder and CEO of Drop Truck",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the session where Diwakaran discussed 'Core Industries Unlocked - Pathways for tomorrow innovators'?",
+    "answer": "Core Industries Unlocked - Pathways for tomorrow innovators",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who delivered a session on 'Electro Magnetic Fields in Modern Application'?",
+    "answer": "Imran Javeed, Assistant Professor at Veltech University",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who conducted the session 'Empowering our Educational Journey: the role of Quality Assurance'?",
+    "answer": "Juveriya Khan, Senior Quality Assurance Manager at DMCG in Dubai",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who shared her insights on 'Preparing for the Future: Skills, Technologies and Mindset for Engineering Students'?",
+    "answer": "Lubna Amathul Wadhoodh, PMP and Product Consultant at Vembu Technologies",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who conducted the session 'Front Static Pages to dynamic Applications'?",
+    "answer": "Titus Vimalraj, Front End Engineer at Amazon",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who attended the Alumni Association Meet on March 9, 2024?",
+    "answer": "Around 17 alumni",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who interacted with college students and provided counseling during a mentoring session on January 6, 2024?",
+    "answer": "Ms. Misbah Khairunissa A",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who extended his support to MSAJCE by hiring a student from the 2023 batch at his company, Lightenz Technovations Pvt Ltd, for placement recruitment?",
+    "answer": "Shanmugasarathy, an alumnus of MSAJCE",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who was honored with the GoldenGuru Award for being one of the best colleges in OMR?",
+    "answer": "MSAJCE",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who conducted the session 'You are important' on November 25, 2023?",
+    "answer": "Akila Rajesh, an alumna of MSAJCE",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who participated as Guests of Honour in the Engineer's Edge 2k23 event on November 2, 2023?",
+    "answer": "Alumni Karthikeyan and Lubna Amathul",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who conducted the session 'How to Positively face HR Interview' on September 7, 2022?",
+    "answer": "Syed Haja Shreef S, Recruitment Specialist at Sacalene Pepole Works Solution",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who delivered a motivational talk on October 15, 2022?",
+    "answer": "Misbah Khairunnisa, Senior Manager of Organizational Development at Savista",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who provided student internship opportunities at Customer Labs in Chennai, starting from August 2, 2022?",
+    "answer": "Asim Ali L, CMO at Customer Labs",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who conducted a technical presentation on August 4, 2022?",
+    "answer": "Saravanan Perumal from L&T",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who spoke on recent trends, challenges, and opportunities in the current scenario on August 3, 2022?",
+    "answer": "G. Abdur Rahman Salih, CEO of V5",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who conducted a webinar on DevOps Automation on August 12, 2021?",
+    "answer": "Saravanan Perumal, Principal Consultant at Wipro Technologies",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who participated in the cricket match between Alumni Association Members and current juniors on August 27, 2022?",
+    "answer": "Alumni Association Members",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who conducted an International Webinar on 'Art Of Thinking Big' in online mode via Google Meet on June 11, 2020?",
+    "answer": "A.Aadil Ibrahim.A, an alumnus and founder of 'Cameraman'",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who participated as a resource person for the Faculty Development Programme (FDP) on Embedded & IoT Boot Camp on May 29, 2019?",
+    "answer": "M. Prabakaran, a senior software architect at Caterpillar and an alumnus",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who demonstrated exceptional performance in recruitment on January 9, 2019?",
+    "answer": "Syed Haja Sheriff, an alumnus of the ECE department",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who made significant contributions on Engineers Day 2025?",
+    "answer": "Rajeswari Kumaresan, Ranjani Rajagopalan, Benny Diwakar S, Sheik Mohamed Rizwan, Pavithra Elumalai, Shanmugam V, Mohammed Rameez, Gatheejathul Kubra, Manimala, Aniruddhan Narayanan, Fayaz Ahamed, Noorul Jaman J, Abrar Ahamed, Aswin Panneerselvam, N.Nazhrudeen, Nasarullah, Razik Fareed, Syed Atheeq Ur Rahman, H Barakath Nisha, Linga Prabhu V, Narenthiran, AbdulHameed N, Jamal Shagul Ameedh, Mohamed Fazil, and Meeraan Sha",
+    "format": "exploratory",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who conducted a session titled 'An Introduction to Industry Preparedness' on August 7, 2025?",
+    "answer": "Aniruddhan, Manager at PFIZER Healthcare India Pvt Ltd",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who led a session on 'How to Get Yourself into IT Sector' on August 6, 2025?",
+    "answer": "Deepak, Chief Technology Officer at MH Doodle Solutions",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who attended the Academic Advisory Board Meeting on July 16, 2025?",
+    "answer": "Deepak, Chief Technology Officer at MH Doodle Solutions",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who received the Lifetime Achievement Award at the Silver Jubilee Reunion Meet 2025?",
+    "answer": "Ahamed Jameel A.M.T from the 2001-2005 batch",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who was awarded the Outstanding Alumni Award at the Silver Jubilee Reunion Meet 2025?",
+    "answer": "J.Abdul Rahaman from the 2001-2005 batch",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who received the Distinguished Service Award at the Silver Jubilee Reunion Meet 2025?",
+    "answer": "M.M. Syed Sultan Allaudeen from the 2003-2007 batch and Yasar from the 2002-2006 batch",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who was awarded the Outstanding Young Alumni Award for 2025?",
+    "answer": "Asim Ali L",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who attended the Alumni Association Meet on October 26, 2024?",
+    "answer": "Around 23 alumni",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who were the notable alumni present at Engineers Day 2024?",
+    "answer": "Md Kamaal Yasin, A.S. Balagurunathan, Chandra Bose, Ameena Bathool, Sivanathan Balaguru, and Sabarish SR",
+    "format": "exploratory",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who was invited as the guest of honor for the First Year Induction on September 9, 2024?",
+    "answer": "Rahul Murali, Product Manager at Thoughtworks Technologies",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who attended the Planning and Monitoring committee meeting on 08.07.2024?",
+    "answer": "Dr. Ezhilazhagan C, an Associate Professor at Veltech",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who participated in the Overall Board of Studies Meeting on 06.07.2024?",
+    "answer": "Deepak VR, a Senior Data Engineer at Manuh Solutions Pvt Ltd",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who attended the Board of Studies meet for the Civil Department on 18.06.2024?",
+    "answer": "Akila Rajeshwari, Associate Vice President at Casagrand Builder Private Limited",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who participated in the Board of Studies meet for the Faculty CSE and IT Department on 28.05.2024?",
+    "answer": "Sivanathan, a Manager at ADF Data Science Pvt Ltd",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who was invited as a Guest of Honour for the 'International Conference on Research and Development in Engineering, Science and Technology' on 24.05.2024?",
+    "answer": "Sheikh Azharuddin, IT Operation Head at NRFSI",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who was invited as a Guest of Honour for the Annual Day Celebration on 09.03.2024?",
+    "answer": "Suresh Kumar, a Scientist",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who was invited as a Guest of Honour for the Festaverse Celebration on 05.03.2024?",
+    "answer": "Aadil Ibrahim, an Entrepreneur and Public Speaker",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who was invited as a Guest of Honour for the Women's Day Celebration on 04.03.2024?",
+    "answer": "Lakshmi Narayanan, a Senior HR from Valeo",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who attended the Planning and Monitoring Board Meeting on 16.12.2023?",
+    "answer": "Majed Arafat",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who attended the Academic Advisory Board Meeting on 09.12.2023?",
+    "answer": "Ahamed Jameel, Alumni Secretary, and Srikkanth K, Alumni Executive Member",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who received the 'Best Alumni Service Award' at the Golden Jubilee Celebration on October 14, 2023?",
+    "answer": "Ahamed Jameel, Alumni Secretary",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who were honored as Guests of Honour at the Golden Jubilee Celebration on October 14, 2023?",
+    "answer": "Md Rizwan and Purushothaman",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who attended Engineers Day 2023?",
+    "answer": "Majed Arafat, Abdurrahim Salih, Misbah Khairunnissa, S Ram Prabhu, and Mikail Ismail",
+    "format": "exploratory",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who was invited as a Guest of Honour for the First Year Induction on September 11, 2023?",
+    "answer": "Sheikh Azharuddin, IT Operation Head at Nissan Renault Financial Services India Ltd",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who attended the Planning and Monitoring Meeting on May 20, 2023?",
+    "answer": "Majed Arafat, Jaleel, and Samir",
+    "format": "exploratory",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who attended the Academic Advisory Board Meeting on May 13, 2023?",
+    "answer": "Ahamed Jameel, Alumni Secretary, Misbah, a Senior HR Manager at Savista, and Shiblee, the Founder of Debugger",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who was invited as a Guest of Honour on March 24, 2023?",
+    "answer": "Nazeef Hussain",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who were the Guests of Honour at the Annual Day Celebration on March 18, 2023?",
+    "answer": "Ahamed Jameel, Alumni Secretary, Abdul Rahman, the Managing Director of Blue Bell Business Management, and Sathish Charan, a Writer/Director in the Film Industry",
+    "format": "exploratory",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who were invited as Guests of Honour for the BSM Cricket Trophy on 12th March 2023?",
+    "answer": "Ahamed Jameel, Alumni Secretary, and Sabarish",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who was invited as a Guest of Honour for the Women's Day Celebration on 10th March 2023?",
+    "answer": "Akila Rajesh, Sales and Marketing Head at Voora Property Developer Pvt Ltd",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who received the MSAJCE's Outstanding Alumni Award for 2023?",
+    "answer": "Ahamed Jameel, Alumni Secretary",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who was invited as a Guest of Honour for the First Year Induction on 14th November 2022?",
+    "answer": "Lakshmi Narayanan, HR Talent Acquisition at Societe General",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who gave a speech to MSAJCE graduates as a Special Guest on Graduation Day on 29th October 2022?",
+    "answer": "Ahamed Jameel, Technical Consultant at HCL and Secretary of the Alumni Association",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who participated as Guests of Honour for the Symposium Tech Unity on 28th October 2022?",
+    "answer": "K Srikkant, Technical Architect at Teleapps, and Mohamed Afroze, CEO of Jdigitals",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who were invited as Guests of Honour for the Inter college Symposium Event on 2nd October 2022?",
+    "answer": "K Srikanth, Technical Architect at Standard Chartered, and Mohamed Afroze, CEO of J Digital",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who attended the Academic Advisory Board Meeting on 1st October 2022?",
+    "answer": "Ahamed Jameel, Technical Consultant at HCL, and N Feroz Khan, Delivery Manager at MAERSK, Chennai",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who was appointed as a Governing Council Member for MSAJCE during the Academic Advisory Board Meeting on 1st October 2022?",
+    "answer": "N Feroz Khan",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who were the notable alumni present at the Engineers Day Celebration on September 17, 2022?",
+    "answer": "Ahamed Jameel, J Abdul Rahman, MM Syed Sultan Allaudeen, A Raju, L Asim Ali, and N Feroz Khan",
+    "format": "exploratory",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who were invited as jury members for MSAJCE Juniors Project Exhibition on September 17, 2022?",
+    "answer": "Ahamed Jameel, J Abdul Rahman, MM Syed Sultan Allaudeen, A Raju, L Asim Ali, and N Feroz Khan",
+    "format": "exploratory",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who was invited as the chief guest for Teachers Day on September 3, 2022?",
+    "answer": "Dr. Ezhil",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who was awarded the Best Teacher of the Year by MSAJCE on September 3, 2022?",
+    "answer": "Dr. Ezhil",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who organized two alumni meets in 2022?",
+    "answer": "MSAJCE",
+    "format": "exploratory",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who were the notable alumni present at the Engineers Day Event on October 23, 2021?",
+    "answer": "Saravanan, Ashiq, Ganesh, Shiblee, Thahir, and Jaleel",
+    "format": "exploratory",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who was invited as the Guest of Honour for the First Year Induction ceremony on October 22, 2021?",
+    "answer": "Ashwin C, Director of Pixtronics",
+    "format": "factoid",
+    "section": "13. Alumini Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the time frame of the alumni batches that attended the Alumni Meet - 2k23?",
+    "answer": "The Alumni Meet - 2k23 was attended by alumni from the 2009 to 2020 batches of Mohamed Sathak A.J. College of Engineering.",
+    "format": "factoid",
+    "section": "16. Alumni Feedback & 17. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Is the Alumni Meet - 2k23 a significant event?",
+    "answer": "Yes, the Alumni Meet - 2k23 was a significant event that brought together alumni.",
+    "format": "yes_no",
+    "section": "16. Alumni Feedback & 17. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the college that hosted the Alumni Meet - 2k23?",
+    "answer": "Mohamed Sathak A.J. College of Engineering.",
+    "format": "factoid",
+    "section": "16. Alumni Feedback & 17. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the purpose of the Alumni Meet - 2k23?",
+    "answer": "The Alumni Meet - 2k23 was a significant event that brought together alumni.",
+    "format": "exploratory",
+    "section": "16. Alumni Feedback & 17. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the format of the Alumni Meet - 2k23?",
+    "answer": "The Alumni Meet - 2k23 was a significant event that brought together alumni from the 2009 to 2020 batches of Mohamed Sathak A.J. College of Engineering.",
+    "format": "factoid",
+    "section": "16. Alumni Feedback & 17. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Is the Alumni Meet - 2k23 a recurring event?",
+    "answer": "No information is provided in the context about the Alumni Meet - 2k23 being a recurring event.",
+    "format": "yes_no",
+    "section": "16. Alumni Feedback & 17. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the section in the documentation that describes the Alumni Meet - 2k23?",
+    "answer": "The Alumni Meet - 2k23 is described in section 17 of the documentation.",
+    "format": "factoid",
+    "section": "16. Alumni Feedback & 17. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the section in the documentation that describes the Alumni Feedback?",
+    "answer": "The Alumni Feedback is described in section 16 of the documentation.",
+    "format": "factoid",
+    "section": "16. Alumni Feedback & 17. Alumni Meet - 2k23 (2009 - 2020 Batch)",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the names of the distinguished alumni from the 2001-2005 batch?",
+    "answer": "The distinguished alumni from the 2001-2005 batch include Mr. Purushothaman. N, Ms. Sabana Yasmi .S, Mr. Saravanan Perumal, Mr. Mohammed Fareed, Mr. Ahamed Jameel .A.M.T, Mr. Feroz Khan .N, Mr. Fayad Ahamed, Mr. Mohammed Azeem, Mr. Srikanth K, Mr. Majed Arafat, Mr. Santhosh Kumar V, Mr. Anbazhagan AT, Mr. Balagurunathan, Dr. Ezhilazhagan C, Mr. Suresh Kumar N, and Mr. Mohammed Kamaal Yasin.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Syed Faiyaz Hussain?",
+    "answer": "Mr. Syed Faiyaz Hussain is currently working as a Digital Product Manager at Anthem in the USA.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the position of Ms. Uma Maheshwari G?",
+    "answer": "Ms. Uma Maheshwari G is a Principal Member of Technical Staff at Oracle India.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Chandra Bose?",
+    "answer": "Mr. Chandra Bose is a Senior Delivery Manager at CMA CGM India.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Ashik Mohamed?",
+    "answer": "Mr. Ashik Mohamed is a Manager in the IT department at Hyundai Motors Group.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Mohamed Thahir N?",
+    "answer": "Mr. Mohamed Thahir N leads the QA & CART Team at Zoho Corporation.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Nizamuddin K?",
+    "answer": "Mr. Nizamuddin K is a Business Development Manager at Touchline Technologies Pvt Ltd.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Abubucker Siddiq?",
+    "answer": "Mr. Abubucker Siddiq holds the position of Deputy Manager at Transys Global forwarding Pvt. Ltd.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Sivanathan?",
+    "answer": "Mr. Sivanathan is a Manager at ADF Data Science Pvt Ltd.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Rahul Murali?",
+    "answer": "Mr. Rahul Murali serves as Lead Product Manager at Thoughtworks.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Vinoth Kumar Manickam?",
+    "answer": "Mr. Vinoth Kumar Manickam holds the position of Lead Developer at Striven.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Sathakathulla E?",
+    "answer": "Mr. Sathakathulla E is the eApps Testing Lead at Hitachi Energy Global Services Pvt Ltd.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Noorul Jaman?",
+    "answer": "Mr. Noorul Jaman is the Product Manager - QA at Mind Gate Solutions Pvt Ltd.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Shaik Salaudeen?",
+    "answer": "Mr. Shaik Salaudeen works as Technical Lead at NTT Data Business Solutions.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Sakthi Ajay?",
+    "answer": "Mr. Sakthi Ajay is a Senior Consultant at Virtusa.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Sheikh Azharuddin?",
+    "answer": "Mr. Sheikh Azharuddin is the IT Operations Head at Nissan Renault Financial Services India Limited.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Akila Rajesh?",
+    "answer": "Ms. Akila Rajesh holds the position of Sales and Marketing Head at Voora Property Developer Pvt Ltd.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Nasarullah S?",
+    "answer": "Mr. Nasarullah S is the Tech Lead at Wipro Ltd.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Marzook Ahamed?",
+    "answer": "Mr. Marzook Ahamed is an Assistant Manager at PIXELS- DUBAI.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Mohamed Yousuf Shariff?",
+    "answer": "Mr. Mohamed Yousuf Shariff is a Tax Consultant at Shariff and Co.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Muhamed Samir?",
+    "answer": "Mr. Muhamed Samir is the Cyber Security Manager at Fidelity National Financial.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Vignesh?",
+    "answer": "Mr. Vignesh is a Senior BIM Modeler at MCC Engineering Singapore Pte.Ltd.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Harish N?",
+    "answer": "Mr. Harish N is a Technical Support Engineer at iOPEX Technologies.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Ram Prabhu S?",
+    "answer": "Mr. Ram Prabhu S works as a Senior QA Engineer at QBurst Technologies Private limited.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Reshma Rahila S?",
+    "answer": "Ms. Reshma Rahila S is a Senior Software Engineer at Prodapt Solutions Pvt Ltd.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Mohammed Asif?",
+    "answer": "Mr. Mohammed Asif works as a QAQC Civil Inspector at Samsung C & T.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Syed Haja Shereef S?",
+    "answer": "Mr. Syed Haja Shereef S is a Recruitment Specialist at Scaleneworks.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Shanthoshkumar J?",
+    "answer": "Mr. Shanthoshkumar J is a Senior Software Engineer at Broadcom.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Safeeq Ahamed S?",
+    "answer": "Mr. Safeeq Ahamed S is a Design Engineer at KONE Elevators.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Shaik Fathhullah S?",
+    "answer": "Mr. Shaik Fathhullah S works as a Technical and Sales Engineer at DAYSTAR SOLAR.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Md Mubarak?",
+    "answer": "Mr. Md Mubarak is an MEP Team Leader at EJADAH UAE.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Md Junaid A?",
+    "answer": "Mr. Md Junaid A is an Estimation/Quantity Surveyor Engineer at ELEMEC ELECTRICAL CONTRACTING LLC.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Sabari Murugan?",
+    "answer": "Mr. Sabari Murugan is an Associate Design Engineer at Wall Technology.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Jawahar Shalim?",
+    "answer": "Mr. Jawahar Shalim is a Team Leader at Milkbasket.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Abdul Mukshith A?",
+    "answer": "Mr. Abdul Mukshith A works as a Senior BIM Engineer at MICRON ELECTRICALS.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Mohamed Ali Hasan?",
+    "answer": "Mr. Mohamed Ali Hasan is the Operation Head at Veena Jewellers.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Imran L?",
+    "answer": "Mr. Imran L is a Site Engineer at Al Rasheediah Safety and Security est, Abudhabi.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Shamsudeen A?",
+    "answer": "Mr. Shamsudeen A works as a Software Engineer at HCL.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Nadir Khan?",
+    "answer": "Mr. Nadir Khan is a Supply Chain Engineer at Inaithiram Impex Internet Pvt Ltd.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Sathiyan?",
+    "answer": "Mr. Sathiyan is a Software Engineer at Relevantz Technology Services Pvt Ltd.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Md Zaid?",
+    "answer": "Mr. Md Zaid is a Software Engineer at TCS.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Ms. Senthamizh Selvi?",
+    "answer": "Ms. Senthamizh Selvi is a Business Development Executive.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Aadil Ibrahim A?",
+    "answer": "Mr. Aadil Ibrahim A serves as a Home Elevator Advisor.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Mohan Kumar?",
+    "answer": "Mr. Mohan Kumar is the CEO and Founder of his own company.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Ms. Yousuf Zulaikha?",
+    "answer": "Ms. Yousuf Zulaikha works as an AR Specialist.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Vignesh S?",
+    "answer": "Mr. Vignesh S holds the position of PMO - Auditor.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Kannan R?",
+    "answer": "Mr. Kannan R is a NDT Level-2 Inspector.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Mohamed Abdullah S?",
+    "answer": "Mr. Mohamed Abdullah S works as an Automation Engineer.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Kalil Ahmed B?",
+    "answer": "Mr. Kalil Ahmed B is an Electrical Design Engineer.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Harikrishna?",
+    "answer": "Mr. Harikrishna is an Insurance Surveyor.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Ms. Preeta Rani S?",
+    "answer": "Ms. Preeta Rani S serves as an Assistant Engineer.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Nadeem S?",
+    "answer": "Mr. Nadeem S works as an HVAC Plant Engineer.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Mohamed Arsath?",
+    "answer": "Mr. Mohamed Arsath is an Assistant Engineer.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Abdul Rahman J?",
+    "answer": "Mr. Abdul Rahman J is the Managing Director of Blue Bell Business Management.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Mohammed Rizwan Ali?",
+    "answer": "Mr. Mohammed Rizwan Ali is the Managing Director of Excellence Prices Company Limited.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Krishna Kumar?",
+    "answer": "Mr. Krishna Kumar is the Managing Director of Markk Imaging and Automation.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Ahamed Jameel A M T?",
+    "answer": "Ahamed Jameel A M T is an IT Consultant and entrepreneur.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Elavarasan?",
+    "answer": "Elavarasan is the Managing Director of RMP Solutions.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mallam Mustak?",
+    "answer": "Mallam Mustak is a Business Consultant based in Singapore and runs Mallang Salma Consulting Services Pvt Ltd.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Behin Samuel?",
+    "answer": "Behin Samuel is the Managing Director of Clysico.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Abdul Wahab?",
+    "answer": "Abdul Wahab is the Managing Director of Midas associates.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Syed Shahul Hameed?",
+    "answer": "Mr. Syed Shahul Hameed serves as the Managing Director of Deysla for IT Solutions W.L.L. in Bahrain.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Syed Sultan Allaudeen .M.M?",
+    "answer": "Mr. Syed Sultan Allaudeen .M.M is the Managing Director of MM International.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Mohammed Rameez?",
+    "answer": "Mr. Mohammed Rameez is the Founder of Zeemrah Energy.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Ganesh?",
+    "answer": "Mr. Ganesh is the CEO of JFX Events and Media.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Rahumathulla A.S?",
+    "answer": "Mr. Rahumathulla A.S is the Managing Director of Rekha Décor.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Abdur Rahim Salih?",
+    "answer": "Mr. Abdur Rahim Salih serves as the Director and CEO of V5 Innovations Pvt Ltd.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Shanmugam?",
+    "answer": "Mr. Shanmugam is the IT Director of Zyple Software Solutions Pvt Ltd.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Asim Ali .L?",
+    "answer": "Mr. Asim Ali .L is the CMO of Customer Labs.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Syed Yousuf?",
+    "answer": "Mr. Syed Yousuf is a Business Partner at Milestone Speciality Equipment Pvt Ltd.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Ahmed Asif A?",
+    "answer": "Mr. Ahmed Asif A is the Managing Director of First Alcon Infrastructures Pvt Ltd.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Md Sikkander Kasim M?",
+    "answer": "Mr. Md Sikkander Kasim M serves as the Managing Director of Faaz.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Mohammed Zubair?",
+    "answer": "Mr. Mohammed Zubair is the Managing Director of Usite Safety and Security.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Abdul Majeed Shiblee?",
+    "answer": "Mr. Abdul Majeed Shiblee is the proprietor of DEBUGGER.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. F H M Afzal Bijli?",
+    "answer": "Mr. F H M Afzal Bijli is the founder of Webxo360 Technology Solutions.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Abdul Kader?",
+    "answer": "Mr. Abdul Kader is a business partner at Al Qima technologies LLC in Sharjah, UAE.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Mohammed Parvez Shariff?",
+    "answer": "Mr. Mohammed Parvez Shariff is the proprietor of Air Mechon Solutions.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Kalidoss .J?",
+    "answer": "Mr. Kalidoss .J has made a mark in the film industry as a music director.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Mohamed Jiavur Rahman T H?",
+    "answer": "Mr. Mohamed Jiavur Rahman T H founded Motowear.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Sadhaam?",
+    "answer": "Mr. Sadhaam is a business partner at Phoenix Print hub.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Nazhrudeen?",
+    "answer": "Mr. Nazhrudeen is the founder of Xperthom Technologies.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Prasand P?",
+    "answer": "Mr. Prasand P serves as the managing director of PROZ SOLUTIONS LLP.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. K.Hakeem?",
+    "answer": "Mr. K.Hakeem is the managing director of Safka Engineering Works.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. P.Arun Kumar?",
+    "answer": "Mr. P.Arun Kumar is the managing director of AG interior and Mithra Traders.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Abdul Riyaz M?",
+    "answer": "Mr. Abdul Riyaz M holds the same position at RIHAAB ALIYAR ASSOCIATES.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Sabarish S R?",
+    "answer": "Mr. Sabarish S R is the founder and CEO of Sportasy.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Mohan Kumar?",
+    "answer": "Mr. Mohan Kumar holds the same positions at Gamasome Interactive LLP.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Adil Ibrahim?",
+    "answer": "Mr. Adil Ibrahim is the founder and CEO of CameraMan, a security system installer.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. J.Mohamed Salman Azeem?",
+    "answer": "Mr. J.Mohamed Salman Azeem is an acupuncturist and trainer at the Global Acupuncture Clinic.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Veeramanikandan P?",
+    "answer": "Mr. Veeramanikandan P is the Managing Director of SPS Traders.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. J. Mohammed Abbas Ali?",
+    "answer": "Mr. J. Mohammed Abbas Ali holds the same position at A. J Mobiles and Electronics.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Rafi Ansari?",
+    "answer": "Mr. Rafi Ansari is the Managing Director of Rashab Consultancy.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Mohamed Afroze?",
+    "answer": "Mr. Mohamed Afroze is the Managing Director of J Digitals.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Ms. Salmaa Gaffoor?",
+    "answer": "Ms. Salmaa Gaffoor is the Managing Director of Digiwiz Marketing Solutions.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Basker?",
+    "answer": "Mr. Basker is a Business Partner at Studio Zero 7.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Abdullah?",
+    "answer": "Mr. Abdullah is the CEO of Redwood Construction.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Md Hyder Shareef?",
+    "answer": "Mr. Md Hyder Shareef is the Managing Director of SAAHICORP PRIVATE LIMITED.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Mohamed Naveeth B?",
+    "answer": "Mr. Mohamed Naveeth B is the Managing Director of Reliance Trading Service.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Ashwin P?",
+    "answer": "Mr. Ashwin P is the Managing Director of P & P Marketing.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Dhanachezian K?",
+    "answer": "Mr. Dhanachezian K is the Managing Director of Shri Dhanalakshmi Engineering Works.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Dawan?",
+    "answer": "Mr. Dawan is the Managing Director of Enigma Catalyst.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Akther Ilyas?",
+    "answer": "Mr. Akther Ilyas is the Creative Director of Skit Media - Start Up.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Ram Kumar?",
+    "answer": "Mr. Ram Kumar is the Managing Director of YC Events and Productions.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Syed Aakhib Mohammed?",
+    "answer": "Mr. Syed Aakhib Mohammed is the Managing Director of BLACKBOX.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What are the notable achievements of Mr. Suhaib?",
+    "answer": "Mr. Suhaib is the CEO of IK Digital.",
+    "format": "factoid",
+    "section": "14. Distinguished Alumni",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the total amount of money sponsored by the MSAJCE Alumni Scholarship to date?",
+    "answer": "The MSAJCE Alumni Scholarship has sponsored a total amount of Rs. 40,16,472 to date.",
+    "format": "factoid",
+    "section": "15. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who received sponsorship on two separate occasions from the MSAJCE Alumni Scholarship?",
+    "answer": "Mohamed Humdhan I from the 2024-2028 batch of the AIDS department received sponsorship on two separate occasions.",
+    "format": "factoid",
+    "section": "15. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the student from the 2023-2027 batch of the CSE department who received sponsorship on 18.06.2026?",
+    "answer": "Mohamed Uawais A received sponsorship on 18.06.2026.",
+    "format": "factoid",
+    "section": "15. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who received sponsorship in the month of March 2026?",
+    "answer": "Several students received sponsorship, including Priyadharshini S from the 2023-2027 batch of the CSBS department on 07.03.2026, and Revathi A and Sireesh B, both from the 2024-2028 batch of the ECE department, also on 07.03.2026.",
+    "format": "scenario",
+    "section": "15. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Is hostel accommodation mandatory for outstation students?",
+    "answer": "There is no information provided in the context about hostel accommodation being mandatory for outstation students.",
+    "format": "yes_no",
+    "section": "15. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the procedure to apply for scholarship?",
+    "answer": "There is no information provided in the context about the procedure to apply for scholarship.",
+    "format": "procedural",
+    "section": "15. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "How does the placement package of CSE compare to IT?",
+    "answer": "There is no information provided in the context about the placement package of CSE or IT.",
+    "format": "comparison",
+    "section": "15. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Explain the objective of the Incubation Centre.",
+    "answer": "There is no information provided in the context about the Incubation Centre.",
+    "format": "exploratory",
+    "section": "15. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who made a contribution to the scholarship fund on February 22, 2026?",
+    "answer": "Mahira Sultana from the ECE department made a contribution on February 22, 2026.",
+    "format": "factoid",
+    "section": "15. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who contributed to the scholarship fund on August 6, 2025?",
+    "answer": "Harini R from the AIML department and Samira Farhana T from the AIML department, both from the 2024-2028 and 2025-2029 batches respectively, contributed on August 6, 2025.",
+    "format": "factoid",
+    "section": "15. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the student from the 2021-2025 batch of the Computer Science and Engineering department who made contributions on two separate occasions?",
+    "answer": "Farhan Basha T made contributions on two separate occasions.",
+    "format": "factoid",
+    "section": "15. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who sponsored sports jerseys for the hockey team on September 30, 2024?",
+    "answer": "The MSAJCE Alumni Association sponsored sports jerseys for the hockey team on September 30, 2024.",
+    "format": "factoid",
+    "section": "15. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who made contributions to the MSAJCE Alumni Scholarship from the 2023-2027 batch?",
+    "answer": "Several alumni from the 2023-2027 batch made contributions, including Pragatha from the Computer Science and Engineering department, Md Abdul Kalam and Abu Jabar Mubarak from the Computer Science and Business Systems department, and Md Rasin from the Information Technology department.",
+    "format": "scenario",
+    "section": "15. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "What is the name of the student from the 2019-2023 batch of the Mechanical Engineering department who made contributions on three separate occasions?",
+    "answer": "Aayathul Mufarak A made contributions on three separate occasions.",
+    "format": "factoid",
+    "section": "15. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  },
+  {
+    "question": "Who sponsored the Tech Unity event for MSAJCE symposium on October 16, 2023?",
+    "answer": "The MSAJCE Alumni Association sponsored the Tech Unity event for MSAJCE symposium on October 16, 2023.",
+    "format": "factoid",
+    "section": "15. Alumni Scholarship Contribution",
+    "source_file": "msajce_alumni.md",
+    "category": "Alumni Association"
+  }
+]

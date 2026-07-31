@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Where is the Boys Hostel located?",
+    "answer": "The Boys Hostel is located inside the campus.",
+    "format": "factoid",
+    "section": "Hostel Facilities & 1. Boys Hostel & 2. Girls Hostel & 3. Hostel Rules & 4. Dining Hall",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "How many blocks does the Boys Hostel have?",
+    "answer": "The Boys Hostel has 3 blocks.",
+    "format": "factoid",
+    "section": "Hostel Facilities & 1. Boys Hostel & 2. Girls Hostel & 3. Hostel Rules & 4. Dining Hall",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "What is the maximum capacity of the Boys Hostel?",
+    "answer": "The Boys Hostel can accommodate up to 480 boy students.",
+    "format": "factoid",
+    "section": "Hostel Facilities & 1. Boys Hostel & 2. Girls Hostel & 3. Hostel Rules & 4. Dining Hall",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "How many Non-AC rooms and AC rooms are available in the Boys Hostel?",
+    "answer": "There are 233 Non-AC rooms and 6 AC rooms available in the Boys Hostel.",
+    "format": "factoid",
+    "section": "Hostel Facilities & 1. Boys Hostel & 2. Girls Hostel & 3. Hostel Rules & 4. Dining Hall",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "What facilities are available in the Boys Hostel?",
+    "answer": "The Boys Hostel has a hygienic canteen, an entertainment hall with LCD-TV, indoor game facilities, reading room with newspapers and popular magazines, land-line telephone, Wi-Fi internet access, and a TV Hall.",
+    "format": "exploratory",
+    "section": "Hostel Facilities & 1. Boys Hostel & 2. Girls Hostel & 3. Hostel Rules & 4. Dining Hall",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "Where is the Girls Hostel located?",
+    "answer": "The Girls Hostel is situated at Sholinganallur, which is 5 KM away from the campus.",
+    "format": "factoid",
+    "section": "Hostel Facilities & 1. Boys Hostel & 2. Girls Hostel & 3. Hostel Rules & 4. Dining Hall",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "How many blocks does the Girls Hostel have?",
+    "answer": "The Girls Hostel has 1 block.",
+    "format": "factoid",
+    "section": "Hostel Facilities & 1. Boys Hostel & 2. Girls Hostel & 3. Hostel Rules & 4. Dining Hall",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "What is the maximum capacity of the Girls Hostel?",
+    "answer": "The Girls Hostel can accommodate up to 210 girl students.",
+    "format": "factoid",
+    "section": "Hostel Facilities & 1. Boys Hostel & 2. Girls Hostel & 3. Hostel Rules & 4. Dining Hall",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "What facilities are available in the Girls Hostel?",
+    "answer": "The Girls Hostel has an entertainment hall with LCD-TV, indoor game facilities, reading room with News Papers and popular magazines, land-line telephone, Wi-Fi internet access, Library facility, and Computer facility.",
+    "format": "exploratory",
+    "section": "Hostel Facilities & 1. Boys Hostel & 2. Girls Hostel & 3. Hostel Rules & 4. Dining Hall",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "What are the rules for students occupying rooms in the hostel?",
+    "answer": "Students must occupy the rooms allotted to them by the Warden or Dr. K.S. Srinivasan.",
+    "format": "factoid",
+    "section": "Hostel Facilities & 1. Boys Hostel & 2. Girls Hostel & 3. Hostel Rules & 4. Dining Hall",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "What activities are prohibited in the hostel?",
+    "answer": "Students should refrain from anti-social and undesirable activities such as consumption of alcohol, tobacco, gambling, ragging etc.",
+    "format": "factoid",
+    "section": "Hostel Facilities & 1. Boys Hostel & 2. Girls Hostel & 3. Hostel Rules & 4. Dining Hall",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "What is the procedure for visitors to meet students in the hostel?",
+    "answer": "Parents are requested to give a list of authorized visitors or local guardians. Visitors not mentioned in the list will not be permitted to visit the students in the hostel.",
+    "format": "procedural",
+    "section": "Hostel Facilities & 1. Boys Hostel & 2. Girls Hostel & 3. Hostel Rules & 4. Dining Hall",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "When can students go home from the hostel?",
+    "answer": "Students will be permitted to go home only if MSAJCE is closed continuously for five days or more.",
+    "format": "factoid",
+    "section": "Hostel Facilities & 1. Boys Hostel & 2. Girls Hostel & 3. Hostel Rules & 4. Dining Hall",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "What types of food are served in the hostel mess?",
+    "answer": "Vegetarian and Non-Vegetarian food is served in the hostel.",
+    "format": "factoid",
+    "section": "Hostel Facilities & 1. Boys Hostel & 2. Girls Hostel & 3. Hostel Rules & 4. Dining Hall",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "How are mess charges collected?",
+    "answer": "Mess charges are collected on an annual basis at the time of admission.",
+    "format": "factoid",
+    "section": "Hostel Facilities & 1. Boys Hostel & 2. Girls Hostel & 3. Hostel Rules & 4. Dining Hall",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "What are the mess timings for breakfast on working days?",
+    "answer": "Breakfast is served from 07:00 A.M. to 08:00 A.M. on working days.",
+    "format": "factoid",
+    "section": "5. Mess Timings & 6. Games, TV Timings and Study Hours & 7. Cafeteria & 8. Canteen Committee",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "What are the mess timings for breakfast on holidays?",
+    "answer": "Breakfast is served from 07:30 A.M. to 09:00 A.M. on holidays.",
+    "format": "factoid",
+    "section": "5. Mess Timings & 6. Games, TV Timings and Study Hours & 7. Cafeteria & 8. Canteen Committee",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "What are the mess timings for lunch on working days?",
+    "answer": "Lunch is served from 01:00 P.M. to 01:45 P.M. on working days.",
+    "format": "factoid",
+    "section": "5. Mess Timings & 6. Games, TV Timings and Study Hours & 7. Cafeteria & 8. Canteen Committee",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "What are the mess timings for lunch on holidays?",
+    "answer": "Lunch is served from 12:30 P.M. to 02:00 P.M. on holidays.",
+    "format": "factoid",
+    "section": "5. Mess Timings & 6. Games, TV Timings and Study Hours & 7. Cafeteria & 8. Canteen Committee",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "What are the mess timings for dinner on working days?",
+    "answer": "Dinner is served from 07:00 P.M. to 08:30 P.M. on working days.",
+    "format": "factoid",
+    "section": "5. Mess Timings & 6. Games, TV Timings and Study Hours & 7. Cafeteria & 8. Canteen Committee",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "What are the mess timings for dinner on holidays?",
+    "answer": "Dinner is served from 07:00 P.M. to 09:00 P.M. on holidays.",
+    "format": "factoid",
+    "section": "5. Mess Timings & 6. Games, TV Timings and Study Hours & 7. Cafeteria & 8. Canteen Committee",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "What are the games and TV timings on working days?",
+    "answer": "Games and TV timings on working days are from 04:30 P.M. to 06:00 P.M.",
+    "format": "factoid",
+    "section": "5. Mess Timings & 6. Games, TV Timings and Study Hours & 7. Cafeteria & 8. Canteen Committee",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "What are the games and TV timings on holidays?",
+    "answer": "On holidays, the timings are from 09:00 A.M. to 12:00 P.M. and from 01:00 P.M. to 06:00 P.M.",
+    "format": "factoid",
+    "section": "5. Mess Timings & 6. Games, TV Timings and Study Hours & 7. Cafeteria & 8. Canteen Committee",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "What are the study hours in the morning?",
+    "answer": "Study hours in the morning are from 05:00 A.M. to 07:00 A.M.",
+    "format": "factoid",
+    "section": "5. Mess Timings & 6. Games, TV Timings and Study Hours & 7. Cafeteria & 8. Canteen Committee",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "What are the study hours in the evening?",
+    "answer": "Study hours in the evening are from 06:00 P.M. to 07:00 P.M. and from 09:00 P.M. to 10:30 P.M.",
+    "format": "factoid",
+    "section": "5. Mess Timings & 6. Games, TV Timings and Study Hours & 7. Cafeteria & 8. Canteen Committee",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "What is the capacity of the cafeteria?",
+    "answer": "The cafeteria can conveniently accommodate 100 students at a time.",
+    "format": "factoid",
+    "section": "5. Mess Timings & 6. Games, TV Timings and Study Hours & 7. Cafeteria & 8. Canteen Committee",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "What are the operational hours of the cafeteria?",
+    "answer": "The cafeteria remains open on all working days from 8.00 am to 8.00 pm.",
+    "format": "factoid",
+    "section": "5. Mess Timings & 6. Games, TV Timings and Study Hours & 7. Cafeteria & 8. Canteen Committee",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "Who is the presiding officer of the Canteen Committee?",
+    "answer": "The Canteen Committee is presided over by Dr. K.S. Srinivasan.",
+    "format": "factoid",
+    "section": "5. Mess Timings & 6. Games, TV Timings and Study Hours & 7. Cafeteria & 8. Canteen Committee",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "Who is the Chief Organization Officer of the Canteen Committee?",
+    "answer": "Dr. S. Vijayakumar is the Chief Organization Officer.",
+    "format": "factoid",
+    "section": "5. Mess Timings & 6. Games, TV Timings and Study Hours & 7. Cafeteria & 8. Canteen Committee",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "Who is the Manager of the Canteen Committee?",
+    "answer": "Mr. Arun serves as the Manager.",
+    "format": "factoid",
+    "section": "5. Mess Timings & 6. Games, TV Timings and Study Hours & 7. Cafeteria & 8. Canteen Committee",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "Who is the Head of Student Affairs of the Canteen Committee?",
+    "answer": "Dr. K.P. Santhosh Nathan is the Head of Student Affairs.",
+    "format": "factoid",
+    "section": "5. Mess Timings & 6. Games, TV Timings and Study Hours & 7. Cafeteria & 8. Canteen Committee",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "Who are the members of the Canteen Committee?",
+    "answer": "The committee members include Dr. S Vijayakumar, Mr. Arun, and Mr. A. Abdul Gafoor.",
+    "format": "factoid",
+    "section": "5. Mess Timings & 6. Games, TV Timings and Study Hours & 7. Cafeteria & 8. Canteen Committee",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  },
+  {
+    "question": "Who are the canteen staff?",
+    "answer": "The canteen staff consists of Mr. Abdul Rashid as Cook, Mr. Kannan as Assistant Cook, and Mr. Shankar as Assistant Cook.",
+    "format": "factoid",
+    "section": "5. Mess Timings & 6. Games, TV Timings and Study Hours & 7. Cafeteria & 8. Canteen Committee",
+    "source_file": "msajce_hostel.md",
+    "category": "Hostel & Accommodation"
+  }
+]

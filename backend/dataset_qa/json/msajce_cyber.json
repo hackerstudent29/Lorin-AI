@@ -1,0 +1,578 @@
+[
+  {
+    "question": "What is the expected growth of the cybersecurity sector in India by 2025-2030?",
+    "answer": "The cybersecurity sector in India is expected to experience strong growth over the next five years.",
+    "format": "factoid",
+    "section": "Employment Growth in Cyber Security in India by 2025 - 2030 & Key Drivers of Employment Growth & Employment Opportunities in High Demand",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are the primary drivers of employment growth in the cybersecurity sector?",
+    "answer": "Increasing cybersecurity threats, government initiatives and regulations, and the growth of cloud computing and IoT are the primary drivers of employment growth.",
+    "format": "factoid",
+    "section": "Employment Growth in Cyber Security in India by 2025 - 2030 & Key Drivers of Employment Growth & Employment Opportunities in High Demand",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the role of agencies like CERT-In and NCIIPC in the growth of the cybersecurity sector?",
+    "answer": "Agencies like CERT-In and NCIIPC push for enhanced cybersecurity protocols, encouraging private sector adoption.",
+    "format": "factoid",
+    "section": "Employment Growth in Cyber Security in India by 2025 - 2030 & Key Drivers of Employment Growth & Employment Opportunities in High Demand",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are the key skills required for a Cybersecurity Analyst?",
+    "answer": "A Cybersecurity Analyst monitors network traffic, identifies security breaches, and implements protective measures, utilizing skills in network security, incident response, SIEM tools, firewall management, and penetration testing.",
+    "format": "factoid",
+    "section": "Employment Growth in Cyber Security in India by 2025 - 2030 & Key Drivers of Employment Growth & Employment Opportunities in High Demand",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the role of a Security Architect in the cybersecurity sector?",
+    "answer": "A Security Architect designs and implements complex security infrastructures to protect IT systems, networks, and data, requiring expertise in network architecture, security frameworks, risk management, cloud security, firewalls, and encryption technologies.",
+    "format": "factoid",
+    "section": "Employment Growth in Cyber Security in India by 2025 - 2030 & Key Drivers of Employment Growth & Employment Opportunities in High Demand",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are the key skills required for a Cloud Security Specialist?",
+    "answer": "A Cloud Security Specialist ensures the security of cloud infrastructures and applications, focusing on preventing unauthorized access and data breaches with skills in AWS, Azure, Google Cloud, and IAM.",
+    "format": "factoid",
+    "section": "Employment Growth in Cyber Security in India by 2025 - 2030 & Key Drivers of Employment Growth & Employment Opportunities in High Demand",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the role of a Chief Information Security Officer in an organization?",
+    "answer": "The Chief Information Security Officer oversees an organization's entire cybersecurity strategy, policies, systems, and incident response, ensuring compliance with regulations and requiring strong leadership, risk management, and business continuity planning skills.",
+    "format": "factoid",
+    "section": "Employment Growth in Cyber Security in India by 2025 - 2030 & Key Drivers of Employment Growth & Employment Opportunities in High Demand",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are the key drivers of employment growth in the digital payments and financial services sector?",
+    "answer": "The fintech boom and stricter regulations from authorities like the RBI and SEBI require professionals to protect systems and ensure GDPR compliance.",
+    "format": "factoid",
+    "section": "Employment Growth in Cyber Security in India by 2025 - 2030 & Key Drivers of Employment Growth & Employment Opportunities in High Demand",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are the key skills required for an IoT Security Expert?",
+    "answer": "An IoT Security Expert protects connected devices in IoT ecosystems from cyber threats, ensuring encryption and security through knowledge of IoT protocols and embedded security.",
+    "format": "factoid",
+    "section": "Employment Growth in Cyber Security in India by 2025 - 2030 & Key Drivers of Employment Growth & Employment Opportunities in High Demand",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are the Program Specific Outcomes (PSOs) of the engineering program?",
+    "answer": "The Program Specific Outcomes emphasize that engineering graduates will be able to develop creative solutions by adapting emerging technologies and tools for real-time applications in the industry.",
+    "format": "factoid",
+    "section": "6. Program Specific Outcomes (PSOs) & 7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the purpose of Programme Outcomes (POs) in the engineering program?",
+    "answer": "The Programme Outcomes define the foundational abilities of the students.",
+    "format": "factoid",
+    "section": "6. Program Specific Outcomes (PSOs) & 7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is Programme Outcome (PO1) - Engineering Knowledge?",
+    "answer": "Engineering knowledge requires applying mathematics, science, engineering fundamentals, and an engineering specialization to solve complex engineering problems.",
+    "format": "factoid",
+    "section": "6. Program Specific Outcomes (PSOs) & 7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is Programme Outcome (PO2) - Problem Analysis?",
+    "answer": "Problem analysis involves identifying, formulating, reviewing research literature, and analyzing complex engineering problems to reach substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.",
+    "format": "factoid",
+    "section": "6. Program Specific Outcomes (PSOs) & 7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is Programme Outcome (PO3) - Design/Development of Solutions?",
+    "answer": "For the design and development of solutions, students must design solutions for complex engineering problems and design system components or processes that meet specified needs with appropriate consideration for public health and safety, as well as cultural, societal, and environmental considerations.",
+    "format": "factoid",
+    "section": "6. Program Specific Outcomes (PSOs) & 7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is Programme Outcome (PO4) - Conduct Investigations?",
+    "answer": "Conducting investigations of complex problems requires using research-based knowledge and methods, including the design of experiments, analysis and interpretation of data, and synthesis of information to provide valid conclusions.",
+    "format": "factoid",
+    "section": "6. Program Specific Outcomes (PSOs) & 7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is Programme Outcome (PO5) - Modern Tool Usage?",
+    "answer": "Modern tool usage involves creating, selecting, and applying appropriate techniques, resources, and modern engineering and IT tools, including prediction and modeling, to complex engineering activities with an understanding of their limitations.",
+    "format": "factoid",
+    "section": "6. Program Specific Outcomes (PSOs) & 7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is Programme Outcome (PO6) - The Engineer and Society?",
+    "answer": "Applying reasoning informed by contextual knowledge to assess societal, health, safety, legal, and cultural issues and the consequent responsibilities relevant to professional engineering practice.",
+    "format": "factoid",
+    "section": "6. Program Specific Outcomes (PSOs) & 7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is Programme Outcome (PO7) - Environment and Sustainability?",
+    "answer": "Understanding the impact of professional engineering solutions in societal and environmental contexts, demonstrating the knowledge of and need for sustainable development.",
+    "format": "factoid",
+    "section": "6. Program Specific Outcomes (PSOs) & 7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is Programme Outcome (PO8) - Ethics?",
+    "answer": "Applying ethical principles and committing to professional ethics, responsibilities, and norms of engineering practice.",
+    "format": "factoid",
+    "section": "6. Program Specific Outcomes (PSOs) & 7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is Programme Outcome (PO9) - Individual and Team Work?",
+    "answer": "Functioning effectively as an individual, and as a member or leader in diverse teams and multidisciplinary settings.",
+    "format": "factoid",
+    "section": "6. Program Specific Outcomes (PSOs) & 7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is Programme Outcome (PO10) - Communication?",
+    "answer": "The ability to communicate effectively on complex engineering activities with the engineering community and society at large, including comprehending and writing effective reports, designing documentation, making effective presentations, and giving and receiving clear instructions.",
+    "format": "factoid",
+    "section": "6. Program Specific Outcomes (PSOs) & 7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is Programme Outcome (PO11) - Project Management and Finance?",
+    "answer": "Demonstrating knowledge and understanding of engineering and management principles and applying these to one's own work, managing projects, and working in multidisciplinary environments.",
+    "format": "factoid",
+    "section": "6. Program Specific Outcomes (PSOs) & 7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is Programme Outcome (PO12) - Life-long Learning?",
+    "answer": "Recognizing the need for and the ability to engage in independent and life-long learning in the broadest context of technological change.",
+    "format": "factoid",
+    "section": "6. Program Specific Outcomes (PSOs) & 7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are the Job Profiles of the engineering program?",
+    "answer": "There is no specific information provided in the context about the Job Profiles of the engineering program.",
+    "format": "factoid",
+    "section": "6. Program Specific Outcomes (PSOs) & 7. Programme Outcomes (PO) & 8. Job Profiles",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are some additional resources to enhance one's skills in cybersecurity?",
+    "answer": "Participating in Capture The Flag challenges on platforms like Hack The Box, TryHackMe, and OverTheWire, following cybersecurity blogs and podcasts, attending webinars and conferences, and familiarizing oneself with open-source tools like Wireshark, Metasploit, Kali Linux, and Burp Suite.",
+    "format": "exploratory",
+    "section": "Additional Resources to Enhance Your Skills & Top Online Cybersecurity Courses & Free and Low-Cost Learning Resources & Cybersecurity Career Path Resources",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are some top online cybersecurity courses?",
+    "answer": "CompTIA Security+ for beginners, Certified Ethical Hacker for aspiring penetration testers, Cisco CCNA Security for network security, Certified Information Systems Security Professional for managerial roles, Certified Cloud Security Professional for cloud computing, and GIAC Security Essentials for strengthening foundational skills.",
+    "format": "factoid",
+    "section": "Additional Resources to Enhance Your Skills & Top Online Cybersecurity Courses & Free and Low-Cost Learning Resources & Cybersecurity Career Path Resources",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are some free and low-cost learning resources for cybersecurity?",
+    "answer": "Cybrary, Udemy, Coursera, SANS Cyber Aces, OWASP, TryHackMe, Hack The Box, The Cyber Mentor, NetworkChuck, and Professor Messer.",
+    "format": "factoid",
+    "section": "Additional Resources to Enhance Your Skills & Top Online Cybersecurity Courses & Free and Low-Cost Learning Resources & Cybersecurity Career Path Resources",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are some career path resources for cybersecurity professionals?",
+    "answer": "LinkedIn Learning, Darknet Diaries, The CyberWire, Security Now, Reddit, Stack Exchange, and Twitter.",
+    "format": "factoid",
+    "section": "Additional Resources to Enhance Your Skills & Top Online Cybersecurity Courses & Free and Low-Cost Learning Resources & Cybersecurity Career Path Resources",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are some recommended books for deepening knowledge in cybersecurity?",
+    "answer": "The Web Application Hacker's Handbook by Dafydd Stuttard and Marcus Pinto, Hacking: The Art of Exploitation by Jon Erickson, and The CISSP All-in-One Exam Guide by Shon Harris.",
+    "format": "factoid",
+    "section": "Additional Resources to Enhance Your Skills & Top Online Cybersecurity Courses & Free and Low-Cost Learning Resources & Cybersecurity Career Path Resources",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are some benefits of attending webinars and conferences in cybersecurity?",
+    "answer": "Networking and learning about emerging threats.",
+    "format": "exploratory",
+    "section": "Additional Resources to Enhance Your Skills & Top Online Cybersecurity Courses & Free and Low-Cost Learning Resources & Cybersecurity Career Path Resources",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "Can you name some open-source tools recommended for cybersecurity professionals?",
+    "answer": "Wireshark, Metasploit, Kali Linux, and Burp Suite.",
+    "format": "factoid",
+    "section": "Additional Resources to Enhance Your Skills & Top Online Cybersecurity Courses & Free and Low-Cost Learning Resources & Cybersecurity Career Path Resources",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are some platforms for interactive, hands-on challenges in cybersecurity?",
+    "answer": "TryHackMe and Hack The Box.",
+    "format": "factoid",
+    "section": "Additional Resources to Enhance Your Skills & Top Online Cybersecurity Courses & Free and Low-Cost Learning Resources & Cybersecurity Career Path Resources",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are some YouTube channels providing valuable tutorials and study materials in cybersecurity?",
+    "answer": "The Cyber Mentor, NetworkChuck, and Professor Messer.",
+    "format": "factoid",
+    "section": "Additional Resources to Enhance Your Skills & Top Online Cybersecurity Courses & Free and Low-Cost Learning Resources & Cybersecurity Career Path Resources",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the name of the undergraduate engineering degree program focused on equipping students with the knowledge and skills needed to protect computer systems, networks, and data from cyber threats and attacks?",
+    "answer": "The B.E. Computer Science and Engineering with Specialization in Cyber Security is the undergraduate engineering degree program.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the primary objective of the course?",
+    "answer": "The primary objective is to develop experts in the field of information security, ethical hacking, and digital forensics.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are the top recruiters for graduates of this program?",
+    "answer": "Top recruiters for graduates include government and defense agencies like DRDO and CERT-IN, IT and cyber security firms such as TCS, Infosys, Accenture, Palo Alto Networks, and IBM Security, as well as banks, financial institutions, healthcare and insurance companies, e-commerce, and cloud service providers.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the duration of the program for regular students?",
+    "answer": "The duration is four years for regular students.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the total intake capacity of the program?",
+    "answer": "The total intake is 30 seats.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the eligibility for the program?",
+    "answer": "Eligibility for the program requires completion of the 10+2 system of education, and students must have secured a pass in Physics, Chemistry, and Mathematics in their qualifying examination.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the scope for higher studies after completing the program?",
+    "answer": "The scope for higher studies includes pursuing an M.E., M.Tech, or M.B.A.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the vision of the institution?",
+    "answer": "The vision is to be a center of excellence for transforming students into proficient Cyber Security Specialists through sustainable practices.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the mission of the institution?",
+    "answer": "The mission involves imparting core fundamental knowledge and necessary skills in Cyber Security through innovative teaching and learning methodologies.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are the Programme Educational Objectives (PEOs) of the program?",
+    "answer": "The Programme Educational Objectives state that graduates will be prepared for analyzing, designing, developing, and testing software solutions and products with creativity and sustainability.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are the key skills that graduates will be prepared with?",
+    "answer": "Graduates will be prepared with managerial and leadership skills for their careers and for starting up their own firms.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are the emerging technologies covered in the curriculum?",
+    "answer": "Emerging technologies such as security in artificial intelligence, the Internet of Things, cloud computing, and blockchain are also covered.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the curriculum structure of the program?",
+    "answer": "The program features a specialized curriculum focused on security principles, network security, cryptography, ethical hacking, and digital forensics, and includes foundational courses in computer science such as data structures, algorithms, and operating systems.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the emphasis of the program on hands-on learning?",
+    "answer": "Hands-on learning is emphasized through labs and simulation environments for penetration testing, secure coding, and threat analysis, along with capstone projects, internships, and real-world problem-solving.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the role of legal and ethical foundations in the curriculum?",
+    "answer": "Legal and ethical foundations, including cyber laws and ethics, compliance, and governance, are integrated into the curriculum.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the format of the program?",
+    "answer": "The program is offered as a B.E. in Computer Science and Engineering with Specialization in Cyber Security.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the intake capacity for the government quota?",
+    "answer": "15 seats are allocated for the government quota.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the intake capacity for the management quota?",
+    "answer": "15 seats are allocated for the management quota.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the curriculum and syllabus regulation followed by the program?",
+    "answer": "The curriculum and syllabus follow the 2021 Regulation.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the scope for lateral entry students?",
+    "answer": "The duration is three years for lateral entry students, comprising six semesters.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the eligibility for lateral entry students?",
+    "answer": "Eligibility for lateral entry students requires completion of the 10+2 system of education, and students must have secured a pass in Physics, Chemistry, and Mathematics in their qualifying examination.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the intake capacity for lateral entry students?",
+    "answer": "The total intake is 30 seats, divided equally with 15 for the government quota and 15 for the management quota.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the scope for higher studies after completing the program for lateral entry students?",
+    "answer": "The scope for higher studies includes pursuing an M.E., M.Tech, or M.B.A.",
+    "format": "factoid",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the role of the institution in transforming students into proficient Cyber Security Specialists?",
+    "answer": "The institution aims to be a center of excellence for transforming students into proficient Cyber Security Specialists through sustainable practices.",
+    "format": "exploratory",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the mission of the institution in imparting core fundamental knowledge and necessary skills in Cyber Security?",
+    "answer": "The mission involves imparting core fundamental knowledge and necessary skills in Cyber Security through innovative teaching and learning methodologies.",
+    "format": "exploratory",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are the key skills that graduates will be prepared with for their careers and for starting up their own firms?",
+    "answer": "Graduates will be prepared with managerial and leadership skills for their careers and for starting up their own firms.",
+    "format": "exploratory",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What is the role of the institution in cultivating students with all-around competencies for their careers, higher education, and self-employability?",
+    "answer": "The mission cultivates the students with all-around competencies for their careers, higher education, and self-employability.",
+    "format": "exploratory",
+    "section": "Computer Science and Engineering with Specialization in Cyber Security (CSCS) & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs)",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What sectors have high employment potential in the field of cybersecurity?",
+    "answer": "The sectors with high employment potential include IT and IT Services, Financial Services and Fintech, E-Commerce, Government and Defense, Telecommunications, and Cloud Services.",
+    "format": "factoid",
+    "section": "Sectors with High Employment Potential & Key Skills Required for Cyber security Roles & Cybersecurity Certifications & Learning Paths for Cyber security Careers",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What skills are required for network security roles?",
+    "answer": "Network security requires an understanding of TCP/IP, network protocols, firewalls, and proficiency in tools like Wireshark, nmap, and Snort.",
+    "format": "factoid",
+    "section": "Sectors with High Employment Potential & Key Skills Required for Cyber security Roles & Cybersecurity Certifications & Learning Paths for Cyber security Careers",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What skills are required for ethical hacking and penetration testing?",
+    "answer": "Ethical hacking and penetration testing involve skills to simulate cyberattacks and uncover vulnerabilities using Kali Linux, Metasploit, Burp Suite, Nessus, and Aircrack-ng.",
+    "format": "factoid",
+    "section": "Sectors with High Employment Potential & Key Skills Required for Cyber security Roles & Cybersecurity Certifications & Learning Paths for Cyber security Careers",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What skills are required for cloud security roles?",
+    "answer": "Cloud security demands knowledge of securing environments like AWS, Azure, and Google Cloud, along with IAM and encryption.",
+    "format": "factoid",
+    "section": "Sectors with High Employment Potential & Key Skills Required for Cyber security Roles & Cybersecurity Certifications & Learning Paths for Cyber security Careers",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What certifications can enhance credibility and job prospects in the field of cybersecurity?",
+    "answer": "Notable certifications include the Certified Ethical Hacker by EC-Council, the Certified Information Systems Security Professional by ISC2, the Certified Information Security Manager and the Certified Information Systems Auditor by ISACA, and CompTIA Security+.",
+    "format": "factoid",
+    "section": "Sectors with High Employment Potential & Key Skills Required for Cyber security Roles & Cybersecurity Certifications & Learning Paths for Cyber security Careers",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are the learning paths for cybersecurity careers?",
+    "answer": "For beginners, the focus is on network security basics, firewall setup, and vulnerability scanning, often pursuing certifications like CompTIA Security+ and CEH Foundation through online platforms. At the intermediate level, the focus shifts to advanced network security, cloud security, penetration testing, and risk management, targeting certifications like CISSP, CISM, and CCSP through more in-depth training resources. Advanced level professionals focus on ethical hacking, security management, and incident response, aiming for certifications like CISA and CPTE through specialized training from organizations like EC-Council, GIAC, and the SANS Institute.",
+    "format": "exploratory",
+    "section": "Sectors with High Employment Potential & Key Skills Required for Cyber security Roles & Cybersecurity Certifications & Learning Paths for Cyber security Careers",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are the key skills required for incident response and forensics?",
+    "answer": "Incident response and forensics require skills to detect, respond, and recover from breaches, using digital forensics tools.",
+    "format": "factoid",
+    "section": "Sectors with High Employment Potential & Key Skills Required for Cyber security Roles & Cybersecurity Certifications & Learning Paths for Cyber security Careers",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are the key skills required for data encryption and cryptography?",
+    "answer": "Data encryption and cryptography involve understanding encryption methods like AES, OpenSSL, and GPG to protect data.",
+    "format": "factoid",
+    "section": "Sectors with High Employment Potential & Key Skills Required for Cyber security Roles & Cybersecurity Certifications & Learning Paths for Cyber security Careers",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are the key skills required for risk management and compliance?",
+    "answer": "Risk management and compliance require evaluating potential risks and understanding frameworks like ISO 27001, GDPR, HIPAA, and PCI DSS.",
+    "format": "factoid",
+    "section": "Sectors with High Employment Potential & Key Skills Required for Cyber security Roles & Cybersecurity Certifications & Learning Paths for Cyber security Careers",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are the key skills required for security automation and scripting?",
+    "answer": "Security automation and scripting require knowledge of tools like Puppet or Ansible and languages like Python or Bash.",
+    "format": "factoid",
+    "section": "Sectors with High Employment Potential & Key Skills Required for Cyber security Roles & Cybersecurity Certifications & Learning Paths for Cyber security Careers",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are the key skills required for threat intelligence?",
+    "answer": "Threat intelligence involves analyzing and responding to emerging cyber threats.",
+    "format": "factoid",
+    "section": "Sectors with High Employment Potential & Key Skills Required for Cyber security Roles & Cybersecurity Certifications & Learning Paths for Cyber security Careers",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  },
+  {
+    "question": "What are the key skills required for security in IoT and mobile devices?",
+    "answer": "Understanding security in IoT and mobile devices is becoming increasingly important as these technologies become more pervasive.",
+    "format": "factoid",
+    "section": "Sectors with High Employment Potential & Key Skills Required for Cyber security Roles & Cybersecurity Certifications & Learning Paths for Cyber security Careers",
+    "source_file": "msajce_cyber.md",
+    "category": "Department — CS & Cyber Security"
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "question": "What is the duration of the B.E. in Electronics and Communication Engineering for regular students?",
+    "answer": "The duration is four years.",
+    "format": "factoid",
+    "section": "Electronics and Communication Engineering & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the total intake capacity for the B.E. in Electronics and Communication Engineering?",
+    "answer": "The total intake is 60 seats.",
+    "format": "factoid",
+    "section": "Electronics and Communication Engineering & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the eligibility requirements for the B.E. in Electronics and Communication Engineering?",
+    "answer": "Eligibility for the program requires completion of the 10+2 system of education, and students must have secured a pass in Physics, Chemistry, and Mathematics in their qualifying examination.",
+    "format": "factoid",
+    "section": "Electronics and Communication Engineering & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the career opportunities for graduates of the B.E. in Electronics and Communication Engineering?",
+    "answer": "Graduates have numerous career opportunities in companies such as Aagree Equipments Pvt. Ltd., Apps Daily Solution, O M Innovation Services, Road Map IT Solution, and Infoview.",
+    "format": "factoid",
+    "section": "Electronics and Communication Engineering & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the higher study options for graduates of the B.E. in Electronics and Communication Engineering?",
+    "answer": "The scope for higher studies includes pursuing an M.E., M.Tech., or M.B.A.",
+    "format": "factoid",
+    "section": "Electronics and Communication Engineering & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the vision of the Electronics and Communication Engineering program?",
+    "answer": "The vision is to be a center of excellence for transforming students into proficient Electronics and Communication Engineers through sustainable practices.",
+    "format": "exploratory",
+    "section": "Electronics and Communication Engineering & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the mission of the Electronics and Communication Engineering program?",
+    "answer": "The mission aims to impart core fundamental knowledge and necessary skills in Electronics and Communication Engineering through innovative teaching and learning methodologies.",
+    "format": "exploratory",
+    "section": "Electronics and Communication Engineering & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the Programme Educational Objectives (PEOs) of the B.E. in Electronics and Communication Engineering?",
+    "answer": "The Programme Educational Objectives state that graduates will be prepared for designing Electronics and Communication components and systems with creativity and sustainability.",
+    "format": "exploratory",
+    "section": "Electronics and Communication Engineering & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the Program Specific Outcomes (PSOs) of the B.E. in Electronics and Communication Engineering?",
+    "answer": "The Program Specific Outcomes emphasize that engineering graduates will be able to apply the acquired knowledge to analyze, develop, and test creative solutions for Electronics and Communication Systems and their applications.",
+    "format": "exploratory",
+    "section": "Electronics and Communication Engineering & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the curriculum and syllabus regulations followed by the B.E. in Electronics and Communication Engineering?",
+    "answer": "The curriculum and syllabus follow both the 2021 Regulation and the 2017 Regulation.",
+    "format": "factoid",
+    "section": "Electronics and Communication Engineering & 1. Overview & 2. Programme & 3. Vision & 4. Mission & 5. Programme Educational Objectives (PEOs) & 6. Program Specific Outcomes (PSOs)",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the expected growth rate of the Telecom sector for 5G and 6G from 2025 to 2030?",
+    "answer": "The Telecom sector is projected to grow by 10 to 12 percent per year.",
+    "format": "factoid",
+    "section": "Major Industry Drivers & Sector-Wise Job Growth Projections (2025 - 2030) & 9. Faculty & 10. Laboratory Facilities",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key areas of hiring in the Telecom sector for 5G and 6G?",
+    "answer": "Hiring in RF design, protocol testing, and antenna development.",
+    "format": "factoid",
+    "section": "Major Industry Drivers & Sector-Wise Job Growth Projections (2025 - 2030) & 9. Faculty & 10. Laboratory Facilities",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the growth rate of the Semiconductor and VLSI sector from 2025 to 2030?",
+    "answer": "The Semiconductor and VLSI sector will see a growth rate of 12 to 15 percent.",
+    "format": "factoid",
+    "section": "Major Industry Drivers & Sector-Wise Job Growth Projections (2025 - 2030) & 9. Faculty & 10. Laboratory Facilities",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key areas of hiring in the Embedded and IoT sector?",
+    "answer": "Hiring for C/ARM/RTOS, PCB, and sensor integration.",
+    "format": "factoid",
+    "section": "Major Industry Drivers & Sector-Wise Job Growth Projections (2025 - 2030) & 9. Faculty & 10. Laboratory Facilities",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the growth rate of the Aerospace and Defence sector from 2025 to 2030?",
+    "answer": "Aerospace and Defence will see a 6 to 8 percent growth rate.",
+    "format": "factoid",
+    "section": "Major Industry Drivers & Sector-Wise Job Growth Projections (2025 - 2030) & 9. Faculty & 10. Laboratory Facilities",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "Who is the Principal of the Electronics and Communication Engineering department?",
+    "answer": "Dr. K.S. Srinivasan.",
+    "format": "factoid",
+    "section": "Major Industry Drivers & Sector-Wise Job Growth Projections (2025 - 2030) & 9. Faculty & 10. Laboratory Facilities",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "Who is the Professor and Head of the Department of the Electronics and Communication Engineering department?",
+    "answer": "Dr. I. Manju.",
+    "format": "factoid",
+    "section": "Major Industry Drivers & Sector-Wise Job Growth Projections (2025 - 2030) & 9. Faculty & 10. Laboratory Facilities",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the facilities provided by the Communication Lab?",
+    "answer": "Courses like Communication System and Advanced Communication.",
+    "format": "factoid",
+    "section": "Major Industry Drivers & Sector-Wise Job Growth Projections (2025 - 2030) & 9. Faculty & 10. Laboratory Facilities",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the facilities provided by the DSP/VLSI Lab?",
+    "answer": "Digital Signal Processing, Networks Laboratory, and VLSI Design.",
+    "format": "factoid",
+    "section": "Major Industry Drivers & Sector-Wise Job Growth Projections (2025 - 2030) & 9. Faculty & 10. Laboratory Facilities",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the courses offered in the third semester?",
+    "answer": "The third semester includes Control Systems, Digital Systems Design, Electronic Devices and Circuits, Signals and Systems, C Programming and Data Structures, and Random Processes and Linear Algebra.",
+    "format": "factoid",
+    "section": "11. 2021 Regulation Course Materials & 12. Value Added Courses & 13. Innovation Teaching Methods",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the courses offered in the fourth semester?",
+    "answer": "The fourth semester covers Electromagnetic Fields, Networks and Security, Linear Integrated Circuits, Digital Signal Processing, Communication Systems, and Environmental Sciences and Sustainability.",
+    "format": "factoid",
+    "section": "11. 2021 Regulation Course Materials & 12. Value Added Courses & 13. Innovation Teaching Methods",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the courses offered in the fifth semester?",
+    "answer": "The fifth semester focuses on Wireless Communication, VLSI and Chip Design, Transmission Lines and RF Systems, Low Power IC Design, Image Processing, and Industrial IoT and Industry 4.0.",
+    "format": "factoid",
+    "section": "11. 2021 Regulation Course Materials & 12. Value Added Courses & 13. Innovation Teaching Methods",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the Value Added Courses offered in the 2019-2020 academic year?",
+    "answer": "The Value Added Courses offered in the 2019-2020 academic year include LABVIEW (45 hours), Embedded and IoT (45 hours), Introduction to IoT by CISCO (20 hours), Robotic Process Automation (20 hours), and Amazon AWS Beginners (35 hours).",
+    "format": "factoid",
+    "section": "11. 2021 Regulation Course Materials & 12. Value Added Courses & 13. Innovation Teaching Methods",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the Value Added Courses offered in the 2018-2019 academic year?",
+    "answer": "The Value Added Courses offered in the 2018-2019 academic year include PCB Design by EMB WARE, CCNA by CISCO, and JAVA/Python Programming.",
+    "format": "factoid",
+    "section": "11. 2021 Regulation Course Materials & 12. Value Added Courses & 13. Innovation Teaching Methods",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the Innovation Teaching Methods used in Low Power IC Design?",
+    "answer": "Role Play is used in Low Power IC Design.",
+    "format": "factoid",
+    "section": "11. 2021 Regulation Course Materials & 12. Value Added Courses & 13. Innovation Teaching Methods",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the Innovation Teaching Methods used in Signals and Systems?",
+    "answer": "Mind Maps are employed in Signals and Systems.",
+    "format": "factoid",
+    "section": "11. 2021 Regulation Course Materials & 12. Value Added Courses & 13. Innovation Teaching Methods",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the Innovation Teaching Methods used in Control Systems?",
+    "answer": "Group Projects enhance learning in Control Systems.",
+    "format": "factoid",
+    "section": "11. 2021 Regulation Course Materials & 12. Value Added Courses & 13. Innovation Teaching Methods",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the Innovation Teaching Methods used in Digital Systems Design?",
+    "answer": "Quizzes are utilized in Digital Systems Design.",
+    "format": "factoid",
+    "section": "11. 2021 Regulation Course Materials & 12. Value Added Courses & 13. Innovation Teaching Methods",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the Innovation Teaching Methods used in Digital Signal Processing?",
+    "answer": "Mini Projects are part of Digital Signal Processing.",
+    "format": "factoid",
+    "section": "11. 2021 Regulation Course Materials & 12. Value Added Courses & 13. Innovation Teaching Methods",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the Innovation Teaching Methods used in Medical Electronics?",
+    "answer": "Case Studies are applied in Medical Electronics.",
+    "format": "factoid",
+    "section": "11. 2021 Regulation Course Materials & 12. Value Added Courses & 13. Innovation Teaching Methods",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the Innovation Teaching Methods used in Lean Six Sigma?",
+    "answer": "Poster Presentations are used in Lean Six Sigma.",
+    "format": "factoid",
+    "section": "11. 2021 Regulation Course Materials & 12. Value Added Courses & 13. Innovation Teaching Methods",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the Innovation Teaching Methods used in Electromagnetic Fields?",
+    "answer": "ICT Enabled Learning is used in Electromagnetic Fields.",
+    "format": "factoid",
+    "section": "11. 2021 Regulation Course Materials & 12. Value Added Courses & 13. Innovation Teaching Methods",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the Innovation Teaching Methods used in Linear Integrated Circuits?",
+    "answer": "Virtual Lab Demos are used in Linear Integrated Circuits.",
+    "format": "factoid",
+    "section": "11. 2021 Regulation Course Materials & 12. Value Added Courses & 13. Innovation Teaching Methods",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the Innovation Teaching Methods used in Environmental Science?",
+    "answer": "Mistake-Led Teaching is used in Environmental Science.",
+    "format": "factoid",
+    "section": "11. 2021 Regulation Course Materials & 12. Value Added Courses & 13. Innovation Teaching Methods",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the Innovation Teaching Methods used in Adhoc and Wireless Sensor Networks?",
+    "answer": "Team Quizzes are used in Adhoc and Wireless Sensor Networks.",
+    "format": "factoid",
+    "section": "11. 2021 Regulation Course Materials & 12. Value Added Courses & 13. Innovation Teaching Methods",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the Programme Outcomes of the students in Mohamed Sathak A.J. College of Engineering?",
+    "answer": "The Programme Outcomes define the foundational abilities of the students, including Engineering Knowledge, Engineer and Society, Ethics, Individual and Team Work, Communication, Project Management and Finance, and Life-long Learning.",
+    "format": "exploratory",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles & Job Outlook (2025–2030)",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the definition of Engineering Knowledge?",
+    "answer": "Engineering knowledge requires applying mathematics, science, engineering fundamentals, and an engineering specialization to solve complex engineering problems.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles & Job Outlook (2025–2030)",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key aspects of Problem Analysis in Engineering Knowledge?",
+    "answer": "Problem analysis involves identifying, formulating, reviewing research literature, and analyzing complex engineering problems to reach substantiated conclusions.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles & Job Outlook (2025–2030)",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the role of Conducting Investigations in Engineering Knowledge?",
+    "answer": "Conducting investigations of complex problems requires using research-based knowledge and methods, including the design of experiments, analysis, and interpretation of data to provide valid conclusions.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles & Job Outlook (2025–2030)",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the importance of Modern Tool Usage in Engineering Knowledge?",
+    "answer": "Modern tool usage involves creating, selecting, and applying appropriate techniques, resources, and modern engineering and IT tools, including prediction and modeling, to complex engineering activities.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles & Job Outlook (2025–2030)",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key aspects of Ethics in Programme Outcomes?",
+    "answer": "Ethics involves applying ethical principles and committing to professional ethics, responsibilities, and norms of engineering practice.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles & Job Outlook (2025–2030)",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key aspects of Individual and Team Work in Programme Outcomes?",
+    "answer": "Individual and teamwork require functioning effectively as an individual, and as a member or leader in diverse teams and multidisciplinary settings.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles & Job Outlook (2025–2030)",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key aspects of Communication in Programme Outcomes?",
+    "answer": "Communication ensures the ability to communicate effectively on complex engineering activities with the engineering community and society at large.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles & Job Outlook (2025–2030)",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key aspects of Project Management and Finance in Programme Outcomes?",
+    "answer": "Project management and finance involve demonstrating knowledge and understanding of engineering and management principles.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles & Job Outlook (2025–2030)",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key aspects of Life-long Learning in Programme Outcomes?",
+    "answer": "Life-long learning recognizes the need for and the ability to engage in independent and life-long learning in the broadest context of technological change.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles & Job Outlook (2025–2030)",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the job opportunities for Electronics and Communication Engineers in India?",
+    "answer": "Job opportunities exist both in India and abroad across public and private sectors, including defense, space, and large research organizations, as well as industries and the public sector.",
+    "format": "exploratory",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles & Job Outlook (2025–2030)",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key organizations that employ Electronics and Communication Engineers?",
+    "answer": "Defense, space, and large research organizations, such as Railways, BSNL, the Electricity Board, BEL, HAL, ONGC, DRDO, ISRO, SAIL, and GAIL, provide job opportunities to Electronics and Communication Engineers.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles & Job Outlook (2025–2030)",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What are the key multinational companies that recruit Electronics and Communication Engineers?",
+    "answer": "Multinational companies under the IT sector, namely TCS, INFOSYS, CTS, HCL, WIPRO, ACCENTURE, IBM, and INTEL, are prominent recruiters.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles & Job Outlook (2025–2030)",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  },
+  {
+    "question": "What is the job outlook for Electronics and Communication Engineers in India from 2025-2030?",
+    "answer": "The employment opportunity forecast for the next five years in Electronics and Communication Engineering in India is highly positive, based on evolving technology trends, government initiatives, and global market forces.",
+    "format": "factoid",
+    "section": "7. Programme Outcomes (PO) & 8. Job Profiles & Job Outlook (2025–2030)",
+    "source_file": "msajce_ece.md",
+    "category": "Department — Electronics & Communication"
+  }
+]
