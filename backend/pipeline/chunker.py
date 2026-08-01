@@ -16,7 +16,7 @@ OVERLAP_MAX      = 100
 TABLE_MAX_SINGLE = 1800
 
 SECTION_HEADER_RE = re.compile(
-    r"^(?:\d+[\.\)]\s+)?[A-Z][A-Za-z\s&/,—–\-]{3,80}(?::|—|–)?\s*$"
+    r"^(?:#{1,6}\s+)?(?:\d+[\.\)]\s+)?[A-Z][A-Za-z\s&/,—–\-]{3,80}(?::|—|–)?\s*$"
 )
 SENTENCE_END_RE = re.compile(r"(?<=[.?!])\s+")
 

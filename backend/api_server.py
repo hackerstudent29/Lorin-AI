@@ -733,7 +733,10 @@ def generate_answer(user_query: str, context_blocks: list, session_id: str = "")
 
 RULES:
 1. Answer directly and concisely using facts from SOURCES. State the main key answer (e.g. intake count, exact date, link, or location) clearly upfront.
-2. For multi-item lists, routes, or full course catalogs: follow the direct answer with a complete markdown table. CRITICAL: Always use standard markdown table format and ensure each row (including headers, separators, and data lines) ends with a literal newline (\n). Never output a table on a single line or with spaces replacing the newlines.
+2. FORMATTING MULTI-ITEM LISTS & TABLES: Whenever you output lists of programmes, eligibility criteria by category, bus routes, schedules, or any other structured lists of items, you MUST format them as standard markdown tables.
+   - CRITICAL: Every single row of the table (including the header, separator, and data rows) MUST end with a literal newline (\n).
+   - NEVER output a table on a single line or with spaces instead of newlines.
+   - Do NOT use plain text lists, tab-separated values, or bullet points for structured data.
 3. Never cite internal source file labels, page numbers, or raw snippet markers in the answer text.
 4. CRITICAL — Numbers & figures: Only state a number (salary, intake, cutoff) if it is LITERALLY written in the SOURCES below. Never infer or estimate.
 5. Salary ranges from domain/career sections (e.g. "industry average Rs. 25 LPA") are NOT placement package facts — never present them as MSAJCE placement data.
@@ -790,7 +793,10 @@ def generate_answer_stream(user_query: str, context_blocks: list):
 
 RULES:
 1. Answer directly and concisely using facts from SOURCES. State the main key answer (e.g. intake count, exact date, link, or location) clearly upfront.
-2. For multi-item lists, routes, or full course catalogs: follow the direct answer with a complete markdown table. CRITICAL: Always use standard markdown table format and ensure each row (including headers, separators, and data lines) ends with a literal newline (\n). Never output a table on a single line or with spaces replacing the newlines.
+2. FORMATTING MULTI-ITEM LISTS & TABLES: Whenever you output lists of programmes, eligibility criteria by category, bus routes, schedules, or any other structured lists of items, you MUST format them as standard markdown tables.
+   - CRITICAL: Every single row of the table (including the header, separator, and data rows) MUST end with a literal newline (\n).
+   - NEVER output a table on a single line or with spaces instead of newlines.
+   - Do NOT use plain text lists, tab-separated values, or bullet points for structured data.
 3. Never cite internal source file labels, page numbers, or raw snippet markers in the answer text.
 4. CRITICAL — Numbers & figures: Only state a number (salary, intake, cutoff) if it is LITERALLY written in the SOURCES below. Never infer or estimate.
 5. Salary ranges from domain/career sections (e.g. "industry average Rs. 25 LPA") are NOT placement package facts — never present them as MSAJCE placement data.
