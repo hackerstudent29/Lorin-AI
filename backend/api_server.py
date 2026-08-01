@@ -194,6 +194,44 @@ def is_fee_query(query: str) -> bool:
     ]
     return any(re.search(pat, q) for pat in patterns)
 
+def redact_personal_phone_numbers(text: str) -> str:
+    """Redact personal 10-digit mobile numbers from retrieved text while preserving official office numbers."""
+    if not text:
+        return text
+    # Matches patterns like +91 98408 86992, +91-9840886992, 9840886992, 98408-86992, 98408 86992, etc.
+    # Pattern: optional +91, 91, or 0, followed by space/dash, then 10 digits (optionally split by space/dash)
+    pattern = re.compile(
+        r'(?:\+?91|0)?\s*[-–]?\s*\b([6-9]\d{4}\s*[-–]?\s*\d{5}|[6-9]\d{9}|[6-9]\d{2}\s*[-–]?\s*\d{3}\s*[-–]?\s*\d{4})\b'
+    )
+    def repl(match):
+        num = match.group(0)
+        # Clean spacing/symbols to check if it's the allowed college office helpline or landline
+        clean_num = re.sub(r'\s+|-', '', num)
+        # Allowed numbers: 9940004500, landline 27470021 (and ending in 23, 24, 25)
+        if '9940004500' in clean_num or '27470021' in clean_num or '27470023' in clean_num or '27470024' in clean_num or '27470025' in clean_num:
+            return num
+        return "[Phone number redacted for privacy. Contact college office: +91 99400 04500 / msajce.office@gmail.com]"
+    return pattern.sub(repl, text)
+
+def expand_query_abbreviations(query: str) -> str:
+    """Expand common shorthand terms and abbreviations to improve search recall."""
+    if not query:
+        return query
+    abbrev_map = {
+        r'\bclg\b': 'college',
+        r'\bclgs\b': 'colleges',
+        r'\bdept\b': 'department',
+        r'\bdepts\b': 'departments',
+        r'\badmsn\b': 'admission',
+        r'\badmsns\b': 'admissions',
+        r'\binfo\b': 'information',
+        r'\bfee\b': 'fees',
+    }
+    expanded = query
+    for pattern, replacement in abbrev_map.items():
+        expanded = re.sub(pattern, replacement, expanded, flags=re.IGNORECASE)
+    return expanded
+
 def seed_cache_entries():
     """Pre-populate query_cache with guaranteed correct answers for commonly failed queries."""
     try:
@@ -726,7 +764,7 @@ def generate_answer(user_query: str, context_blocks: list, session_id: str = "")
         label = f"[{category}" + (f" — {section}" if section and section != "Overview" else "") + "]"
         ctx_parts.append(f"{label}\n{blk['text']}")
     context_str = "\n\n---\n\n".join(ctx_parts)
-
+    logger.info(f"[LLM Prompt Debug] context_str: {context_str}")
     max_tok = _pick_max_tokens(user_query, context_blocks)
 
     system_prompt = f"""You are Lorin, the official AI assistant for Mohamed Sathak A.J. College of Engineering (MSAJCE), Chennai.
@@ -747,12 +785,13 @@ RULES:
 10. IMAGES & VISUAL MEDIA: If the user asks to see images, photos, or facilities, OR if image/media URLs (such as `.jpg`, `.png`, `.jpeg`, `.gif`) are present in the SOURCES for the requested topic (like sports, campus, labs, gym, events), you MUST include those image links in your answer formatted as markdown images: `![Image Description](image_url)` so they render visually in the chat!
 11. TRANSPORT QUERIES (COLLEGE BUS VS MTC BUS): When a user asks how to travel/reach the college from a specific area, or which bus goes to/passes through a specific stop:
     - You MUST prioritize and check the COLLEGE BUSES (AR 3, AR 4, N/3, AR 6, AR 7, AR 8, AR 9, AR 10, R 22) first.
-    - If a college bus route stops at or near that place, state the College Bus Route number, departure time, and driver contact info.
+    - If a college bus route stops at or near that place, state the College Bus Route number, departure time, and driver details (never personal phone numbers).
     - Mention MTC (public state transport) buses (such as 102, 105, 570, 221H, B19) only as secondary/alternative options.
     - NEVER suggest MTC state transport as the primary option if a college bus route is available for that location.
 12. STRICT GROUNDING ON STOPS & LOCATIONS: Never assume, infer, or hallucinate that a bus route passes through a location or stop unless that location/stop is EXPLICITLY listed in the SOURCES for that specific route. For example, if a route lists 'Adyar at 7:00 AM', do not claim it passes through 'Velachery' at 7:00 AM. Only mention routes that explicitly contain the user's requested stop/location in their route description in the SOURCES.
-13. COLLEGE BUS ROUTES FORMATTING: Whenever you output details of a college bus route (e.g., Route AR 3, Route AR 4, etc.) or stops/timings, you MUST format the list of stops and timings as a standard markdown table with columns like `| Stop / Landmark | Arrival Time |`. Do not describe the route stops in a paragraph, sentence, or simple list. Above the table, state the driver name, contact number, and start/departure details clearly.
-14. FEES / TUITION COST ENQUIRIES: Under NO circumstances should you disclose or output any specific tuition fee, hostel fee, transport fee, or exam fee figures or tables. If the user asks about fees, you MUST refuse to state any amounts and strictly redirect them to the Admission Department: +91 99400 04500 or Head of Admission Dr. K. P. Santhosh Nathan (+91 98408 86992 / ped.santhosh@msajce-edu.in).
+13. COLLEGE BUS ROUTES FORMATTING: Whenever you output details of a college bus route (e.g., Route AR 3, Route AR 4, etc.) or stops/timings, you MUST format the list of stops and timings as a standard markdown table with columns like `| Stop / Landmark | Arrival Time |`. Do not describe the route stops in a paragraph, sentence, or simple list. Above the table, state the driver name and start/departure details clearly. Do NOT output any personal phone number of the driver.
+14. FEES / TUITION COST ENQUIRIES: Under NO circumstances should you disclose or output any specific tuition fee, hostel fee, transport fee, or exam fee figures or tables. If the user asks about fees, you MUST refuse to state any amounts and strictly redirect them to the Admission Department (+91 99400 04500 / msajce.office@gmail.com) or Head of Admission Dr. K. P. Santhosh Nathan (ped.santhosh@msajce-edu.in).
+15. STRICT NO PERSONAL PHONE NUMBERS RULE: Under no circumstances are you allowed to output or disclose the personal phone number of any faculty member, coordinator, teacher, bus driver, or worker of the college (even if specifically requested). You MUST strictly hide personal phone numbers and only provide their official email address if available in the SOURCES, or direct the user to the official general college office phone (+91 99400 04500) and email (msajce.office@gmail.com).
 
 SOURCES:
 {context_str}
@@ -786,7 +825,7 @@ def generate_answer_stream(user_query: str, context_blocks: list):
         label = f"[{category}" + (f" — {section}" if section and section != "Overview" else "") + "]"
         ctx_parts.append(f"{label}\n{blk['text']}")
     context_str = "\n\n---\n\n".join(ctx_parts)
-
+    logger.info(f"[LLM Prompt Debug] context_str: {context_str}")
     max_tok = _pick_max_tokens(user_query, context_blocks)
 
     system_prompt = f"""You are Lorin, the official AI assistant for Mohamed Sathak A.J. College of Engineering (MSAJCE), Chennai.
@@ -807,12 +846,13 @@ RULES:
 10. IMAGES & VISUAL MEDIA: If the user asks to see images, photos, or facilities, OR if image/media URLs (such as `.jpg`, `.png`, `.jpeg`, `.gif`) are present in the SOURCES for the requested topic (like sports, campus, labs, gym, events), you MUST include those image links in your answer formatted as markdown images: `![Image Description](image_url)` so they render visually in the chat!
 11. TRANSPORT QUERIES (COLLEGE BUS VS MTC BUS): When a user asks how to travel/reach the college from a specific area, or which bus goes to/passes through a specific stop:
     - You MUST prioritize and check the COLLEGE BUSES (AR 3, AR 4, N/3, AR 6, AR 7, AR 8, AR 9, AR 10, R 22) first.
-    - If a college bus route stops at or near that place, state the College Bus Route number, departure time, and driver contact info.
+    - If a college bus route stops at or near that place, state the College Bus Route number, departure time, and driver details (never personal phone numbers).
     - Mention MTC (public state transport) buses (such as 102, 105, 570, 221H, B19) only as secondary/alternative options.
     - NEVER suggest MTC state transport as the primary option if a college bus route is available for that location.
 12. STRICT GROUNDING ON STOPS & LOCATIONS: Never assume, infer, or hallucinate that a bus route passes through a location or stop unless that location/stop is EXPLICITLY listed in the SOURCES for that specific route. For example, if a route lists 'Adyar at 7:00 AM', do not claim it passes through 'Velachery' at 7:00 AM. Only mention routes that explicitly contain the user's requested stop/location in their route description in the SOURCES.
-13. COLLEGE BUS ROUTES FORMATTING: Whenever you output details of a college bus route (e.g., Route AR 3, Route AR 4, etc.) or stops/timings, you MUST format the list of stops and timings as a standard markdown table with columns like `| Stop / Landmark | Arrival Time |`. Do not describe the route stops in a paragraph, sentence, or simple list. Above the table, state the driver name, contact number, and start/departure details clearly.
-14. FEES / TUITION COST ENQUIRIES: Under NO circumstances should you disclose or output any specific tuition fee, hostel fee, transport fee, or exam fee figures or tables. If the user asks about fees, you MUST refuse to state any amounts and strictly redirect them to the Admission Department: +91 99400 04500 or Head of Admission Dr. K. P. Santhosh Nathan (+91 98408 86992 / ped.santhosh@msajce-edu.in).
+13. COLLEGE BUS ROUTES FORMATTING: Whenever you output details of a college bus route (e.g., Route AR 3, Route AR 4, etc.) or stops/timings, you MUST format the list of stops and timings as a standard markdown table with columns like `| Stop / Landmark | Arrival Time |`. Do not describe the route stops in a paragraph, sentence, or simple list. Above the table, state the driver name and start/departure details clearly. Do NOT output any personal phone number of the driver.
+14. FEES / TUITION COST ENQUIRIES: Under NO circumstances should you disclose or output any specific tuition fee, hostel fee, transport fee, or exam fee figures or tables. If the user asks about fees, you MUST refuse to state any amounts and strictly redirect them to the Admission Department (+91 99400 04500 / msajce.office@gmail.com) or Head of Admission Dr. K. P. Santhosh Nathan (ped.santhosh@msajce-edu.in).
+15. STRICT NO PERSONAL PHONE NUMBERS RULE: Under no circumstances are you allowed to output or disclose the personal phone number of any faculty member, coordinator, teacher, bus driver, or worker of the college (even if specifically requested). You MUST strictly hide personal phone numbers and only provide their official email address if available in the SOURCES, or direct the user to the official general college office phone (+91 99400 04500) and email (msajce.office@gmail.com).
 
 SOURCES:
 {context_str}
@@ -1303,7 +1343,7 @@ def debug_rerank(req: DebugRerankRequest):
 @app.post("/api/chat")
 @limiter.limit("10/minute;25/day")
 def chat_endpoint(req: ChatRequest, request: Request):
-    user_query = req.message.strip()
+    user_query = expand_query_abbreviations(req.message.strip())
     if not user_query:
         raise HTTPException(400, "Query cannot be empty.")
 
@@ -1314,8 +1354,8 @@ def chat_endpoint(req: ChatRequest, request: Request):
             "For details regarding the fee structure (including tuition fees, hostel, transport, or exam fees), "
             "please contact our Admission Office directly:\n\n"
             "📞 **Admission Helpline:** +91 99400 04500 / 044 - 2747 0021\n"
-            "👤 **Head of Admission (Dr. K. P. Santhosh Nathan):** +91 98408 86992\n"
-            "✉️ **Email:** ped.santhosh@msajce-edu.in / msajce.office@gmail.com"
+            "👤 **Head of Admission (Dr. K. P. Santhosh Nathan):** ped.santhosh@msajce-edu.in\n"
+            "✉️ **Email:** msajce.office@gmail.com"
         )
         save_message(req.session_id, "user", user_query)
         msg_id = save_message(req.session_id, "assistant", ans, {"intent": "fee_redirection"})
@@ -1624,7 +1664,7 @@ def chat_endpoint(req: ChatRequest, request: Request):
         if idx >= len(payloads):
             continue
         payload = payloads[idx]
-        text = clean_chunk(payload.get("text", ""))
+        text = redact_personal_phone_numbers(clean_chunk(payload.get("text", "")))
         if not text or len(text) < 30:
             continue
         th = hashlib.md5(text.encode()).hexdigest()
