@@ -26,7 +26,7 @@
 - **Scholarships**: Pragati scholarship scheme for Girl Students (AICTE), Saksham scholarship scheme (AICTE), Merit cum based Scholarship for minority community (Ministry of Minority Affairs), Central Sector Scheme (MHRD), Financial Assistance for Education to the wards of Beedi, Mine, and Cine workers
 
 ## Locations & Transport Details
-- **Campus & Hostels**: MSAJCE Campus, Siruseri, Sholinganallur (Girls Hostel location - 5km from campus)
+- **Campus & Hostels**: MSAJCE Campus, Siruseri (Google Maps Directions: https://maps.app.goo.gl/nrTgXSwx1h76SjdSA), Sholinganallur (Girls Hostel location - 5km from campus)
 - **Transport Origins & Hubs**: Chennai Central Railway Station, Tambaram Railway Station, CMDA Bus station, CMBT, Broadway, T. Nagar, Uthiramerur, Moolakadai, MMDA School, ICF, Chunambedu, Manjambakkam, Ennore, Porur, Nemilichery
 - **MTC Bus Routes**: 221H, 102X, 102S, B19, 570S
 - **College Bus Routes**: AR 3, AR 4, Route N/3 (formerly AR 5), AR 6, AR 7, AR 8, AR 9, AR 10 (Also called R21), R 22

@@ -9,3 +9,12 @@ The Mohamed Sathak A.J. College of Engineering (**MSAJCE**), established on 5th 
 **MSAJCE** is located in a green, lush environment at the Siruseri IT Park, surrounded by over a hundred leading IT industries like TCS, CTS, Infosys, Intellect, FSS, and HCL. It offers state-of-the-art facilities with industry-collaborative technology centers. A qualified, experienced, and dedicated team of faculty members supports the students, while a well-defined academic process ensures smart learning. Students are involved in various research and industrial projects, industrial hackathons, and project competitions that help them gain competency-based learning. Professional societies, club activities, and student chapter activities enable innovative learning. A student exchange program is also available for cultural learning. 
 
 Furthermore, **MSAJCE** provides internships, industrial visits, guest lectures, and seminars or webinars by industrial experts to meet industrial expectations. **MSAJCE** features a communication language learning facility that offers training in English, German, and Japanese. Value-added courses and technology training are provided to bridge the gap between the institute and the industry. **MSAJCE** boasts a good placement record and provides robust support for higher education, helping students to become successful entrepreneurs.
+
+## 3. Campus Location & Google Maps
+Mohamed Sathak A.J. College of Engineering is located at:
+34, Rajiv Gandhi Salai (OMR), Inside SIPCOT IT Park, Siruseri, Egattur, Chennai, Tamil Nadu 603103, India.
+
+The college is situated within the Siruseri IT Park, making it easily accessible via the Old Mahabalipuram Road. Its precise coordinates are approximately **12°50'08.9"N 80°13'07.0"E**
+Plus Code: **R6P9+8C Egattur, Tamil Nadu**.
+
+Official Map Directions Link: [Mohamed Sathak A.J. College of Engineering on Google Maps](https://maps.app.goo.gl/nrTgXSwx1h76SjdSA)

@@ -25,7 +25,7 @@
 - **Student Clubs**: Various Cultural, Technical, and Extracurricular Clubs
 
 ## Locations
-- **Campuses**: Siruseri (Chennai)
+- **Campuses**: Siruseri, Chennai (Google Maps Directions: https://maps.app.goo.gl/nrTgXSwx1h76SjdSA)
 - **Ek Bharat Shreshtha Bharat (State Pairing)**: Tamil Nadu paired with Jammu and Kashmir (Gulmarg, Baramulla, Parihaspora, Pattan)
 
 ## Initiatives & Programs

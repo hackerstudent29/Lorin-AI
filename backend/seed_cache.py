@@ -11,6 +11,7 @@ if not db_url:
     exit(1)
 
 # Predefined answers for the 12 suggestion cards aligned with the frontend and enriched with details
+# STRICT RULE: No personal phone numbers are included. Wards must use emails or general office helpdesks.
 PREDEFINED_CACHE = [
     {
         "query": "What is the admission procedure, eligibility, and TNEA cutoff for B.E / B.Tech at MSAJCE?",
@@ -34,9 +35,9 @@ Wards must obtain the following minimum average marks in Mathematics, Physics, a
 
 ### 3. Admission Contacts
 For seat availability, counseling guidance, or application form queries, you can reach:
-*   👤 **Dr. K. P. Santhosh Nathan (Head of Admission):** +91 98408 86992
-*   📞 **Admission Helpline:** +91 99400 04500 / 044 - 2747 0021
-*   ✉️ **Email:** ped.santhosh@msajce-edu.in / msajce.office@gmail.com
+*   👤 **Head of Admission (Dr. K. P. Santhosh Nathan):** ped.santhosh@msajce-edu.in
+*   📞 **Admission Helpline:** +91 99400 04500 / 044 - 2747 0021 (Office Helpdesk)
+*   ✉️ **Email:** msajce.office@gmail.com (General Office)
 """,
         "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Under Graduate Programmes"}]
     },
@@ -119,13 +120,13 @@ The Training and Placement Cell at MSAJCE runs comprehensive training (aptitude,
 
 ### 2. Top Recruiting Corporate Partners
 MSAJCE graduates are regularly placed with leading technology and corporate firms:
-*   *TCS, Infosys, Wipro, CTS (Cognizant), Hexaware, IBM, L&T, Sutherland, Disonosys, Openwave, Preethi Engineering.*
+*   *TCS, Infosys, Wipro, CTS (Cognizant), Hexaware, IBM, L&T, Sutherland, Disenosys, Openwave, Preethi Engineering.*
 
 ### 3. Training & Placement Cell Contacts
 For placement drives, companies recruiting, or student queries:
-*   👤 **Mr. S.V. Vinodh (Placement Officer):** +91 99409 02255 / +91 89037 66391
+*   👤 **Mr. S.V. Vinodh (Placement Officer):** placement@msajce-edu.in
 *   👤 **Mr. Ajin Sijo John (Assistant Placement Officer)**
-*   ✉️ **Email:** placement@msajce-edu.in
+*   📞 **General Office Helpline:** +91 99400 04500 (For phone routing)
 """,
         "citations": [{"source": "msajce_placement.md", "page": "1", "section": "Overview"}]
     },
@@ -196,9 +197,11 @@ MSAJCE operates a fleet of **22 college buses**, one Tata ACE, and one Ambulance
 | **Route AR 10** | Porur | 6:25 AM | Kundrathur, Pallavaram, Chrompet, Tambaram, Camp Road, Medavakkam |
 | **Route R 22** | Nemilichery | 5:50 AM | Poonnamalle, Ramachandra Hospital, Porur, Kathipara, Velachery, Medavakkam |
 
-### 2. Transport Office Contacts
-*   👤 **Dr. K. P. Santhosh Nathan (Transport Convener):** +91 98408 86992
-*   👤 **Mr. A. Abdul Gafoor (Assistant Transport Convener):** +91 99403 19629
+*Note: Individual drivers' personal phone numbers are withheld for privacy reasons. For any urgent transport inquiries or coordinates, contact the General Office: +91 99400 04500.*
+
+### 2. Transport Office
+*   👤 **Transport Convener:** Dr. K. P. Santhosh Nathan (Email: ped.santhosh@msajce-edu.in)
+*   👤 **Assistant Transport Convener:** Mr. A. Abdul Gafoor
 """,
         "citations": [{"source": "msajce_transport.md", "page": "1", "section": "College Bus Facility"}]
     },
@@ -266,7 +269,13 @@ MSAJCE was established in **2001** by the Mohamed Sathak Trust, a pioneer in edu
 | **NBA Accreditation** | Key departments (Mechanical Engineering, Electronics & Communication) are accredited by the NBA |
 | **NIRF Participation** | Participates annually in the National Institutional Ranking Framework |
 
-### 3. Institutional Vision & Mission
+### 3. Campus Location
+*   **Address:** 34, Rajiv Gandhi Salai (OMR), Inside SIPCOT IT Park, Siruseri, Egattur, Chennai, Tamil Nadu 603103.
+*   **Precise Coordinates:** 12.8358° N, 80.2186° E (or 12°50'08.9"N 80°13'07.0"E)
+*   **Plus Code:** R6P9+8C Egattur, Tamil Nadu
+*   📍 **Google Maps Location:** [Mohamed Sathak A.J. College of Engineering on Google Maps](https://maps.app.goo.gl/nrTgXSwx1h76SjdSA)
+
+### 4. Institutional Vision & Mission
 *   **Vision:** To provide quality technical education and create engineers with high ethical standards and professional competence.
 *   **Mission:** To provide advanced learning infrastructure, nurture R&D activities, and inculcate moral values and leadership skills to make students productive members of society.
 """,
@@ -301,18 +310,20 @@ MSAJCE encourages active participation in athletic tournaments, technology group
 
 ### 1. Campus Address
 **Mohamed Sathak A.J. College of Engineering**
-34, Rajiv Gandhi Salai (OMR), 
-Siruseri IT Park, Siruseri, Chennai - 603103,
-Tamil Nadu, India.
+34, Rajiv Gandhi Salai (OMR), Inside SIPCOT IT Park, Siruseri, Egattur, Chennai, Tamil Nadu 603103, India.
+
+*   **Coordinates:** 12.8358° N, 80.2186° E (or 12°50'08.9"N 80°13'07.0"E)
+*   **Plus Code:** R6P9+8C Egattur, Tamil Nadu
+*   📍 **Google Maps Location:** [Mohamed Sathak A.J. College of Engineering on Google Maps](https://maps.app.goo.gl/nrTgXSwx1h76SjdSA)
 
 ### 2. Key Office Contacts
 
 | Department / Query | Phone Number / Contact | Email / Website |
 | :--- | :--- | :--- |
 | **Admission Helpline** | +91 99400 04500 | msajce.office@gmail.com |
-| **Head of Admission** | Dr. K. P. Santhosh Nathan (+91 98408 86992) | ped.santhosh@msajce-edu.in |
-| **Administrative Landline** | 044 - 2747 0021 / 23 / 24 / 25 | admin@msajce-edu.in |
-| **Placement Cell** | Mr. S.V. Vinodh (+91 99409 02255) | placement@msajce-edu.in |
+| **Head of Admission** | Dr. K. P. Santhosh Nathan | ped.santhosh@msajce-edu.in |
+| **Administrative Landline** | 044 - 2747 0021 / 23 / 24 / 25 / 26 / 0025 | admin@msajce-edu.in / msajce.office@gmail.com |
+| **Placement Cell** | Mr. S.V. Vinodh | placement@msajce-edu.in |
 | **Official Website** | — | [www.msajce-edu.in](https://www.msajce-edu.in) |
 """,
         "citations": [{"source": "msajce_about.md", "page": "1", "section": "Overview"}]

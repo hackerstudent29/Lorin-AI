@@ -26,7 +26,7 @@
 - **Ramanathan S.**: Software Engineer, B.Tech IT student (Class of 2027), Creator of Lorin AI Chatbot
 
 ## Locations
-- **Siruseri, Chennai**: Location of MSAJCE and SIPCOT IT Park
+- **Siruseri, Chennai**: Location of MSAJCE and SIPCOT IT Park (Google Maps Directions: https://maps.app.goo.gl/nrTgXSwx1h76SjdSA)
 - **Kilakarai, Ramanathapuram District, Tamil Nadu**: Location where Mohamed Sathak Trust was established
 
 ## Dates & Timeline
