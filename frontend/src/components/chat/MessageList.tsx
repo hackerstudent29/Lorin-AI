@@ -9,7 +9,7 @@ import {
   Trophy,
   PhoneCall,
   Award,
-  Coins,
+  Library,
 } from "lucide-react";
 import type { ChatMessage } from "@/types/chat";
 import { MessageBubble } from "./MessageBubble";
@@ -29,13 +29,13 @@ const SUGGESTIONS = [
     icon: GraduationCap,
     label: "Admission Guide",
     hint: "Cutoffs, eligibility, steps",
-    query: "What is the admission procedure, eligibility, TNEA cutoff, and fee structure for B.E / B.Tech at MSAJCE?",
+    query: "What is the admission procedure, eligibility, and TNEA cutoff for B.E / B.Tech at MSAJCE?",
   },
   {
-    icon: Coins,
-    label: "Tuition Fees",
-    hint: "Government vs MQ fees",
-    query: "What is the fee structure for B.E / B.Tech courses at MSAJCE?",
+    icon: Library,
+    label: "Central Library",
+    hint: "Books, resources, timings",
+    query: "Tell me about the Central Library facilities, books stack, and working hours at MSAJCE.",
   },
   {
     icon: BookOpen,

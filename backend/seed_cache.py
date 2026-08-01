@@ -24,32 +24,23 @@ PREDEFINED_CACHE = [
 *   **Government Quota (TNEA):** Admissions are handled through Tamil Nadu Engineering Admissions (TNEA) single-window counseling based on your +2 marks. Our Counseling Code is **1108**.
 *   **Management Quota:** Admissions are based on merit. You must have passed the HSC examination. Candidates can approach the college directly or book their seats online at [msajce-edu.in](https://www.msajce-edu.in).
 
-**3. Fee Structure (Per Year)**
-| Quota | Category | Tuition Fee (Rs.) |
-| :--- | :--- | :--- |
-| **Government Quota** | Non-Accredited | 50,000 |
-| | Accredited | 55,000 |
-| **Management Quota** | Non-Accredited | 85,000 |
-| | Accredited | 87,000 |
+**3. Fee Structure**
+For fee details and structure, please contact the Admission Department:
+*   📞 **Admission Helpline:** +91 99400 04500 / 044 - 2747 0021
+*   👤 **Head of Admission (Dr. K. P. Santhosh Nathan):** +91 98408 86992
+*   ✉️ **Email:** ped.santhosh@msajce-edu.in / msajce.office@gmail.com
 """,
         "citations": [{"source": "Admission Page", "page": "1", "section": "Admissions"}]
     },
     {
         "query": "What is the fee structure for B.E / B.Tech courses at MSAJCE?",
-        "answer": """**Tuition Fee Structure for B.E / B.Tech (Per Year)**
+        "answer": """For details regarding the B.E / B.Tech fee structure (including tuition fees, hostel, transport, or exam fees), please contact our Admission Office directly:
 
-The fee varies slightly depending on whether the specific course is NBA accredited and which quota you are admitted through.
-
-| Admission Quota | Course Accreditation | Tuition Fee (Rs. / Year) |
-| :--- | :--- | :--- |
-| **Government Quota (TNEA)** | Non-Accredited | 50,000 |
-| **Government Quota (TNEA)** | Accredited | 55,000 |
-| **Management Quota** | Non-Accredited | 85,000 |
-| **Management Quota** | Accredited | 87,000 |
-
-*Note: This does not include hostel, transport, or exam fees.*
+*   📞 **Admission Helpline:** +91 99400 04500 / 044 - 2747 0021
+*   👤 **Head of Admission (Dr. K. P. Santhosh Nathan):** +91 98408 86992
+*   ✉️ **Email:** ped.santhosh@msajce-edu.in / msajce.office@gmail.com
 """,
-        "citations": [{"source": "Fee Structure", "page": "1", "section": "Fees"}]
+        "citations": [{"source": "Admission Page", "page": "1", "section": "Admissions"}]
     },
     {
         "query": "List all UG and PG degree courses offered at Mohamed Sathak A.J. College of Engineering.",

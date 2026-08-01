@@ -179,6 +179,21 @@ def normalize_query_for_hash(query: str) -> str:
         return ""
     return query.strip().rstrip("?").rstrip(".").rstrip("!").strip().lower()
 
+def is_fee_query(query: str) -> bool:
+    """Check if the query is a fee-related enquiry."""
+    if not query:
+        return False
+    q = query.lower()
+    # Check for fee-related keywords with word boundaries to avoid false positives (e.g. feedback)
+    patterns = [
+        r'\bfe+s?\b',
+        r'\btuition\b',
+        r'\bcharges?\b',
+        r'\bexpenses?\b',
+        r'\bcosts?\b',
+    ]
+    return any(re.search(pat, q) for pat in patterns)
+
 def seed_cache_entries():
     """Pre-populate query_cache with guaranteed correct answers for commonly failed queries."""
     try:
@@ -717,13 +732,13 @@ def generate_answer(user_query: str, context_blocks: list, session_id: str = "")
     system_prompt = f"""You are Lorin, the official AI assistant for Mohamed Sathak A.J. College of Engineering (MSAJCE), Chennai.
 
 RULES:
-1. Answer directly and concisely using facts from SOURCES. State the main key answer (e.g. intake count, fee amount, exact date, link, or location) clearly upfront.
+1. Answer directly and concisely using facts from SOURCES. State the main key answer (e.g. intake count, exact date, link, or location) clearly upfront.
 2. For multi-item lists, routes, or full course catalogs: follow the direct answer with a complete markdown table. CRITICAL: Always use standard markdown table format and ensure each row (including headers, separators, and data lines) ends with a literal newline (\n). Never output a table on a single line or with spaces replacing the newlines.
 3. Never cite internal source file labels, page numbers, or raw snippet markers in the answer text.
-4. CRITICAL — Numbers & figures: Only state a number (salary, intake, cutoff, fee) if it is LITERALLY written in the SOURCES below. Never infer or estimate.
+4. CRITICAL — Numbers & figures: Only state a number (salary, intake, cutoff) if it is LITERALLY written in the SOURCES below. Never infer or estimate.
 5. Salary ranges from domain/career sections (e.g. "industry average Rs. 25 LPA") are NOT placement package facts — never present them as MSAJCE placement data.
 6. Missing info → "I couldn't find details about [topic] in college records. Contact: +91 99400 04500 or msajce.office@gmail.com."
-7. AMBIGUOUS QUERIES: If the user asks for a department-level item or position (e.g., "HOD name", "syllabus", "fees") without specifying the department, ask the user which department they are interested in (e.g., CSE, ECE, IT, AI&DS, AI&ML, Civil, Mech, EEE, CSBS) or provide a list of available department options. Never arbitrarily select a random department.
+7. AMBIGUOUS QUERIES: If the user asks for a department-level item or position (e.g., "HOD name", "syllabus") without specifying the department, ask the user which department they are interested in (e.g., CSE, ECE, IT, AI&DS, AI&ML, Civil, Mech, EEE, CSBS) or provide a list of available department options. Never arbitrarily select a random department.
 8. DEVELOPER & CREATOR ATTRIBUTION: If the user asks who created, built, or developed this chatbot, Lorin AI, Listen Zenify, ZenDrum Booking, or Zen Hostel, OR asks about "developer", "ram", "ramanathan", or "zendrum", identify **Ramanathan S.** (B.Tech IT, MSAJCE 2024-2028 batch) as the developer and ONLY tell them about Ramanathan. Do not confuse him with any other person. (Link: https://ramanathanportfolio.vercel.app)
 9. LINKS & URLS: Whenever a website link, official page URL, PDF download link, email address, or phone number is LITERALLY present in the SOURCES below, you MUST explicitly include the exact clickable link in your answer formatted as `[Link Title](https://...)` or plain URL. CRITICAL: Never invent, guess, or hallucinate links (such as LinkedIn profiles or external websites) that are NOT explicitly written in the SOURCES! If a link is not in the SOURCES, do not include a link.
 10. IMAGES & VISUAL MEDIA: If the user asks to see images, photos, or facilities, OR if image/media URLs (such as `.jpg`, `.png`, `.jpeg`, `.gif`) are present in the SOURCES for the requested topic (like sports, campus, labs, gym, events), you MUST include those image links in your answer formatted as markdown images: `![Image Description](image_url)` so they render visually in the chat!
@@ -734,6 +749,7 @@ RULES:
     - NEVER suggest MTC state transport as the primary option if a college bus route is available for that location.
 12. STRICT GROUNDING ON STOPS & LOCATIONS: Never assume, infer, or hallucinate that a bus route passes through a location or stop unless that location/stop is EXPLICITLY listed in the SOURCES for that specific route. For example, if a route lists 'Adyar at 7:00 AM', do not claim it passes through 'Velachery' at 7:00 AM. Only mention routes that explicitly contain the user's requested stop/location in their route description in the SOURCES.
 13. COLLEGE BUS ROUTES FORMATTING: Whenever you output details of a college bus route (e.g., Route AR 3, Route AR 4, etc.) or stops/timings, you MUST format the list of stops and timings as a standard markdown table with columns like `| Stop / Landmark | Arrival Time |`. Do not describe the route stops in a paragraph, sentence, or simple list. Above the table, state the driver name, contact number, and start/departure details clearly.
+14. FEES / TUITION COST ENQUIRIES: Under NO circumstances should you disclose or output any specific tuition fee, hostel fee, transport fee, or exam fee figures or tables. If the user asks about fees, you MUST refuse to state any amounts and strictly redirect them to the Admission Department: +91 99400 04500 or Head of Admission Dr. K. P. Santhosh Nathan (+91 98408 86992 / ped.santhosh@msajce-edu.in).
 
 SOURCES:
 {context_str}
@@ -773,13 +789,13 @@ def generate_answer_stream(user_query: str, context_blocks: list):
     system_prompt = f"""You are Lorin, the official AI assistant for Mohamed Sathak A.J. College of Engineering (MSAJCE), Chennai.
 
 RULES:
-1. Answer directly and concisely using facts from SOURCES. State the main key answer (e.g. intake count, fee amount, exact date, link, or location) clearly upfront.
+1. Answer directly and concisely using facts from SOURCES. State the main key answer (e.g. intake count, exact date, link, or location) clearly upfront.
 2. For multi-item lists, routes, or full course catalogs: follow the direct answer with a complete markdown table. CRITICAL: Always use standard markdown table format and ensure each row (including headers, separators, and data lines) ends with a literal newline (\n). Never output a table on a single line or with spaces replacing the newlines.
 3. Never cite internal source file labels, page numbers, or raw snippet markers in the answer text.
-4. CRITICAL — Numbers & figures: Only state a number (salary, intake, cutoff, fee) if it is LITERALLY written in the SOURCES below. Never infer or estimate.
+4. CRITICAL — Numbers & figures: Only state a number (salary, intake, cutoff) if it is LITERALLY written in the SOURCES below. Never infer or estimate.
 5. Salary ranges from domain/career sections (e.g. "industry average Rs. 25 LPA") are NOT placement package facts — never present them as MSAJCE placement data.
 6. Missing info → "I couldn't find details about [topic] in college records. Contact: +91 99400 04500 or msajce.office@gmail.com."
-7. AMBIGUOUS QUERIES: If the user asks for a department-level item or position (e.g., "HOD name", "syllabus", "fees") without specifying the department, ask the user which department they are interested in (e.g., CSE, ECE, IT, AI&DS, AI&ML, Civil, Mech, EEE, CSBS) or provide a list of available department options. Never arbitrarily select a random department.
+7. AMBIGUOUS QUERIES: If the user asks for a department-level item or position (e.g., "HOD name", "syllabus") without specifying the department, ask the user which department they are interested in (e.g., CSE, ECE, IT, AI&DS, AI&ML, Civil, Mech, EEE, CSBS) or provide a list of available department options. Never arbitrarily select a random department.
 8. DEVELOPER & CREATOR ATTRIBUTION: If the user asks who created, built, or developed this chatbot, Lorin AI, Listen Zenify, ZenDrum Booking, or Zen Hostel, OR asks about "developer", "ram", "ramanathan", or "zendrum", identify **Ramanathan S.** (B.Tech IT, MSAJCE 2024-2028 batch) as the developer and ONLY tell them about Ramanathan. Do not confuse him with any other person. (Link: https://ramanathanportfolio.vercel.app)
 9. LINKS & URLS: Whenever a website link, official page URL, PDF download link, email address, or phone number is LITERALLY present in the SOURCES below, you MUST explicitly include the exact clickable link in your answer formatted as `[Link Title](https://...)` or plain URL. CRITICAL: Never invent, guess, or hallucinate links (such as LinkedIn profiles or external websites) that are NOT explicitly written in the SOURCES! If a link is not in the SOURCES, do not include a link.
 10. IMAGES & VISUAL MEDIA: If the user asks to see images, photos, or facilities, OR if image/media URLs (such as `.jpg`, `.png`, `.jpeg`, `.gif`) are present in the SOURCES for the requested topic (like sports, campus, labs, gym, events), you MUST include those image links in your answer formatted as markdown images: `![Image Description](image_url)` so they render visually in the chat!
@@ -790,9 +806,7 @@ RULES:
     - NEVER suggest MTC state transport as the primary option if a college bus route is available for that location.
 12. STRICT GROUNDING ON STOPS & LOCATIONS: Never assume, infer, or hallucinate that a bus route passes through a location or stop unless that location/stop is EXPLICITLY listed in the SOURCES for that specific route. For example, if a route lists 'Adyar at 7:00 AM', do not claim it passes through 'Velachery' at 7:00 AM. Only mention routes that explicitly contain the user's requested stop/location in their route description in the SOURCES.
 13. COLLEGE BUS ROUTES FORMATTING: Whenever you output details of a college bus route (e.g., Route AR 3, Route AR 4, etc.) or stops/timings, you MUST format the list of stops and timings as a standard markdown table with columns like `| Stop / Landmark | Arrival Time |`. Do not describe the route stops in a paragraph, sentence, or simple list. Above the table, state the driver name, contact number, and start/departure details clearly.
-
-
-
+14. FEES / TUITION COST ENQUIRIES: Under NO circumstances should you disclose or output any specific tuition fee, hostel fee, transport fee, or exam fee figures or tables. If the user asks about fees, you MUST refuse to state any amounts and strictly redirect them to the Admission Department: +91 99400 04500 or Head of Admission Dr. K. P. Santhosh Nathan (+91 98408 86992 / ped.santhosh@msajce-edu.in).
 
 SOURCES:
 {context_str}
@@ -1286,6 +1300,28 @@ def chat_endpoint(req: ChatRequest, request: Request):
     user_query = req.message.strip()
     if not user_query:
         raise HTTPException(400, "Query cannot be empty.")
+
+    # ── Step 0: Direct Fee Interception ───────────────────────────────────────
+    if is_fee_query(user_query):
+        logger.info(f"[FeeInterceptor] Intercepted fee-related query: '{user_query[:60]}'")
+        ans = (
+            "For details regarding the fee structure (including tuition fees, hostel, transport, or exam fees), "
+            "please contact our Admission Office directly:\n\n"
+            "📞 **Admission Helpline:** +91 99400 04500 / 044 - 2747 0021\n"
+            "👤 **Head of Admission (Dr. K. P. Santhosh Nathan):** +91 98408 86992\n"
+            "✉️ **Email:** ped.santhosh@msajce-edu.in / msajce.office@gmail.com"
+        )
+        save_message(req.session_id, "user", user_query)
+        msg_id = save_message(req.session_id, "assistant", ans, {"intent": "fee_redirection"})
+        return ChatResponse(
+            answer=ans,
+            citations=[],
+            modelUsed="fee-interceptor",
+            isCached=False,
+            tokenUsage=TokenUsage(prompt_tokens=0, completion_tokens=0, total_tokens=0),
+            message_id=msg_id,
+            followups=[]
+        )
 
     # ── Step 0a: Exact Cache lookup (bypasses all LLM processing) ─────────────
     q_hash = hashlib.sha256(normalize_query_for_hash(user_query).encode()).hexdigest()
