@@ -25,12 +25,17 @@ export function ChatHeader({ onNewChat }: ChatHeaderProps) {
             M
           </div>
           <div className="flex flex-col leading-tight min-w-0">
-            <h1
-              className="font-serif-display text-sm sm:text-base font-semibold tracking-tight truncate"
-              style={{ color: "var(--foreground)" }}
-            >
-              MSAJCE Assistant
-            </h1>
+            <div className="flex items-center gap-1.5">
+              <h1
+                className="font-serif-display text-sm sm:text-base font-semibold tracking-tight truncate"
+                style={{ color: "var(--foreground)" }}
+              >
+                MSAJCE Assistant
+              </h1>
+              <span className="shrink-0 rounded-full px-2 py-0.5 text-[9px] font-extrabold tracking-wide uppercase border bg-amber-100/80 dark:bg-amber-950/40 text-amber-800 dark:text-amber-300 border-amber-200/60 dark:border-amber-900/30 shadow-2xs">
+                Code: 1301
+              </span>
+            </div>
             <span className="text-[10px] sm:text-[11px] font-medium hidden xs:block" style={{ color: "var(--muted-foreground)" }}>
               Your intelligent campus guide
             </span>
