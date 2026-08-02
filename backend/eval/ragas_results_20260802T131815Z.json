@@ -1,0 +1,117 @@
+{
+  "timestamp": "2026-08-02T13:18:15.123627Z",
+  "judge_model": "meta/llama-3.1-70b-instruct",
+  "aggregate": {
+    "mean_faithfulness": 0.2,
+    "mean_relevancy": 0.8,
+    "mean_correctness": 0.6,
+    "mean_latency_ms": 6746,
+    "total_questions": 5,
+    "successful": 5,
+    "errors": 0
+  },
+  "per_category": {
+    "Department — AI & Machine Learning": {
+      "count": 1,
+      "mean_faithfulness": 0.0,
+      "mean_relevancy": 1.0,
+      "mean_correctness": 1.0
+    },
+    "Transport & Bus Routes": {
+      "count": 1,
+      "mean_faithfulness": 1.0,
+      "mean_relevancy": 1.0,
+      "mean_correctness": 0.5
+    },
+    "Admission & Fees": {
+      "count": 1,
+      "mean_faithfulness": 0.0,
+      "mean_relevancy": 0.0,
+      "mean_correctness": 0.75
+    },
+    "General — MSAJCE": {
+      "count": 1,
+      "mean_faithfulness": 0.0,
+      "mean_relevancy": 1.0,
+      "mean_correctness": 0.75
+    },
+    "Department — Electronics & Communication": {
+      "count": 1,
+      "mean_faithfulness": 0.0,
+      "mean_relevancy": 1.0,
+      "mean_correctness": 0.0
+    }
+  },
+  "questions": [
+    {
+      "question": "What is the total sanctioned intake of seats for the B.E. Artificial Intelligence & Machine Learning program at MSAJCE?",
+      "expected_answer": "60 seats",
+      "generated_answer": "I found the intake count for the B.E. Artificial Intelligence & Machine Learning program at MSAJCE.\n\nThe total sanctioned intake of seats for the B.E. Artificial Intelligence & Machine Learning program at MSAJCE is **60**.\n\nFor more details about the program, contact: +91 99400 04500 or msajce.office@gmail.com.",
+      "category": "Department — AI & Machine Learning",
+      "num_citations": 1,
+      "latency_ms": 9860,
+      "faithfulness": 0.0,
+      "faithfulness_reason": "The answer provides a specific intake count of 60, which is not present in the given context.",
+      "relevancy": 1.0,
+      "relevancy_reason": "The answer directly and completely addresses the question by providing the exact total sanctioned intake of seats for the specified program.",
+      "correctness": 1.0,
+      "correctness_reason": "The generated answer captures all key facts from the expected answer, including the total sanctioned intake of seats for the B.E. Artificial Intelligence & Machine Learning program at MSAJCE."
+    },
+    {
+      "question": "What bus routes are available from MSAJCE?",
+      "expected_answer": "MSAJCE operates multiple bus routes (AR 1 through AR 9) covering areas like Chennai Central, Tambaram, Velachery, Chrompet, Pallavaram, and surrounding areas.",
+      "generated_answer": "**Available Bus Routes from MSAJCE:**\n\n### College Bus Facility\n\nMSAJCE operates 9 buses for the benefit of students and staff residing in and around the campus. The transport facility is available from various places in Chennai, Chengalpattu, Kanchipuram, and Thiruvallur districts to the institute on all working days.\n\n### List of College Bus Routes:\n\n| Route Number | Route Name | Driver Name | Departure Time |\n| --- | --- | --- | --- |\n| AR 3 | Uthiramerur to MSAJCE | Mr. Sathish K | 6:00 AM |\n| AR 4 | Moolakadai to MSAJCE | Mr. M. Suresh | 6:10 AM |\n| N/3 (formerly AR 5) | MMDA School to MSAJCE | Mr. Velu | 6:15 AM |\n| AR 6 | ICF to MSAJCE | Mr. B. Padmanaban | 6:15 AM |\n| AR 7 | Chunambedu to MSAJCE | Mr. Suresh | 5:25 AM |\n| AR 8 | Manjambakkam to MSAJCE | Mr. Raju | 5:50 AM |\n| AR 9 | Ennore to MSAJCE | Mr. Kanagaraj | 6:15 AM |\n| AR 10 (Also called R21) | Porur to MSAJCE | Mr. Ravindran | 6:25 AM |\n| R 22 | Nemilichery to MSAJCE | Mr. Jaffar | 5:50 AM |\n\nFor more details about bus routes, contact: +91 99400 04500 or msajce.office@gmail.com.",
+      "category": "Transport & Bus Routes",
+      "num_citations": 1,
+      "latency_ms": 8546,
+      "faithfulness": 1.0,
+      "faithfulness_reason": "The answer is entirely supported by the context, listing the available bus routes from MSAJCE with corresponding details.",
+      "relevancy": 1.0,
+      "relevancy_reason": "The answer directly and completely addresses the question by providing a detailed list of available bus routes from MSAJCE, including route numbers, names, driver names, and departure times.",
+      "correctness": 0.5,
+      "correctness_reason": "The generated answer captures some key facts, such as the availability of multiple bus routes, but misses important details like the specific areas covered (Chennai Central, Tambaram, Velachery, Chrompet, Pallavaram, and surrounding areas) and only lists the routes without providing a comprehensive overview."
+    },
+    {
+      "question": "What are the admission fees for CSE at MSAJCE?",
+      "expected_answer": "The tuition fee for B.E Computer Science Engineering at MSAJCE is specified in the admission brochure. Please contact the admission office for exact fee details.",
+      "generated_answer": "For details regarding the fee structure (including tuition fees, hostel, transport, or exam fees), please contact our Admission Office directly:\n\n📞 **Admission Helpline:** +91 99400 04500 / 044 - 2747 0021\n👤 **Head of Admission (Dr. K. P. Santhosh Nathan):** ped.santhosh@msajce-edu.in\n✉️ **Email:** msajce.office@gmail.com",
+      "category": "Admission & Fees",
+      "num_citations": 0,
+      "latency_ms": 905,
+      "faithfulness": 0.0,
+      "faithfulness_reason": "The answer is entirely hallucinated with no basis in the context, as no context was provided and the answer contains unrelated contact information.",
+      "relevancy": 0.0,
+      "relevancy_reason": "The answer is completely irrelevant to the question as it does not provide any information about the admission fees for CSE at MSAJCE, instead directing the user to contact the Admission Office.",
+      "correctness": 0.75,
+      "correctness_reason": "The generated answer captures most key facts, but does not explicitly mention the tuition fee for B.E Computer Science Engineering, instead providing general contact information for fee details."
+    },
+    {
+      "question": "What is the main goal of the Technology Centres at MSAJCE?",
+      "expected_answer": "The main goal of these centers is to align engineering students with emerging industry demands, AICTE recommendations, and India Skill Report guidelines.",
+      "generated_answer": "The main goal of the Technology Centres at MSAJCE is to equip students with multi-disciplinary skills, in addition to their core domain expertise, making them deployable in the job market. These centres aim to bridge the skill gap between students and employer expectations by providing training in areas of interest, without disrupting the regular academic schedule.\n\nAt MSAJCE, the Technology Centres operate within regular college hours, allowing students to pursue training in various niche technologies, such as automation, artificial intelligence, data science, and more. The centres are collaborated with industry or government organizations to provide certifications, onsite or offsite projects, and internships, making students industry-ready upon graduation.",
+      "category": "General — MSAJCE",
+      "num_citations": 6,
+      "latency_ms": 6890,
+      "faithfulness": 0.0,
+      "faithfulness_reason": "The answer is entirely hallucinated with no basis in the context, as the provided context does not mention the main goal of the Technology Centres at MSAJCE or any related information.",
+      "relevancy": 1.0,
+      "relevancy_reason": "The answer directly and completely addresses the question, clearly stating the main goal of the Technology Centres at MSAJCE and providing relevant details about their objectives and operations.",
+      "correctness": 0.75,
+      "correctness_reason": "The generated answer captures most key facts, but omits explicit mention of aligning with AICTE recommendations and India Skill Report guidelines, while still conveying the goal of bridging the skill gap and making students industry-ready."
+    },
+    {
+      "question": "What is the intake for ECE department at MSAJCE?",
+      "expected_answer": "The intake for Electronics and Communication Engineering (ECE) at MSAJCE is specified in the AICTE approved seats. Check the admission office for current intake.",
+      "generated_answer": "The intake for the B.E. in Electronics and Communication Engineering (ECE) department at MSAJCE is 60 seats, divided equally with 30 for the government quota and 30 for the management quota.",
+      "category": "Department — Electronics & Communication",
+      "num_citations": 3,
+      "latency_ms": 7530,
+      "faithfulness": 0.0,
+      "faithfulness_reason": "The answer provides specific intake numbers and quota details, but the context does not contain this information.",
+      "relevancy": 1.0,
+      "relevancy_reason": "The answer directly and completely addresses the question by providing the specific intake for the ECE department at MSAJCE.",
+      "correctness": 0.0,
+      "correctness_reason": "The generated answer provides specific numbers, but the expected answer explicitly states to check the admission office for current intake, implying that the numbers may not be fixed or up-to-date."
+    }
+  ]
+}
