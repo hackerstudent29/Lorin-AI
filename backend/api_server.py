@@ -440,7 +440,7 @@ All postgraduate courses are approved by AICTE and affiliated to Anna University
         "answer": """Mohamed Sathak A.J. College of Engineering (MSAJCE) admission details:
 
 ### 📝 Admission Procedure
-- **Counselling Route (50% Seats)**: Candidates who have completed HSC (Academic/Vocational) or Diploma can apply through the **TNEA (Tamil Nadu Engineering Admissions)** counselling process conducted by DOTE. Anna University Counselling Code: **4962**.
+- **Counselling Route (50% Seats)**: Candidates who have completed HSC (Academic/Vocational) or Diploma can apply through the **TNEA (Tamil Nadu Engineering Admissions)** counselling process conducted by DOTE. Anna University Counselling Code: **1301**.
 - **Management Route (50% Seats)**: Candidates can apply directly under the Management Quota based on merit in qualifying marks.
 - **NRI Admissions (5%)**: 5% of sanctioned seats are reserved under the NRI category. Unfilled NRI seats are allocated to general candidates on merit.
 - **Contact Admissions**: For admission queries, contact the general office helpline at **+91 99400 04500** or via email at **msajce.office@gmail.com**. You can also reach out to Physical Education Director Dr. K.P. Santhosh Nathan (ped.santhosh@msajce-edu.in) or Principal Dr. K.S. Srinivasan (principal@msajce-edu.in).
