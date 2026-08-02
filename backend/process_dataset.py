@@ -457,6 +457,20 @@ def run():
         vectors_config=VectorParams(size=VECTOR_DIM, distance=Distance.COSINE),
     )
 
+    # Create payload indexes required for integer filtering and scrolling (Req 2.9, 3.1)
+    from qdrant_client.models import PayloadSchemaType
+    print("[INFO] Creating payload indexes for chunk_index and parent_id...")
+    qdrant_client.create_payload_index(
+        collection_name=COLLECTION_NAME,
+        field_name="chunk_index",
+        field_schema=PayloadSchemaType.INTEGER,
+    )
+    qdrant_client.create_payload_index(
+        collection_name=COLLECTION_NAME,
+        field_name="parent_id",
+        field_schema=PayloadSchemaType.KEYWORD,
+    )
+
     conn = psycopg2.connect(DATABASE_URL)
     conn.autocommit = True
     cursor = conn.cursor()

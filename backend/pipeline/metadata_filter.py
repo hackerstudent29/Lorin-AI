@@ -35,7 +35,7 @@ class MetadataFilter:
         # Validate category against known list
         try:
             from rag_config import CATEGORY_LIST
-            if category not in CATEGORY_LIST:
+            if category and category not in CATEGORY_LIST:
                 logger.warning(
                     f"[MetadataFilter] Unknown category '{category}', skipping filter"
                 )

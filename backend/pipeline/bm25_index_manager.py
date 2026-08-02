@@ -163,12 +163,16 @@ class BM25IndexManager:
                 continue
             candidate_indices.append(idx)
 
-        # Fallback to unfiltered only when 0 hits were found (Req 2.3, 2.6)
+        # Fallback to unfiltered only when 0 hits were found AND no strict source_file routing
         if (category or entity_id or source_file) and len(candidate_indices) == 0:
-            logger.warning(
-                f"[BM25] Filtered search returned 0 hits, falling back to unfiltered search"
-            )
-            candidate_indices = [idx for idx, score in enumerate(scores) if score > 0]
+            if source_file:
+                # STRICT: Never fallback to unfiltered when source_file is explicitly set
+                logger.info(f"[BM25] source_file='{source_file}' returned 0 BM25 hits (OK — dense search will handle it)")
+            else:
+                logger.warning(
+                    f"[BM25] Filtered search returned 0 hits, falling back to unfiltered search"
+                )
+                candidate_indices = [idx for idx, score in enumerate(scores) if score > 0]
 
         # Sort by descending score
         ranked_idx = sorted(candidate_indices, key=lambda i: scores[i], reverse=True)[:top_k]

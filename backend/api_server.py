@@ -68,8 +68,13 @@ RULES:
     - If a college bus route stops at or near that place, state the College Bus Route number, departure time, and driver details (never personal phone numbers).
     - Mention MTC (public state transport) buses (such as 102, 105, 570, 221H, B19) only as secondary/alternative options.
     - NEVER suggest MTC state transport as the primary option if a college bus route is available for that location.
-12. STRICT GROUNDING ON STOPS & LOCATIONS: Never assume, infer, or hallucinate that a bus route passes through a location or stop unless that location/stop is EXPLICITLY listed in the SOURCES for that specific route. For example, if a route lists 'Adyar at 7:00 AM', do not claim it passes through 'Velachery' at 7:00 AM. Only mention routes that explicitly contain the user's requested stop/location in their route description in the SOURCES. IF THE REQUESTED LOCATION (e.g. 'Pallikaranai') IS NOT EXPLICITLY LISTED IN ANY BUS ROUTE IN THE SOURCES, YOU MUST DECLARE: "I couldn't find a direct college bus route for [Location]." Do not suggest nearby routes unless you explicitly state they do not go there.
+12. STRICT GROUNDING ON STOPS & LOCATIONS: Never assume, infer, or hallucinate that a bus route passes through a location or stop unless that location/stop is EXPLICITLY listed in the SOURCES for that specific route (substring matches like 'Velachery Check Post' or 'Velachery Bypass' matching 'Velachery' are completely valid college bus stops; you should list them as college bus routes). For example, if a route lists 'Adyar at 7:00 AM', do not claim it passes through 'Velachery' at 7:00 AM. Only mention routes that explicitly contain the user's requested stop/location (or a close substring/variant like Check Post) in their route description in the SOURCES. IF THE REQUESTED LOCATION (e.g. 'Guindy Station') IS NOT EXPLICITLY LISTED IN ANY BUS ROUTE IN THE SOURCES, YOU MUST DECLARE: "I couldn't find a direct college bus route for [Location]." Do not suggest nearby routes unless you explicitly state they do not go there.
 13. COLLEGE BUS ROUTES FORMATTING: Whenever you output details of a college bus route (e.g., Route AR 3, Route AR 4, etc.) or stops/timings, you MUST format the list of stops and timings as a standard markdown table with columns like `| Stop / Landmark | Arrival Time |`. Do not describe the route stops in a paragraph, sentence, or simple list. Above the table, state the driver name and start/departure details clearly. Do NOT output any personal phone number of the driver.
+    EXAMPLE:
+    | Stop / Landmark | Arrival Time |
+    |---|---|
+    | Ennore | 6:15 AM |
+    | Mint | 6:20 AM |
 14. FEES / TUITION COST ENQUIRIES: Under NO circumstances should you disclose or output any specific tuition fee, hostel fee, transport fee, or exam fee figures or tables. If the user asks about fees, you MUST refuse to state any amounts and strictly redirect them to the Admission Department (+91 99400 04500 / msajce.office@gmail.com) or Head of Admission Dr. K. P. Santhosh Nathan (ped.santhosh@msajce-edu.in).
 15. STRICT NO PERSONAL PHONE NUMBERS RULE: Under no circumstances are you allowed to output or disclose the personal phone number of any faculty member, coordinator, teacher, bus driver, or worker of the college (even if specifically requested). You MUST strictly hide personal phone numbers and only provide their official email address if available in the SOURCES, or direct the user to the official general college office phone (+91 99400 04500) and email (msajce.office@gmail.com).
 16. COURSES OFFERED BY MSAJCE: If the user asks for the list of courses or programmes offered by the college (UG/undergraduate or PG/postgraduate/ME/Master of Engineering):
@@ -81,7 +86,7 @@ RULES:
       - MSAJCE offers exactly 2 M.E. courses: M.E. in Computer Science and Engineering, and M.E. in Structural Engineering. It also offers Master of Architecture (M.Arch) at the PG level.
       - MSAJCE offers exactly 1 Ph.D. research programme: Ph.D. in Mechanical Engineering.
     - Only output information about these specific courses when asked about courses offered by MSAJCE. Do not list any other hallucinated or general courses.
-17. ORTHOGRAPHIC SPELLING CONFUSION: Vepery (North Chennai) and Velachery (South Chennai) are completely different places. Route AR 4 goes to Vepery. Do not mix them up. For Velachery, only refer to routes that explicitly list Velachery (like N/3 or R 22 or MTC buses).
+17. ORTHOGRAPHIC SPELLING CONFUSION: Vepery (North Chennai) and Velachery (South Chennai) are completely different places. Route AR 4 goes to Vepery. Do not mix them up. For Velachery, only refer to routes that explicitly list Velachery (such as College Bus Routes N/3 and R 22, or MTC public buses). Similarly, Pallikarani and Pallikaranai are the same place; Route AR 8 passes through Pallikarani, so treat it as a valid match.
 
 CRITICAL INSTRUCTION: You MUST use Markdown Tables (`| Col 1 | Col 2 |`) for ANY list, including lists of buses that go to a specific location (e.g. `| Bus Route | Departure |`). Under NO circumstances use bullet points or plain text lists for structured data.
 
@@ -1478,6 +1483,7 @@ NOISE_RE = re.compile('|'.join(NOISE_PATTERNS), re.DOTALL | re.IGNORECASE)
 
 def clean_chunk(text: str) -> str:
     text = NOISE_RE.sub('', text)
+    text = re.sub(r'<!--ent_\d+-->', '', text)  # Strip entity tags (internal metadata)
     text = re.sub(r'\n{3,}', '\n\n', text)
     return text.strip()
 
@@ -2817,6 +2823,16 @@ def chat_endpoint(req: ChatRequest, request: Request):
         )
 
     # ── Guidance query: career advice + general knowledge + MSAJCE context ────
+    # Override: transport/bus queries misclassified as guidance_query must go through college_query path
+    transport_kw_check = [
+        "bus", "route", "stop", "timing", "transport", "travel", "driver",
+        "velachery", "guindy", "tambaram", "adyar", "ennore", "porur",
+        "sholinganallur", "kelambakkam", "broadway", "central",
+    ]
+    if intent == "guidance_query" and any(k in active_query.lower() for k in transport_kw_check):
+        logger.info(f"[Intent Override] Forcing guidance_query → college_query for transport query: '{active_query[:50]}'")
+        intent = "college_query"
+
     if intent == "guidance_query":
         # Still retrieve MSAJCE-relevant chunks to supplement the answer
         try:
@@ -2858,7 +2874,8 @@ def chat_endpoint(req: ChatRequest, request: Request):
             followups = fut_foll.result()
             
         answer = clean_links(answer)
-        redacted_ans = redact_personal_phone_numbers(answer)
+        redacted_ans = re.sub(r'<!--ent_\d+-->', '', answer)  # Strip leaked entity tags
+        redacted_ans = redact_personal_phone_numbers(redacted_ans)
         msg_id = save_message(req.session_id, "assistant", redacted_ans, {"intent": "guidance_query", "followups": followups})
 
         total_p = p_usage.get("prompt_tokens",0) + g_usage.get("prompt_tokens",0)
@@ -2880,12 +2897,14 @@ def chat_endpoint(req: ChatRequest, request: Request):
     # Transport Query Booster: If user asks about buses, routes, timings, or Chennai stops, force category to null & enrich search terms
     transport_keywords = [
         "bus", "route", "stop", "timing", "velachery", "guindy", "kathipara", "tharamani", "medavakkam", 
-        "pallikaranai", "thoraipakkam", "ennore", "porur", "nemilichery", "uthiramerur", "moolakadai", 
+        "pallikaranai", "pallikarani", "thoraipakkam", "ennore", "porur", "nemilichery", "uthiramerur", "moolakadai", 
         "icf", "chunambedu", "tambaram", "adyar", "saidapet", "broadway", "central", "parrys", 
         "perambur", "retteri", "padi", "ashok pillar", "poonnamalle", "sholinganallur", "kelambakkam", 
         "sipcot", "maraimalai nagar", "guduvanchery", "perungalathur", "vandalur", "chrompet", 
         "pallavaram", "thiruvanmiyur", "neelankarai", "akkarai", "perumpakkam", "kilkattalai", 
-        "madipakkam", "kovilampakkam", "transport", "travel"
+        "madipakkam", "kovilampakkam", "transport", "travel", "driver", "ar3", "ar4", "ar5", "ar6", 
+        "ar7", "ar8", "ar9", "ar10", "r21", "r22", "n/3", "n3", "ar 3", "ar 4", "ar 5", "ar 6", 
+        "ar 7", "ar 8", "ar 9", "ar 10", "r 21", "r 22"
     ]
     if any(k in active_query.lower() for k in transport_keywords):
         # Do NOT set category="Transport" because it causes 0 hits if the DB payload doesn't perfectly match,
@@ -2911,6 +2930,9 @@ def chat_endpoint(req: ChatRequest, request: Request):
             raise RuntimeError("HybridRetriever not initialised")
         candidates = hybrid_retriever.retrieve(retrieval_query, keywords, category, entity_id, q_vec=q_vec, source_file=source_file)
         candidates = [c for c in candidates if c.get("payload", {}).get("source_file") != "msajce_all_resource_links.md"]
+        # Hard post-filter: when source_file routing is active, strip any non-matching chunks that leaked through BM25/dense fusion
+        if source_file:
+            candidates = [c for c in candidates if c.get("payload", {}).get("source_file") == source_file]
 
         passages   = [c["text"] for c in candidates]
         payloads   = [c["payload"] for c in candidates]
@@ -3094,7 +3116,8 @@ def chat_endpoint(req: ChatRequest, request: Request):
                 total_p = p_usage.get("prompt_tokens",0) + g_usage.get("prompt_tokens",0)
                 total_c = p_usage.get("completion_tokens",0) + g_usage.get("completion_tokens",0)
                 
-                redacted_ans = redact_personal_phone_numbers(answer_text)
+                redacted_ans = re.sub(r'<!--ent_\d+-->', '', answer_text)  # Strip leaked entity tags
+                redacted_ans = redact_personal_phone_numbers(redacted_ans)
                 msg_id_val = save_message(req.session_id, "assistant", redacted_ans, trace, prompt_tokens=total_p, completion_tokens=total_c, citations=citations_list)
                 
                 # Cache it
@@ -3179,7 +3202,8 @@ def chat_endpoint(req: ChatRequest, request: Request):
     if not top or answer == faithfulness_checker.fallback_message:
         citations_list = []
 
-    redacted_ans = redact_personal_phone_numbers(answer)
+    redacted_ans = re.sub(r'<!--ent_\d+-->', '', answer)  # Strip leaked entity tags
+    redacted_ans = redact_personal_phone_numbers(redacted_ans)
     msg_id = save_message(req.session_id, "assistant", redacted_ans, trace, prompt_tokens=total_p, completion_tokens=total_c, citations=citations_list)
 
     # ── Step 8: Cache result ──────────────────────────────────────────────────
