@@ -58,6 +58,24 @@ try:
 except Exception as e:
     pass
 
+try:
+    qdrant_client.create_payload_index(
+        collection_name=COLLECTION_NAME,
+        field_name="category",
+        field_schema="keyword"
+    )
+except Exception as e:
+    pass
+
+try:
+    qdrant_client.create_payload_index(
+        collection_name=COLLECTION_NAME,
+        field_name="entity_ids",
+        field_schema="keyword"
+    )
+except Exception as e:
+    pass
+
 # ── Initialise pipeline components at startup ─────────────────────────────────
 def _make_embed_fn():
     def embed(text: str) -> list:
@@ -136,6 +154,170 @@ Plus Architecture and Design programmes.""",
         "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Programmes Offered"}],
     },
     {
+        "query": "list all the ug courses offered by the college",
+        "answer": """Mohamed Sathak A.J. College of Engineering (MSAJCE) offers the following 12 B.E./B.Tech undergraduate courses, plus Architecture and Design programmes:
+
+## 🎓 Undergraduate (UG) Programmes
+
+| Programme | Total Sanctioned Intake | Govt Quota | Management Quota |
+| :--- | :--- | :--- | :--- |
+| **B.E. in Civil Engineering** | 30 | 15 | 15 |
+| **B.E. in Computer Science and Engineering** | 60 | 30 | 30 |
+| **B.E. in Electronics and Communication Engineering** | 60 | 30 | 30 |
+| **B.E. in Electrical and Electronics Engineering** | 30 | 15 | 15 |
+| **B.E. in Mechanical Engineering** | 30 | 15 | 15 |
+| **B.Tech. in Information Technology** | 60 | 30 | 30 |
+| **B.Tech. in Artificial Intelligence and Data Science** | 60 | 30 | 30 |
+| **B.Tech. in Computer Science and Business Systems** | 30 | 15 | 15 |
+| **B.E. in Computer Science and Engineering (Cyber Security)** | 30 | 15 | 15 |
+| **B.Tech. in Artificial Intelligence and Machine Learning** | 60 | 30 | 30 |
+| **B.E. in Electronics Engineering (VLSI Design and Technology)** | 30 | 15 | 15 |
+| **B.E. in ECE (Advanced Communication Technology)** | 30 | 15 | 15 |
+| **Bachelor of Architecture (B.Arch)** | 40 | 20 | 20 |
+| **Bachelor of Design (B.Des)** | 30 | 15 | 15 |
+
+All undergraduate courses are approved by AICTE and affiliated to Anna University, Chennai.""",
+        "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Programmes Offered"}],
+    },
+    {
+        "query": "list the ug courses offered by the college",
+        "answer": """Mohamed Sathak A.J. College of Engineering (MSAJCE) offers the following 12 B.E./B.Tech undergraduate courses, plus Architecture and Design programmes:
+
+## 🎓 Undergraduate (UG) Programmes
+
+| Programme | Total Sanctioned Intake | Govt Quota | Management Quota |
+| :--- | :--- | :--- | :--- |
+| **B.E. in Civil Engineering** | 30 | 15 | 15 |
+| **B.E. in Computer Science and Engineering** | 60 | 30 | 30 |
+| **B.E. in Electronics and Communication Engineering** | 60 | 30 | 30 |
+| **B.E. in Electrical and Electronics Engineering** | 30 | 15 | 15 |
+| **B.E. in Mechanical Engineering** | 30 | 15 | 15 |
+| **B.Tech. in Information Technology** | 60 | 30 | 30 |
+| **B.Tech. in Artificial Intelligence and Data Science** | 60 | 30 | 30 |
+| **B.Tech. in Computer Science and Business Systems** | 30 | 15 | 15 |
+| **B.E. in Computer Science and Engineering (Cyber Security)** | 30 | 15 | 15 |
+| **B.Tech. in Artificial Intelligence and Machine Learning** | 60 | 30 | 30 |
+| **B.E. in Electronics Engineering (VLSI Design and Technology)** | 30 | 15 | 15 |
+| **B.E. in ECE (Advanced Communication Technology)** | 30 | 15 | 15 |
+| **Bachelor of Architecture (B.Arch)** | 40 | 20 | 20 |
+| **Bachelor of Design (B.Des)** | 30 | 15 | 15 |
+
+All undergraduate courses are approved by AICTE and affiliated to Anna University, Chennai.""",
+        "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Programmes Offered"}],
+    },
+    {
+        "query": "ug courses",
+        "answer": """Mohamed Sathak A.J. College of Engineering (MSAJCE) offers the following 12 B.E./B.Tech undergraduate courses, plus Architecture and Design programmes:
+
+## 🎓 Undergraduate (UG) Programmes
+
+| Programme | Total Sanctioned Intake | Govt Quota | Management Quota |
+| :--- | :--- | :--- | :--- |
+| **B.E. in Civil Engineering** | 30 | 15 | 15 |
+| **B.E. in Computer Science and Engineering** | 60 | 30 | 30 |
+| **B.E. in Electronics and Communication Engineering** | 60 | 30 | 30 |
+| **B.E. in Electrical and Electronics Engineering** | 30 | 15 | 15 |
+| **B.E. in Mechanical Engineering** | 30 | 15 | 15 |
+| **B.Tech. in Information Technology** | 60 | 30 | 30 |
+| **B.Tech. in Artificial Intelligence and Data Science** | 60 | 30 | 30 |
+| **B.Tech. in Computer Science and Business Systems** | 30 | 15 | 15 |
+| **B.E. in Computer Science and Engineering (Cyber Security)** | 30 | 15 | 15 |
+| **B.Tech. in Artificial Intelligence and Machine Learning** | 60 | 30 | 30 |
+| **B.E. in Electronics Engineering (VLSI Design and Technology)** | 30 | 15 | 15 |
+| **B.E. in ECE (Advanced Communication Technology)** | 30 | 15 | 15 |
+| **Bachelor of Architecture (B.Arch)** | 40 | 20 | 20 |
+| **Bachelor of Design (B.Des)** | 30 | 15 | 15 |
+
+All undergraduate courses are approved by AICTE and affiliated to Anna University, Chennai.""",
+        "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Programmes Offered"}],
+    },
+    {
+        "query": "undergraduate courses",
+        "answer": """Mohamed Sathak A.J. College of Engineering (MSAJCE) offers the following 12 B.E./B.Tech undergraduate courses, plus Architecture and Design programmes:
+
+## 🎓 Undergraduate (UG) Programmes
+
+| Programme | Total Sanctioned Intake | Govt Quota | Management Quota |
+| :--- | :--- | :--- | :--- |
+| **B.E. in Civil Engineering** | 30 | 15 | 15 |
+| **B.E. in Computer Science and Engineering** | 60 | 30 | 30 |
+| **B.E. in Electronics and Communication Engineering** | 60 | 30 | 30 |
+| **B.E. in Electrical and Electronics Engineering** | 30 | 15 | 15 |
+| **B.E. in Mechanical Engineering** | 30 | 15 | 15 |
+| **B.Tech. in Information Technology** | 60 | 30 | 30 |
+| **B.Tech. in Artificial Intelligence and Data Science** | 60 | 30 | 30 |
+| **B.Tech. in Computer Science and Business Systems** | 30 | 15 | 15 |
+| **B.E. in Computer Science and Engineering (Cyber Security)** | 30 | 15 | 15 |
+| **B.Tech. in Artificial Intelligence and Machine Learning** | 60 | 30 | 30 |
+| **B.E. in Electronics Engineering (VLSI Design and Technology)** | 30 | 15 | 15 |
+| **B.E. in ECE (Advanced Communication Technology)** | 30 | 15 | 15 |
+| **Bachelor of Architecture (B.Arch)** | 40 | 20 | 20 |
+| **Bachelor of Design (B.Des)** | 30 | 15 | 15 |
+
+All undergraduate courses are approved by AICTE and affiliated to Anna University, Chennai.""",
+        "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Programmes Offered"}],
+    },
+    {
+        "query": "lis the ME courses offered by you",
+        "answer": """Mohamed Sathak A.J. College of Engineering (MSAJCE) offers the following Postgraduate (PG) M.E. courses, plus Master of Architecture:
+
+## 🎓 Postgraduate (PG) Programmes
+
+| Programme | Total Sanctioned Intake | Government Quota | Management Quota |
+| :--- | :--- | :--- | :--- |
+| **M.E. in Computer Science and Engineering** | 9 | 3 | 6 |
+| **M.E. in Structural Engineering** | 18 | 6 | 12 |
+| **Master of Architecture (M.Arch)** | 15 | 7 | 8 |
+
+All postgraduate courses are approved by AICTE and affiliated to Anna University, Chennai.""",
+        "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Programmes Offered"}],
+    },
+    {
+        "query": "list the ME courses offered by you",
+        "answer": """Mohamed Sathak A.J. College of Engineering (MSAJCE) offers the following Postgraduate (PG) M.E. courses, plus Master of Architecture:
+
+## 🎓 Postgraduate (PG) Programmes
+
+| Programme | Total Sanctioned Intake | Government Quota | Management Quota |
+| :--- | :--- | :--- | :--- |
+| **M.E. in Computer Science and Engineering** | 9 | 3 | 6 |
+| **M.E. in Structural Engineering** | 18 | 6 | 12 |
+| **Master of Architecture (M.Arch)** | 15 | 7 | 8 |
+
+All postgraduate courses are approved by AICTE and affiliated to Anna University, Chennai.""",
+        "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Programmes Offered"}],
+    },
+    {
+        "query": "list the me courses",
+        "answer": """Mohamed Sathak A.J. College of Engineering (MSAJCE) offers the following Postgraduate (PG) M.E. courses, plus Master of Architecture:
+
+## 🎓 Postgraduate (PG) Programmes
+
+| Programme | Total Sanctioned Intake | Government Quota | Management Quota |
+| :--- | :--- | :--- | :--- |
+| **M.E. in Computer Science and Engineering** | 9 | 3 | 6 |
+| **M.E. in Structural Engineering** | 18 | 6 | 12 |
+| **Master of Architecture (M.Arch)** | 15 | 7 | 8 |
+
+All postgraduate courses are approved by AICTE and affiliated to Anna University, Chennai.""",
+        "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Programmes Offered"}],
+    },
+    {
+        "query": "me courses",
+        "answer": """Mohamed Sathak A.J. College of Engineering (MSAJCE) offers the following Postgraduate (PG) M.E. courses, plus Master of Architecture:
+
+## 🎓 Postgraduate (PG) Programmes
+
+| Programme | Total Sanctioned Intake | Government Quota | Management Quota |
+| :--- | :--- | :--- | :--- |
+| **M.E. in Computer Science and Engineering** | 9 | 3 | 6 |
+| **M.E. in Structural Engineering** | 18 | 6 | 12 |
+| **Master of Architecture (M.Arch)** | 15 | 7 | 8 |
+
+All postgraduate courses are approved by AICTE and affiliated to Anna University, Chennai.""",
+        "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Programmes Offered"}],
+    },
+    {
         "query": "need students who got scholarships from the batch of 2024-2028",
         "answer": """Here is the list of students from the **2024-2028** batch who received the MSAJCE Alumni Scholarship:
 
@@ -172,6 +354,35 @@ Plus Architecture and Design programmes.""",
         "citations": [{"source": "msajce_alumni.md", "page": "1", "section": "Alumni Scholarship Contribution"}],
     },
 ]
+
+COMPACT_TO_FULL_CAT = {
+    "Department-CSE": "Department — Computer Science & Engineering",
+    "Department-CSBS": "Department — CS & Business Systems",
+    "Department-CyberSecurity": "Department — CS & Cyber Security",
+    "Department-AIDS": "Department — AI & Data Science",
+    "Department-AIML": "Department — AI & Machine Learning",
+    "Department-IT": "Department — Information Technology",
+    "Department-ECE": "Department — Electronics & Communication",
+    "Department-EEE": "Department — Electrical & Electronics",
+    "Department-Mech": "Department — Mechanical Engineering",
+    "Department-Civil": "Department — Civil Engineering",
+    "Department-S&H": "Department — Science & Humanities",
+    "Alumni": "Alumni Association",
+    "Placement": "Placement & Careers",
+    "Admission": "Admission & Fees",
+    "Hostel": "Hostel & Accommodation",
+    "Transport": "Transport & Bus Routes",
+    "Research": "Research & Publications",
+    "Incubation": "Incubation Centre",
+    "TechCentre": "Technology Centre",
+    "Library": "Library",
+    "IQAC": "IQAC & Accreditation",
+    "NIRF": "NIRF Ranking",
+    "Sports": "Sports & Athletics",
+    "Clubs": "Clubs & Societies",
+    "ProfSocieties": "Professional Societies",
+    "General": "General — MSAJCE",
+}
 
 def normalize_query_for_hash(query: str) -> str:
     """Normalize query by stripping whitespace, trailing punctuation, and lowercasing."""
@@ -238,14 +449,16 @@ def seed_cache_entries():
         conn = db_connect(); conn.autocommit = True; cur = conn.cursor()
         for entry in SEED_CACHE:
             q_hash = hashlib.sha256(normalize_query_for_hash(entry["query"]).encode()).hexdigest()
-            # Only seed if no entry exists (don't overwrite self-healed answers)
-            cur.execute("SELECT 1 FROM query_cache WHERE query_hash = %s", (q_hash,))
-            if not cur.fetchone():
-                cur.execute(
-                    "INSERT INTO query_cache (query_hash, query_text, response_text, citations) VALUES (%s, %s, %s, %s)",
-                    (q_hash, entry["query"], entry["answer"], json.dumps(entry["citations"]))
-                )
-                logger.info(f"[SeedCache] Seeded: '{entry['query']}'")
+            # Upsert seeded cache entries to ensure they are always correct and updated
+            cur.execute("""
+                INSERT INTO query_cache (query_hash, query_text, response_text, citations)
+                VALUES (%s, %s, %s, %s)
+                ON CONFLICT (query_hash) DO UPDATE
+                    SET response_text = EXCLUDED.response_text,
+                        citations = EXCLUDED.citations,
+                        created_at = CURRENT_TIMESTAMP
+            """, (q_hash, entry["query"], entry["answer"], json.dumps(entry["citations"])))
+            logger.info(f"[SeedCache] Seeded/Updated: '{entry['query']}'")
         cur.close(); conn.close()
     except Exception as e:
         logger.warning(f"[SeedCache] Failed: {e}")
@@ -426,11 +639,20 @@ def call_vercel(messages: list, task: str = "classify", temperature: float = 0.0
     task: one of 'classify', 'rewrite', 'faithful', 'followup'
     """
     model = _VERCEL_MODELS.get(task, "google/gemini-2.5-flash-lite")
+    req_body = {
+        "model": model,
+        "messages": messages,
+        "temperature": temperature,
+        "max_tokens": max_tokens
+    }
+    if task in ("classify", "rewrite", "faithful"):
+        req_body["response_format"] = {"type": "json_object"}
+        
     try:
         res = requests.post(
             f"{GATEWAY_PROXY_URL}/v1/chat/completions",
             headers={"Content-Type": "application/json"},
-            json={"model": model, "messages": messages, "temperature": temperature, "max_tokens": max_tokens},
+            json=req_body,
             timeout=timeout,
         )
         res.raise_for_status()
@@ -442,11 +664,19 @@ def call_vercel(messages: list, task: str = "classify", temperature: float = 0.0
         logger.warning(f"[Vercel] {task} failed ({e}), falling back to NVIDIA...")
 
     # NVIDIA fallback for small tasks
+    fallback_body = {
+        "model": "meta/llama-3.1-8b-instruct",
+        "messages": messages,
+        "temperature": temperature,
+        "max_tokens": max_tokens
+    }
+    if task in ("classify", "rewrite", "faithful"):
+        fallback_body["response_format"] = {"type": "json_object"}
+        
     res = requests.post(
         "https://integrate.api.nvidia.com/v1/chat/completions",
         headers={"Authorization": f"Bearer {NVIDIA_API_KEY}", "Content-Type": "application/json"},
-        json={"model": "meta/llama-3.1-8b-instruct", "messages": messages,
-              "temperature": temperature, "max_tokens": max_tokens},
+        json=fallback_body,
         timeout=timeout,
     )
     res.raise_for_status()
@@ -624,11 +854,19 @@ def preprocess_query(query: str) -> dict:
     ]
     category_list_str = ", ".join(COMPACT_CATS)
     system_prompt = (
-        "MSAJCE chatbot classifier. Classify intent: 'greeting'|'goodbye'|'compliment'|'guidance_query'|'college_query'.\n"
-        "For college_query: extract core search keywords (strip honorifics sir/maam/dr/mr/mrs). "
-        "Set category=null when asking about a person/staff.\n"
-        f"Categories: {category_list_str}\n"
-        'JSON only: {"intent":"...","keywords":"...","category":null,"category_confidence":0.0,"direct_response":""}'
+        "You are a strict backend query classifier for MSAJCE. Your ONLY job is to categorize the user's input and extract keywords.\n"
+        "DO NOT answer the user's question. DO NOT converse. DO NOT write any intro or explanation. You must ONLY output a JSON object.\n"
+        "Intents: 'greeting', 'goodbye', 'compliment', 'guidance_query', 'college_query'.\n"
+        "For college_query: extract core search keywords (strip honorifics like sir, maam, dr, mr, mrs).\n"
+        f"Available categories for category field: {category_list_str}\n"
+        "Category Guidelines:\n"
+        "- Use 'Admission' for queries about courses/programs offered, admission eligibility, seat intakes, fees, scholarships, or cutoff marks.\n"
+        "- Use 'Placement' for placement statistics, salary packages, recruiters, or internship details.\n"
+        "- Use the specific department name (e.g. 'Department-CSE') ONLY for queries specific to a single department (e.g. HOD name, HOD email, department vision/mission, faculty list, or syllabus of that department).\n"
+        "Set category=null if the query is about a specific staff member/person, or if it doesn't clearly match any category.\n"
+        "If you assign a category, you MUST set category_confidence to 1.0. If you do not assign a category (set category=null), set category_confidence to 0.0.\n"
+        "Output format MUST be exactly this JSON schema:\n"
+        '{"intent": "...", "keywords": "...", "category": "...", "category_confidence": 0.0, "direct_response": ""}'
     )
     try:
         rj = call_vercel(
@@ -772,7 +1010,7 @@ def generate_answer(user_query: str, context_blocks: list, session_id: str = "")
 RULES:
 1. Answer directly and concisely using facts from SOURCES. State the main key answer (e.g. intake count, exact date, link, or location) clearly upfront.
 2. FORMATTING MULTI-ITEM LISTS & TABLES: Whenever you output lists of programmes, eligibility criteria by category, bus routes, schedules, or any other structured lists of items, you MUST format them as standard markdown tables.
-   - CRITICAL: Every single row of the table (including the header, separator, and data rows) MUST end with a literal newline (\n).
+   - CRITICAL: Every single row of the table (including the header, separator, and data rows) MUST end with a literal newline (\\n).
    - NEVER output a table on a single line or with spaces instead of newlines.
    - Do NOT use plain text lists, tab-separated values, or bullet points for structured data.
 3. Never cite internal source file labels, page numbers, or raw snippet markers in the answer text.
@@ -792,6 +1030,15 @@ RULES:
 13. COLLEGE BUS ROUTES FORMATTING: Whenever you output details of a college bus route (e.g., Route AR 3, Route AR 4, etc.) or stops/timings, you MUST format the list of stops and timings as a standard markdown table with columns like `| Stop / Landmark | Arrival Time |`. Do not describe the route stops in a paragraph, sentence, or simple list. Above the table, state the driver name and start/departure details clearly. Do NOT output any personal phone number of the driver.
 14. FEES / TUITION COST ENQUIRIES: Under NO circumstances should you disclose or output any specific tuition fee, hostel fee, transport fee, or exam fee figures or tables. If the user asks about fees, you MUST refuse to state any amounts and strictly redirect them to the Admission Department (+91 99400 04500 / msajce.office@gmail.com) or Head of Admission Dr. K. P. Santhosh Nathan (ped.santhosh@msajce-edu.in).
 15. STRICT NO PERSONAL PHONE NUMBERS RULE: Under no circumstances are you allowed to output or disclose the personal phone number of any faculty member, coordinator, teacher, bus driver, or worker of the college (even if specifically requested). You MUST strictly hide personal phone numbers and only provide their official email address if available in the SOURCES, or direct the user to the official general college office phone (+91 99400 04500) and email (msajce.office@gmail.com).
+16. COURSES OFFERED BY MSAJCE: If the user asks for the list of courses or programmes offered by the college (UG/undergraduate or PG/postgraduate/ME/Master of Engineering):
+    - You must ONLY list the courses explicitly stated in the sources as being offered by MSAJCE.
+    - Under no circumstances should you list subject names, general career specialisation options (e.g. from civil/mechanical career guidance sections), or courses offered by other colleges (e.g. from alumni higher education records of other institutions) as courses offered by MSAJCE.
+    - Ground truth:
+      - MSAJCE offers exactly 12 B.E./B.Tech UG courses: Civil Engineering, Computer Science and Engineering, Electronics and Communication Engineering, Electrical and Electronics Engineering, Mechanical Engineering, Information Technology, Artificial Intelligence and Data Science, Computer Science and Business Systems, Computer Science and Engineering in Cyber Security, Artificial Intelligence and Machine Learning, Electronics Engineering with specialisation in VLSI Design and Technology, and ECE with specialisation in Advanced Communication Technology.
+      - MSAJCE also offers Bachelor of Architecture (B.Arch) and Bachelor of Design (B.Des) at the UG level.
+      - MSAJCE offers exactly 2 M.E. courses: M.E. in Computer Science and Engineering, and M.E. in Structural Engineering. It also offers Master of Architecture (M.Arch) at the PG level.
+      - MSAJCE offers exactly 1 Ph.D. research programme: Ph.D. in Mechanical Engineering.
+    - Only output information about these specific courses when asked about courses offered by MSAJCE. Do not list any other hallucinated or general courses.
 
 SOURCES:
 {context_str}
@@ -833,7 +1080,7 @@ def generate_answer_stream(user_query: str, context_blocks: list):
 RULES:
 1. Answer directly and concisely using facts from SOURCES. State the main key answer (e.g. intake count, exact date, link, or location) clearly upfront.
 2. FORMATTING MULTI-ITEM LISTS & TABLES: Whenever you output lists of programmes, eligibility criteria by category, bus routes, schedules, or any other structured lists of items, you MUST format them as standard markdown tables.
-   - CRITICAL: Every single row of the table (including the header, separator, and data rows) MUST end with a literal newline (\n).
+   - CRITICAL: Every single row of the table (including the header, separator, and data rows) MUST end with a literal newline (\\n).
    - NEVER output a table on a single line or with spaces instead of newlines.
    - Do NOT use plain text lists, tab-separated values, or bullet points for structured data.
 3. Never cite internal source file labels, page numbers, or raw snippet markers in the answer text.
@@ -853,6 +1100,15 @@ RULES:
 13. COLLEGE BUS ROUTES FORMATTING: Whenever you output details of a college bus route (e.g., Route AR 3, Route AR 4, etc.) or stops/timings, you MUST format the list of stops and timings as a standard markdown table with columns like `| Stop / Landmark | Arrival Time |`. Do not describe the route stops in a paragraph, sentence, or simple list. Above the table, state the driver name and start/departure details clearly. Do NOT output any personal phone number of the driver.
 14. FEES / TUITION COST ENQUIRIES: Under NO circumstances should you disclose or output any specific tuition fee, hostel fee, transport fee, or exam fee figures or tables. If the user asks about fees, you MUST refuse to state any amounts and strictly redirect them to the Admission Department (+91 99400 04500 / msajce.office@gmail.com) or Head of Admission Dr. K. P. Santhosh Nathan (ped.santhosh@msajce-edu.in).
 15. STRICT NO PERSONAL PHONE NUMBERS RULE: Under no circumstances are you allowed to output or disclose the personal phone number of any faculty member, coordinator, teacher, bus driver, or worker of the college (even if specifically requested). You MUST strictly hide personal phone numbers and only provide their official email address if available in the SOURCES, or direct the user to the official general college office phone (+91 99400 04500) and email (msajce.office@gmail.com).
+16. COURSES OFFERED BY MSAJCE: If the user asks for the list of courses or programmes offered by the college (UG/undergraduate or PG/postgraduate/ME/Master of Engineering):
+    - You must ONLY list the courses explicitly stated in the sources as being offered by MSAJCE.
+    - Under no circumstances should you list subject names, general career specialisation options (e.g. from civil/mechanical career guidance sections), or courses offered by other colleges (e.g. from alumni higher education records of other institutions) as courses offered by MSAJCE.
+    - Ground truth:
+      - MSAJCE offers exactly 12 B.E./B.Tech UG courses: Civil Engineering, Computer Science and Engineering, Electronics and Communication Engineering, Electrical and Electronics Engineering, Mechanical Engineering, Information Technology, Artificial Intelligence and Data Science, Computer Science and Business Systems, Computer Science and Engineering in Cyber Security, Artificial Intelligence and Machine Learning, Electronics Engineering with specialisation in VLSI Design and Technology, and ECE with specialisation in Advanced Communication Technology.
+      - MSAJCE also offers Bachelor of Architecture (B.Arch) and Bachelor of Design (B.Des) at the UG level.
+      - MSAJCE offers exactly 2 M.E. courses: M.E. in Computer Science and Engineering, and M.E. in Structural Engineering. It also offers Master of Architecture (M.Arch) at the PG level.
+      - MSAJCE offers exactly 1 Ph.D. research programme: Ph.D. in Mechanical Engineering.
+    - Only output information about these specific courses when asked about courses offered by MSAJCE. Do not list any other hallucinated or general courses.
 
 SOURCES:
 {context_str}
@@ -1452,6 +1708,8 @@ def chat_endpoint(req: ChatRequest, request: Request):
         logger.debug(f"[PersonSearch] Single-name query — expanded keywords: '{keywords}'")
     p_usage   = prep.get("usage", {})
     category  = prep.get("category")
+    if category and category in COMPACT_TO_FULL_CAT:
+        category = COMPACT_TO_FULL_CAT[category]
     cat_conf  = float(prep.get("category_confidence", 0))
 
     # Only use category filter if confidence meets threshold

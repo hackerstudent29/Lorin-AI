@@ -133,7 +133,7 @@ class BM25IndexManager:
 
     # ── Query ─────────────────────────────────────────────────────────────────
 
-    def query(self, query: str, top_k: int = 25) -> list:
+    def query(self, query: str, top_k: int = 25, category: str = None, entity_id: str = None) -> list:
         """
         Return up to top_k results as list of:
           {"text": str, "payload": dict, "bm25_rank": int, "bm25_score": float}
@@ -144,17 +144,42 @@ class BM25IndexManager:
             raise RuntimeError("BM25 index not loaded.")
         tokenized_query = query.lower().split()
         scores = self._bm25.get_scores(tokenized_query)
+        
+        # Filter candidate indices based on category and entity_id
+        candidate_indices = []
+        for idx, score in enumerate(scores):
+            if score <= 0:
+                continue
+            payload = self._payloads[idx]
+            if category and payload.get("category") != category:
+                continue
+            if entity_id:
+                entity_ids = payload.get("entity_ids", [])
+                if isinstance(entity_ids, str):
+                    entity_ids = [entity_ids]
+                if entity_id not in entity_ids:
+                    continue
+            candidate_indices.append(idx)
+
+        # Fallback to unfiltered if we have too few filtered hits (Req 2.3, 2.6)
+        MIN_CATEGORY_HITS = 5
+        if (category or entity_id) and len(candidate_indices) < MIN_CATEGORY_HITS:
+            logger.warning(
+                f"[BM25] Filtered search returned only {len(candidate_indices)} hits, "
+                f"falling back to unfiltered search"
+            )
+            candidate_indices = [idx for idx, score in enumerate(scores) if score > 0]
+
         # Sort by descending score
-        ranked_idx = sorted(range(len(scores)), key=lambda i: scores[i], reverse=True)[:top_k]
+        ranked_idx = sorted(candidate_indices, key=lambda i: scores[i], reverse=True)[:top_k]
         results = []
         for rank, idx in enumerate(ranked_idx):
-            if scores[idx] > 0:  # non-zero BM25 score required (Req 3.6)
-                results.append({
-                    "text":       self._texts[idx],
-                    "payload":    self._payloads[idx],
-                    "bm25_rank":  rank,
-                    "bm25_score": float(scores[idx]),
-                })
+            results.append({
+                "text":       self._texts[idx],
+                "payload":    self._payloads[idx],
+                "bm25_rank":  rank,
+                "bm25_score": float(scores[idx]),
+            })
         return results
 
     # ── Incremental append (Req 3.7) ─────────────────────────────────────────

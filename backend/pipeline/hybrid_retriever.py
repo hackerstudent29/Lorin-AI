@@ -58,7 +58,7 @@ class HybridRetriever:
         # ── Run BM25 and dense searches in parallel ───────────────────────────
         def run_bm25():
             try:
-                return self._bm25.query(keywords or query, top_k=TOP_K)
+                return self._bm25.query(keywords or query, top_k=TOP_K, category=category, entity_id=entity_id)
             except Exception as e:
                 logger.warning(f"[HybridRetriever] BM25 search failed (dense-only fallback): {e}")
                 return []   # Req 3.9 — graceful degradation
