@@ -131,12 +131,12 @@ def _make_embed_fn():
 
 bm25_manager        = BM25IndexManager(qdrant_client)
 spell_corrector     = SpellCorrector()
-faithfulness_checker = FaithfulnessChecker(VERCEL_AI_GATEWAY_KEY or NVIDIA_API_KEY)
+faithfulness_checker = FaithfulnessChecker(NVIDIA_API_KEY)
 
 def db_connect():
     return psycopg2.connect(DATABASE_URL)
 
-query_rewriter  = QueryRewriter(VERCEL_AI_GATEWAY_KEY or NVIDIA_API_KEY, db_conn_fn=db_connect)
+query_rewriter  = QueryRewriter(NVIDIA_API_KEY, db_conn_fn=db_connect)
 hybrid_retriever = None   # initialised after app startup (needs embed_fn)
 
 SEED_CACHE: list[dict] = [
@@ -1353,7 +1353,7 @@ def redact_personal_phone_numbers(text: str) -> str:
         # Allowed numbers: 9940004500, landline 27470021 (and ending in 23, 24, 25)
         if '9940004500' in clean_num or '27470021' in clean_num or '27470023' in clean_num or '27470024' in clean_num or '27470025' in clean_num:
             return num
-        return "[Phone number redacted for privacy. Contact college office: +91 99400 04500 / msajce.office@gmail.com]"
+        return "[Redacted]"
     return pattern.sub(repl, text)
 
 def expand_query_abbreviations(query: str) -> str:
@@ -3236,25 +3236,6 @@ def chat_endpoint(req: ChatRequest, request: Request):
     logger.info("[Chat] Main LLM and follow-ups generation complete.")
     
     answer = clean_links(answer)
-
-    # If the answer indicates missing info or request for links, append relevant verified resource links
-    fallback_indicators = [
-        "couldn't find", "not have the specific details", "unable to find", 
-        "no specific details", "placement statistics or details", 
-        "contact the placement cell", "official website", "contact the college directly",
-        "please reach out to", "would be happy to help"
-    ]
-    has_fallback = any(ind in answer.lower() for ind in fallback_indicators)
-    link_query_words = ["link", "url", "portal", "website", "apply", "form", "pdf"]
-    wants_links = any(w in user_query.lower() for w in link_query_words)
-    
-    if has_fallback or wants_links:
-        logger.info("[Chat] Fallback/link request detected. Fetching resource links...")
-        extra_links = get_resource_links(keywords)
-        if extra_links:
-            extra_links = clean_links(extra_links)
-            answer += extra_links
-            logger.info("[Chat] Appended resource links.")
 
     # ── Step 6b: Faithfulness check ──
     logger.info("[Chat] Launching faithfulness check...")

@@ -140,7 +140,7 @@ class QueryRewriter:
             rewritten = re.sub(r"^(Standalone question:|Rewritten:|Question:)\s*", "", rewritten, flags=re.IGNORECASE).strip()
 
             if rewritten and rewritten.lower() != user_message.lower():
-                logger.debug(f"[QueryRewriter] '{user_message}' -> '{rewritten}'")
+                logger.info(f"[QueryRewriter] '{user_message}' -> '{rewritten}'")
                 return rewritten, True
             return user_message, False
 
