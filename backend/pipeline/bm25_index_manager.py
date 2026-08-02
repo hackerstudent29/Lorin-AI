@@ -161,12 +161,10 @@ class BM25IndexManager:
                     continue
             candidate_indices.append(idx)
 
-        # Fallback to unfiltered if we have too few filtered hits (Req 2.3, 2.6)
-        MIN_CATEGORY_HITS = 5
-        if (category or entity_id) and len(candidate_indices) < MIN_CATEGORY_HITS:
+        # Fallback to unfiltered only when 0 hits were found (Req 2.3, 2.6)
+        if (category or entity_id) and len(candidate_indices) == 0:
             logger.warning(
-                f"[BM25] Filtered search returned only {len(candidate_indices)} hits, "
-                f"falling back to unfiltered search"
+                f"[BM25] Filtered search returned 0 hits, falling back to unfiltered search"
             )
             candidate_indices = [idx for idx, score in enumerate(scores) if score > 0]
 

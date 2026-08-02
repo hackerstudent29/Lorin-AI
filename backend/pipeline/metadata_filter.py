@@ -77,9 +77,9 @@ class MetadataFilter:
         Returns:
             True if should fall back to unfiltered search
         """
-        if hit_count < MIN_CATEGORY_HITS:
+        if hit_count == 0:
             logger.warning(
-                f"[MetadataFilter] Category '{category}' returned only {hit_count} hits, "
+                f"[MetadataFilter] Category '{category}' returned 0 hits, "
                 f"falling back to unfiltered search"
             )
             return True
