@@ -354,6 +354,277 @@ All postgraduate courses are approved by AICTE and affiliated to Anna University
         "citations": [{"source": "msajce_alumni.md", "page": "1", "section": "Alumni Scholarship Contribution"}],
     },
     {
+        "query": "tell me about cse department in msajce",
+        "answer": """B.E. in Computer Science and Engineering (CSE) at MSAJCE:
+
+### 🎓 About the Programme
+- **Degree**: B.E. in Computer Science and Engineering
+- **Duration**: 4 years (8 semesters) | Lateral Entry: 3 years (6 semesters)
+- **Total Intake**: 60 seats (30 Govt. Quota + 30 Management Quota)
+- **PG Available**: M.E. in Computer Science and Engineering
+- **Regulation**: 2021 & 2017
+
+### 📚 What You Study
+Programming, Algorithms, Data Structures, Software Engineering, Databases, AI/ML, Cloud Computing, Cyber Security, IoT, Blockchain, DevOps, Full Stack Development
+
+### 💼 Career Roles
+| Role | Key Skills |
+| :--- | :--- |
+| **Software Developer** | Java, Python, C++, JavaScript, React, Node.js |
+| **Data Scientist / ML Engineer** | Python, TensorFlow, Spark, SQL |
+| **Cybersecurity Specialist** | Ethical Hacking, Cryptography, SIEM |
+| **Cloud Architect** | AWS, Azure, GCP, Docker, Kubernetes |
+| **Blockchain Developer** | Ethereum, Solidity, Hyperledger |
+| **DevOps Engineer** | Jenkins, Docker, Kubernetes, Terraform |
+
+### 🏢 Top Recruiters
+TCS, Infosys, Wipro, HCL, CTS, Tech Mahindra, Zoho, Intel, Accenture, IBM, FSS
+
+### 🎯 Vision
+To be a center of excellence for transforming students into proficient Computer Science Engineers through sustainable practices.""",
+        "citations": [{"source": "msajce_cse.md", "page": "1", "section": "Employment Opportunities in High Demand"}],
+    },
+    {
+        "query": "tell me about it department in msajce",
+        "answer": """B.Tech in Information Technology (IT) at MSAJCE:
+
+### 🎓 About the Programme
+- **Degree**: B.Tech in Information Technology
+- **Duration**: 4 years (8 semesters) | Lateral Entry: 3 years (6 semesters)
+- **Total Intake**: 60 seats (30 Govt. Quota + 30 Management Quota)
+- **Regulation**: 2021 & 2017
+
+### 📚 What You Study
+Machine Learning, Deep Learning, Data Science, AI, Cloud Computing, Networking, Mobile Computing, Blockchain, Cybersecurity, IoT
+
+### 💼 Career Roles
+| Role | Key Skills |
+| :--- | :--- |
+| **Cloud Engineer / Architect** | AWS, Azure, GCP, Docker, Kubernetes, Terraform |
+| **AI / ML Engineer** | Python, TensorFlow, PyTorch |
+| **Cybersecurity Expert** | Ethical Hacking, SIEM, Forensics |
+| **Network Engineer** | CCNA, 5G, Protocols |
+| **Blockchain Developer** | Ethereum, Smart Contracts |
+| **DevOps Engineer** | CI/CD, Jenkins, Kubernetes |
+
+### 🏢 Top Recruiters
+TCS, Infosys, CTS, Wipro, HCL, Tech Mahindra, IBM, Intel, Accenture
+
+### 🎯 Vision
+To be a centre of excellence for transforming students into proficient Information Technology professionals through sustainable practices.""",
+        "citations": [{"source": "msajce_it.md", "page": "1", "section": "Employment Growth in Information Technology"}],
+    },
+    {
+        "query": "tell me about ece department in msajce",
+        "answer": """B.E. in Electronics and Communication Engineering (ECE) at MSAJCE:
+
+### 🎓 About the Programme
+- **Degree**: B.E. in Electronics and Communication Engineering
+- **Duration**: 4 years | Lateral Entry: 3 years
+- **Total Intake**: 60 seats (30 Govt. + 30 Management)
+- **HoD**: Dr. I. Manju (Professor & Head)
+- **Regulation**: 2021 & 2017
+
+### 📚 What You Study
+Signal Processing, VLSI, Embedded Systems, IoT, Wireless Communication, RF Systems, Digital Systems, Image Processing, Communication Systems, Microprocessors
+
+### 💼 Career Roles & Salary Growth (2025–2030)
+| Sector | Growth | Roles |
+| :--- | :--- | :--- |
+| **5G / Telecom** | 10–12%/yr | RF Design, Network Optimization, Antenna |
+| **Semiconductor / VLSI** | 12–15%/yr | RTL, Physical Design, DFT, ASIC/FPGA |
+| **Embedded & IoT** | 15–18%/yr | C/ARM/RTOS, PCB, Sensor Integration |
+| **Defense & Aerospace** | 6–8%/yr | Radar, Avionics, Secure Communication |
+| **AI & DSP** | 10–14%/yr | Image/Audio DSP, ML for Signal Processing |
+
+### 🏢 Top Recruiters
+TCS, Infosys, HCL, Wipro, DRDO, ISRO, BEL, BSNL, Railways, Accenture, Intel""",
+        "citations": [{"source": "msajce_ece.md", "page": "1", "section": "Job Profiles"}],
+    },
+    {
+        "query": "tell me about eee department in msajce",
+        "answer": """B.E. in Electrical and Electronics Engineering (EEE) at MSAJCE:
+
+### 🎓 About the Programme
+- **Degree**: B.E. in Electrical and Electronics Engineering
+- **Duration**: 4 years | Lateral Entry: 3 years
+- **Total Intake**: 30 seats (15 Govt. + 15 Management)
+- **Regulation**: 2021 & 2017
+
+### 📚 What You Study
+Power Systems, Electric Machines, Power Electronics, Renewable Energy, Electric Vehicles, Smart Grids, Embedded Systems, VLSI, Control Systems, IoT
+
+### 💼 Career Roles
+Circuit Designer, Energy Efficiency Engineer, Distribution Planning Engineer, Power System Engineer, Research Engineer, Power Plant Engineer, EV Engineer
+
+### 📈 Sector Growth (2025–2030)
+| Sector | Growth | Roles |
+| :--- | :--- | :--- |
+| **Renewable Energy** | 10–12%/yr | Grid Engineers, Solar/Wind, SCADA |
+| **Electric Vehicles** | 15–18%/yr | BMS, Motor Control, Embedded |
+| **Semiconductor / VLSI** | 12–15%/yr | PCB, ASIC/FPGA |
+| **Automation / Industry 4.0** | 8–10%/yr | PLC/SCADA, Robotics, IIoT |
+| **Telecom / 5G** | 10–12%/yr | RF, Embedded C, DSP |
+
+### 🏢 Top Recruiters
+TNEB, BSNL, ISRO, DRDO, BEL, L&T, Siemens, ABB, Tata Power, Adani Green, Ola Electric""",
+        "citations": [{"source": "msajce_eee.md", "page": "1", "section": "Employment Forecast 2025-2030"}],
+    },
+    {
+        "query": "tell me about mechanical engineering department in msajce",
+        "answer": """B.E. in Mechanical Engineering (Mech) at MSAJCE:
+
+### 🎓 About the Programme
+- **Degree**: B.E. in Mechanical Engineering
+- **Duration**: 4 years | Lateral Entry: 3 years
+- **Total Intake**: 60 seats (30 Govt. + 30 Management)
+- **Regulation**: 2021 & 2017
+
+### 📚 What You Study
+Design, Manufacturing, Thermodynamics, CAD/CAM, Robotics, Composite Materials, Renewable Energy, 3D Printing / Additive Manufacturing, Mechatronics, Industry 4.0
+
+### 💼 Career Roles
+Planner, Designer, Design Engineer, Manufacturing Engineer, Maintenance Engineer, Production Engineer, R&D Engineer, Robotics Engineer
+
+### 📈 Sector Opportunities (2025–2030)
+| Sector | Roles |
+| :--- | :--- |
+| **Automotive / EV** | EV Powertrain, Battery, Thermal Management |
+| **Aerospace & Defence** | Propulsion, Avionics, Advanced Materials |
+| **Renewable Energy** | Wind Turbine, Solar, HVAC Design |
+| **Robotics & Automation** | Assembly Line, Precision Manufacturing |
+| **Infrastructure** | Construction Equipment, Smart City |
+
+### 🏢 Top Recruiters
+DRDO, ISRO, HAL, L&T, Bosch, Mahindra, Tata Motors, Hyundai, TVS, Ashok Leyland""",
+        "citations": [{"source": "msajce_mech.md", "page": "1", "section": "Employment Growth in Mechanical Engineering"}],
+    },
+    {
+        "query": "tell me about civil engineering department in msajce",
+        "answer": """B.E./M.E. in Civil Engineering at MSAJCE:
+
+### 🎓 About the Programme
+- **UG Degree**: B.E. in Civil Engineering
+- **PG Degree**: M.E. in Structural Engineering
+- **Department Established**: 2007 (one of the pioneer departments)
+- **Total Intake (UG)**: 60 seats (30 Govt. + 30 Management)
+- **Regulation**: 2021 & 2017
+
+### 📚 What You Study
+Structural Engineering, Transportation Engineering, Environmental Engineering, Water Supply, Surveying, Remote Sensing & GIS, AutoCAD, Revit, STAAD Pro, BIM, Primavera
+
+### 💼 Career Roles
+Structural Engineer, Transportation Engineer, Environmental Engineer, Urban Planner, Construction Manager, Geotechnical Engineer, Site Supervisor
+
+### 📈 Sector Growth (2025–2030)
+| Sector | Growth | Focus |
+| :--- | :--- | :--- |
+| **Public Infrastructure** | 6–8%/yr | Highways, Rail, Smart Cities |
+| **Real Estate & Housing** | 4–6%/yr | Urban Development |
+| **Green Building / Sustainability** | 10–12%/yr | IGBC, GRIHA Standards |
+| **BIM & Smart Construction** | 15%+/yr | Revit, AutoCAD Civil 3D |
+| **Transport (Roads/Rail)** | 7–10%/yr | PM Gati Shakti, Bharatmala |
+
+### 🏢 Top Recruiters
+L&T, Shapoorji Pallonji, NHAI, Railways, PWD, DRDO, DLF, Tata Projects""",
+        "citations": [{"source": "msajce_civil.md", "page": "1", "section": "Employment Outlook for Civil Engineering"}],
+    },
+    {
+        "query": "tell me about cyber security department in msajce",
+        "answer": """B.E. in CSE with Specialization in Cyber Security (CSCS) at MSAJCE:
+
+### 🎓 About the Programme
+- **Degree**: B.E. Computer Science & Engineering — Cyber Security Specialization
+- **Duration**: 4 years | Lateral Entry: 3 years
+- **Total Intake**: 30 seats (15 Govt. + 15 Management)
+- **Regulation**: 2021
+
+### 📚 What You Study
+Network Security, Cryptography, Ethical Hacking, Digital Forensics, Penetration Testing, Secure Coding, Cloud Security, AI Security, IoT Security, Cyber Laws & Compliance
+
+### 💼 Career Roles
+| Role | Skills |
+| :--- | :--- |
+| **Cybersecurity Analyst** | SIEM, Firewall, IDS/IPS, Incident Response |
+| **Ethical Hacker / Pen Tester** | Kali Linux, Metasploit, Wireshark, nmap |
+| **Security Architect** | Network Architecture, Risk Management, Encryption |
+| **SOC Analyst** | Threat Analysis, Log Analysis, SIEM |
+| **Cloud Security Specialist** | AWS, Azure, GCP, IAM |
+| **Digital Forensics Analyst** | Evidence Collection, Malware Analysis |
+
+### 🏢 Top Recruiters
+DRDO, CERT-IN, TCS, Infosys, Accenture, Palo Alto Networks, IBM Security, Banks, Fintech companies
+
+### 💡 Why Choose Cyber Security?
+High demand field with **greater job security**, top compensation, global career pathways, and national importance.""",
+        "citations": [{"source": "msajce_cyber.md", "page": "1", "section": "Employment Growth in Cyber Security"}],
+    },
+    {
+        "query": "tell me about csbs department in msajce",
+        "answer": """B.Tech in Computer Science and Business Systems (CSBS) at MSAJCE:
+
+### 🎓 About the Programme
+- **Degree**: B.Tech in Computer Science and Business Systems
+- **Collaboration**: Designed in partnership with **Tata Consultancy Services (TCS)**
+- **Duration**: 4 years | Lateral Entry: 3 years
+- **Regulation**: 2021
+
+### 📚 What You Study
+Data Structures, Algorithms, AI/ML, Cloud Computing, Business Analytics, Financial Management, Economics, IoT, Design Thinking, ERP Systems, Business Process Management
+
+### 💼 Career Roles
+| Role | Skills |
+| :--- | :--- |
+| **Business Systems Analyst** | Systems Design, ERP, Agile |
+| **Data Scientist / Analyst** | Python, R, SQL, Big Data |
+| **Cloud Architect / Engineer** | AWS, Azure, GCP |
+| **ERP Consultant** | SAP, Oracle, Business Process Modeling |
+| **AI / ML Engineer** | TensorFlow, Python, NLP |
+| **Cybersecurity Specialist** | Firewalls, Encryption, IDS |
+
+### 🏢 Top Recruiters
+TCS, Infosys, Wipro, Accenture, CTS, FSS, Fintech startups
+
+### 💡 Why CSBS over regular CSE?
+More interdisciplinary exposure, better suitability for tech-enabled business roles, greater alignment with industry expectations in IT services and consulting.""",
+        "citations": [{"source": "msajce_csbs.md", "page": "1", "section": "Employment Growth in Computer Science and Business Systems"}],
+    },
+    {
+        "query": "tell me about aiml department in msajce",
+        "answer": """B.Tech in CSE with Specialization in AI & Machine Learning (AIML) at MSAJCE:
+
+### 🎓 About the Programme
+- **Degree**: B.Tech CSE — Artificial Intelligence & Machine Learning Specialization
+- **Duration**: 4 years | Lateral Entry: 3 years
+- **Regulation**: 2021
+
+### 📚 What You Study
+Machine Learning, Deep Learning, NLP, Computer Vision, Data Mining, Explainable AI, Generative AI (GANs, Multimodal AI), Python, R, TensorFlow, Spark, Hadoop
+
+### 💼 Career Roles
+| Role | Skills |
+| :--- | :--- |
+| **ML Engineer** | Python, TensorFlow, PyTorch, Scikit-learn |
+| **Data Scientist** | Python, R, SQL, Deep Learning, Time-series |
+| **AI Research Scientist** | Research Methods, Python, Mathematical Modeling |
+| **Deep Learning Engineer** | TensorFlow, Keras, PyTorch, Image Processing |
+| **NLP Engineer** | SpaCy, HuggingFace, NLTK, Sentiment Analysis |
+| **AI Product Manager** | Product Lifecycle, Agile, Business Strategy |
+
+### 💰 Salary Trends (India)
+| Experience | Salary |
+| :--- | :--- |
+| Entry Level (0–2 yrs) | ₹6 – ₹12 LPA |
+| Mid Level (3–5 yrs) | ₹12 – ₹20 LPA |
+| Senior Level (5+ yrs) | ₹20 – ₹35 LPA |
+| Research Scientist | ₹25 – ₹50 LPA |
+| Project Manager | ₹30 – ₹60 LPA |
+
+### 🏢 Top Recruiters
+Microsoft, Amazon, Goldman Sachs, Oracle, Cisco, Dell, Accenture, TCS, Infosys, Google, NVIDIA""",
+        "citations": [{"source": "msajce_aiml.md", "page": "1", "section": "Expected Growth and Salary Trends"}],
+    },
+    {
         "query": "tell me about aids department in msajce",
         "answer": """B.Tech in Artificial Intelligence and Data Science (AI&DS) at MSAJCE:
 
