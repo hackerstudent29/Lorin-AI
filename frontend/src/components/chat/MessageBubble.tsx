@@ -24,9 +24,10 @@ function formatTime(ts: number) {
 function autoLinkify(text: string): string {
   // web URLs (https://, http://, or www.) not already inside markdown links
   text = text.replace(
-    /(?<!\[|\()((?:https?:\/\/|www\.)[a-zA-Z0-9.\-_~:/?#[\]@!$&'()*+,;=%]+)(?!\]|\))/g,
-    (m) => {
-      let clean = m;
+    /(\[.*?\]\(.*?\))|((?:https?:\/\/|www\.)[a-zA-Z0-9.\-_~:/?#[\]@!$&'()*+,;=%]+)/g,
+    (match, mdLink, rawUrl) => {
+      if (mdLink) return mdLink;
+      let clean = rawUrl;
       let trailing = "";
       while (clean.endsWith(".") || clean.endsWith(",") || clean.endsWith(";") || clean.endsWith(")")) {
         trailing = clean.slice(-1) + trailing;
@@ -38,13 +39,19 @@ function autoLinkify(text: string): string {
   );
   // emails
   text = text.replace(
-    /(?<!\[|\()([a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,})(?!\]|\))/g,
-    "[$1](mailto:$1)"
+    /(\[.*?\]\(.*?\))|([a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,})/g,
+    (match, mdLink, email) => {
+      if (mdLink) return mdLink;
+      return `[${email}](mailto:${email})`;
+    }
   );
   // phone numbers: +91-XXXXXXXXXX / 0XXXXXXXXXX / 10-digit runs
   text = text.replace(
-    /(?<!\[|\(|\d)(\+?[\d][\d\s\-]{8,14}\d)(?!\]|\)|\d)/g,
-    (m) => `[${m}](tel:${m.replace(/[\s\-]/g, "")})`
+    /(\[.*?\]\(.*?\))|(?<!\d)(\+?[\d][\d\s\-]{8,14}\d)(?!\d)/g,
+    (match, mdLink, phone) => {
+      if (mdLink) return mdLink;
+      return `[${phone}](tel:${phone.replace(/[\s\-]/g, "")})`;
+    }
   );
   return text;
 }
