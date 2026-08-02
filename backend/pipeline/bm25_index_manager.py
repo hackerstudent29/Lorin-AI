@@ -133,7 +133,7 @@ class BM25IndexManager:
 
     # ── Query ─────────────────────────────────────────────────────────────────
 
-    def query(self, query: str, top_k: int = 25, category: str = None, entity_id: str = None) -> list:
+    def query(self, query: str, top_k: int = 25, category: str = None, entity_id: str = None, source_file: str = None) -> list:
         """
         Return up to top_k results as list of:
           {"text": str, "payload": dict, "bm25_rank": int, "bm25_score": float}
@@ -159,10 +159,12 @@ class BM25IndexManager:
                     entity_ids = [entity_ids]
                 if entity_id not in entity_ids:
                     continue
+            if source_file and payload.get("source_file") != source_file:
+                continue
             candidate_indices.append(idx)
 
         # Fallback to unfiltered only when 0 hits were found (Req 2.3, 2.6)
-        if (category or entity_id) and len(candidate_indices) == 0:
+        if (category or entity_id or source_file) and len(candidate_indices) == 0:
             logger.warning(
                 f"[BM25] Filtered search returned 0 hits, falling back to unfiltered search"
             )

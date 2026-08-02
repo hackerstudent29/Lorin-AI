@@ -36,7 +36,7 @@ class HybridRetriever:
         self._coll     = collection
         self._filter   = MetadataFilter()
 
-    def retrieve(self, query: str, keywords: str, category: str = None, entity_id: str = None, q_vec: list = None) -> list:
+    def retrieve(self, query: str, keywords: str, category: str = None, entity_id: str = None, q_vec: list = None, source_file: str = None) -> list:
         """
         Retrieve up to RRF_OUT (40) candidates via BM25 + dense fusion.
 
@@ -46,6 +46,7 @@ class HybridRetriever:
             category: optional category filter for dense search
             entity_id: optional entity filter for dense search
             q_vec:    optional pre-computed embedding vector
+            source_file: optional source_file to restrict both BM25 and Dense search
 
         Returns:
             list of dicts: {"text": str, "payload": dict, "rrf_score": float,
@@ -58,7 +59,7 @@ class HybridRetriever:
         # ── Run BM25 and dense searches in parallel ───────────────────────────
         def run_bm25():
             try:
-                return self._bm25.query(keywords or query, top_k=TOP_K, category=category, entity_id=entity_id)
+                return self._bm25.query(keywords or query, top_k=TOP_K, category=category, entity_id=entity_id, source_file=source_file)
             except Exception as e:
                 logger.warning(f"[HybridRetriever] BM25 search failed (dense-only fallback): {e}")
                 return []   # Req 3.9 — graceful degradation
@@ -66,7 +67,7 @@ class HybridRetriever:
         def run_dense():
             try:
                 vec = q_vec if q_vec is not None else self._embed(query)
-                qdrant_filter = self._filter.build_filter(category, entity_id)
+                qdrant_filter = self._filter.build_filter(category, entity_id, source_file=source_file)
 
                 hits = []
                 # Try filtered search first

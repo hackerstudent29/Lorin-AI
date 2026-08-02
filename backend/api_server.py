@@ -2888,6 +2888,9 @@ def chat_endpoint(req: ChatRequest, request: Request):
     ]
     if any(k in active_query.lower() for k in transport_keywords):
         category = "Transport"
+        source_file = "msajce_transport.md"
+    else:
+        source_file = None
     # Entity Resolution (Req 2.9)
     # If the user is asking about a person, attempt to resolve them to an entity_id
     entity_id = None
@@ -2903,7 +2906,7 @@ def chat_endpoint(req: ChatRequest, request: Request):
     try:
         if hybrid_retriever is None:
             raise RuntimeError("HybridRetriever not initialised")
-        candidates = hybrid_retriever.retrieve(retrieval_query, keywords, category, entity_id, q_vec=q_vec)
+        candidates = hybrid_retriever.retrieve(retrieval_query, keywords, category, entity_id, q_vec=q_vec, source_file=source_file)
         candidates = [c for c in candidates if c.get("payload", {}).get("source_file") != "msajce_all_resource_links.md"]
 
         passages   = [c["text"] for c in candidates]
