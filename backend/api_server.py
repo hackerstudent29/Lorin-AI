@@ -1882,7 +1882,7 @@ def preprocess_query(query: str) -> dict:
     if q in thanks:
         return {"intent":"compliment","keywords":"","category":None,"category_confidence":0,"direct_response":"You're welcome! Happy to help. If you have more questions about MSAJCE, just ask! 😊","usage":{"prompt_tokens":0,"completion_tokens":0,"total_tokens":0}}
 
-    developer_keywords = ["who is ram", "who is ramanathan", "who is zendrum", "who is the developer", "who created", "who built", "creator of", "developer of", "ur host", "your host", "who made you", "tell me about ram", "tell me about the developer"]
+    developer_keywords = ["who is ram", "who is ramanathan", "who is zendrum", "who is the developer", "who created", "who built", "creator of", "developer of", "ur host", "your host", "who made you", "tell me about ram", "tell me about the developer", "about ramanathan", "about the developer", "know more about ramanathan", "know more about ram", "know more about the developer"]
     if any(k in q for k in developer_keywords) or q in ["ram", "ramanathan", "zendrum", "developer", "creator"]:
         return {
             "intent": "developer_query",
