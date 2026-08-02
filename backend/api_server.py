@@ -2886,11 +2886,8 @@ def chat_endpoint(req: ChatRequest, request: Request):
         "pallavaram", "thiruvanmiyur", "neelankarai", "akkarai", "perumpakkam", "kilkattalai", 
         "madipakkam", "kovilampakkam", "transport", "travel"
     ]
-    is_transport_q = any(k in active_query.lower() for k in transport_keywords)
-    if is_transport_q:
-        category = None
-        keywords = f"{keywords} college bus route transport timings stops"
-
+    if any(k in active_query.lower() for k in transport_keywords):
+        category = "Transport"
     # Entity Resolution (Req 2.9)
     # If the user is asking about a person, attempt to resolve them to an entity_id
     entity_id = None
@@ -2908,62 +2905,6 @@ def chat_endpoint(req: ChatRequest, request: Request):
             raise RuntimeError("HybridRetriever not initialised")
         candidates = hybrid_retriever.retrieve(retrieval_query, keywords, category, entity_id, q_vec=q_vec)
         candidates = [c for c in candidates if c.get("payload", {}).get("source_file") != "msajce_all_resource_links.md"]
-
-        # ── Document Routing based on FAQ matches or Transport boosts ─────────
-        faq_source_files = []
-        
-        # If this is a transport query, route specifically to the transport file
-        if is_transport_q:
-            faq_source_files.append("msajce_transport.pdf")
-            
-        for c in candidates[:3]:
-            payload = c.get("payload", {})
-            if payload.get("document_type") == "faq":
-                src = payload.get("source_file")
-                if src and src not in faq_source_files:
-                    faq_source_files.append(src)
-                    
-        if faq_source_files:
-            # Expand to include both .pdf and .md files
-            expanded_source_files = []
-            for f in faq_source_files:
-                base = os.path.splitext(f)[0]
-                expanded_source_files.append(f"{base}.pdf")
-                expanded_source_files.append(f"{base}.md")
-                
-            logger.info(f"[Routing] FAQ/Transport match. Routing query to source files: {expanded_source_files}")
-            
-            from qdrant_client.models import Filter, FieldCondition, MatchAny
-            route_filter = Filter(
-                must=[
-                    FieldCondition(key="source_file", match=MatchAny(any=expanded_source_files))
-                ]
-            )
-            
-            if hasattr(qdrant_client, "query_points"):
-                r = qdrant_client.query_points(
-                    collection_name=COLLECTION_NAME,
-                    query=q_vec,
-                    query_filter=route_filter,
-                    limit=12,
-                    with_payload=True
-                )
-                route_hits = r.points
-            else:
-                route_hits = qdrant_client.search(
-                    collection_name=COLLECTION_NAME,
-                    query_vector=q_vec,
-                    query_filter=route_filter,
-                    limit=12
-                )
-                
-            route_candidates = []
-            for h in route_hits:
-                if h.payload.get("source_file") != "msajce_all_resource_links.md":
-                    route_candidates.append({"text": h.payload.get("text", ""), "payload": h.payload})
-                    
-            if route_candidates:
-                candidates = route_candidates
 
         passages   = [c["text"] for c in candidates]
         payloads   = [c["payload"] for c in candidates]
