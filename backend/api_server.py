@@ -1010,6 +1010,31 @@ def get_resource_links(keywords: str) -> str:
             ],
             "clubs": [
                 ("MSAJCE Clubs & Student Societies Page", "https://www.msajce-edu.in/clubs.php")
+            ],
+            "alumni": [
+                ("MSAJCE Alumni Association Page", "https://www.msajce-edu.in/alumni.php")
+            ],
+            "contact": [
+                ("MSAJCE Official Contact Page", "https://www.msajce-edu.in/contact.php")
+            ],
+            "naac": [
+                ("MSAJCE NAAC Accreditation Page", "https://www.msajce-edu.in/naac.php")
+            ],
+            "nirf": [
+                ("MSAJCE NIRF Ranking Page", "https://www.msajce-edu.in/nirf.php")
+            ],
+            "scholarship": [
+                ("MSAJCE Scholarships & Financial Aid Page", "https://www.msajce-edu.in/scholarship.php"),
+                ("AICTE Pragati & Saksham Scheme Portal", "https://www.aicte-india.org/bureaus/esb/activities/pragati-saksham")
+            ],
+            "faculty": [
+                ("MSAJCE Faculty & Staff Directory", "https://www.msajce-edu.in/faculty.php")
+            ],
+            "principal": [
+                ("MSAJCE Principal's Message", "https://www.msajce-edu.in/principal.php")
+            ],
+            "iqac": [
+                ("MSAJCE Internal Quality Assurance Cell (IQAC)", "https://www.msajce-edu.in/iqac.php")
             ]
         }
 
