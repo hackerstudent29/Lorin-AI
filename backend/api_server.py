@@ -97,32 +97,32 @@ SEED_CACHE: list[dict] = [
         "query": "what courses does msajce offer",
         "answer": """MSAJCE (Mohamed Sathak A.J. College of Engineering) offers the following programmes:
 
-## 🎓 Undergraduate B.E / B.Tech Programmes
+## 🎓 Undergraduate B.E / B.Tech / B.Arch / B.Des Programmes
 
-| Programme | Total Intake | Govt Quota | Mgmt Quota |
-|---|---|---|---|
-| Civil Engineering | 30 | 15 | 15 |
-| Computer Science and Engineering (CSE) | 60 | 30 | 30 |
-| Electronics and Communication Engineering (ECE) | 60 | 30 | 30 |
-| Electrical and Electronics Engineering (EEE) | 30 | 15 | 15 |
-| Mechanical Engineering | 30 | 15 | 15 |
-| Information Technology (IT) | 60 | 30 | 30 |
-| Artificial Intelligence and Data Science (AI&DS) | 60 | 30 | 30 |
-| Computer Science and Business Systems (CSBS) | 30 | 15 | 15 |
-| CSE (Cyber Security) | 30 | 15 | 15 |
-| Artificial Intelligence and Machine Learning (AI&ML) | 60 | 30 | 30 |
-| Electronics (VLSI Design and Technology) | 30 | 15 | 15 |
-| ECE (Advanced Communication Technology) | 30 | 15 | 15 |
-| Bachelor of Architecture | 40 | 20 | 20 |
-| Bachelor of Design | 30 | 15 | 15 |
+| Department | Course Name | Duration | Total Seats | Govt Quota | Management Quota |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Civil Engineering** | B.E. in Civil Engineering | 4 years | 30 | 15 | 15 |
+| **Computer Science & Engineering** | B.E. in Computer Science and Engineering | 4 years | 60 | 30 | 30 |
+| **Electronics & Communication** | B.E. in Electronics and Communication Engineering | 4 years | 60 | 30 | 30 |
+| **Electrical & Electronics** | B.E. in Electrical and Electronics Engineering | 4 years | 30 | 15 | 15 |
+| **Mechanical Engineering** | B.E. in Mechanical Engineering | 4 years | 30 | 15 | 15 |
+| **Information Technology** | B.Tech. in Information Technology | 4 years | 60 | 30 | 30 |
+| **Artificial Intelligence** | B.Tech. in Artificial Intelligence and Data Science | 4 years | 60 | 30 | 30 |
+| **Computer Science & Business** | B.Tech. in Computer Science and Business Systems | 4 years | 30 | 15 | 15 |
+| **Cyber Security** | B.E. in Computer Science and Engineering (Cyber Security) | 4 years | 30 | 15 | 15 |
+| **Artificial Intelligence** | B.Tech. in Artificial Intelligence and Machine Learning | 4 years | 60 | 30 | 30 |
+| **VLSI Design** | B.E. in Electronics Engineering (VLSI Design and Technology) | 4 years | 30 | 15 | 15 |
+| **Advanced Communication** | B.E. in ECE (Advanced Communication Technology) | 4 years | 30 | 15 | 15 |
+| **Architecture** | Bachelor of Architecture (B.Arch) | 5 years | 40 | 20 | 20 |
+| **Design** | Bachelor of Design (B.Des) | 4 years | 30 | 15 | 15 |
 
 ## 🎓 Postgraduate Programmes (M.E / M.Arch)
 
-| Programme | Total Intake |
-|---|---|
-| Computer Science and Engineering | 9 |
-| Structural Engineering | 18 |
-| Master of Architecture | 15 |
+| Department | Course Name | Duration | Total Seats | Government Quota | Management Quota |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Computer Science** | M.E. in Computer Science and Engineering | 2 years | 9 | 3 | 6 |
+| **Civil Engineering** | M.E. in Structural Engineering | 2 years | 18 | 6 | 12 |
+| **Architecture** | Master of Architecture (M.Arch) | 2 years | 15 | 7 | 8 |
 
 ## 🔬 Research Programme
 - **Ph.D** in Mechanical Engineering
@@ -132,7 +132,7 @@ All programmes are approved by AICTE and affiliated to Anna University, Chennai.
     },
     {
         "query": "what are the courses in msajce",
-        "answer": """MSAJCE offers 14 UG programmes, 3 PG programmes and a Ph.D programme. The key UG courses are: CSE, IT, ECE, EEE, Mechanical, Civil, AI&DS, AI&ML, CSBS, Cyber Security, VLSI, ACT, B.Arch, and B.Design. For the full intake details ask: "What courses does MSAJCE offer?".""",
+        "answer": """MSAJCE offers 14 UG programmes (including B.Arch and B.Des), 3 PG programmes, and a Ph.D programme. The key UG courses are: CSE, IT, ECE, EEE, Mechanical, Civil, AI&DS, AI&ML, CSBS, Cyber Security, VLSI, ACT, B.Arch, and B.Design. For the full intake and quota details, ask: "What courses does MSAJCE offer?".""",
         "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Programmes Offered"}],
     },
     {
@@ -155,104 +155,104 @@ Plus Architecture and Design programmes.""",
     },
     {
         "query": "list all the ug courses offered by the college",
-        "answer": """Mohamed Sathak A.J. College of Engineering (MSAJCE) offers the following 12 B.E./B.Tech undergraduate courses, plus Architecture and Design programmes:
+        "answer": """Mohamed Sathak A.J. College of Engineering (MSAJCE) offers the following 12 B.E./B.Tech undergraduate courses, plus B.Arch and B.Des programmes:
 
 ## 🎓 Undergraduate (UG) Programmes
 
-| Programme | Total Sanctioned Intake | Govt Quota | Management Quota |
-| :--- | :--- | :--- | :--- |
-| **B.E. in Civil Engineering** | 30 | 15 | 15 |
-| **B.E. in Computer Science and Engineering** | 60 | 30 | 30 |
-| **B.E. in Electronics and Communication Engineering** | 60 | 30 | 30 |
-| **B.E. in Electrical and Electronics Engineering** | 30 | 15 | 15 |
-| **B.E. in Mechanical Engineering** | 30 | 15 | 15 |
-| **B.Tech. in Information Technology** | 60 | 30 | 30 |
-| **B.Tech. in Artificial Intelligence and Data Science** | 60 | 30 | 30 |
-| **B.Tech. in Computer Science and Business Systems** | 30 | 15 | 15 |
-| **B.E. in Computer Science and Engineering (Cyber Security)** | 30 | 15 | 15 |
-| **B.Tech. in Artificial Intelligence and Machine Learning** | 60 | 30 | 30 |
-| **B.E. in Electronics Engineering (VLSI Design and Technology)** | 30 | 15 | 15 |
-| **B.E. in ECE (Advanced Communication Technology)** | 30 | 15 | 15 |
-| **Bachelor of Architecture (B.Arch)** | 40 | 20 | 20 |
-| **Bachelor of Design (B.Des)** | 30 | 15 | 15 |
+| Department | Course Name | Duration | Total Seats | Govt Quota | Management Quota |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Civil Engineering** | B.E. in Civil Engineering | 4 years | 30 | 15 | 15 |
+| **Computer Science & Engineering** | B.E. in Computer Science and Engineering | 4 years | 60 | 30 | 30 |
+| **Electronics & Communication** | B.E. in Electronics and Communication Engineering | 4 years | 60 | 30 | 30 |
+| **Electrical & Electronics** | B.E. in Electrical and Electronics Engineering | 4 years | 30 | 15 | 15 |
+| **Mechanical Engineering** | B.E. in Mechanical Engineering | 4 years | 30 | 15 | 15 |
+| **Information Technology** | B.Tech. in Information Technology | 4 years | 60 | 30 | 30 |
+| **Artificial Intelligence** | B.Tech. in Artificial Intelligence and Data Science | 4 years | 60 | 30 | 30 |
+| **Computer Science & Business** | B.Tech. in Computer Science and Business Systems | 4 years | 30 | 15 | 15 |
+| **Cyber Security** | B.E. in Computer Science and Engineering (Cyber Security) | 4 years | 30 | 15 | 15 |
+| **Artificial Intelligence** | B.Tech. in Artificial Intelligence and Machine Learning | 4 years | 60 | 30 | 30 |
+| **VLSI Design** | B.E. in Electronics Engineering (VLSI Design and Technology) | 4 years | 30 | 15 | 15 |
+| **Advanced Communication** | B.E. in ECE (Advanced Communication Technology) | 4 years | 30 | 15 | 15 |
+| **Architecture** | Bachelor of Architecture (B.Arch) | 5 years | 40 | 20 | 20 |
+| **Design** | Bachelor of Design (B.Des) | 4 years | 30 | 15 | 15 |
 
 All undergraduate courses are approved by AICTE and affiliated to Anna University, Chennai.""",
         "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Programmes Offered"}],
     },
     {
         "query": "list the ug courses offered by the college",
-        "answer": """Mohamed Sathak A.J. College of Engineering (MSAJCE) offers the following 12 B.E./B.Tech undergraduate courses, plus Architecture and Design programmes:
+        "answer": """Mohamed Sathak A.J. College of Engineering (MSAJCE) offers the following 12 B.E./B.Tech undergraduate courses, plus B.Arch and B.Des programmes:
 
 ## 🎓 Undergraduate (UG) Programmes
 
-| Programme | Total Sanctioned Intake | Govt Quota | Management Quota |
-| :--- | :--- | :--- | :--- |
-| **B.E. in Civil Engineering** | 30 | 15 | 15 |
-| **B.E. in Computer Science and Engineering** | 60 | 30 | 30 |
-| **B.E. in Electronics and Communication Engineering** | 60 | 30 | 30 |
-| **B.E. in Electrical and Electronics Engineering** | 30 | 15 | 15 |
-| **B.E. in Mechanical Engineering** | 30 | 15 | 15 |
-| **B.Tech. in Information Technology** | 60 | 30 | 30 |
-| **B.Tech. in Artificial Intelligence and Data Science** | 60 | 30 | 30 |
-| **B.Tech. in Computer Science and Business Systems** | 30 | 15 | 15 |
-| **B.E. in Computer Science and Engineering (Cyber Security)** | 30 | 15 | 15 |
-| **B.Tech. in Artificial Intelligence and Machine Learning** | 60 | 30 | 30 |
-| **B.E. in Electronics Engineering (VLSI Design and Technology)** | 30 | 15 | 15 |
-| **B.E. in ECE (Advanced Communication Technology)** | 30 | 15 | 15 |
-| **Bachelor of Architecture (B.Arch)** | 40 | 20 | 20 |
-| **Bachelor of Design (B.Des)** | 30 | 15 | 15 |
+| Department | Course Name | Duration | Total Seats | Govt Quota | Management Quota |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Civil Engineering** | B.E. in Civil Engineering | 4 years | 30 | 15 | 15 |
+| **Computer Science & Engineering** | B.E. in Computer Science and Engineering | 4 years | 60 | 30 | 30 |
+| **Electronics & Communication** | B.E. in Electronics and Communication Engineering | 4 years | 60 | 30 | 30 |
+| **Electrical & Electronics** | B.E. in Electrical and Electronics Engineering | 4 years | 30 | 15 | 15 |
+| **Mechanical Engineering** | B.E. in Mechanical Engineering | 4 years | 30 | 15 | 15 |
+| **Information Technology** | B.Tech. in Information Technology | 4 years | 60 | 30 | 30 |
+| **Artificial Intelligence** | B.Tech. in Artificial Intelligence and Data Science | 4 years | 60 | 30 | 30 |
+| **Computer Science & Business** | B.Tech. in Computer Science and Business Systems | 4 years | 30 | 15 | 15 |
+| **Cyber Security** | B.E. in Computer Science and Engineering (Cyber Security) | 4 years | 30 | 15 | 15 |
+| **Artificial Intelligence** | B.Tech. in Artificial Intelligence and Machine Learning | 4 years | 60 | 30 | 30 |
+| **VLSI Design** | B.E. in Electronics Engineering (VLSI Design and Technology) | 4 years | 30 | 15 | 15 |
+| **Advanced Communication** | B.E. in ECE (Advanced Communication Technology) | 4 years | 30 | 15 | 15 |
+| **Architecture** | Bachelor of Architecture (B.Arch) | 5 years | 40 | 20 | 20 |
+| **Design** | Bachelor of Design (B.Des) | 4 years | 30 | 15 | 15 |
 
 All undergraduate courses are approved by AICTE and affiliated to Anna University, Chennai.""",
         "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Programmes Offered"}],
     },
     {
         "query": "ug courses",
-        "answer": """Mohamed Sathak A.J. College of Engineering (MSAJCE) offers the following 12 B.E./B.Tech undergraduate courses, plus Architecture and Design programmes:
+        "answer": """Mohamed Sathak A.J. College of Engineering (MSAJCE) offers the following 12 B.E./B.Tech undergraduate courses, plus B.Arch and B.Des programmes:
 
 ## 🎓 Undergraduate (UG) Programmes
 
-| Programme | Total Sanctioned Intake | Govt Quota | Management Quota |
-| :--- | :--- | :--- | :--- |
-| **B.E. in Civil Engineering** | 30 | 15 | 15 |
-| **B.E. in Computer Science and Engineering** | 60 | 30 | 30 |
-| **B.E. in Electronics and Communication Engineering** | 60 | 30 | 30 |
-| **B.E. in Electrical and Electronics Engineering** | 30 | 15 | 15 |
-| **B.E. in Mechanical Engineering** | 30 | 15 | 15 |
-| **B.Tech. in Information Technology** | 60 | 30 | 30 |
-| **B.Tech. in Artificial Intelligence and Data Science** | 60 | 30 | 30 |
-| **B.Tech. in Computer Science and Business Systems** | 30 | 15 | 15 |
-| **B.E. in Computer Science and Engineering (Cyber Security)** | 30 | 15 | 15 |
-| **B.Tech. in Artificial Intelligence and Machine Learning** | 60 | 30 | 30 |
-| **B.E. in Electronics Engineering (VLSI Design and Technology)** | 30 | 15 | 15 |
-| **B.E. in ECE (Advanced Communication Technology)** | 30 | 15 | 15 |
-| **Bachelor of Architecture (B.Arch)** | 40 | 20 | 20 |
-| **Bachelor of Design (B.Des)** | 30 | 15 | 15 |
+| Department | Course Name | Duration | Total Seats | Govt Quota | Management Quota |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Civil Engineering** | B.E. in Civil Engineering | 4 years | 30 | 15 | 15 |
+| **Computer Science & Engineering** | B.E. in Computer Science and Engineering | 4 years | 60 | 30 | 30 |
+| **Electronics & Communication** | B.E. in Electronics and Communication Engineering | 4 years | 60 | 30 | 30 |
+| **Electrical & Electronics** | B.E. in Electrical and Electronics Engineering | 4 years | 30 | 15 | 15 |
+| **Mechanical Engineering** | B.E. in Mechanical Engineering | 4 years | 30 | 15 | 15 |
+| **Information Technology** | B.Tech. in Information Technology | 4 years | 60 | 30 | 30 |
+| **Artificial Intelligence** | B.Tech. in Artificial Intelligence and Data Science | 4 years | 60 | 30 | 30 |
+| **Computer Science & Business** | B.Tech. in Computer Science and Business Systems | 4 years | 30 | 15 | 15 |
+| **Cyber Security** | B.E. in Computer Science and Engineering (Cyber Security) | 4 years | 30 | 15 | 15 |
+| **Artificial Intelligence** | B.Tech. in Artificial Intelligence and Machine Learning | 4 years | 60 | 30 | 30 |
+| **VLSI Design** | B.E. in Electronics Engineering (VLSI Design and Technology) | 4 years | 30 | 15 | 15 |
+| **Advanced Communication** | B.E. in ECE (Advanced Communication Technology) | 4 years | 30 | 15 | 15 |
+| **Architecture** | Bachelor of Architecture (B.Arch) | 5 years | 40 | 20 | 20 |
+| **Design** | Bachelor of Design (B.Des) | 4 years | 30 | 15 | 15 |
 
 All undergraduate courses are approved by AICTE and affiliated to Anna University, Chennai.""",
         "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Programmes Offered"}],
     },
     {
         "query": "undergraduate courses",
-        "answer": """Mohamed Sathak A.J. College of Engineering (MSAJCE) offers the following 12 B.E./B.Tech undergraduate courses, plus Architecture and Design programmes:
+        "answer": """Mohamed Sathak A.J. College of Engineering (MSAJCE) offers the following 12 B.E./B.Tech undergraduate courses, plus B.Arch and B.Des programmes:
 
 ## 🎓 Undergraduate (UG) Programmes
 
-| Programme | Total Sanctioned Intake | Govt Quota | Management Quota |
-| :--- | :--- | :--- | :--- |
-| **B.E. in Civil Engineering** | 30 | 15 | 15 |
-| **B.E. in Computer Science and Engineering** | 60 | 30 | 30 |
-| **B.E. in Electronics and Communication Engineering** | 60 | 30 | 30 |
-| **B.E. in Electrical and Electronics Engineering** | 30 | 15 | 15 |
-| **B.E. in Mechanical Engineering** | 30 | 15 | 15 |
-| **B.Tech. in Information Technology** | 60 | 30 | 30 |
-| **B.Tech. in Artificial Intelligence and Data Science** | 60 | 30 | 30 |
-| **B.Tech. in Computer Science and Business Systems** | 30 | 15 | 15 |
-| **B.E. in Computer Science and Engineering (Cyber Security)** | 30 | 15 | 15 |
-| **B.Tech. in Artificial Intelligence and Machine Learning** | 60 | 30 | 30 |
-| **B.E. in Electronics Engineering (VLSI Design and Technology)** | 30 | 15 | 15 |
-| **B.E. in ECE (Advanced Communication Technology)** | 30 | 15 | 15 |
-| **Bachelor of Architecture (B.Arch)** | 40 | 20 | 20 |
-| **Bachelor of Design (B.Des)** | 30 | 15 | 15 |
+| Department | Course Name | Duration | Total Seats | Govt Quota | Management Quota |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Civil Engineering** | B.E. in Civil Engineering | 4 years | 30 | 15 | 15 |
+| **Computer Science & Engineering** | B.E. in Computer Science and Engineering | 4 years | 60 | 30 | 30 |
+| **Electronics & Communication** | B.E. in Electronics and Communication Engineering | 4 years | 60 | 30 | 30 |
+| **Electrical & Electronics** | B.E. in Electrical and Electronics Engineering | 4 years | 30 | 15 | 15 |
+| **Mechanical Engineering** | B.E. in Mechanical Engineering | 4 years | 30 | 15 | 15 |
+| **Information Technology** | B.Tech. in Information Technology | 4 years | 60 | 30 | 30 |
+| **Artificial Intelligence** | B.Tech. in Artificial Intelligence and Data Science | 4 years | 60 | 30 | 30 |
+| **Computer Science & Business** | B.Tech. in Computer Science and Business Systems | 4 years | 30 | 15 | 15 |
+| **Cyber Security** | B.E. in Computer Science and Engineering (Cyber Security) | 4 years | 30 | 15 | 15 |
+| **Artificial Intelligence** | B.Tech. in Artificial Intelligence and Machine Learning | 4 years | 60 | 30 | 30 |
+| **VLSI Design** | B.E. in Electronics Engineering (VLSI Design and Technology) | 4 years | 30 | 15 | 15 |
+| **Advanced Communication** | B.E. in ECE (Advanced Communication Technology) | 4 years | 30 | 15 | 15 |
+| **Architecture** | Bachelor of Architecture (B.Arch) | 5 years | 40 | 20 | 20 |
+| **Design** | Bachelor of Design (B.Des) | 4 years | 30 | 15 | 15 |
 
 All undergraduate courses are approved by AICTE and affiliated to Anna University, Chennai.""",
         "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Programmes Offered"}],
@@ -263,11 +263,11 @@ All undergraduate courses are approved by AICTE and affiliated to Anna Universit
 
 ## 🎓 Postgraduate (PG) Programmes
 
-| Programme | Total Sanctioned Intake | Government Quota | Management Quota |
-| :--- | :--- | :--- | :--- |
-| **M.E. in Computer Science and Engineering** | 9 | 3 | 6 |
-| **M.E. in Structural Engineering** | 18 | 6 | 12 |
-| **Master of Architecture (M.Arch)** | 15 | 7 | 8 |
+| Department | Course Name | Duration | Total Seats | Government Quota | Management Quota |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Computer Science** | M.E. in Computer Science and Engineering | 2 years | 9 | 3 | 6 |
+| **Civil Engineering** | M.E. in Structural Engineering | 2 years | 18 | 6 | 12 |
+| **Architecture** | Master of Architecture (M.Arch) | 2 years | 15 | 7 | 8 |
 
 All postgraduate courses are approved by AICTE and affiliated to Anna University, Chennai.""",
         "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Programmes Offered"}],
@@ -278,11 +278,11 @@ All postgraduate courses are approved by AICTE and affiliated to Anna University
 
 ## 🎓 Postgraduate (PG) Programmes
 
-| Programme | Total Sanctioned Intake | Government Quota | Management Quota |
-| :--- | :--- | :--- | :--- |
-| **M.E. in Computer Science and Engineering** | 9 | 3 | 6 |
-| **M.E. in Structural Engineering** | 18 | 6 | 12 |
-| **Master of Architecture (M.Arch)** | 15 | 7 | 8 |
+| Department | Course Name | Duration | Total Seats | Government Quota | Management Quota |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Computer Science** | M.E. in Computer Science and Engineering | 2 years | 9 | 3 | 6 |
+| **Civil Engineering** | M.E. in Structural Engineering | 2 years | 18 | 6 | 12 |
+| **Architecture** | Master of Architecture (M.Arch) | 2 years | 15 | 7 | 8 |
 
 All postgraduate courses are approved by AICTE and affiliated to Anna University, Chennai.""",
         "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Programmes Offered"}],
@@ -293,11 +293,11 @@ All postgraduate courses are approved by AICTE and affiliated to Anna University
 
 ## 🎓 Postgraduate (PG) Programmes
 
-| Programme | Total Sanctioned Intake | Government Quota | Management Quota |
-| :--- | :--- | :--- | :--- |
-| **M.E. in Computer Science and Engineering** | 9 | 3 | 6 |
-| **M.E. in Structural Engineering** | 18 | 6 | 12 |
-| **Master of Architecture (M.Arch)** | 15 | 7 | 8 |
+| Department | Course Name | Duration | Total Seats | Government Quota | Management Quota |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Computer Science** | M.E. in Computer Science and Engineering | 2 years | 9 | 3 | 6 |
+| **Civil Engineering** | M.E. in Structural Engineering | 2 years | 18 | 6 | 12 |
+| **Architecture** | Master of Architecture (M.Arch) | 2 years | 15 | 7 | 8 |
 
 All postgraduate courses are approved by AICTE and affiliated to Anna University, Chennai.""",
         "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Programmes Offered"}],
@@ -308,11 +308,11 @@ All postgraduate courses are approved by AICTE and affiliated to Anna University
 
 ## 🎓 Postgraduate (PG) Programmes
 
-| Programme | Total Sanctioned Intake | Government Quota | Management Quota |
-| :--- | :--- | :--- | :--- |
-| **M.E. in Computer Science and Engineering** | 9 | 3 | 6 |
-| **M.E. in Structural Engineering** | 18 | 6 | 12 |
-| **Master of Architecture (M.Arch)** | 15 | 7 | 8 |
+| Department | Course Name | Duration | Total Seats | Government Quota | Management Quota |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Computer Science** | M.E. in Computer Science and Engineering | 2 years | 9 | 3 | 6 |
+| **Civil Engineering** | M.E. in Structural Engineering | 2 years | 18 | 6 | 12 |
+| **Architecture** | Master of Architecture (M.Arch) | 2 years | 15 | 7 | 8 |
 
 All postgraduate courses are approved by AICTE and affiliated to Anna University, Chennai.""",
         "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Programmes Offered"}],
@@ -433,6 +433,267 @@ All postgraduate courses are approved by AICTE and affiliated to Anna University
 
 *Note: Route AR 4 passes through Vepery Police Station, NOT Velachery.*""",
         "citations": [{"source": "msajce_transport.md", "page": "1", "section": "College Bus Routes Summary"}],
+    },
+    # ── Question Cards Seeds ──────────────────────────────────────────────
+    {
+        "query": "What is the admission procedure, eligibility, and TNEA cutoff for B.E / B.Tech at MSAJCE?",
+        "answer": """Mohamed Sathak A.J. College of Engineering (MSAJCE) admission details:
+
+### 📝 Admission Procedure
+- **Counselling Route**: Students who have completed Plus 2 or Diploma can apply through the **TNEA (Tamil Nadu Engineering Admissions)** counselling process conducted by DOTE.
+- **NRI Admissions**: 5% of sanctioned seats are reserved under the NRI category. If NRI seats are unfilled, they are given to general candidates based on merit.
+- **Contact Admissions**: Direct admission queries can be referred to Physical Education Director Dr. K.P. Santhosh Nathan (+91 99400 04500 / ped.santhosh@msajce-edu.in) or Principal Dr. K.S. Srinivasan (+91 91505 75066 / principal@msajce-edu.in).
+
+### 🎓 Eligibility Criteria (UG B.E. / B.Tech)
+- **Minimum Qualifying Marks**: Pass in HSC (Academic) or equivalent with a minimum average percentage in Mathematics, Physics, and Chemistry put together:
+  - **General Category (OC)**: **45%** minimum average
+  - **Backward Class (BC/BCM)**: **40%** minimum average
+  - **MBC / DNC**: **40%** minimum average
+  - **SC / SCA / ST**: **40%** minimum average
+
+### 🔄 Direct Second Year Lateral Entry Eligibility
+- **Diploma Candidates**: Must have passed the Diploma in the appropriate branch from the State Board of Technical Education, Tamil Nadu, or equivalent.
+- **B.Sc. Candidates**: Must have passed a recognized B.Sc. degree (3-year pattern) studying Mathematics at the degree level.
+- **Minimum Marks**:
+  - **General Category (OC)**: **55%** minimum average
+  - **Backward Class (BC/BCM)**: **50%** minimum average
+  - **MBC / DNC**: **45%** minimum average
+  - **SC / SCA / ST**: Mere pass in the qualifying examination""",
+        "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Under Graduate Programmes"}],
+    },
+    {
+        "query": "Tell me about the Central Library facilities, books stack, and working hours at MSAJCE.",
+        "answer": """The Learning Centre (Central Library) is a core support service at MSAJCE:
+
+### 📚 Infrastructure and Book Stacks
+- **Area**: The library covers a spacious area of **8,978 square feet** spanning across the Ground Floor and the First Floor.
+- **Automation**: Fully computerized using Bar-coded Technology and **Koha** open-source library management software. Has high-speed Internet and Wi-Fi connectivity.
+- **Book Stack Collection**:
+  - **Total Volumes**: **29,853 volumes** comprising **5,628 titles**
+  - **Reference Books**: **1,885 reference volumes**
+  - **E-books**: **3,790 e-books** available
+  - **Printed Journals**: Subscribes to **35 specialized printed journals** and **20 magazines**
+  - **E-journals**: Subscribes to DELNET (**1,379 e-journals**) and J-Gate Database (**over 50,684 journals** online)
+  - **Multimedia**: **356 CD-ROMs** and **260 project reports**
+
+### ⏰ Library Working Hours
+- **Monday to Saturday**: **8:00 AM to 7:00 PM**
+- **Sundays**: **10:00 AM to 4:00 PM**
+
+### 💳 Borrowing Eligibility
+- **Undergraduate & Postgraduate Students**: Entitled to borrow **18 books** for a loan period of **30 days**.
+- **Teaching Staff**: Entitled to borrow **10 books** for a loan period of **30 days**.
+- **Supporting & Administrative Staff**: Entitled to borrow **4 books** for a loan period of **30 days**.""",
+        "citations": [{"source": "msajce_library.md", "page": "1", "section": "Overview"}],
+    },
+    {
+        "query": "List all UG and PG degree courses offered at Mohamed Sathak A.J. College of Engineering.",
+        "answer": """Mohamed Sathak A.J. College of Engineering (MSAJCE) offers the following Undergraduate and Postgraduate courses:
+
+### 🎓 Undergraduate (UG) B.E. / B.Tech / B.Arch / B.Des Courses
+
+| Department | Course Name | Duration | Total Seats | Govt Quota | Management Quota |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Civil Engineering** | B.E. in Civil Engineering | 4 years | 30 | 15 | 15 |
+| **Computer Science & Engineering** | B.E. in Computer Science and Engineering | 4 years | 60 | 30 | 30 |
+| **Electronics & Communication** | B.E. in Electronics and Communication Engineering | 4 years | 60 | 30 | 30 |
+| **Electrical & Electronics** | B.E. in Electrical and Electronics Engineering | 4 years | 30 | 15 | 15 |
+| **Mechanical Engineering** | B.E. in Mechanical Engineering | 4 years | 30 | 15 | 15 |
+| **Information Technology** | B.Tech. in Information Technology | 4 years | 60 | 30 | 30 |
+| **Artificial Intelligence** | B.Tech. in Artificial Intelligence and Data Science | 4 years | 60 | 30 | 30 |
+| **Computer Science & Business** | B.Tech. in Computer Science and Business Systems | 4 years | 30 | 15 | 15 |
+| **Cyber Security** | B.E. in Computer Science and Engineering (Cyber Security) | 4 years | 30 | 15 | 15 |
+| **Artificial Intelligence** | B.Tech. in Artificial Intelligence and Machine Learning | 4 years | 60 | 30 | 30 |
+| **VLSI Design** | B.E. in Electronics Engineering (VLSI Design and Technology) | 4 years | 30 | 15 | 15 |
+| **Advanced Communication** | B.E. in ECE (Advanced Communication Technology) | 4 years | 30 | 15 | 15 |
+| **Architecture** | Bachelor of Architecture (B.Arch) | 5 years | 40 | 20 | 20 |
+| **Design** | Bachelor of Design (B.Des) | 4 years | 30 | 15 | 15 |
+
+### 🎓 Postgraduate (PG) M.E. / M.Arch Courses
+
+| Department | Course Name | Duration | Total Seats | Government Quota | Management Quota |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Computer Science** | M.E. in Computer Science and Engineering | 2 years | 9 | 3 | 6 |
+| **Civil Engineering** | M.E. in Structural Engineering | 2 years | 18 | 6 | 12 |
+| **Architecture** | Master of Architecture (M.Arch) | 2 years | 15 | 7 | 8 |
+
+### 🔬 Research Programme
+- **Ph.D.** in Mechanical Engineering
+
+All courses are approved by AICTE New Delhi and affiliated to Anna University, Chennai.""",
+        "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Programmes Offered"}],
+    },
+    {
+        "query": "What are the placement statistics, highest package, and top recruiting companies at MSAJCE?",
+        "answer": """Placement and recruitment details at Mohamed Sathak A.J. College of Engineering (MSAJCE):
+
+### 💼 Internship Recruiter Placements (2022-2023 Batch)
+A high percentage of students secure internships and placements in leading corporate organizations. Student placement counts for internship recruits in 2022-2023 include:
+- **Lenovo**: 75 students
+- **Zoho Tech**: 51 students
+- **Green Valleys Shelters Pvt. Ltd.**: 45 students
+- **Thermodyn**: 39 students
+- **Ozaro Media Teck**: 34 students
+- **Sri KVS Industries**: 30 students
+- **Openwave**: 16 students
+- **Preethi Engineering**: 14 students
+- **TVS Mobility**: 10 students
+- **Disenosys**: 9 students
+
+### 💰 Placement Packages
+- **Highest and Average Packages**: Specific salary packages or highest placement packages are not explicitly documented in the available records. For detailed salary package charts, contact the Placement Officer Mr. S.V. Vinodh (+91-99409 02255 / placement@msajce-edu.in).
+
+### 🤝 Placement Committee
+- **Placement Officer**: Mr. S.V. Vinodh (placement@msajce-edu.in)
+- **Assistant Placement Officer**: Mr. Ajin Sijo John""",
+        "citations": [{"source": "msajce_placement.md", "page": "1", "section": "Overview"}],
+    },
+    {
+        "query": "What are the hostel facilities, room capacity, mess, and rules for the Boys Hostel at MSAJCE?",
+        "answer": """MSAJCE Boys Hostel details and facilities:
+
+### 🏢 Hostel Capacity and Rooms
+- **Location**: Located inside the college campus, surrounded by greenery.
+- **Blocks**: Consists of **3 blocks** and accommodates up to **480 boy students**.
+- **Room Types**: Offers **233 Non-AC rooms** and **6 AC rooms**, with **2 students accommodated per room**.
+- **Furnishing**: Well furnished with cot, mattress, pillows, bed-spreads, individual cupboards, study table, chair, fan, water heater, and wall hangers.
+
+### 🍴 Dining and Canteen
+- **Hygienic Canteen**: Serving nutritious vegetarian and non-vegetarian food. Mess charges are collected annually at the time of admission.
+- **Canteen Hours**: Open on all working days from **8:00 AM to 8:00 PM**.
+- **Mess Hours**:
+  - **Breakfast**: 7:00 AM to 8:00 AM (working days)
+  - **Lunch**: 1:00 PM to 1:45 PM (working days)
+  - **Dinner**: 7:00 PM to 8:30 PM (working days)
+
+### 📋 Rules and Daily Timings
+- **Room Allotment**: Approved strictly by the Warden or Principal Dr. K.S. Srinivasan.
+- **Cleanliness**: Students are responsible for keeping their rooms clean.
+- **Authorized Visitors**: Permitted only on holidays from **11:00 AM to 6:00 PM** (must be on the authorized visitors list).
+- **Daily Study Hours**:
+  - **Morning**: 5:00 AM to 7:00 AM
+  - **Evening**: 6:00 PM to 7:00 PM & 9:00 PM to 10:30 PM""",
+        "citations": [{"source": "msajce_hostel.md", "page": "1", "section": "Boys Hostel"}],
+    },
+    {
+        "query": "What are the hostel facilities, room capacity, and details for the Girls Hostel at MSAJCE?",
+        "answer": """MSAJCE Girls Hostel details and facilities:
+
+### 🏢 Accommodation & Capacity
+- **Location**: Located at **Sholinganallur** (approximately **5 KM away from the campus**) in a premium, safe, and secure neighborhood.
+- **Blocks**: Consists of **1 block** with **71 Non-AC rooms**.
+- **Room Capacity**: Accommodates **3 girl students per room**. The total capacity is **210 girl students**.
+- **Furnishing**: Fully furnished with cots, mattresses, cupboards, study tables with lamps, wash basin, mirror, and attached bath/toilet facilities.
+
+### 📶 Amenities & Study Hours
+- **Facilities**: Wi-Fi internet access, land-line telephone, TV hall, indoor games, and reading room with papers and magazines.
+- **Extended Library**: Library and computer facilities are made available **until 9:00 PM** inside the hostel for student convenience.
+- **Mess**: Serves high-quality vegetarian and non-vegetarian meals under the guidance of the Administrative Officer and the Principal.""",
+        "citations": [{"source": "msajce_hostel.md", "page": "1", "section": "Girls Hostel"}],
+    },
+    {
+        "query": "Give an overview of college bus routes, route numbers, boarding points, and timings at MSAJCE.",
+        "answer": """Overview of college bus routes, timings, and stops at Mohamed Sathak A.J. College of Engineering (MSAJCE):
+
+### 🚌 Summary of College Bus Routes and Timings
+The college operates a fleet of **22 buses** arriving at MSAJCE College by **8:00 AM**. Timings and stops include:
+
+| Route | Departure Stop | Departure Time | Key Stops |
+| :--- | :--- | :--- | :--- |
+| **AR 3** | Uthiramerur | 6:00 AM | Guduvanchery, Vandalur Zoo, Kandigai, Kelambakkam |
+| **AR 4** | Moolakadai | 6:10 AM | Perambur, Vepery Police Station (6:25 AM), Parrys Corner, Adyar, Palavakkam, Sholinganallur |
+| **N/3** | MMDA School | 6:15 AM | Anna Nagar, Loyola College, Saidapet, Velachery Check Post (6:50 AM), Baby Nagar (6:55 AM) |
+| **AR 6** | ICF | 6:15 AM | Egmore, Triplicane, Madhyakilash, SRP Tools, Karapakkam |
+| **AR 7** | Chunambedu | 5:25 AM | Kalpakkam, Thirukazukundram, Kelambakkam, Padur |
+| **AR 8** | Manjambakkam | 5:50 AM | Retteri, Nesapakkam, Ashok Pillar, Kaiveli (6:55 AM), Medavakkam, Sholinganallur |
+| **AR 9** | Ennore | 6:15 AM | Mint, Broadway, Central, Royapettah, Mylapore, Adyar, Neelankarai |
+| **AR 10** | Porur | 6:25 AM | Pammal, Pallavaram, Chrompet, Tambaram (7:00 AM), Medavakkam, Sholinganallur |
+| **R 22** | Nemilichery | 5:50 AM | Poonamallee, Porur, Kathipara, Velachery Bypass (6:45 AM), Kaiveli (7:00 AM), Medavakkam |
+
+### 📞 Transport Contacts
+- **Transport Convener**: Dr. K. P. Santhosh Nathan (+91 99400 04500 / 98408 86992)
+- **Assistant Convener**: Mr. A. Abdul Gafoor (+91 99403 19629)
+
+*Note: Route AR 4 passes through Vepery Police Station, NOT Velachery. Personal numbers of drivers are restricted; contact transport conveners for direct route queries.*""",
+        "citations": [{"source": "msajce_transport.md", "page": "1", "section": "College Bus Routes Summary"}],
+    },
+    {
+        "query": "Tell me about the laboratory facilities, technology centres, and practical learning infrastructure at MSAJCE.",
+        "answer": """Practical learning and lab facilities at Mohamed Sathak A.J. College of Engineering (MSAJCE):
+
+### 🔬 Practical Labs & Facilities
+- **Lab Infrastructure**: MSAJCE has well-established, air-conditioned computer laboratories and specialized department labs catering to practical learning and examinations.
+- **Department Laboratories**:
+  - **CSE & IT**: High-speed internet labs equipped for programming, networking, databases, and AI machine learning.
+  - **ECE**: Communications engineering, microcontroller, and specialized embedded systems design labs.
+  - **EEE & Mechanical**: Electrical machines, power systems, control systems, and mechanical engineering workshops.
+  - **Civil**: Structural engineering, strength of materials, and surveying labs.
+
+### 🏢 Technology Centres & Centers of Excellence (CoEs)
+- **Centers of Excellence**: Established under the leadership of the Industry-Institute Interaction Cell (IIICell) with rich industrial collaboration.
+- **Skilling Courses**: Technology centers host value-added and skill development courses, including AI/Machine Learning Developer (756 hours, NSQF Level 7), Embedded System Design using ARM/Cortex, and Architectural Drafting in Autodesk Revit.""",
+        "citations": [{"source": "msajce_about.md", "page": "1", "section": "Overview"}],
+    },
+    {
+        "query": "What scholarships are available for students at MSAJCE?",
+        "answer": """MSAJCE students are eligible for various AICTE and Government scholarships:
+
+### 🎓 Available Scholarship Schemes
+
+| Scheme Name | Funding Body | Eligibility / Requirements | Scholarship Amount |
+| :--- | :--- | :--- | :--- |
+| **Pragati Scheme** | AICTE | Girl students (max 2 per family), family income < 8 Lakhs per annum | Rs. 50,000 / year (800 scholarships for TN) |
+| **Saksham Scheme** | AICTE | Specially abled students (>40% disability), family income < 8 Lakhs per annum | Rs. 50,000 / year (all eligible candidates in TN) |
+| **Merit-cum-Means** | Ministry of Minority Affairs | Minority community, >50% marks in final exam, family income < 2.5 Lakhs | Rs. 20,000 / year (+12k hostellers, 6k day scholars) |
+| **Central Sector Scheme** | MHRD | >80% marks in final examinations, family income < 8 Lakhs per annum | Rs. 10,000 / year (4883 scholarships for TN) |
+| **Labour Wards Scheme** | Ministry of Labour & Employment | Wards of Beedi, Mine, and Cine workers, family income < 10,000 / month | Rs. 15,000 / year (all eligible candidates in TN) |
+
+For scholarship details and application assistance, contact the Administrative Office (+91 99400 04500 / msajce.office@gmail.com).""",
+        "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Undergraduate Scholarships"}],
+    },
+    {
+        "query": "Tell me about MSAJCE's affiliation, accreditation, NAAC grade, and history.",
+        "answer": """About Mohamed Sathak A.J. College of Engineering (MSAJCE):
+
+### 📜 Institutional Profile & Affiliations
+- **Establishment**: Founded on **5th July 2001** under the aegis of the Mohamed Sathak Trust.
+- **Approvals & Affiliations**: Approved by the **AICTE New Delhi**, affiliated to **Anna University Chennai**, and recognized by the Government of Tamil Nadu.
+- **Accreditation**: Accredited by the **National Assessment and Accreditation Council (NAAC)**, Bangalore.
+- **Campus**: The college features a sprawling, green campus over **70 acres** located inside the **SIPCOT IT Park** in Siruseri, Chennai. It is surrounded by major multinational corporations (such as TCS, CTS, Infosys, and HCL), offering excellent industry institution interaction.
+
+For admission and general enquiries, contact the college office (+91 99400 04500 / msajce.office@gmail.com).""",
+        "citations": [{"source": "msajce_about.md", "page": "1", "section": "Overview"}],
+    },
+    {
+        "query": "What sports facilities, athletic infrastructure, and student clubs are active at MSAJCE?",
+        "answer": """MSAJCE provides a highly active and vibrant campus life:
+
+### 🏆 Sports & Athletic Facilities
+- **Facilities**: Features a spacious playground and indoor sports setups.
+- **Activities**: Supports student participation in local and national sports meets, NCC, and NSS activities.
+- **Head of Sports**: Managed under the guidance of Physical Education Director Dr. K.P. Santhosh Nathan (+91 99400 04500 / ped.santhosh@msajce-edu.in).
+
+### 🎭 Student Clubs & Professional Societies
+- **Clubs**: Active clubs include Cultural Clubs, NSS, NCC, and the Youth Red Cross (YRC) for community social services.
+- **Professional Societies**: Hosts active student chapters of major professional organizations to promote innovative technical learning, competitive hackathons, and webinars.""",
+        "citations": [{"source": "msajce_about.md", "page": "1", "section": "Why Join MSAJCE"}],
+    },
+    {
+        "query": "What are the official contact numbers, email addresses, and location details for visiting MSAJCE campus?",
+        "answer": """Official contact details and location for Mohamed Sathak A.J. College of Engineering (MSAJCE):
+
+### 📍 Campus Location
+- **Address**: 34, Rajiv Gandhi Salai (OMR), Inside SIPCOT IT Park, Siruseri, Egattur, Chennai, Tamil Nadu 603103.
+- **Coordinates**: **12°50'08.9"N 80°13'07.0"E** (Plus Code: **R6P9+8C Egattur, Tamil Nadu**).
+- **Google Maps Directions**: [Google Maps Directions Link](https://maps.app.goo.gl/nrTgXSwx1h76SjdSA)
+
+### 📞 Contact Numbers & Emails
+- **Admission Enquiries**: Dr. K.P. Santhosh Nathan (ped.santhosh@msajce-edu.in / +91 99400 04500)
+- **General Office**: Phone: +91 99400 04500 | Email: msajce.office@gmail.com
+- **Principal Office**: Dr. K.S. Srinivasan (principal@msajce-edu.in)
+- **Administrative Officer**: Mr. A. Abdul Gafoor (abdulgafoor@msajce-edu.in)
+- **Placement Officer**: Mr. S.V. Vinodh (placement@msajce-edu.in / +91-99409 02255)""",
+        "citations": [{"source": "msajce_about.md", "page": "1", "section": "Campus Location & Google Maps"}],
     },
 ]
 
