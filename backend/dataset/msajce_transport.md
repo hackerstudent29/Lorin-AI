@@ -37,3 +37,14 @@ Bus route AR 10, which is also called R21, is driven by Mr. Ravindran <!--ent_30
 
 ### Route R 22
 Bus route R 22 is driven by Mr. Jaffar <!--ent_180-->, whose contact number is 9566037890. It starts from Nemilichery and departs at 5:50 AM. It passes through Nemilichery at 5:50 AM, Poonnamalle at 6:05 AM, Kumanan Chavadi at 6:00 AM, Kattupakkam at 6:05 AM, Ramachandra Hospital at 6:10 AM, Porur at 6:15 AM, Valasaravakkam at 6:20 AM, Ramapuram at 6:25 AM, Nanthampakkam at 6:30 AM, Kathipara Junction at 6:35 AM, Thillai Ganga Subway at 6:40 AM, Velachery Bypass at 6:45 AM, Kaiveli at 7:00 AM, Madipakkam at 7:05 AM, Kilkattalai at 7:10 AM, Kovilampakkam at 7:15 AM, Medavakkam at 7:20 AM, Sholinganallur at 7:25 AM, and arrives at **MSAJCE** at 8:00 AM.
+
+## 4. Nearest Bus Stops & Public Transport
+The park is well-served by **Metropolitan Transport Corporation (MTC)** buses with dedicated stops at the park entrance and inside the campus:
+- **Key Bus Stops**: "Siruseri I.T. Park", "SIPCOT", and "Navalur".
+- **Major Bus Routes**:
+    - **570 Series** (570, 570V, 570C, AC-570): Connects to CMBT (Koyembedu), Guindy, and Velachery.
+    - **102 Series** (102, 102X, 102-EXT): Connects to Tambaram and Adyar.
+    - **19 & 19BET**: Connects to Adyar and Mahabalipuram.
+    - **555G**: Connects to Chengalpattu.
+    - **221**: Late-night/early-morning connectivity.
+- **Suburban Train**: The nearest railway stations are **Perungudi** (approx. 8 km) and **Tambaram** (approx. 12 km), requiring a bus or auto-rickshaw connection.
