@@ -61,14 +61,14 @@ def chunk_by_section(text: str, max_chars: int = 900):
     return chunks
 
 chunks = chunk_by_section(text)
-print(f"[1/3] Chunking done: {len(chunks)} chunks. Resuming from chunk 31.")
+print(f"[1/3] Chunking done: {len(chunks)} chunks.")
 
 # ── Embed ─────────────────────────────────────────────────────────────────────
 def embed(t: str) -> list:
     res = requests.post(
         "https://integrate.api.nvidia.com/v1/embeddings",
         headers={"Authorization": f"Bearer {NVIDIA_API_KEY}", "Content-Type": "application/json"},
-        json={"input": [t], "model": "nvidia/nemotron-3-embed-1b", "input_type": "passage"},
+        json={"input": [t], "model": "nvidia/nv-embedqa-e5-v5", "input_type": "passage"},
         timeout=30,
     )
     res.raise_for_status()
@@ -78,11 +78,9 @@ def safe_print(s: str) -> str:
     return s.encode('ascii', errors='replace').decode('ascii')
 
 # ── Upsert remaining chunks (31 onwards) ─────────────────────────────────────
-print(f"[2/3] Embedding chunks 31-{len(chunks)}...")
+print(f"[2/3] Embedding chunks...")
 points = []
 for i, chunk_text in enumerate(chunks):
-    if i < 30:   # already upserted in previous run
-        continue
     if len(chunk_text.strip()) < 60:
         continue
     lines = chunk_text.strip().splitlines()

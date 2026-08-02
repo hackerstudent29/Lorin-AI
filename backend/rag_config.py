@@ -14,7 +14,7 @@ GENERATION_MODELS = {
 
 # --- Approved Embedding Models ---
 EMBEDDING_MODELS = {
-    "PRIMARY_NVIDIA": "nvidia/nemotron-3-embed-1b", # Free via NVIDIA Nim (2048-dim)
+    "PRIMARY_NVIDIA": "nvidia/nv-embedqa-e5-v5", # Free via NVIDIA Nim (1024-dim)
     "VERCEL_CHEAPEST": "alibaba/qwen3-embedding-0.6b", # $0.01/M via Vercel AI Gateway
     "VERCEL_TITAN": "amazon/titan-embed-text-v2",     # $0.02/M via Vercel AI Gateway
     "VERCEL_GOOGLE": "google/text-embedding-005"       # $0.03/M via Vercel AI Gateway

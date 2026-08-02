@@ -584,7 +584,7 @@ def run():
 
     # Embed
     texts_to_embed = [c.text for c in all_chunks]
-    print("[EMBED] Generating vectors via NVIDIA Nemotron-3...\n")
+    print("[EMBED] Generating vectors via NVIDIA nv-embedqa-e5-v5...\n")
     embeddings = get_nvidia_embeddings_batch(texts_to_embed, batch_size=20)
 
     # Build Qdrant points — deterministic ID from chunk_hash so re-runs upsert cleanly
