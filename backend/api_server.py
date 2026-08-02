@@ -2795,6 +2795,41 @@ def chat_endpoint(req: ChatRequest, request: Request):
             followups=[]
         )
 
+    # ── Step 0.5: Direct Intent Interception (Greetings, Goodbyes, Thanks, Developer) ──
+    uq_lower = user_query.lower().strip("?.! ")
+    greetings = {"hi", "hello", "hey", "greetings", "good morning", "good afternoon", "good evening", "howdy", "hii"}
+    goodbyes  = {"bye", "goodbye", "see you", "exit", "quit", "talk to you later", "cya"}
+    thanks    = {"thanks", "thank you", "thank you so much", "great", "awesome", "perfect", "nice"}
+    developer_keywords = ["who is ram", "who is ramanathan", "who is zendrum", "who is the developer", "who created", "who built", "creator of", "developer of", "ur host", "your host", "who made you", "tell me about ram", "tell me about the developer", "about ramanathan", "about the developer", "know more about ramanathan", "know more about ram", "know more about the developer"]
+
+    direct_ans = None
+    direct_intent = None
+    if uq_lower in greetings:
+        direct_intent = "greeting"
+        direct_ans = "Hello! 😊 I'm Lorin, your MSAJCE campus assistant. What would you like to know?"
+    elif uq_lower in goodbyes:
+        direct_intent = "goodbye"
+        direct_ans = "Goodbye! It was great chatting with you. Feel free to come back anytime. 😊"
+    elif uq_lower in thanks:
+        direct_intent = "compliment"
+        direct_ans = "You're welcome! Happy to help. If you have more questions about MSAJCE, just ask! 😊"
+    elif any(k in uq_lower for k in developer_keywords) or uq_lower in ["ram", "ramanathan", "zendrum", "developer", "creator"]:
+        direct_intent = "developer_query"
+        direct_ans = "I was developed by **Ramanathan S.** (B.Tech IT, MSAJCE 2024-2028 batch). He is the creator of this chatbot, Lorin AI, Listen Zenify, ZenDrum Booking, and Zen Hostel. You can learn more about him and his work at his portfolio: [https://ramanathanportfolio.vercel.app](https://ramanathanportfolio.vercel.app)"
+
+    if direct_ans:
+        save_message(req.session_id, "user", user_query)
+        msg_id = save_message(req.session_id, "assistant", direct_ans, {"intent": direct_intent})
+        return ChatResponse(
+            answer=direct_ans,
+            citations=[],
+            modelUsed="intent-classifier",
+            isCached=False,
+            tokenUsage=TokenUsage(prompt_tokens=0, completion_tokens=0, total_tokens=0),
+            message_id=msg_id,
+            followups=[]
+        )
+
     # ── Step 0a: Exact Cache lookup (bypasses all LLM processing) ─────────────
     q_hash = hashlib.sha256(normalize_query_for_hash(user_query).encode()).hexdigest()
     if not getattr(req, "bypass_cache", False):
