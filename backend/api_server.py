@@ -68,6 +68,7 @@ RULES:
     - If a college bus route stops at or near that place, state the College Bus Route number, departure time, and driver details (never personal phone numbers).
     - Mention MTC (public state transport) buses (such as 102, 105, 570, 221H, B19) only as secondary/alternative options.
     - NEVER suggest MTC state transport as the primary option if a college bus route is available for that location.
+    - NEAREST BUS STOP QUERIES: If the user asks for the "nearest bus stop" to the college, you MUST state that the nearest public MTC bus stops are "Siruseri I.T. Park", "SIPCOT", and "Navalur". Do NOT list the college itself as a bus stop, and do NOT dump a table of all college bus routes for this specific query.
 12. STRICT GROUNDING ON STOPS & LOCATIONS: Never assume, infer, or hallucinate that a bus route passes through a location or stop unless that location/stop is EXPLICITLY listed in the SOURCES for that specific route (substring matches like 'Velachery Check Post' or 'Velachery Bypass' matching 'Velachery' are completely valid college bus stops; you should list them as college bus routes). For example, if a route lists 'Adyar at 7:00 AM', do not claim it passes through 'Velachery' at 7:00 AM. Only mention routes that explicitly contain the user's requested stop/location (or a close substring/variant like Check Post) in their route description in the SOURCES. IF THE REQUESTED LOCATION (e.g. 'Guindy Station') IS NOT EXPLICITLY LISTED IN ANY BUS ROUTE IN THE SOURCES, YOU MUST DECLARE: "I couldn't find a direct college bus route for [Location]." Do not suggest nearby routes unless you explicitly state they do not go there.
 13. COLLEGE BUS ROUTES FORMATTING: Whenever you output details of a college bus route (e.g., Route AR 3, Route AR 4, etc.) or stops/timings, you MUST format the list of stops and timings as a standard markdown table with columns like `| Stop / Landmark | Arrival Time |`. Do not describe the route stops in a paragraph, sentence, or simple list. Above the table, state the driver name and start/departure details clearly. Do NOT output any personal phone number of the driver.
     EXAMPLE:
@@ -1983,8 +1984,8 @@ def preprocess_query(query: str) -> dict:
     if q in thanks:
         return {"intent":"compliment","keywords":"","category":None,"category_confidence":0,"direct_response":"You're welcome! Happy to help. If you have more questions about MSAJCE, just ask! 😊","usage":{"prompt_tokens":0,"completion_tokens":0,"total_tokens":0}}
 
-    developer_keywords = ["who is ram", "who is ramanathan", "who is zendrum", "who is the developer", "who created", "who built", "creator of", "developer of", "ur host", "your host", "who made you", "tell me about ram", "tell me about the developer", "about ramanathan", "about the developer", "know more about ramanathan", "know more about ram", "know more about the developer"]
-    if any(k in q for k in developer_keywords) or q in ["ram", "ramanathan", "zendrum", "developer", "creator"]:
+    developer_keywords = ["ramanathan", "zendrum", "who is ram", "who is the developer", "who created", "who built", "creator of", "developer of", "ur host", "your host", "who made you", "tell me about ram", "tell me about the developer", "about the developer", "know more about ram", "know more about the developer"]
+    if any(k in q for k in developer_keywords) or q in ["ram", "developer", "creator"]:
         return {
             "intent": "developer_query",
             "keywords": "",
@@ -2807,7 +2808,7 @@ def chat_endpoint(req: ChatRequest, request: Request):
     greetings = {"hi", "hello", "hey", "greetings", "good morning", "good afternoon", "good evening", "howdy", "hii"}
     goodbyes  = {"bye", "goodbye", "see you", "exit", "quit", "talk to you later", "cya"}
     thanks    = {"thanks", "thank you", "thank you so much", "great", "awesome", "perfect", "nice"}
-    developer_keywords = ["who is ram", "who is ramanathan", "who is zendrum", "who is the developer", "who created", "who built", "creator of", "developer of", "ur host", "your host", "who made you", "tell me about ram", "tell me about the developer", "about ramanathan", "about the developer", "know more about ramanathan", "know more about ram", "know more about the developer"]
+    developer_keywords = ["ramanathan", "zendrum", "who is ram", "who is the developer", "who created", "who built", "creator of", "developer of", "ur host", "your host", "who made you", "tell me about ram", "tell me about the developer", "about the developer", "know more about ram", "know more about the developer"]
 
     direct_ans = None
     direct_intent = None
@@ -2820,7 +2821,7 @@ def chat_endpoint(req: ChatRequest, request: Request):
     elif uq_lower in thanks:
         direct_intent = "compliment"
         direct_ans = "You're welcome! Happy to help. If you have more questions about MSAJCE, just ask! 😊"
-    elif any(k in uq_lower for k in developer_keywords) or uq_lower in ["ram", "ramanathan", "zendrum", "developer", "creator"]:
+    elif any(k in uq_lower for k in developer_keywords) or uq_lower in ["ram", "developer", "creator"]:
         direct_intent = "developer_query"
         direct_ans = "I was developed by **Ramanathan S.** (B.Tech IT, MSAJCE 2024-2028 batch). He is the creator of this chatbot, Lorin AI, Listen Zenify, ZenDrum Booking, and Zen Hostel. You can learn more about him and his work at his portfolio: [https://ramanathanportfolio.vercel.app](https://ramanathanportfolio.vercel.app)"
 
