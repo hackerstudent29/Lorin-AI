@@ -2421,13 +2421,18 @@ Assistant Answer: "{original_answer}"
 GROUND TRUTH REFERENCE CONTEXT:
 {context_str}
 
-Evaluate if the assistant answer has a genuine factual error, contradiction, hallucination, or mismatch relative to the ground truth reference context.
+Evaluate if the assistant answer has a genuine factual error, contradiction, hallucination, spelling typo, or mismatch (such as wrong/outdated phone numbers, emails, or links) relative to the ground truth reference context.
 If the assistant gave a correct answer based on the reference context, but the user is just unhappy with the policy (e.g. fee is too high, no refund, bus timings do not suit them), classify it as USER_DISSATISFACTION_OR_FUN.
-If the assistant gave an answer that contradicts the context, contains incorrect figures/names, or failed to answer the question properly, classify it as REAL_QA_MISMATCH.
+If the assistant gave an answer that contradicts the context, contains incorrect figures/names/emails/links, or failed to answer the question properly, classify it as REAL_QA_MISMATCH.
+
+Also evaluate the severity of the error:
+- "minor": If the answer is mostly correct but has minor issues like typos, misspelled links, incorrect email addresses, or a single wrong number/name.
+- "major": If the answer is completely off-topic, represents the wrong context, or is entirely hallucinated.
 
 Respond ONLY with valid JSON matching this schema:
 {{
   "verdict": "REAL_QA_MISMATCH" or "USER_DISSATISFACTION_OR_FUN",
+  "error_severity": "minor" or "major" (omit if verdict is USER_DISSATISFACTION_OR_FUN),
   "reason": "Short 1-sentence explanation of why the answer is wrong or correct."
 }}
 """
@@ -2449,6 +2454,7 @@ Respond ONLY with valid JSON matching this schema:
         
         judge_data = json.loads(raw_judge)
         verdict = judge_data.get("verdict", "USER_DISSATISFACTION_OR_FUN")
+        error_severity = judge_data.get("error_severity", "major")
         reason = judge_data.get("reason", "No reason provided")
 
         corrected_answer = None
@@ -2456,7 +2462,7 @@ Respond ONLY with valid JSON matching this schema:
 
         # Step 2: Self-Correction if REAL_QA_MISMATCH
         if verdict == "REAL_QA_MISMATCH":
-            logger.info(f"[Self-Healing] Real QA mismatch detected! Correcting query: '{user_query[:50]}'")
+            logger.info(f"[Self-Healing] Real QA mismatch detected ({error_severity} severity)! Correcting query: '{user_query[:50]}'")
             
             # Fetch fresh hybrid context
             candidates = hybrid_retriever.retrieve(user_query, user_query, category=None) if hybrid_retriever else []
@@ -2478,8 +2484,41 @@ Respond ONLY with valid JSON matching this schema:
                         context_blocks.append({"text": text, "section_title": sec_val, "category": cat_val})
                         citations.append({"source": source_val, "page": page_val, "section": sec_val})
 
-                # Synthesize high-accuracy ground truth answer
-                corrected_answer, _ = generate_answer(user_query, context_blocks)
+                # If minor, patch only the wrong details of the original answer
+                if error_severity == "minor":
+                    logger.info(f"[Self-Healing] Performing MINOR patch on original answer...")
+                    patch_prompt = f"""You are an expert editor. A chatbot generated an answer that is mostly correct but contains minor factual errors, misspelled links, incorrect emails, or wrong numbers.
+
+User Question: "{user_query}"
+Original Answer:
+"{original_answer}"
+
+Factual Mismatch Reason: "{reason}"
+
+GROUND TRUTH REFERENCE CONTEXT:
+{"\n\n".join([b["text"] for b in context_blocks])}
+
+Your task:
+Modify the Original Answer to fix ONLY the incorrect details described in the Factual Mismatch Reason (such as correcting misspelled links, wrong emails, or wrong numbers) using the Ground Truth Reference Context.
+Retain the rest of the original correct text, formatting, tables, headers, and structure as much as possible. Do NOT rewrite the entire answer from scratch. Keep it extremely close to the original, only patching the errors.
+
+Respond with the edited answer only. Do not add any preamble (like "Here is the corrected answer:").
+"""
+                    patch_res = requests.post(
+                        "https://integrate.api.nvidia.com/v1/chat/completions",
+                        headers={"Authorization": f"Bearer {NVIDIA_API_KEY}", "Content-Type": "application/json"},
+                        json={
+                            "model": "meta/llama-3.1-70b-instruct",
+                            "messages": [{"role": "user", "content": patch_prompt}],
+                            "temperature": 0.1
+                        },
+                        timeout=25
+                    )
+                    patch_res.raise_for_status()
+                    corrected_answer = patch_res.json()["choices"][0]["message"]["content"].strip()
+                else:
+                    # Major error: Synthesize a completely new high-accuracy ground truth answer
+                    corrected_answer, _ = generate_answer(user_query, context_blocks)
 
                 # Purge old cache entry and store corrected answer
                 query_hash = hashlib.sha256(normalize_query_for_hash(user_query).encode()).hexdigest()
