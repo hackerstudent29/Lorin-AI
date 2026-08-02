@@ -36,3 +36,41 @@ While rare in this specific IT park, some high-tech manufacturing and defense el
 - **Polaris Financial Technologies**: Often listed separately due to its specific focus on financial software products before its merger into LTIMindtree.
 
 > **Note on Non-IT Companies:** The SIPCOT IT Park in Siruseri is zoned specifically for **IT, ITES, Electronics, and Data Centers**. You will not find traditional non-IT brands (e.g., consumer goods, automotive assembly, textiles) here; those are located in nearby SIPCOT parks like **Sriperumbudur** (automotive) or **Oragadam** (manufacturing). The "non-IT" presence in Siruseri is limited to **defense electronics** (Data Patterns) and **facility management/support services** required to run the large campuses.
+
+## Essential Services, Emergency Facilities & Transport
+
+### 🚓 Police & Security
+- **Kelambakkam Police Station**: The primary jurisdiction for the IT Park; CCTV feeds from the park are linked here. Located approximately 4–5 km away.
+- **Thazhambur Police Station**: A closer outpost for the Navalur/Thazhambur stretch, often handling immediate patrolling for the southern entry of the park.
+- **Internal Security**: The park operates a dedicated **24/7 mobile patrol SUV** with a direct emergency contact number for employees, supplemented by extensive CCTV coverage managed by SIPCOT.
+
+### 🚒 Fire & Rescue
+- **SIPCOT Industrial Fire Station**: Located **inside** the IT Park on First Cross Road. This is the primary response unit for fire emergencies within the campus. (Contact: 044-27470720 / 044-24401213)
+- **Tamil Nadu Fire & Rescue Services (Siruseri Unit)**: Co-located with the SIPCOT station, equipped for industrial and high-rise rescue operations.
+
+### 🏥 Hospitals & Medical Care
+- **Dr. Kamakshi Memorial Hospital**: Located directly **opposite the SIPCOT gate** on OMR. This is the nearest major multi-specialty private hospital for emergencies.
+- **Punarjeevan Hospital**: Located approximately **2.2 km** away in the Siruseri/Navalur area.
+- **Supreme Speciality Hospitals** & **Marhura Hospital**: Nearby private facilities in the immediate vicinity.
+- **Iswarya Hospital**: A large NABH-accredited multi-specialty hospital located about **8 km** away in Kottivakkam (towards the city), offering advanced trauma and specialty care.
+- **Government Hospital**: The nearest government facility is the **Primary Health Centre (PHC) in Kelambakkam** or **Thazhambur**, roughly 4–6 km away. For major government trauma care, the **Government Hospital in Tambaram** (approx. 15 km) is the referral center.
+
+### 🚌 Bus Stops & Public Transport
+The park is well-served by **Metropolitan Transport Corporation (MTC)** buses with dedicated stops at the park entrance and inside the campus:
+- **Key Bus Stops**: "Siruseri I.T. Park", "SIPCOT", and "Navalur".
+- **Major Bus Routes**:
+    - **570 Series** (570, 570V, 570C, AC-570): Connects to CMBT (Koyembedu), Guindy, and Velachery.
+    - **102 Series** (102, 102X, 102-EXT): Connects to Tambaram and Adyar.
+    - **19 & 19BET**: Connects to Adyar and Mahabalipuram.
+    - **555G**: Connects to Chengalpattu.
+    - **221**: Late-night/early-morning connectivity.
+- **Suburban Train**: The nearest railway stations are **Perungudi** (approx. 8 km) and **Tambaram** (approx. 12 km), requiring a bus or auto-rickshaw connection.
+
+### 🏛️ Other Government Offices
+- **SIPCOT IT Park Project Office**: Located within the complex for administrative and infrastructure issues.
+- **Regional Transport Office (RTO)**: The nearest RTO is in **Sholinganallur** (approx. 6 km away) for vehicle registration and license services.
+- **Post Offices**:
+    - **Navalur Branch Post Office (B.O)**: Serves the 600130 pin code area (closest to the park entrance).
+    - **Thazhambur Sub Post Office (S.O)**: The main sorting office for the region.
+    - **Kelambakkam Post Office**: Located ~7 km away.
+- **Aadhar/Seva Centers**: Several private CSC (Common Service Centers) operate in **Navalur** and **Thazhambur** villages for Aadhar, PAN, and utility bill payments.
