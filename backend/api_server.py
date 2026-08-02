@@ -2378,8 +2378,18 @@ def feedback_endpoint(req: FeedbackRequest, background_tasks: BackgroundTasks, r
             if user_row:
                 user_query = user_row[0]
                 q_hash = hashlib.sha256(normalize_query_for_hash(user_query).encode()).hexdigest()
+                # Primary: hash-based exact delete (current normalizer)
                 cur.execute("DELETE FROM query_cache WHERE query_hash = %s", (q_hash,))
-                logger.info(f"[Feedback] Synchronously purged query cache for query: '{user_query[:50]}'")
+                deleted_exact = cur.rowcount
+                # Secondary: fuzzy delete — catches entries stored by old normalizers
+                # Match on first 40 chars of the normalized query text
+                fuzzy_prefix = normalize_query_for_hash(user_query)[:40]
+                if fuzzy_prefix:
+                    cur.execute("DELETE FROM query_cache WHERE query_text ILIKE %s", (f"{fuzzy_prefix}%",))
+                    deleted_fuzzy = cur.rowcount
+                else:
+                    deleted_fuzzy = 0
+                logger.info(f"[Feedback] Purged cache for '{user_query[:50]}': exact={deleted_exact}, fuzzy={deleted_fuzzy}")
 
         # Upsert — allow changing rating (Req 9.7)
         cur.execute("""
