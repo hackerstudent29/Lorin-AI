@@ -354,6 +354,77 @@ All postgraduate courses are approved by AICTE and affiliated to Anna University
         "citations": [{"source": "msajce_alumni.md", "page": "1", "section": "Alumni Scholarship Contribution"}],
     },
     {
+        "query": "tell me about aids department in msajce",
+        "answer": """B.Tech in Artificial Intelligence and Data Science (AI&DS) at MSAJCE:
+
+### 🎓 About the Programme
+The B.Tech AI & Data Science (AIDS) programme at MSAJCE prepares students in AI, machine learning, deep learning, big data analytics, and data-driven decision-making. It combines cross-disciplinary skills across statistics, computer science, and logic.
+
+### 📚 What You Study
+- **Core**: Artificial Intelligence, Data Mining, Data Modeling, Machine Learning, Big Data Analytics
+- **Advanced**: Neural Networks, Deep Learning, Computer Vision, Natural Language Processing
+- **Tools**: Python, R, SQL, TensorFlow, Keras, PyTorch, Hadoop, Spark, Tableau, Power BI
+
+### 💼 Career Roles After Graduation
+| Role | Key Skills |
+| :--- | :--- |
+| **Data Scientist** | Python, R, SQL, ML algorithms, Data Visualization |
+| **Machine Learning Engineer** | TensorFlow, PyTorch, AWS/Azure/GCP |
+| **AI Research Scientist** | Deep Learning, Mathematical Modeling |
+| **Data Analyst** | Excel, SQL, Python, Tableau, Power BI |
+| **Data Engineer** | Hadoop, Spark, Kafka, ETL, Cloud |
+| **NLP Engineer** | NLTK, SpaCy, HuggingFace, Text Mining |
+| **BI Developer** | SQL, Power BI, Tableau, Python |
+| **AI Product Manager** | Agile, ML Product Lifecycle, Business Strategy |
+
+### 💰 Salary Trends in India
+| Experience Level | Expected Salary |
+| :--- | :--- |
+| Entry Level (0–2 yrs) | ₹6 – ₹12 LPA |
+| Mid Level (3–5 yrs) | ₹12 – ₹25 LPA |
+| Senior Level (5+ yrs) | ₹25 – ₹50 LPA |
+| AI Research Scientist | ₹30 – ₹70 LPA |
+
+> 📈 AI & DS job market in India is growing at **CAGR 30–40%**, driven by healthcare, finance, e-commerce & the National AI Mission.
+
+### 🏢 Industries Hiring
+Healthcare, Finance & Fintech, E-Commerce, Automotive, Telecom, Defense, Education, Government
+
+### 🎯 Department Vision
+To be a **center of excellence** transforming students into proficient AI & Data Science professionals through sustainable practices.
+
+For admissions, contact 📞 +91 99400 04500 or ✉️ msajce.office@gmail.com""",
+        "citations": [{"source": "msajce_aids.md", "page": "1", "section": "Career Opportunities & Job Profiles"}],
+    },
+    {
+        "query": "aids salary and jobs",
+        "answer": """AI & Data Science (AIDS) — Salary & Career at MSAJCE:
+
+### 💰 Salary Trends (India)
+| Experience | Salary Range |
+| :--- | :--- |
+| Entry Level (0–2 yrs) | ₹6 – ₹12 LPA |
+| Mid Level (3–5 yrs) | ₹12 – ₹25 LPA |
+| Senior Level (5+ yrs) | ₹25 – ₹50 LPA |
+| AI Research Scientist | ₹30 – ₹70 LPA |
+
+### 💼 Top Job Roles
+Data Scientist, ML Engineer, AI Research Scientist, Data Analyst, Data Engineer, NLP Engineer, BI Developer, AI Product Manager.
+
+### 📈 Growth
+AI & DS sector growing at **30–40% CAGR** in India. By 2030, hundreds of thousands of AI job openings expected across tech, healthcare, finance, and startups.""",
+        "citations": [{"source": "msajce_aids.md", "page": "1", "section": "Expected Growth and Salary Trends"}],
+    },
+    {
+        "query": "what is aids in msajce",
+        "answer": """**AIDS** stands for **Artificial Intelligence and Data Science** — a B.Tech programme at MSAJCE, Siruseri, Chennai.
+
+Students learn AI, machine learning, deep learning, big data, and data science. Graduates go on to roles like Data Scientist, ML Engineer, AI Researcher, and NLP Engineer in industries like healthcare, finance, e-commerce, and defence.
+
+Ask: *"tell me about the AIDS department"* for full details on studies, salary, and career paths.""",
+        "citations": [{"source": "msajce_aids.md", "page": "1", "section": "Overview"}],
+    },
+    {
         "query": "which college bus comes to velachery or surroundings of velachery",
         "answer": """The following MSAJCE college bus routes serve Velachery and its surroundings:
 
