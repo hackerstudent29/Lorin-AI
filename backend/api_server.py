@@ -2150,6 +2150,10 @@ def generate_answer(user_query: str, context_blocks: list, session_id: str = "")
         label = f"[{category}" + (f" — {section}" if section and section != "Overview" else "") + "]"
         ctx_parts.append(f"{label}\n{blk['text']}")
     context_str = "\n\n---\n\n".join(ctx_parts)
+    hint = get_transport_hints(user_query)
+    if hint:
+        context_str += hint
+        logger.info(f"[LLM Prompt Debug] Appended transport hints: {hint.strip()}")
     logger.info(f"[LLM Prompt Debug] context_str: {context_str}")
     max_tok = _pick_max_tokens(user_query, context_blocks)
 
@@ -2182,6 +2186,10 @@ def generate_answer_stream(user_query: str, context_blocks: list):
         label = f"[{category}" + (f" — {section}" if section and section != "Overview" else "") + "]"
         ctx_parts.append(f"{label}\n{blk['text']}")
     context_str = "\n\n---\n\n".join(ctx_parts)
+    hint = get_transport_hints(user_query)
+    if hint:
+        context_str += hint
+        logger.info(f"[LLM Prompt Debug] Appended transport hints: {hint.strip()}")
     logger.info(f"[LLM Prompt Debug] context_str: {context_str}")
     max_tok = _pick_max_tokens(user_query, context_blocks)
 
@@ -2677,6 +2685,85 @@ def debug_rerank(req: DebugRerankRequest):
         }
     except Exception as e:
         raise HTTPException(500, str(e))
+
+
+# ── Transport stop matching logic (Req 11, 12, 17) ───────────────────────────
+TRANSPORT_ROUTE_MAP = {}
+try:
+    _transport_file = os.path.join(os.path.dirname(__file__), "dataset", "msajce_transport.md")
+    if os.path.exists(_transport_file):
+        with open(_transport_file, "r", encoding="utf-8") as f:
+            _transport_content = f.read()
+        _sections = re.split(r"###\s+Route\s+", _transport_content)
+        _stop_rx = re.compile(r"([A-Za-z0-9\.\s’'&\-\/]+?)\s+at\s+\d{1,2}:\d{2}\s+(?:AM|PM)", re.IGNORECASE)
+        for _sec in _sections[1:]:
+            _lines = _sec.strip().split("\n")
+            _route_header = _lines[0].strip()
+            _route_name = _route_header.split("(")[0].strip()
+            _stops = []
+            for _line in _lines[1:]:
+                _matches = _stop_rx.findall(_line)
+                for _m in _matches:
+                    _stop_clean = _m.strip()
+                    _stop_clean = re.sub(r"^.*?passes through\s+", "", _stop_clean, flags=re.IGNORECASE)
+                    _stop_clean = re.sub(r"^.*?starts from\s+", "", _stop_clean, flags=re.IGNORECASE)
+                    _stop_clean = re.sub(r"^.*?departs from\s+", "", _stop_clean, flags=re.IGNORECASE)
+                    _stop_clean = re.sub(r"^.*?arrives at\s+", "", _stop_clean, flags=re.IGNORECASE)
+                    _stop_clean = _stop_clean.strip(".!?, \t\n")
+                    _stop_lower = _stop_clean.lower()
+                    if any(_w in _stop_lower for _w in ["contact", "number", "whose", "driven"]):
+                        continue
+                    if len(_stop_clean) > 35 or len(_stop_clean) < 3:
+                        continue
+                    _stops.append(_stop_clean)
+            TRANSPORT_ROUTE_MAP[_route_name] = _stops
+except Exception as _e:
+    logger.error(f"[Startup] Failed to parse transport stops: {_e}")
+
+def get_transport_hints(query: str) -> str:
+    query_lower = query.lower()
+    # Normalize spelling variations
+    query_lower = query_lower.replace("pallikaranai", "pallikarani")
+    
+    generic_words = {
+        "check", "post", "bypass", "junction", "stop", "railway", "station",
+        "hospital", "tollgate", "school", "college", "temple", "church",
+        "mosque", "hotel", "hostel", "park", "street", "road", "market",
+        "court", "corner", "beach", "zoo", "gate", "bus", "route", "passes",
+        "through", "starts", "from", "departs", "arrives", "goes", "will", "does"
+    }
+    
+    matches = []
+    query_words = re.findall(r"\w+", query_lower)
+    for route, stops in TRANSPORT_ROUTE_MAP.items():
+        for stop in stops:
+            stop_lower = stop.lower()
+            if stop_lower in query_lower:
+                matches.append((route, stop))
+                continue
+            stop_words = [w for w in re.findall(r"\w+", stop_lower) if w not in generic_words and len(w) > 2]
+            for sw in stop_words:
+                if sw in query_words:
+                    matches.append((route, stop))
+                    break
+    
+    if not matches:
+        return ""
+        
+    hint_lines = []
+    seen_routes = {}
+    for route, stop in matches:
+        seen_routes[route] = stop
+        
+    for route, stop in seen_routes.items():
+        hint_lines.append(f"- Route {route} passes through {stop} (You MUST format all the stops and timings of Route {route} in the markdown table, not just {stop})")
+        
+    return (
+        "\n[DIRECT MATCH HINT: Based on database matching, the following college bus route(s) stop at or near your requested location. "
+        "You MUST state that these routes go there, prioritize listing their route tables with all their stops and timings, and NEVER claim you couldn't find a direct route for them:\n"
+        + "\n".join(hint_lines)
+        + "]\n"
+    )
 
 
 @app.post("/api/chat")
