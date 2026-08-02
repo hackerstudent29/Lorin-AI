@@ -3252,7 +3252,7 @@ def chat_endpoint(req: ChatRequest, request: Request):
         "spell_corrections":         corrections,
         "was_rewritten":             was_rewritten,
         "original_query":            corrected_query,
-        "rewritten_query":           rewritten_query if was_rewritten else None,
+        "rewritten_query":           active_query if was_rewritten else None,
         "category_filter":           category,
         "category_confidence":       cat_conf,
         "rrf_count":                 len(candidates),
