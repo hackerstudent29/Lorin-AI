@@ -353,6 +353,87 @@ All postgraduate courses are approved by AICTE and affiliated to Anna University
 | **Md Suhail F** | Computer Science & Engineering (CSE) | 22.02.2026 | Received sponsorship in February 2026. |""",
         "citations": [{"source": "msajce_alumni.md", "page": "1", "section": "Alumni Scholarship Contribution"}],
     },
+    {
+        "query": "which college bus comes to velachery or surroundings of velachery",
+        "answer": """The following MSAJCE college bus routes serve Velachery and its surroundings:
+
+### 🚌 Route N/3 (formerly AR 5)
+- **Departure Stop**: MMDA School (6:15 AM)
+- **Stops in/near Velachery**:
+  - **Velachery Check Post** at **6:50 AM**
+  - **Vijaya Nagar Bus Stop** at **6:53 AM**
+  - **Baby Nagar** at **6:55 AM**
+  - **Tharamani** at **7:00 AM**
+- **Driver**: Mr. Velu
+
+### 🚌 Route R 22
+- **Departure Stop**: Nemilichery (5:50 AM)
+- **Stops in/near Velachery**:
+  - **Velachery Bypass** at **6:45 AM**
+  - **Kaiveli** at **7:00 AM**
+- **Driver**: Mr. Jaffar
+
+### 🚌 Route AR 8
+- **Departure Stop**: Manjambakkam (5:50 AM)
+- **Stops in/near Velachery**:
+  - **Kiveli (Kaiveli)** at **6:55 AM**
+- **Driver**: Mr. Raju
+
+### 🚌 MTC Bus Routes (Public Transport)
+- A route from **CMBT** to **Kelambakkam** passes through Velachery and SRP.
+- Route **570S** from **CMBT** to **Sipcot** passes through Velachery and SRP.
+
+*Note: Route AR 4 passes through Vepery Police Station, NOT Velachery.*""",
+        "citations": [{"source": "msajce_transport.md", "page": "1", "section": "College Bus Routes Summary"}],
+    },
+    {
+        "query": "does college bus go to velachery",
+        "answer": """Yes, MSAJCE college buses go to Velachery. The following routes serve the area:
+
+| Route | Stop / Landmark | Arrival Time | Driver |
+| :--- | :--- | :--- | :--- |
+| **Route N/3** | Velachery Check Post | 6:50 AM | Mr. Velu |
+| **Route N/3** | Vijaya Nagar Bus Stop | 6:53 AM | Mr. Velu |
+| **Route N/3** | Baby Nagar | 6:55 AM | Mr. Velu |
+| **Route R 22** | Velachery Bypass | 6:45 AM | Mr. Jaffar |
+| **Route R 22** | Kaiveli | 7:00 AM | Mr. Jaffar |
+| **Route AR 8** | Kiveli (Kaiveli) | 6:55 AM | Mr. Raju |
+
+*Note: Route AR 4 passes through Vepery Police Station, NOT Velachery.*""",
+        "citations": [{"source": "msajce_transport.md", "page": "1", "section": "College Bus Routes Summary"}],
+    },
+    {
+        "query": "bus routes for velachery",
+        "answer": """The college bus routes for Velachery and surroundings are:
+
+| Route | Stop / Landmark | Arrival Time | Driver |
+| :--- | :--- | :--- | :--- |
+| **Route N/3 (formerly AR 5)** | Velachery Check Post | 6:50 AM | Mr. Velu |
+| **Route N/3 (formerly AR 5)** | Vijaya Nagar Bus Stop | 6:53 AM | Mr. Velu |
+| **Route N/3 (formerly AR 5)** | Baby Nagar | 6:55 AM | Mr. Velu |
+| **Route R 22** | Velachery Bypass | 6:45 AM | Mr. Jaffar |
+| **Route R 22** | Kaiveli | 7:00 AM | Mr. Jaffar |
+| **Route AR 8** | Kiveli (Kaiveli) | 6:55 AM | Mr. Raju |
+
+*Note: Route AR 4 passes through Vepery Police Station, NOT Velachery.*""",
+        "citations": [{"source": "msajce_transport.md", "page": "1", "section": "College Bus Routes Summary"}],
+    },
+    {
+        "query": "velachery bus timings",
+        "answer": """The college bus timings for Velachery stops are:
+
+| Stop / Landmark | Arrival Time | Bus Route | Driver |
+| :--- | :--- | :--- | :--- |
+| **Velachery Bypass** | 6:45 AM | Route R 22 | Mr. Jaffar |
+| **Velachery Check Post** | 6:50 AM | Route N/3 (formerly AR 5) | Mr. Velu |
+| **Vijaya Nagar Bus Stop** | 6:53 AM | Route N/3 (formerly AR 5) | Mr. Velu |
+| **Baby Nagar** | 6:55 AM | Route N/3 (formerly AR 5) | Mr. Velu |
+| **Kiveli (Kaiveli)** | 6:55 AM | Route AR 8 | Mr. Raju |
+| **Kaiveli** | 7:00 AM | Route R 22 | Mr. Jaffar |
+
+*Note: Route AR 4 passes through Vepery Police Station, NOT Velachery.*""",
+        "citations": [{"source": "msajce_transport.md", "page": "1", "section": "College Bus Routes Summary"}],
+    },
 ]
 
 COMPACT_TO_FULL_CAT = {
@@ -1039,6 +1120,7 @@ RULES:
       - MSAJCE offers exactly 2 M.E. courses: M.E. in Computer Science and Engineering, and M.E. in Structural Engineering. It also offers Master of Architecture (M.Arch) at the PG level.
       - MSAJCE offers exactly 1 Ph.D. research programme: Ph.D. in Mechanical Engineering.
     - Only output information about these specific courses when asked about courses offered by MSAJCE. Do not list any other hallucinated or general courses.
+17. ORTHOGRAPHIC SPELLING CONFUSION & SIMILAR STOP NAMES: Pay extremely close attention to the spelling of stop/station names in the SOURCES to avoid confusing similar-looking names. Specifically, NEVER confuse 'Vepery' (a neighborhood in North Chennai) with 'Velachery' (a neighborhood in South Chennai) — they are completely different places. Route AR 4 passes through Vepery Police Station, NOT Velachery. Under no circumstances should you claim a bus goes to 'Velachery' unless the word 'Velachery' is literally written in that route's stop list in the SOURCES.
 
 SOURCES:
 {context_str}
@@ -1109,6 +1191,7 @@ RULES:
       - MSAJCE offers exactly 2 M.E. courses: M.E. in Computer Science and Engineering, and M.E. in Structural Engineering. It also offers Master of Architecture (M.Arch) at the PG level.
       - MSAJCE offers exactly 1 Ph.D. research programme: Ph.D. in Mechanical Engineering.
     - Only output information about these specific courses when asked about courses offered by MSAJCE. Do not list any other hallucinated or general courses.
+17. ORTHOGRAPHIC SPELLING CONFUSION & SIMILAR STOP NAMES: Pay extremely close attention to the spelling of stop/station names in the SOURCES to avoid confusing similar-looking names. Specifically, NEVER confuse 'Vepery' (a neighborhood in North Chennai) with 'Velachery' (a neighborhood in South Chennai) — they are completely different places. Route AR 4 passes through Vepery Police Station, NOT Velachery. Under no circumstances should you claim a bus goes to 'Velachery' unless the word 'Velachery' is literally written in that route's stop list in the SOURCES.
 
 SOURCES:
 {context_str}
