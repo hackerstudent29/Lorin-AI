@@ -381,9 +381,7 @@ All postgraduate courses are approved by AICTE and affiliated to Anna University
 
 ### 🚌 MTC Bus Routes (Public Transport)
 - A route from **CMBT** to **Kelambakkam** passes through Velachery and SRP.
-- Route **570S** from **CMBT** to **Sipcot** passes through Velachery and SRP.
-
-*Note: Route AR 4 passes through Vepery Police Station, NOT Velachery.*""",
+- Route **570S** from **CMBT** to **Sipcot** passes through Velachery and SRP.""",
         "citations": [{"source": "msajce_transport.md", "page": "1", "section": "College Bus Routes Summary"}],
     },
     {
@@ -397,9 +395,7 @@ All postgraduate courses are approved by AICTE and affiliated to Anna University
 | **Route N/3** | Baby Nagar | 6:55 AM | Mr. Velu |
 | **Route R 22** | Velachery Bypass | 6:45 AM | Mr. Jaffar |
 | **Route R 22** | Kaiveli | 7:00 AM | Mr. Jaffar |
-| **Route AR 8** | Kiveli (Kaiveli) | 6:55 AM | Mr. Raju |
-
-*Note: Route AR 4 passes through Vepery Police Station, NOT Velachery.*""",
+| **Route AR 8** | Kiveli (Kaiveli) | 6:55 AM | Mr. Raju |""",
         "citations": [{"source": "msajce_transport.md", "page": "1", "section": "College Bus Routes Summary"}],
     },
     {
@@ -413,9 +409,7 @@ All postgraduate courses are approved by AICTE and affiliated to Anna University
 | **Route N/3 (formerly AR 5)** | Baby Nagar | 6:55 AM | Mr. Velu |
 | **Route R 22** | Velachery Bypass | 6:45 AM | Mr. Jaffar |
 | **Route R 22** | Kaiveli | 7:00 AM | Mr. Jaffar |
-| **Route AR 8** | Kiveli (Kaiveli) | 6:55 AM | Mr. Raju |
-
-*Note: Route AR 4 passes through Vepery Police Station, NOT Velachery.*""",
+| **Route AR 8** | Kiveli (Kaiveli) | 6:55 AM | Mr. Raju |""",
         "citations": [{"source": "msajce_transport.md", "page": "1", "section": "College Bus Routes Summary"}],
     },
     {
@@ -429,9 +423,7 @@ All postgraduate courses are approved by AICTE and affiliated to Anna University
 | **Vijaya Nagar Bus Stop** | 6:53 AM | Route N/3 (formerly AR 5) | Mr. Velu |
 | **Baby Nagar** | 6:55 AM | Route N/3 (formerly AR 5) | Mr. Velu |
 | **Kiveli (Kaiveli)** | 6:55 AM | Route AR 8 | Mr. Raju |
-| **Kaiveli** | 7:00 AM | Route R 22 | Mr. Jaffar |
-
-*Note: Route AR 4 passes through Vepery Police Station, NOT Velachery.*""",
+| **Kaiveli** | 7:00 AM | Route R 22 | Mr. Jaffar |""",
         "citations": [{"source": "msajce_transport.md", "page": "1", "section": "College Bus Routes Summary"}],
     },
     # ── Question Cards Seeds ──────────────────────────────────────────────
@@ -622,7 +614,7 @@ The Girls Hostel is situated at **Sholinganallur** (approximately 5 KM away from
         "answer": """Overview of college bus routes, timings, and stops at Mohamed Sathak A.J. College of Engineering (MSAJCE):
 
 ### 🚌 Summary of College Bus Routes and Timings
-The college operates a fleet of **22 buses** (along with 1 Tata ACE and 1 Ambulance) arriving at the OMR Siruseri campus by **8:00 AM**. Timings and stops include:
+The college operates a fleet of **9 buses** arriving at the OMR Siruseri campus by **8:00 AM**. Timings and stops include:
 
 | Route | Departure Stop | Departure Time | Key Stops / Landmarks |
 | :--- | :--- | :--- | :--- |
@@ -641,7 +633,7 @@ The college operates a fleet of **22 buses** (along with 1 Tata ACE and 1 Ambula
 - **Assistant Convener**: Mr. A. Abdul Gafoor (abdulgafoor@msajce-edu.in)
 - **Office Helpline**: +91 99400 04500 / msajce.office@gmail.com
 
-*Note: Route AR 4 passes through Vepery Police Station, NOT Velachery. Personal numbers of drivers/faculty are strictly restricted; contact transport conveners via email or office helpline for direct route queries.*""",
+""",
         "citations": [{"source": "msajce_transport.md", "page": "1", "section": "College Bus Routes Summary"}],
     },
     {
