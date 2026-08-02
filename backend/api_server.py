@@ -94,6 +94,60 @@ hybrid_retriever = None   # initialised after app startup (needs embed_fn)
 
 SEED_CACHE: list[dict] = [
     {
+        "query": "nearest companies from msajce",
+        "answer": """**Mohamed Sathak A.J. College of Engineering (MSAJCE)** is located on a sprawling 70-acre campus right inside the **SIPCOT IT Park, Siruseri**. Because of this strategic location, the college is surrounded by over a hundred leading multinational IT industries.
+
+### 🏢 Companies surrounding MSAJCE
+As per official college records, the campus is in the immediate vicinity of major tech giants including:
+- **TCS (Tata Consultancy Services)**
+- **CTS (Cognizant Technology Solutions)**
+- **Infosys**
+- **HCL Technologies**
+- **Intellect Design Arena**
+- **Aspire Systems**
+- **Steria**
+- **Polaris Software Lab**
+- **FSS (Financial Software and Systems)**
+
+### 🌐 Other Major Companies in Siruseri IT Park
+Since the college is inside the IT Park, it is also close to other major companies operating there, such as:
+- **Capgemini**
+- **Hexaware Technologies**
+- **Atos Syntel**
+- **Sify Technologies** (New data center)
+- **Equinix** (New facility)
+
+> **Note on Distances:** Because MSAJCE is physically located *inside* the SIPCOT IT Park boundary, all of these companies are within a highly accessible 1 to 5 km radius from the college gates.""",
+        "citations": [{"source": "msajce_about.md", "page": "1", "section": "Why Join MSAJCE"}],
+    },
+    {
+        "query": "what are the companies near msajce",
+        "answer": """**Mohamed Sathak A.J. College of Engineering (MSAJCE)** is located on a sprawling 70-acre campus right inside the **SIPCOT IT Park, Siruseri**. Because of this strategic location, the college is surrounded by over a hundred leading multinational IT industries.
+
+### 🏢 Companies surrounding MSAJCE
+As per official college records, the campus is in the immediate vicinity of major tech giants including:
+- **TCS (Tata Consultancy Services)**
+- **CTS (Cognizant Technology Solutions)**
+- **Infosys**
+- **HCL Technologies**
+- **Intellect Design Arena**
+- **Aspire Systems**
+- **Steria**
+- **Polaris Software Lab**
+- **FSS (Financial Software and Systems)**
+
+### 🌐 Other Major Companies in Siruseri IT Park
+Since the college is inside the IT Park, it is also close to other major companies operating there, such as:
+- **Capgemini**
+- **Hexaware Technologies**
+- **Atos Syntel**
+- **Sify Technologies** (New data center)
+- **Equinix** (New facility)
+
+> **Note on Distances:** Because MSAJCE is physically located *inside* the SIPCOT IT Park boundary, all of these companies are within a highly accessible 1 to 5 km radius from the college gates.""",
+        "citations": [{"source": "msajce_about.md", "page": "1", "section": "Why Join MSAJCE"}],
+    },
+    {
         "query": "tell me abt principal like abt him more details",
         "answer": """### 🎓 Principal's Profile: Dr. K.S. Srinivasan
 
