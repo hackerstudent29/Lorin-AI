@@ -94,6 +94,78 @@ hybrid_retriever = None   # initialised after app startup (needs embed_fn)
 
 SEED_CACHE: list[dict] = [
     {
+        "query": "tell me abt principal like abt him more details",
+        "answer": """### 🎓 Principal's Profile: Dr. K.S. Srinivasan
+
+Dr. K.S. Srinivasan (Ph.D) is the Principal of Mohamed Sathak A.J. College of Engineering (**MSAJCE**), Siruseri, Chennai. He joined the institution in May 2019. He is a Professor with a specialization in Electronics and Communication Engineering.
+
+### 🏛 Institutional Roles & Responsibilities
+- **Principal** — Overall academic leadership and institutional administration
+- **Chairman** — Academic Advisory Committee, Anti-Ragging Committee, Library Committee, Canteen Committee
+- **IQAC Chairperson** — Internal Quality Assurance Cell
+- **President** — MSAJCE Alumni Association (2020–present)
+- **Advisor** — Research Advisory Committee (also serves as Secretary of TNSCST)
+
+### 🔬 Research & Patents
+He is an approved Ph.D. supervisor under Anna University (Ref: **1440364**). His research areas include:
+- VLSI Design
+- Digital Signal Processing
+- Digital Image Processing
+
+**Patent Filed:** "A Smart Device to Monitoring the Optic Cable and Inform the Users in Case of any Discrepancies" (Patent Number: 202241071306).
+
+### 📚 Authored Books
+Dr. Srinivasan is a prolific author, having written over 14 academic books, including:
+- *Communication Theory*
+- *Principles of Communication Engineering*
+- *Electric Circuits and Electronic Devices*
+- *Wireless Sensor Networks*
+- *Digital Signal Processing*
+
+### ✉️ Contact Information
+- **Email:** principal@msajce-edu.in
+- **Phone:** 9150575066
+
+> **Principal's Message:** "MSAJCE believes in providing our students an environment which is rich in knowledge and supportive of their extracurricular interests. We practice a holistic approach that stimulates young minds in terms of innovative and creative thinking." """,
+        "citations": [{"source": "msajce_principal.md", "page": "1", "section": "Profile"}],
+    },
+    {
+        "query": "who is the principal",
+        "answer": """### 🎓 Principal's Profile: Dr. K.S. Srinivasan
+
+Dr. K.S. Srinivasan (Ph.D) is the Principal of Mohamed Sathak A.J. College of Engineering (**MSAJCE**), Siruseri, Chennai. He joined the institution in May 2019. He is a Professor with a specialization in Electronics and Communication Engineering.
+
+### 🏛 Institutional Roles & Responsibilities
+- **Principal** — Overall academic leadership and institutional administration
+- **Chairman** — Academic Advisory Committee, Anti-Ragging Committee, Library Committee, Canteen Committee
+- **IQAC Chairperson** — Internal Quality Assurance Cell
+- **President** — MSAJCE Alumni Association (2020–present)
+- **Advisor** — Research Advisory Committee (also serves as Secretary of TNSCST)
+
+### 🔬 Research & Patents
+He is an approved Ph.D. supervisor under Anna University (Ref: **1440364**). His research areas include:
+- VLSI Design
+- Digital Signal Processing
+- Digital Image Processing
+
+**Patent Filed:** "A Smart Device to Monitoring the Optic Cable and Inform the Users in Case of any Discrepancies" (Patent Number: 202241071306).
+
+### 📚 Authored Books
+Dr. Srinivasan is a prolific author, having written over 14 academic books, including:
+- *Communication Theory*
+- *Principles of Communication Engineering*
+- *Electric Circuits and Electronic Devices*
+- *Wireless Sensor Networks*
+- *Digital Signal Processing*
+
+### ✉️ Contact Information
+- **Email:** principal@msajce-edu.in
+- **Phone:** 9150575066
+
+> **Principal's Message:** "MSAJCE believes in providing our students an environment which is rich in knowledge and supportive of their extracurricular interests. We practice a holistic approach that stimulates young minds in terms of innovative and creative thinking." """,
+        "citations": [{"source": "msajce_principal.md", "page": "1", "section": "Profile"}],
+    },
+    {
         "query": "what courses does msajce offer",
         "answer": """MSAJCE (Mohamed Sathak A.J. College of Engineering) offers the following programmes:
 
