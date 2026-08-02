@@ -948,9 +948,145 @@ def clean_links(text: str) -> str:
 
 
 def get_resource_links(keywords: str) -> str:
-    """Retrieve relevant verified resource links from msajce_all_resource_links.md based on keywords."""
+    """Retrieve relevant verified resource links from msajce_all_resource_links.md based on keywords, prioritizing official ones."""
     try:
         from qdrant_client.models import Filter, FieldCondition, MatchValue
+        
+        EXCLUDED_DOMAINS = [
+            'omicsonline.org', 'ias.ac.in', 'arxiv.org', 'biomedcentral.com', 'scirp.org',
+            'iaeme.com', 'hindawi.com', 'cscjournals.org', 'scholar.google.com',
+            'onlinebooks.library.upenn.edu', 'publishing.cdlib.org', 'wdl.org',
+            'inflibnet.ac.in', 'doaj.org', 'core.ac.uk', 'tiprc.org', 'thescipub.com',
+            'ripublication.com', 'internationaljournalssrg.org', 'freecomputerbooks.com',
+            'pagebypagebooks.com', 'makeprojects.com', 'ted.com', 'kirkusreviews.com'
+        ]
+
+        OFFICIAL_COLLEGE_LINKS = {
+            "admission": [
+                ("MSAJCE Online Admissions Portal", "https://www.msajce-edu.in/admission.php"),
+                ("MSAJCE Student Registration & Online Application Form", "https://enrollonline.co.in/Registration/Apply/MSJACE"),
+                ("TNEA Online Admissions Portal", "https://tneaonline.org/"),
+                ("Anna University Official Website", "https://www.annauniv.edu/"),
+                ("DOTE Official Website", "http://www.tndte.gov.in/site/")
+            ],
+            "library": [
+                ("MSAJCE Central Library Page", "https://www.msajce-edu.in/library.php"),
+                ("DELNET Access Portal", "https://delnet.in/"),
+                ("J-Gate Plus Portal", "https://jgateplus.com/"),
+                ("National Digital Library of India (NDLI)", "https://ndl.iitkgp.ac.in/")
+            ],
+            "placement": [
+                ("MSAJCE Placements & Careers Page", "https://www.msajce-edu.in/placement.php")
+            ],
+            "hostel": [
+                ("MSAJCE Hostel Facilities Page", "https://www.msajce-edu.in/hostel.php")
+            ],
+            "transport": [
+                ("MSAJCE Transport & Bus Routes Page", "https://www.msajce-edu.in/transport.php")
+            ],
+            "bus": [
+                ("MSAJCE Transport & Bus Routes Page", "https://www.msajce-edu.in/transport.php")
+            ],
+            "fee": [
+                ("MSAJCE Online Fee Payment Portal (FeePayr)", "https://www.feepayr.com/"),
+                ("MSAJCE Fee Payment Information Page", "https://www.msajce-edu.in/feepay.php")
+            ],
+            "prospectus": [
+                ("MSAJCE College Prospectus (PDF)", "https://www.msajce-edu.in/uploads/College-Prospectus.pdf")
+            ],
+            "flyer": [
+                ("MSAJCE Admission Flyer (PDF)", "https://www.msajce-edu.in/uploads/Admission24-25Flyer.pdf")
+            ],
+            "disclosure": [
+                ("MSAJCE AICTE Mandatory Disclosure (PDF)", "https://www.msajce-edu.in/uploads/MandatoryDisclosure.pdf")
+            ],
+            "about": [
+                ("MSAJCE Institution Overview Page", "https://www.msajce-edu.in/about.php")
+            ],
+            "research": [
+                ("MSAJCE Research & R&D Center", "https://www.msajce-edu.in/research.php")
+            ],
+            "incubation": [
+                ("MSAJCE Incubation & Entrepreneurship Center", "https://www.msajce-edu.in/incubation.php")
+            ],
+            "iqac": [
+                ("MSAJCE Internal Quality Assurance Cell (IQAC)", "https://www.msajce-edu.in/iqac.php")
+            ],
+            "sports": [
+                ("MSAJCE Sports & Athletics Infrastructure Page", "https://www.msajce-edu.in/sports.php")
+            ],
+            "clubs": [
+                ("MSAJCE Clubs & Student Societies Page", "https://www.msajce-edu.in/clubs.php")
+            ]
+        }
+
+        OFFICIAL_DEPT_LINKS = {
+            "cse": ("MSAJCE Department of Computer Science & Engineering", "https://www.msajce-edu.in/cse.php"),
+            "it": ("MSAJCE Department of Information Technology", "https://www.msajce-edu.in/it.php"),
+            "ece": ("MSAJCE Department of Electronics & Communication Engineering", "https://www.msajce-edu.in/ece.php"),
+            "eee": ("MSAJCE Department of Electrical & Electronics Engineering", "https://www.msajce-edu.in/eee.php"),
+            "mech": ("MSAJCE Department of Mechanical Engineering", "https://www.msajce-edu.in/mech.php"),
+            "civil": ("MSAJCE Department of Civil Engineering", "https://www.msajce-edu.in/civil.php"),
+            "aiml": ("MSAJCE B.Tech CSE - AI & Machine Learning Page", "https://www.msajce-edu.in/aiml.php"),
+            "aids": ("MSAJCE B.Tech AI & Data Science Page", "https://www.msajce-edu.in/aids.php"),
+            "csbs": ("MSAJCE B.Tech Computer Science & Business Systems Page", "https://www.msajce-edu.in/csbs.php"),
+            "cyber": ("MSAJCE B.Tech CSE - Cyber Security Page", "https://www.msajce-edu.in/cyber.php"),
+            "vlsi": ("MSAJCE B.Tech VLSI Design & Technology Page", "https://www.msajce-edu.in/vlsi.php"),
+            "ece-act": ("MSAJCE B.Tech Advanced Communication Technology Page", "https://www.msajce-edu.in/ece-act.php")
+        }
+
+        def clean_link_item(title, url):
+            # Clean URL
+            url = re.sub(r'</?a[^>]*>', '', url, flags=re.IGNORECASE)
+            url = url.replace('</a', '').replace('</a>', '').replace('**', '').replace('\\_', '_').strip()
+            url = url.replace('msjace-edu.in', 'msajce-edu.in')
+            url = url.replace('msjace_edu_in', 'msajce-edu.in')
+            # Clean Title
+            title = title.replace('**', '').replace('\\_', '_').strip()
+            # Map generic/inaccurate titles based on the URL paths
+            url_lower = url.lower()
+            if 'admission.php' in url_lower:
+                title = "MSAJCE Online Admissions Page"
+            elif 'library.php' in url_lower:
+                title = "MSAJCE Central Library Page"
+            elif 'placement.php' in url_lower:
+                title = "MSAJCE Placements Page"
+            elif 'hostel.php' in url_lower:
+                title = "MSAJCE Hostel Facilities Page"
+            elif 'transport.php' in url_lower:
+                title = "MSAJCE Transport & Bus Routes Page"
+            elif 'feepay.php' in url_lower:
+                title = "MSAJCE Fee Payment Information"
+            elif 'feepayr.com' in url_lower:
+                title = "MSAJCE Online Fee Payment Portal (FeePayr)"
+            elif 'enrollonline.co.in' in url_lower:
+                title = "MSAJCE Student Registration & Online Application Form"
+            elif 'college-prospectus.pdf' in url_lower:
+                title = "MSAJCE College Prospectus (PDF)"
+            elif 'admission24-25flyer.pdf' in url_lower:
+                title = "MSAJCE Admission 2024-25 Flyer (PDF)"
+            
+            return title, url
+
+        links = []
+        seen_urls = set()
+        
+        # 1. Direct Keyword Matching (Pre-seeded exact official links)
+        kw_lower = keywords.lower()
+        for key, val_list in OFFICIAL_COLLEGE_LINKS.items():
+            if key in kw_lower:
+                for title, url in val_list:
+                    if url not in seen_urls:
+                        seen_urls.add(url)
+                        links.append(f"- [{title}]({url})")
+                        
+        for key, (title, url) in OFFICIAL_DEPT_LINKS.items():
+            if key in kw_lower:
+                if url not in seen_urls:
+                    seen_urls.add(url)
+                    links.append(f"- [{title}]({url})")
+
+        # 2. Qdrant Search Fallback
         link_filter = Filter(
             must=[
                 FieldCondition(key="source_file", match=MatchValue(value="msajce_all_resource_links.md"))
@@ -962,7 +1098,7 @@ def get_resource_links(keywords: str) -> str:
                 collection_name=COLLECTION_NAME,
                 query=q_vec,
                 query_filter=link_filter,
-                limit=3,
+                limit=15,
                 with_payload=True
             )
             hits = r.points
@@ -971,24 +1107,29 @@ def get_resource_links(keywords: str) -> str:
                 collection_name=COLLECTION_NAME,
                 query_vector=q_vec,
                 query_filter=link_filter,
-                limit=3
+                limit=15
             )
         
-        links = []
-        seen_urls = set()
         for h in hits:
             text = h.payload.get("text", "")
             matches = re.findall(r'\[([^\]]+)\]\((https?://[^\)]+)\)', text)
             for title, url in matches:
-                url = re.sub(r'</?a[^>]*>', '', url, flags=re.IGNORECASE)
-                url = url.replace('</a', '').replace('</a>', '').replace('**', '').replace('\\_', '_').strip()
+                # Basic cleaning
+                title, url = clean_link_item(title, url)
+                
+                # Check for excluded domains
+                is_excluded = any(domain in url.lower() for domain in EXCLUDED_DOMAINS)
+                if is_excluded:
+                    continue
+                
                 if url not in seen_urls:
                     seen_urls.add(url)
                     links.append(f"- [{title}]({url})")
-                if len(links) >= 4:
+                if len(links) >= 6:
                     break
-            if len(links) >= 4:
+            if len(links) >= 6:
                 break
+        
         if links:
             return "\n\n### 🔗 Relevant Links & Resources\n" + "\n".join(links)
     except Exception as e:
