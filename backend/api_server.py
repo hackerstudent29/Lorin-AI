@@ -17,6 +17,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from dotenv import load_dotenv
 from qdrant_client import QdrantClient
+from qdrant_client.models import Filter, FieldCondition, MatchValue, MatchAny
 
 # ── Pipeline components ───────────────────────────────────────────────────────
 from pipeline.spell_corrector      import SpellCorrector
@@ -2952,38 +2953,124 @@ def chat_endpoint(req: ChatRequest, request: Request):
 
     max_logit = max((r.get("logit", r.get("score", 0)) for r in top), default=0.0)
 
-    # ── Step 5b: Build context blocks ─────────────────────────────────────────
-    context_blocks = []
-    citations_list = []
-    context_str_parts = []
-    seen_hashes = set()
-
+    # ── Step 5b: Parent-Child Chunk Expansion ─────────────────────────────────
+    # We fetch adjacent sibling chunks (chunk_index - 1 to + 2) for each top chunk
+    # to reconstruct a larger 800-1200 token parent context block without cutoff.
+    
+    valid_top_payloads = []
+    sibling_queries = []
+    seen_indices = set()
+    
     for rank in top:
         idx = rank["index"]
         if idx >= len(payloads):
             continue
         payload = payloads[idx]
-        text = redact_personal_phone_numbers(clean_chunk(payload.get("text", "")))
-        if not text or len(text) < 30:
+        
+        parent_id = payload.get("parent_id")
+        chunk_index = payload.get("chunk_index")
+        total_chunks = payload.get("total_chunks", 1)
+        
+        if not parent_id or chunk_index is None:
+            valid_top_payloads.append(payload)
             continue
-        th = hashlib.md5(text.encode()).hexdigest()
-        if th in seen_hashes:
-            continue
-        seen_hashes.add(th)
+            
+        seen_indices.add((parent_id, chunk_index))
+        valid_top_payloads.append(payload)
+        
+        # Build query for sibling chunks [chunk_index - 1, chunk_index + 1, chunk_index + 2]
+        target_indices = []
+        for i in range(chunk_index - 1, chunk_index + 3):
+            if i != chunk_index and 1 <= i <= total_chunks:
+                if (parent_id, i) not in seen_indices:
+                    target_indices.append(i)
+                    seen_indices.add((parent_id, i))
+                    
+        if target_indices:
+            sibling_queries.append(
+                Filter(
+                    must=[
+                        FieldCondition(key="parent_id", match=MatchValue(value=parent_id)),
+                        FieldCondition(key="chunk_index", match=MatchAny(any=target_indices))
+                    ]
+                )
+            )
 
+    sibling_payloads = []
+    if sibling_queries:
+        try:
+            # Batch fetch all missing siblings in a single Qdrant query
+            sibling_filter = Filter(should=sibling_queries)
+            sibling_hits = qdrant_client.scroll(
+                collection_name=COLLECTION_NAME,
+                scroll_filter=sibling_filter,
+                limit=100,
+                with_payload=True
+            )[0]
+            sibling_payloads = [h.payload for h in sibling_hits]
+            logger.info(f"[Parent-Child] Fetched {len(sibling_payloads)} sibling chunks for expansion")
+        except Exception as e:
+            logger.error(f"[Parent-Child] Failed to fetch siblings: {e}")
+
+    # Group chunks by parent_id to reconstruct context
+    all_payloads_to_merge = valid_top_payloads + sibling_payloads
+    parent_groups = {}
+    for p in all_payloads_to_merge:
+        pid = p.get("parent_id") or hashlib.md5(p.get("text", "").encode()).hexdigest()
+        if pid not in parent_groups:
+            parent_groups[pid] = []
+        parent_groups[pid].append(p)
+
+    context_blocks = []
+    citations_list = []
+    context_str_parts = []
+    seen_hashes = set()
+
+    for pid, group in parent_groups.items():
+        # Sort sequentially by chunk index
+        group.sort(key=lambda x: x.get("chunk_index", 0))
+        
+        merged_text_parts = []
+        last_idx = None
+        
+        for p in group:
+            text = redact_personal_phone_numbers(clean_chunk(p.get("text", "")))
+            if not text or len(text) < 30:
+                continue
+                
+            th = hashlib.md5(text.encode()).hexdigest()
+            if th in seen_hashes:
+                continue
+            seen_hashes.add(th)
+            
+            idx = p.get("chunk_index", 0)
+            if last_idx is not None and idx > last_idx + 1:
+                merged_text_parts.append("\n\n[...]\n\n")
+            elif last_idx is not None:
+                merged_text_parts.append("\n\n")
+                
+            merged_text_parts.append(text)
+            last_idx = idx
+            
+        if not merged_text_parts:
+            continue
+            
+        merged_text = "".join(merged_text_parts)
+        first_p = group[0]
+        
         context_blocks.append({
-            "text":          text,
-            "section_title": payload.get("section_title", ""),
-            "category":      payload.get("category", ""),
+            "text":          merged_text,
+            "section_title": first_p.get("section_title", ""),
+            "category":      first_p.get("category", ""),
         })
-        context_str_parts.append(text)
+        context_str_parts.append(merged_text)
         citations_list.append({
-            "source":  payload.get("source_file", "College Handbook"),
-            "page":    str(payload.get("page_number", "")),
-            "section": payload.get("section_title", ""),
+            "source":  first_p.get("source_file", "College Handbook"),
+            "page":    str(first_p.get("page_number", "")),
+            "section": first_p.get("section_title", ""),
         })
 
-    if not top:
+    if not context_blocks:
         citations_list = []
 
     # ── Step 6: LLM generation ────────────────────────────────────────────────
