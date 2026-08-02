@@ -2759,6 +2759,27 @@ def chat_endpoint(req: ChatRequest, request: Request):
 
     # ── Step 2: Intent + keyword expansion on active_query ──────────────────────
     intent    = prep.get("intent", "college_query")
+    
+    # Re-evaluate hardcoded fast-paths on active_query (in case QueryRewriter resolved pronouns like 'him' -> 'Ramanathan')
+    aq_lower = active_query.lower().strip("?.! ")
+    greetings = {"hi","hello","hey","greetings","good morning","good afternoon","good evening","howdy"}
+    goodbyes  = {"bye","goodbye","see you","exit","quit","talk to you later","cya"}
+    thanks    = {"thanks","thank you","thank you so much","great","awesome","perfect","nice"}
+    developer_keywords = ["who is ram", "who is ramanathan", "who is zendrum", "who is the developer", "who created", "who built", "creator of", "developer of", "ur host", "your host", "who made you", "tell me about ram", "tell me about the developer", "about ramanathan", "about the developer", "know more about ramanathan", "know more about ram", "know more about the developer"]
+
+    if aq_lower in greetings:
+        intent = "greeting"
+        prep["direct_response"] = "Hello! 😊 I'm Lorin, your MSAJCE campus assistant. What would you like to know?"
+    elif aq_lower in goodbyes:
+        intent = "goodbye"
+        prep["direct_response"] = "Goodbye! It was great chatting with you. Feel free to come back anytime. 😊"
+    elif aq_lower in thanks:
+        intent = "compliment"
+        prep["direct_response"] = "You're welcome! Happy to help. If you have more questions about MSAJCE, just ask! 😊"
+    elif any(k in aq_lower for k in developer_keywords) or aq_lower in ["ram", "ramanathan", "zendrum", "developer", "creator"]:
+        intent = "developer_query"
+        prep["direct_response"] = "I was developed by **Ramanathan S.** (B.Tech IT, MSAJCE 2024-2028 batch). He is the creator of this chatbot, Lorin AI, Listen Zenify, ZenDrum Booking, and Zen Hostel. You can learn more about him and his work at his portfolio: [https://ramanathanportfolio.vercel.app](https://ramanathanportfolio.vercel.app)"
+
     keywords  = prep.get("keywords") or active_query
     # Strip honorifics: sir, maam, mam, mr, mrs, dr from keywords
     keywords  = re.sub(r"\b(sir|maam|mam|mr|mrs|dr|professor|prof)\b", "", keywords, flags=re.IGNORECASE).strip()
