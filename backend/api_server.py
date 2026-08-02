@@ -1779,19 +1779,19 @@ def call_vercel(messages: list, task: str = "classify", temperature: float = 0.0
 def call_nvidia(messages: list, temperature: float = 0.1, max_tokens: int = 1000, stream: bool = False, timeout: float = 60.0):
     """
     Route MAIN/HEAVY tasks (RAG answer, guidance) directly through NVIDIA NIM.
-    Always uses meta/llama-3.1-70b-instruct for high-quality grounded answers.
+    Uses meta/llama-3.1-8b-instruct for lightning-fast generation.
     """
     headers = {"Authorization": f"Bearer {NVIDIA_API_KEY}", "Content-Type": "application/json"}
     res = requests.post(
         "https://integrate.api.nvidia.com/v1/chat/completions",
         headers=headers,
-        json={"model": "meta/llama-3.1-70b-instruct", "messages": messages,
+        json={"model": "meta/llama-3.1-8b-instruct", "messages": messages,
               "temperature": temperature, "max_tokens": max_tokens, "stream": stream},
         timeout=timeout,
         stream=stream,
     )
     res.raise_for_status()
-    logger.debug("[NVIDIA] main answer → meta/llama-3.1-70b-instruct")
+    logger.debug("[NVIDIA] main answer → meta/llama-3.1-8b-instruct")
     if stream:
         return res
     return res.json()
@@ -1899,14 +1899,14 @@ def rerank_nvidia(query: str, passages: list) -> tuple:
         return [{"index": i, "logit": 1.0} for i in range(len(passages))], False
 
 
-def generate_followup_questions(query: str, answer: str, context_blocks: Optional[list] = None) -> List[str]:
-    """Generate 3 follow-up questions based only on the query and answer to save tokens."""
-    if not answer:
+def generate_followup_questions(query: str, context_text: str = "") -> List[str]:
+    """Generate 3 follow-up questions based only on the query and context to save tokens and allow parallelization."""
+    if not query:
         return []
         
     system_prompt = (
         "You are a follow-up question generator for a college chatbot.\n"
-        "Generate 3 logical follow-up questions the user might ask NEXT, based on the BOT ANSWER.\n"
+        "Generate 3 logical follow-up questions the user might ask NEXT, based on their CURRENT QUERY and the CONTEXT retrieved.\n"
         "RULES:\n"
         "1. Do NOT repeat anything already answered.\n"
         "2. Keep them short, relevant, and self-contained.\n"
@@ -1914,8 +1914,8 @@ def generate_followup_questions(query: str, answer: str, context_blocks: Optiona
         "Example: [\"What is the hostel fee?\", \"Where is it located?\", \"Who is the HOD?\"]"
     )
     user_prompt = (
-        f"USER QUESTION: {query}\n"
-        f"BOT ANSWER: {answer[:800]}\n\n"
+        f"USER QUERY: {query}\n"
+        f"CONTEXT: {context_text[:1000]}\n\n"
         "Generate 3 follow-up questions (JSON array only):"
     )
     try:
@@ -2848,10 +2848,16 @@ def chat_endpoint(req: ChatRequest, request: Request):
             context_blocks.append({"text": text, "section_title": payload.get("section_title",""), "category": payload.get("category","")})
             citations_list.append({"source": payload.get("source_file","MSAJCE"), "page": str(payload.get("page_number","")), "section": payload.get("section_title","")})
 
-        answer, g_usage = generate_guidance_answer(active_query, context_blocks)
+        context_text_for_followups = "\n".join([b["text"] for b in context_blocks])
+        import concurrent.futures
+        with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
+            fut_ans = executor.submit(generate_guidance_answer, active_query, context_blocks)
+            fut_foll = executor.submit(generate_followup_questions, active_query, context_text_for_followups)
+            answer, g_usage = fut_ans.result()
+            followups = fut_foll.result()
+            
         answer = clean_links(answer)
         redacted_ans = redact_personal_phone_numbers(answer)
-        followups = generate_followup_questions(active_query, redacted_ans, context_blocks)
         msg_id = save_message(req.session_id, "assistant", redacted_ans, {"intent": "guidance_query", "followups": followups})
 
         total_p = p_usage.get("prompt_tokens",0) + g_usage.get("prompt_tokens",0)
@@ -3076,9 +3082,15 @@ def chat_endpoint(req: ChatRequest, request: Request):
 
         return StreamingResponse(event_stream(), media_type="text/event-stream")
     
-    logger.info("[Chat] Starting main LLM answer generation...")
-    answer, g_usage = generate_answer(user_query, context_blocks, session_id=req.session_id)
-    logger.info("[Chat] Main LLM answer generation complete.")
+    logger.info("[Chat] Starting main LLM answer generation and follow-ups in parallel...")
+    context_text_for_followups = "\n\n".join(context_str_parts)
+    import concurrent.futures
+    with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
+        fut_ans = executor.submit(generate_answer, user_query, context_blocks, req.session_id)
+        fut_foll = executor.submit(generate_followup_questions, user_query, context_text_for_followups)
+        answer, g_usage = fut_ans.result()
+        followups = fut_foll.result()
+    logger.info("[Chat] Main LLM and follow-ups generation complete.")
     
     answer = clean_links(answer)
 
@@ -3101,16 +3113,12 @@ def chat_endpoint(req: ChatRequest, request: Request):
             answer += extra_links
             logger.info("[Chat] Appended resource links.")
 
-    # ── Step 6b: Faithfulness check & Follow-up question generation in parallel ──
-    logger.info("[Chat] Launching faithfulness and follow-up checks in parallel...")
+    # ── Step 6b: Faithfulness check ──
+    logger.info("[Chat] Launching faithfulness check...")
     context_for_check = "\n\n".join(context_str_parts)
-    import concurrent.futures
-    with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=1) as executor:
         fut_faith = executor.submit(faithfulness_checker.check, answer, context_for_check, max_logit)
-        fut_follow = executor.submit(generate_followup_questions, user_query, answer, None)
-        
         should_replace, faith_invoked, faith_passed = fut_faith.result()
-        followups = fut_follow.result()
     logger.info("[Chat] Parallel checks complete.")
 
     if (should_replace and not top) or not context_blocks:
