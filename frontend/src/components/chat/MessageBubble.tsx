@@ -102,7 +102,7 @@ function InteractiveLink({ href: rawHref, children }: { href?: string; children?
   };
 
   return (
-    <span className="relative inline group/link font-medium text-primary">
+    <span className="relative inline group/link font-medium text-primary mr-3 last:mr-0">
       <a
         href={href}
         target={target}
