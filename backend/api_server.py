@@ -654,7 +654,8 @@ Established under the Industry-Institute Interaction Cell (IIICell), technology 
 | **Computer Hardware & Network Maintenance** | NSQF Level 4 | 1600 hours | 30 seats |
 | **Refrigeration & Air Conditioning Technician** | NSQF Level 5 | 3200 hours | 30 seats |
 | **Embedded System Design using ARM / Cortex** | NSQF Level 5 | 80 hours | 30 seats |
-| **Architectural Drafting in Autodesk Revit** | NSQF Level 4 | 500 hours | 30 seats |""",
+| **Architectural Drafting in Autodesk Revit** | NSQF Level 4 | 500 hours | 30 seats |
+| **Additive Manufacturing Technician in 3D Printing** | NSQF Level 4 | 2080 hours | 30 seats |""",
         "citations": [{"source": "msajce_about.md", "page": "1", "section": "Overview"}],
     },
     {
