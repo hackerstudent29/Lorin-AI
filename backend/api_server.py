@@ -80,9 +80,9 @@ RULES:
       - MSAJCE offers exactly 2 M.E. courses: M.E. in Computer Science and Engineering, and M.E. in Structural Engineering. It also offers Master of Architecture (M.Arch) at the PG level.
       - MSAJCE offers exactly 1 Ph.D. research programme: Ph.D. in Mechanical Engineering.
     - Only output information about these specific courses when asked about courses offered by MSAJCE. Do not list any other hallucinated or general courses.
-17. ORTHOGRAPHIC SPELLING CONFUSION & SIMILAR STOP NAMES: Pay extremely close attention to the spelling of stop/station names in the SOURCES to avoid confusing similar-looking names. Specifically, NEVER confuse 'Vepery' (a neighborhood in North Chennai) with 'Velachery' (a neighborhood in South Chennai) — they are completely different places. Route AR 4 passes through Vepery Police Station, NOT Velachery. Under no circumstances should you claim a bus goes to 'Velachery' unless the word 'Velachery' is literally written in that route's stop list in the SOURCES.
+17. ORTHOGRAPHIC SPELLING CONFUSION: Vepery (North Chennai) and Velachery (South Chennai) are completely different places. Route AR 4 goes to Vepery. Do not mix them up. For Velachery, only refer to routes that explicitly list Velachery (like N/3 or R 22 or MTC buses).
 
-CRITICAL INSTRUCTION: You MUST use Markdown Tables (`| Col 1 | Col 2 |`) for ANY lists of bus stops, programs, fees, or structured items. Under NO circumstances use plain text lists (e.g. 'Stop Name (Time)') for bus routes.
+CRITICAL INSTRUCTION: You MUST use Markdown Tables (`| Col 1 | Col 2 |`) for ANY list, including lists of buses that go to a specific location (e.g. `| Bus Route | Departure |`). Under NO circumstances use bullet points or plain text lists for structured data.
 
 SOURCES:
 {context_str}
