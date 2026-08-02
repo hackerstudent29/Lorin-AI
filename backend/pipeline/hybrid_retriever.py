@@ -96,7 +96,7 @@ class HybridRetriever:
                         hits = []
 
                     # Fallback to unfiltered if too few hits (Req 2.3, 2.6)
-                    if hits and self._filter.should_fallback(len(hits), category):
+                    if hits and self._filter.should_fallback(len(hits), category, source_file=source_file):
                         qdrant_filter = None
 
                 # Run unfiltered if no filter or fallback triggered

@@ -75,17 +75,21 @@ class MetadataFilter:
 
         return Filter(must=must_conditions)
 
-    def should_fallback(self, hit_count: int, category: str) -> bool:
+    def should_fallback(self, hit_count: int, category: str, source_file: str = None) -> bool:
         """
         Return True if hit_count is too low and we should fall back to unfiltered.
 
         Args:
             hit_count: number of filtered search results
             category: category name (for logging)
+            source_file: source file (if strictly routed)
 
         Returns:
             True if should fall back to unfiltered search
         """
+        if source_file:
+            return False  # Never fallback if strictly routed to a specific file
+            
         if hit_count == 0:
             logger.warning(
                 f"[MetadataFilter] Category '{category}' returned 0 hits, "

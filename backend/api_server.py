@@ -2887,7 +2887,9 @@ def chat_endpoint(req: ChatRequest, request: Request):
         "madipakkam", "kovilampakkam", "transport", "travel"
     ]
     if any(k in active_query.lower() for k in transport_keywords):
-        category = "Transport"
+        # Do NOT set category="Transport" because it causes 0 hits if the DB payload doesn't perfectly match,
+        # which triggers an unfiltered fallback. source_file routing alone is strictly better.
+        category = None
         source_file = "msajce_transport.md"
     else:
         source_file = None
