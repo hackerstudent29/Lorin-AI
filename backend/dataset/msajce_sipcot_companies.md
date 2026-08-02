@@ -111,7 +111,6 @@ Located near the **East Coast Road (ECR)**, Siruseri offers easy access to leisu
 ## 🛍️ Shopping Malls & Retail Hubs
 While there are no massive "city-style" malls strictly inside the IT park gates, the immediate surrounding stretches (Egattur, Navalur, Thazhambur) offer extensive retail options:
 - **The Marina Mall (Egattur)**: A major 1.5 million sq. ft. lifestyle destination located right at the edge of Siruseri (Egattur, OMR). It features international brands (Marks & Spencer, Levi's), a SPAR supermarket, food court, INOX theater, and Timezone gaming. Open daily 10 AM to 10 PM.
-- **Oceans Mall (Navalur)**: Located just **2 km** from the SIPCOT gate on OMR. Features a Hypercity supermarket, fashion outlets, food court, and a multiplex cinema (Sathyam Cinemas).
 - **Thazhambur High Road Market**: A bustling commercial strip **3 km** away, densely packed with showrooms, clothing brands, electronics stores, and lifestyle outlets.
 - **ECR Shopping Complexes**: Towards the East Coast Road (10–15 mins away), you find large format stores like **Decathlon** (sports), **IKEA** (home furnishings, near Thoraipakkam), and **Croma/Reliance Digital**.
 - **Local Retail**: Inside the Siruseri/Navalur junction, there are numerous mini-marts, **Reliance Smart Point**, **More Supermarket**, and **Nilgiris** for daily groceries.
@@ -119,8 +118,6 @@ While there are no massive "city-style" malls strictly inside the IT park gates,
 ## 🎬 Entertainment & Leisure
 - **Cinemas**: 
     - **INOX** (inside The Marina Mall, Egattur).
-    - **Sathyam Cinemas** (inside Oceans Mall, Navalur).
-    - **PVR Cinemas** (located in Inorbit Mall, Pallikaranai, approx. 8 km away).
     - **SPI Cinemas** (Palace Heights, Thoraipakkam, approx. 6 km away).
 - **Gaming & Bowling**: **Timezone** (The Marina Mall) and bowling arenas at nearby malls (20–25 min drive).
 
