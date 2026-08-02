@@ -74,3 +74,36 @@ The park is well-served by **Metropolitan Transport Corporation (MTC)** buses wi
     - **Thazhambur Sub Post Office (S.O)**: The main sorting office for the region.
     - **Kelambakkam Post Office**: Located ~7 km away.
 - **Aadhar/Seva Centers**: Several private CSC (Common Service Centers) operate in **Navalur** and **Thazhambur** villages for Aadhar, PAN, and utility bill payments.
+
+## History, Lifestyle & Future Developments in Siruseri
+
+### 🏛️ History & Significance
+- **Scale**: Spanning approximately **782–800 acres**, it is the **second-largest IT park in Asia** and the largest in South India.
+- **SEZ Status**: Designated as a **Special Economic Zone (SEZ)** in August 2006, offering tax incentives and streamlined regulations for exporters.
+- **Evolution**: Developed by **SIPCOT** (State Industries Promotion Corporation of Tamil Nadu) starting in the early 2000s to decongest Chennai’s city center and create a dedicated "Cyber City" along the Old Mahabalipuram Road (OMR).
+- **Recent Milestones**: In 2022, a **₹48 crore Trade Facilitation Center** was inaugurated to support exporters. The park recently transitioned into a hub for **AI and Cloud infrastructure** with massive data center investments in 2025.
+
+### 🚇 Upcoming Infrastructure (2026–2028)
+- **Chennai Metro Phase II**: The **Purple Line (Corridor 3: Madhavaram–SIPCOT)** and **Corridor 5** are under construction. The **Siruseri SIPCOT Metro Station** is expected to be operational by **late 2026 to 2028**, directly connecting the park to central Chennai and reducing commute times significantly.
+- **Road Upgrades**: An **under-pass at Potheri Junction** and extensions to the **Outer Ring Road (ORR)** are planned to decongest the NH-45 and OMR intersection, improving access to the airport and Chengalpattu.
+- **Campus Expansions**: Major firms like **HCL** and **L&T** have announced plans for adjacent expansions in 2026, adding further office capacity.
+
+### 🏘️ Residential & Cost of Living
+Siruseri has evolved from a remote work hub into a thriving residential suburb:
+- **Property Rates**: As of 2026, the average property price is approximately **₹6,400 – ₹6,450 per sq. ft.**, with an annual appreciation of **8–12%**.
+- **Rental Market**: High demand from IT professionals drives rentals.
+    - **2 BHK**: ₹25,000 – ₹32,000/month.
+    - **3 BHK**: ₹30,000 – ₹35,000/month.
+    - **Villas**: ₹40,000 – ₹60,000+/month.
+- **Key Residential Projects**: New gated communities include **Hiranandani Verona Block**, **Urbando Kosmos Solaris**, **KG Earth Homes**, and **Isha Symphony Villas**.
+
+### 🎡 Nearby Attractions & Lifestyle
+Located near the **East Coast Road (ECR)**, Siruseri offers easy access to leisure spots:
+- **Recreation**: **VGP Universal Kingdom** (amusement park) and **MGM Dizzee World** are nearby.
+- **Culture**: **Dakshina Chitra Heritage Museum** (open-air museum of South Indian art/architecture) and **ISKCON Chennai**.
+- **Beaches**: **Uthandi Beach**, **Injambakkam Beach**, and **Muttukadu Beach** are within a 10–15 minute drive.
+- **Dining & Stay**: The area hosts premium hotels like **Novotel Chennai Sipcot**, **ibis Chennai Sipcot**, and **Regenta Central**, alongside diverse dining options ranging from local messes to fine dining at **The Square**.
+
+### 🎓 Educational & Research Institutions
+- **Chennai Mathematical Institute (CMI)**: A premier research institute for mathematics and computer science located adjacent to the IT Park.
+- **Schools**: Reputed institutions like **The School (KFI)**, **Padma Adarsh Higher Secondary School**, and **Kidzee** serve the residential community.
