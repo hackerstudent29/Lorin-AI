@@ -440,50 +440,63 @@ All postgraduate courses are approved by AICTE and affiliated to Anna University
         "answer": """Mohamed Sathak A.J. College of Engineering (MSAJCE) admission details:
 
 ### 📝 Admission Procedure
-- **Counselling Route**: Students who have completed Plus 2 or Diploma can apply through the **TNEA (Tamil Nadu Engineering Admissions)** counselling process conducted by DOTE.
-- **NRI Admissions**: 5% of sanctioned seats are reserved under the NRI category. If NRI seats are unfilled, they are given to general candidates based on merit.
-- **Contact Admissions**: Direct admission queries can be referred to Physical Education Director Dr. K.P. Santhosh Nathan (+91 99400 04500 / ped.santhosh@msajce-edu.in) or Principal Dr. K.S. Srinivasan (+91 91505 75066 / principal@msajce-edu.in).
+- **Counselling Route (50% Seats)**: Candidates who have completed HSC (Academic/Vocational) or Diploma can apply through the **TNEA (Tamil Nadu Engineering Admissions)** counselling process conducted by DOTE. Anna University Counselling Code: **4962**.
+- **Management Route (50% Seats)**: Candidates can apply directly under the Management Quota based on merit in qualifying marks.
+- **NRI Admissions (5%)**: 5% of sanctioned seats are reserved under the NRI category. Unfilled NRI seats are allocated to general candidates on merit.
+- **Contact Admissions**: For admission queries, contact the general office helpline at **+91 99400 04500** or via email at **msajce.office@gmail.com**. You can also reach out to Physical Education Director Dr. K.P. Santhosh Nathan (ped.santhosh@msajce-edu.in) or Principal Dr. K.S. Srinivasan (principal@msajce-edu.in).
 
 ### 🎓 Eligibility Criteria (UG B.E. / B.Tech)
-- **Minimum Qualifying Marks**: Pass in HSC (Academic) or equivalent with a minimum average percentage in Mathematics, Physics, and Chemistry put together:
-  - **General Category (OC)**: **45%** minimum average
-  - **Backward Class (BC/BCM)**: **40%** minimum average
-  - **MBC / DNC**: **40%** minimum average
-  - **SC / SCA / ST**: **40%** minimum average
+Pass in HSC (Academic/Vocational) or equivalent with a minimum average percentage in Mathematics, Physics, and Chemistry (MPC) put together:
+
+| Category | Minimum Average Marks (Academic & Vocational) |
+| :--- | :--- |
+| **General Category (OC)** | **45%** minimum average |
+| **Backward Class (BC / BCM)** | **40%** minimum average |
+| **MBC / DNC** | **40%** minimum average |
+| **SC / SCA / ST** | **40%** minimum average |
 
 ### 🔄 Direct Second Year Lateral Entry Eligibility
-- **Diploma Candidates**: Must have passed the Diploma in the appropriate branch from the State Board of Technical Education, Tamil Nadu, or equivalent.
-- **B.Sc. Candidates**: Must have passed a recognized B.Sc. degree (3-year pattern) studying Mathematics at the degree level.
-- **Minimum Marks**:
-  - **General Category (OC)**: **55%** minimum average
-  - **Backward Class (BC/BCM)**: **50%** minimum average
-  - **MBC / DNC**: **45%** minimum average
-  - **SC / SCA / ST**: Mere pass in the qualifying examination""",
+Candidates must have passed a recognized Diploma or a 3-year B.Sc. degree with Mathematics:
+
+| Category | Minimum Average Marks (Lateral Entry) |
+| :--- | :--- |
+| **General Category (OC)** | **55%** minimum average |
+| **Backward Class (BC / BCM)** | **50%** minimum average |
+| **MBC / DNC** | **45%** minimum average |
+| **SC / SCA / ST** | **Mere pass** in the qualifying exam |""",
         "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Under Graduate Programmes"}],
     },
     {
         "query": "Tell me about the Central Library facilities, books stack, and working hours at MSAJCE.",
         "answer": """The Learning Centre (Central Library) is a core support service at MSAJCE:
 
-### 📚 Infrastructure and Book Stacks
-- **Area**: The library covers a spacious area of **8,978 square feet** spanning across the Ground Floor and the First Floor.
-- **Automation**: Fully computerized using Bar-coded Technology and **Koha** open-source library management software. Has high-speed Internet and Wi-Fi connectivity.
-- **Book Stack Collection**:
-  - **Total Volumes**: **29,853 volumes** comprising **5,628 titles**
-  - **Reference Books**: **1,885 reference volumes**
-  - **E-books**: **3,790 e-books** available
-  - **Printed Journals**: Subscribes to **35 specialized printed journals** and **20 magazines**
-  - **E-journals**: Subscribes to DELNET (**1,379 e-journals**) and J-Gate Database (**over 50,684 journals** online)
-  - **Multimedia**: **356 CD-ROMs** and **260 project reports**
+### 📚 Infrastructure & Collections
+The library covers a spacious area of **8,978 square feet** spanning across the Ground and First Floors. It is fully automated with Koha open-source software and Bar-coded Technology.
+
+| Resource Category | Details & Counts |
+| :--- | :--- |
+| **Total Volumes** | **29,853 volumes** |
+| **Total Titles** | **5,628 titles** |
+| **Reference Volumes** | **1,885 reference volumes** |
+| **E-books** | **3,790 e-books** |
+| **Printed Journals** | **35 specialized printed journals** and **20 magazines** |
+| **E-journals** | DELNET (**1,379 e-journals**), J-Gate Database (**50,684+ journals**) |
+| **Gale Database** | Access to **1,800 international journals** online |
+| **Multimedia** | **356 CD-ROMs** and **260 project reports** |
 
 ### ⏰ Library Working Hours
 - **Monday to Saturday**: **8:00 AM to 7:00 PM**
 - **Sundays**: **10:00 AM to 4:00 PM**
 
-### 💳 Borrowing Eligibility
-- **Undergraduate & Postgraduate Students**: Entitled to borrow **18 books** for a loan period of **30 days**.
-- **Teaching Staff**: Entitled to borrow **10 books** for a loan period of **30 days**.
-- **Supporting & Administrative Staff**: Entitled to borrow **4 books** for a loan period of **30 days**.""",
+### 💳 Borrowing Eligibility & Limits (Loan Period: 30 Days)
+- **Students (UG & PG)**: Entitled to borrow up to **18 books**.
+- **Teaching Staff**: Entitled to borrow up to **10 books**.
+- **Supporting & Administrative Staff**: Entitled to borrow up to **4 books**.
+
+### 💸 Overdue Fines
+- **1 to 7 Days**: Rs. 1 per day per book.
+- **8 to 14 Days**: Rs. 2 per day per book.
+- **15 Days onwards**: Rs. 5 per day per book.""",
         "citations": [{"source": "msajce_library.md", "page": "1", "section": "Overview"}],
     },
     {
@@ -492,7 +505,7 @@ All postgraduate courses are approved by AICTE and affiliated to Anna University
 
 ### 🎓 Undergraduate (UG) B.E. / B.Tech / B.Arch / B.Des Courses
 
-| Department | Course Name | Duration | Total Seats | Govt Quota | Management Quota |
+| Department | Course Name | Duration | Total Intake | Govt Quota (50%) | Mgmt Quota (50%) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Civil Engineering** | B.E. in Civil Engineering | 4 years | 30 | 15 | 15 |
 | **Computer Science & Engineering** | B.E. in Computer Science and Engineering | 4 years | 60 | 30 | 30 |
@@ -511,7 +524,7 @@ All postgraduate courses are approved by AICTE and affiliated to Anna University
 
 ### 🎓 Postgraduate (PG) M.E. / M.Arch Courses
 
-| Department | Course Name | Duration | Total Seats | Government Quota | Management Quota |
+| Department | Course Name | Duration | Total Intake | Govt Quota (50%) | Mgmt Quota (50%) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Computer Science** | M.E. in Computer Science and Engineering | 2 years | 9 | 3 | 6 |
 | **Civil Engineering** | M.E. in Structural Engineering | 2 years | 18 | 6 | 12 |
@@ -525,23 +538,26 @@ All courses are approved by AICTE New Delhi and affiliated to Anna University, C
     },
     {
         "query": "What are the placement statistics, highest package, and top recruiting companies at MSAJCE?",
-        "answer": """Placement and recruitment details at Mohamed Sathak A.J. College of Engineering (MSAJCE):
+        "answer": """Mohamed Sathak A.J. College of Engineering (MSAJCE) maintains a dedicated Placement Cell to facilitate internships and placements:
 
-### 💼 Internship Recruiter Placements (2022-2023 Batch)
-A high percentage of students secure internships and placements in leading corporate organizations. Student placement counts for internship recruits in 2022-2023 include:
-- **Lenovo**: 75 students
-- **Zoho Tech**: 51 students
-- **Green Valleys Shelters Pvt. Ltd.**: 45 students
-- **Thermodyn**: 39 students
-- **Ozaro Media Teck**: 34 students
-- **Sri KVS Industries**: 30 students
-- **Openwave**: 16 students
-- **Preethi Engineering**: 14 students
-- **TVS Mobility**: 10 students
-- **Disenosys**: 9 students
+### 💼 Top Recruiter Internship Placements (2022-2023 Batch)
+A high percentage of students secure internships and placements in leading corporate organizations. Key placement counts for the 2022-2023 batch include:
+
+| Recruiter Company | Number of Student Interns Placed |
+| :--- | :--- |
+| **Lenovo** | 75 students |
+| **Zoho Tech** | 51 students |
+| **Green Valleys Shelters Pvt. Ltd.** | 45 students |
+| **Thermodyn** | 39 students |
+| **Ozaro Media Teck** | 34 students |
+| **Sri KVS Industries** | 30 students |
+| **Openwave** | 16 students |
+| **Preethi Engineering** | 14 students |
+| **TVS Mobility** | 10 students |
+| **Disenosys** | 9 students |
 
 ### 💰 Placement Packages
-- **Highest and Average Packages**: Specific salary packages or highest placement packages are not explicitly documented in the available records. For detailed salary package charts, contact the Placement Officer Mr. S.V. Vinodh (+91-99409 02255 / placement@msajce-edu.in).
+- **Highest and Average Packages**: Specific salary packages or highest placement packages are not explicitly documented in the available records. For detailed salary package charts, contact the Placement Officer Mr. S.V. Vinodh (placement@msajce-edu.in) or the general office (+91 99400 04500).
 
 ### 🤝 Placement Committee
 - **Placement Officer**: Mr. S.V. Vinodh (placement@msajce-edu.in)
@@ -552,43 +568,53 @@ A high percentage of students secure internships and placements in leading corpo
         "query": "What are the hostel facilities, room capacity, mess, and rules for the Boys Hostel at MSAJCE?",
         "answer": """MSAJCE Boys Hostel details and facilities:
 
-### 🏢 Hostel Capacity and Rooms
-- **Location**: Located inside the college campus, surrounded by greenery.
-- **Blocks**: Consists of **3 blocks** and accommodates up to **480 boy students**.
-- **Room Types**: Offers **233 Non-AC rooms** and **6 AC rooms**, with **2 students accommodated per room**.
-- **Furnishing**: Well furnished with cot, mattress, pillows, bed-spreads, individual cupboards, study table, chair, fan, water heater, and wall hangers.
+### 🏢 Hostel Capacity & Room Configurations
+The Boys Hostel is located inside the college campus, surrounded by greenery.
 
-### 🍴 Dining and Canteen
-- **Hygienic Canteen**: Serving nutritious vegetarian and non-vegetarian food. Mess charges are collected annually at the time of admission.
-- **Canteen Hours**: Open on all working days from **8:00 AM to 8:00 PM**.
-- **Mess Hours**:
-  - **Breakfast**: 7:00 AM to 8:00 AM (working days)
-  - **Lunch**: 1:00 PM to 1:45 PM (working days)
-  - **Dinner**: 7:00 PM to 8:30 PM (working days)
+| Detail Category | Specification Details |
+| :--- | :--- |
+| **Total Blocks** | 3 Blocks |
+| **Accommodating Capacity** | Up to 480 boy students |
+| **Non-AC Rooms** | 233 Rooms |
+| **AC Rooms** | 6 Rooms |
+| **Room Occupancy** | 2 students accommodated per room |
+| **Furnishings Provided** | cot, mattress, pillows, bed-spreads, cupboards, study table, chair, fan, water heater, wall hangers |
 
-### 📋 Rules and Daily Timings
-- **Room Allotment**: Approved strictly by the Warden or Principal Dr. K.S. Srinivasan.
-- **Cleanliness**: Students are responsible for keeping their rooms clean.
-- **Authorized Visitors**: Permitted only on holidays from **11:00 AM to 6:00 PM** (must be on the authorized visitors list).
-- **Daily Study Hours**:
-  - **Morning**: 5:00 AM to 7:00 AM
-  - **Evening**: 6:00 PM to 7:00 PM & 9:00 PM to 10:30 PM""",
+### 🍴 Mess & Dining Schedule
+Nutritious vegetarian and non-vegetarian food is served in the canteen and dining hall. Mess charges are collected annually at the time of admission.
+
+| Meal type | Dining Hours (Working Days) | Dining Hours (Holidays) |
+| :--- | :--- | :--- |
+| **Breakfast** | 07:00 AM to 08:00 AM | 07:30 AM to 09:00 AM |
+| **Lunch** | 01:00 PM to 01:45 PM | 12:30 PM to 02:00 PM |
+| **Dinner** | 07:00 PM to 08:30 PM | 07:00 PM to 09:00 PM |
+
+### 📋 Daily Timings & Rules
+- **Study Hours**: Morning: **5:00 AM to 7:00 AM** | Evening: **6:00 PM to 7:00 PM** & **9:00 PM to 10:30 PM**.
+- **Warden Approvals**: Room allotments and outpasses must be approved strictly by the Warden or Principal Dr. K.S. Srinivasan.
+- **Visitors**: Permitted only on holidays from **11:00 AM to 6:00 PM** (must be on the authorized visitors list).""",
         "citations": [{"source": "msajce_hostel.md", "page": "1", "section": "Boys Hostel"}],
     },
     {
         "query": "What are the hostel facilities, room capacity, and details for the Girls Hostel at MSAJCE?",
         "answer": """MSAJCE Girls Hostel details and facilities:
 
-### 🏢 Accommodation & Capacity
-- **Location**: Located at **Sholinganallur** (approximately **5 KM away from the campus**) in a premium, safe, and secure neighborhood.
-- **Blocks**: Consists of **1 block** with **71 Non-AC rooms**.
-- **Room Capacity**: Accommodates **3 girl students per room**. The total capacity is **210 girl students**.
-- **Furnishing**: Fully furnished with cots, mattresses, cupboards, study tables with lamps, wash basin, mirror, and attached bath/toilet facilities.
+### 🏢 Hostel Capacity & Room Configurations
+The Girls Hostel is situated at **Sholinganallur** (approximately 5 KM away from the campus) in a premium, safe residential neighborhood.
 
-### 📶 Amenities & Study Hours
+| Detail Category | Specification Details |
+| :--- | :--- |
+| **Total Blocks** | 1 Block |
+| **Accommodating Capacity** | Up to 210 girl students |
+| **Non-AC Rooms** | 71 Rooms |
+| **Room Occupancy** | 3 students accommodated per room |
+| **Furnishings Provided** | Cot, mattress, pillows, bed-spreads, study tables with lamps, individual cupboards, wash basin, attached toilet/bath |
+
+### 📶 Amenities & Extended Study Facilities
 - **Facilities**: Wi-Fi internet access, land-line telephone, TV hall, indoor games, and reading room with papers and magazines.
-- **Extended Library**: Library and computer facilities are made available **until 9:00 PM** inside the hostel for student convenience.
-- **Mess**: Serves high-quality vegetarian and non-vegetarian meals under the guidance of the Administrative Officer and the Principal.""",
+- **Extended Study**: Library and computer facilities are made available **until 9:00 PM** inside the hostel for student convenience.
+- **Mess & Canteen**: Serves high-quality vegetarian and non-vegetarian meals under the guidance of the Administrative Officer and the Principal. Mess, dining schedules, and study timings match the Boys Hostel guidelines.
+- **Visitors**: Permitted only on holidays from **11:00 AM to 6:00 PM** (authorized guardians list required).""",
         "citations": [{"source": "msajce_hostel.md", "page": "1", "section": "Girls Hostel"}],
     },
     {
@@ -596,9 +622,9 @@ A high percentage of students secure internships and placements in leading corpo
         "answer": """Overview of college bus routes, timings, and stops at Mohamed Sathak A.J. College of Engineering (MSAJCE):
 
 ### 🚌 Summary of College Bus Routes and Timings
-The college operates a fleet of **22 buses** arriving at MSAJCE College by **8:00 AM**. Timings and stops include:
+The college operates a fleet of **22 buses** (along with 1 Tata ACE and 1 Ambulance) arriving at the OMR Siruseri campus by **8:00 AM**. Timings and stops include:
 
-| Route | Departure Stop | Departure Time | Key Stops |
+| Route | Departure Stop | Departure Time | Key Stops / Landmarks |
 | :--- | :--- | :--- | :--- |
 | **AR 3** | Uthiramerur | 6:00 AM | Guduvanchery, Vandalur Zoo, Kandigai, Kelambakkam |
 | **AR 4** | Moolakadai | 6:10 AM | Perambur, Vepery Police Station (6:25 AM), Parrys Corner, Adyar, Palavakkam, Sholinganallur |
@@ -611,42 +637,50 @@ The college operates a fleet of **22 buses** arriving at MSAJCE College by **8:0
 | **R 22** | Nemilichery | 5:50 AM | Poonamallee, Porur, Kathipara, Velachery Bypass (6:45 AM), Kaiveli (7:00 AM), Medavakkam |
 
 ### 📞 Transport Contacts
-- **Transport Convener**: Dr. K. P. Santhosh Nathan (+91 99400 04500 / 98408 86992)
-- **Assistant Convener**: Mr. A. Abdul Gafoor (+91 99403 19629)
+- **Transport Convener**: Dr. K. P. Santhosh Nathan (ped.santhosh@msajce-edu.in)
+- **Assistant Convener**: Mr. A. Abdul Gafoor (abdulgafoor@msajce-edu.in)
+- **Office Helpline**: +91 99400 04500 / msajce.office@gmail.com
 
-*Note: Route AR 4 passes through Vepery Police Station, NOT Velachery. Personal numbers of drivers are restricted; contact transport conveners for direct route queries.*""",
+*Note: Route AR 4 passes through Vepery Police Station, NOT Velachery. Personal numbers of drivers/faculty are strictly restricted; contact transport conveners via email or office helpline for direct route queries.*""",
         "citations": [{"source": "msajce_transport.md", "page": "1", "section": "College Bus Routes Summary"}],
     },
     {
         "query": "Tell me about the laboratory facilities, technology centres, and practical learning infrastructure at MSAJCE.",
-        "answer": """Practical learning and lab facilities at Mohamed Sathak A.J. College of Engineering (MSAJCE):
+        "answer": """Mohamed Sathak A.J. College of Engineering (MSAJCE) provides state-of-the-art laboratory and practical skilling infrastructure:
 
-### 🔬 Practical Labs & Facilities
-- **Lab Infrastructure**: MSAJCE has well-established, air-conditioned computer laboratories and specialized department labs catering to practical learning and examinations.
-- **Department Laboratories**:
-  - **CSE & IT**: High-speed internet labs equipped for programming, networking, databases, and AI machine learning.
-  - **ECE**: Communications engineering, microcontroller, and specialized embedded systems design labs.
-  - **EEE & Mechanical**: Electrical machines, power systems, control systems, and mechanical engineering workshops.
-  - **Civil**: Structural engineering, strength of materials, and surveying labs.
+### 🔬 Practical Department Laboratories
+- **CSE & IT**: Air-conditioned computer labs equipped with high-speed internet and development environments for programming, databases, web development, and AI/Machine Learning.
+- **ECE & EEE**: Advanced communication engineering, microcontrollers, VLSI technology, electrical machines, control systems, and power electronics laboratories.
+- **Civil & Mechanical**: Structural engineering, strength of materials, fluid mechanics, surveying, thermal engineering, dynamics, and machine shops.
 
-### 🏢 Technology Centres & Centers of Excellence (CoEs)
-- **Centers of Excellence**: Established under the leadership of the Industry-Institute Interaction Cell (IIICell) with rich industrial collaboration.
-- **Skilling Courses**: Technology centers host value-added and skill development courses, including AI/Machine Learning Developer (756 hours, NSQF Level 7), Embedded System Design using ARM/Cortex, and Architectural Drafting in Autodesk Revit.""",
+### 🏢 Centers of Excellence (CoEs) & Skilling Courses
+Established under the Industry-Institute Interaction Cell (IIICell), technology centers host specialized value-added and skill development courses:
+
+| Skilling Course Name | NSQF Level | Training Duration | Sanctioned Intake |
+| :--- | :--- | :--- | :--- |
+| **AI / Machine Learning Developer** | NSQF Level 7 | 756 hours | 30 seats |
+| **Computer Hardware & Network Maintenance** | NSQF Level 4 | 1600 hours | 30 seats |
+| **Refrigeration & Air Conditioning Technician** | NSQF Level 5 | 3200 hours | 30 seats |
+| **Embedded System Design using ARM / Cortex** | NSQF Level 5 | 80 hours | 30 seats |
+| **Architectural Drafting in Autodesk Revit** | NSQF Level 4 | 500 hours | 30 seats |""",
         "citations": [{"source": "msajce_about.md", "page": "1", "section": "Overview"}],
     },
     {
         "query": "What scholarships are available for students at MSAJCE?",
-        "answer": """MSAJCE students are eligible for various AICTE and Government scholarships:
+        "answer": """Mohamed Sathak A.J. College of Engineering (MSAJCE) supports students through various AICTE, Government, and Alumni scholarship schemes:
 
 ### 🎓 Available Scholarship Schemes
 
-| Scheme Name | Funding Body | Eligibility / Requirements | Scholarship Amount |
+| Scholarship Scheme | Funding Body | Eligibility / Requirements | Scholarship Amount |
 | :--- | :--- | :--- | :--- |
 | **Pragati Scheme** | AICTE | Girl students (max 2 per family), family income < 8 Lakhs per annum | Rs. 50,000 / year (800 scholarships for TN) |
 | **Saksham Scheme** | AICTE | Specially abled students (>40% disability), family income < 8 Lakhs per annum | Rs. 50,000 / year (all eligible candidates in TN) |
 | **Merit-cum-Means** | Ministry of Minority Affairs | Minority community, >50% marks in final exam, family income < 2.5 Lakhs | Rs. 20,000 / year (+12k hostellers, 6k day scholars) |
 | **Central Sector Scheme** | MHRD | >80% marks in final examinations, family income < 8 Lakhs per annum | Rs. 10,000 / year (4883 scholarships for TN) |
 | **Labour Wards Scheme** | Ministry of Labour & Employment | Wards of Beedi, Mine, and Cine workers, family income < 10,000 / month | Rs. 15,000 / year (all eligible candidates in TN) |
+
+### 🤝 Alumni Merit Scholarships
+Managed under the MSAJCE Alumni Association, merit-based financial aid is provided to deserving students (such as recent recipients in the 2024-2028 batch like Mohamed Humdhan, Revathi, Sireesh, and Harini).
 
 For scholarship details and application assistance, contact the Administrative Office (+91 99400 04500 / msajce.office@gmail.com).""",
         "citations": [{"source": "msajce_admission.md", "page": "1", "section": "Undergraduate Scholarships"}],
@@ -656,26 +690,26 @@ For scholarship details and application assistance, contact the Administrative O
         "answer": """About Mohamed Sathak A.J. College of Engineering (MSAJCE):
 
 ### 📜 Institutional Profile & Affiliations
-- **Establishment**: Founded on **5th July 2001** under the aegis of the Mohamed Sathak Trust.
+- **Establishment**: Founded on **5th July 2001** under the aegis of the **Mohamed Sathak Trust**, which has pioneered education for decades.
 - **Approvals & Affiliations**: Approved by the **AICTE New Delhi**, affiliated to **Anna University Chennai**, and recognized by the Government of Tamil Nadu.
 - **Accreditation**: Accredited by the **National Assessment and Accreditation Council (NAAC)**, Bangalore.
-- **Campus**: The college features a sprawling, green campus over **70 acres** located inside the **SIPCOT IT Park** in Siruseri, Chennai. It is surrounded by major multinational corporations (such as TCS, CTS, Infosys, and HCL), offering excellent industry institution interaction.
+- **Campus**: The college features a sprawling, green campus over **70 acres** located inside the **SIPCOT IT Park** in Siruseri, Chennai. Being situated in a major IT corridor surrounded by MNCs (like TCS, CTS, Infosys, and HCL) offers excellent industrial institute interaction and placement paths.
 
 For admission and general enquiries, contact the college office (+91 99400 04500 / msajce.office@gmail.com).""",
         "citations": [{"source": "msajce_about.md", "page": "1", "section": "Overview"}],
     },
     {
         "query": "What sports facilities, athletic infrastructure, and student clubs are active at MSAJCE?",
-        "answer": """MSAJCE provides a highly active and vibrant campus life:
+        "answer": """MSAJCE provides a highly active and vibrant campus life with balanced focus on academics and co-curricular pursuits:
 
 ### 🏆 Sports & Athletic Facilities
-- **Facilities**: Features a spacious playground and indoor sports setups.
-- **Activities**: Supports student participation in local and national sports meets, NCC, and NSS activities.
-- **Head of Sports**: Managed under the guidance of Physical Education Director Dr. K.P. Santhosh Nathan (+91 99400 04500 / ped.santhosh@msajce-edu.in).
+- **Facilities**: Features a large playground and specialized indoor sports arenas.
+- **Activities**: Supports student participation in local, state, and national athletic meets, Anna University Zonal tournaments, NCC, and NSS activities.
+- **Head of Sports**: Managed under the guidance of Physical Education Director Dr. K.P. Santhosh Nathan (ped.santhosh@msajce-edu.in).
 
 ### 🎭 Student Clubs & Professional Societies
-- **Clubs**: Active clubs include Cultural Clubs, NSS, NCC, and the Youth Red Cross (YRC) for community social services.
-- **Professional Societies**: Hosts active student chapters of major professional organizations to promote innovative technical learning, competitive hackathons, and webinars.""",
+- **Clubs**: Active clubs include Cultural Clubs (organizing campus cultural festivals), NSS (National Service Scheme), NCC (National Cadet Corps), and Youth Red Cross (YRC) for social service.
+- **Professional Chapters**: Hosts active student chapters of major professional organizations (such as IEEE, CSI, ISTE, SAE) to promote competitive hackathons, workshops, and technical webinars.""",
         "citations": [{"source": "msajce_about.md", "page": "1", "section": "Why Join MSAJCE"}],
     },
     {
@@ -688,11 +722,11 @@ For admission and general enquiries, contact the college office (+91 99400 04500
 - **Google Maps Directions**: [Google Maps Directions Link](https://maps.app.goo.gl/nrTgXSwx1h76SjdSA)
 
 ### 📞 Contact Numbers & Emails
-- **Admission Enquiries**: Dr. K.P. Santhosh Nathan (ped.santhosh@msajce-edu.in / +91 99400 04500)
-- **General Office**: Phone: +91 99400 04500 | Email: msajce.office@gmail.com
+- **General Office Helpline**: Phone: **+91 99400 04500** | Email: **msajce.office@gmail.com**
+- **Admission Enquiries**: Dr. K.P. Santhosh Nathan (ped.santhosh@msajce-edu.in)
 - **Principal Office**: Dr. K.S. Srinivasan (principal@msajce-edu.in)
 - **Administrative Officer**: Mr. A. Abdul Gafoor (abdulgafoor@msajce-edu.in)
-- **Placement Officer**: Mr. S.V. Vinodh (placement@msajce-edu.in / +91-99409 02255)""",
+- **Placement Officer**: Mr. S.V. Vinodh (placement@msajce-edu.in)""",
         "citations": [{"source": "msajce_about.md", "page": "1", "section": "Campus Location & Google Maps"}],
     },
 ]
@@ -1981,8 +2015,9 @@ def chat_endpoint(req: ChatRequest, request: Request):
                 cur.close(); conn.close()
                 cits = json.loads(row[1]) if isinstance(row[1], str) else (row[1] or [])
                 save_message(req.session_id, "user", user_query)
-                cached_msg_id = save_message(req.session_id, "assistant", row[0], {"from_cache": True})
-                return ChatResponse(answer=row[0], citations=cits,
+                redacted_ans = redact_personal_phone_numbers(row[0])
+                cached_msg_id = save_message(req.session_id, "assistant", redacted_ans, {"from_cache": True})
+                return ChatResponse(answer=redacted_ans, citations=cits,
                                     modelUsed="cache", isCached=True,
                                     tokenUsage=TokenUsage(prompt_tokens=0,completion_tokens=0,total_tokens=0),
                                     message_id=cached_msg_id)
@@ -2106,15 +2141,16 @@ def chat_endpoint(req: ChatRequest, request: Request):
 
         answer, g_usage = generate_guidance_answer(active_query, context_blocks)
         answer = clean_links(answer)
-        followups = generate_followup_questions(active_query, answer, context_blocks)
-        msg_id = save_message(req.session_id, "assistant", answer, {"intent": "guidance_query", "followups": followups})
+        redacted_ans = redact_personal_phone_numbers(answer)
+        followups = generate_followup_questions(active_query, redacted_ans, context_blocks)
+        msg_id = save_message(req.session_id, "assistant", redacted_ans, {"intent": "guidance_query", "followups": followups})
 
         total_p = p_usage.get("prompt_tokens",0) + g_usage.get("prompt_tokens",0)
         total_c = p_usage.get("completion_tokens",0) + g_usage.get("completion_tokens",0)
         total_t = p_usage.get("total_tokens",0) + g_usage.get("total_tokens",0)
 
         return ChatResponse(
-            answer=answer,
+            answer=redacted_ans,
             citations=[Citation(**c) for c in citations_list],
             modelUsed="meta/llama-3.1-8b-instruct",
             isCached=False,
@@ -2310,7 +2346,8 @@ def chat_endpoint(req: ChatRequest, request: Request):
                 total_p = p_usage.get("prompt_tokens",0) + g_usage.get("prompt_tokens",0)
                 total_c = p_usage.get("completion_tokens",0) + g_usage.get("completion_tokens",0)
                 
-                msg_id_val = save_message(req.session_id, "assistant", answer_text, trace, prompt_tokens=total_p, completion_tokens=total_c, citations=citations_list)
+                redacted_ans = redact_personal_phone_numbers(answer_text)
+                msg_id_val = save_message(req.session_id, "assistant", redacted_ans, trace, prompt_tokens=total_p, completion_tokens=total_c, citations=citations_list)
                 
                 # Cache it
                 try:
@@ -2318,7 +2355,7 @@ def chat_endpoint(req: ChatRequest, request: Request):
                     cur.execute("""
                         INSERT INTO query_cache (query_hash, query_text, response_text, citations)
                         VALUES (%s,%s,%s,%s) ON CONFLICT (query_hash) DO NOTHING
-                    """, (q_hash, corrected_query, answer_text, json.dumps(citations_list)))
+                    """, (q_hash, corrected_query, redacted_ans, json.dumps(citations_list)))
                     cur.close(); conn.close()
                 except Exception:
                     pass
@@ -2392,7 +2429,8 @@ def chat_endpoint(req: ChatRequest, request: Request):
     if not top or answer == faithfulness_checker.fallback_message:
         citations_list = []
 
-    msg_id = save_message(req.session_id, "assistant", answer, trace, prompt_tokens=total_p, completion_tokens=total_c, citations=citations_list)
+    redacted_ans = redact_personal_phone_numbers(answer)
+    msg_id = save_message(req.session_id, "assistant", redacted_ans, trace, prompt_tokens=total_p, completion_tokens=total_c, citations=citations_list)
 
     # ── Step 8: Cache result ──────────────────────────────────────────────────
     try:
@@ -2400,13 +2438,13 @@ def chat_endpoint(req: ChatRequest, request: Request):
         cur.execute("""
             INSERT INTO query_cache (query_hash, query_text, response_text, citations)
             VALUES (%s,%s,%s,%s) ON CONFLICT (query_hash) DO NOTHING
-        """, (q_hash, corrected_query, answer, json.dumps(citations_list)))
+        """, (q_hash, corrected_query, redacted_ans, json.dumps(citations_list)))
         cur.close(); conn.close()
     except Exception as e:
         logger.warning(f"[Cache] Save failed: {e}")
 
     return ChatResponse(
-        answer=answer,
+        answer=redacted_ans,
         citations=[Citation(**c) for c in citations_list],
         modelUsed="meta/llama-3.1-8b-instruct",
         isCached=False,
