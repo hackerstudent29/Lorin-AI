@@ -625,6 +625,49 @@ Microsoft, Amazon, Goldman Sachs, Oracle, Cisco, Dell, Accenture, TCS, Infosys, 
         "citations": [{"source": "msajce_aiml.md", "page": "1", "section": "Expected Growth and Salary Trends"}],
     },
     {
+        "query": "im interested in aids tell me abt it like salary roles studies in msajce and life",
+        "answer": """B.Tech in Artificial Intelligence and Data Science (AI&DS) at MSAJCE:
+
+### 🎓 About the Programme
+The B.Tech AI & Data Science (AIDS) programme at MSAJCE prepares students in AI, machine learning, deep learning, big data analytics, and data-driven decision-making.
+
+### 📚 What You Study
+- **Core**: Artificial Intelligence, Data Mining, Data Modeling, Machine Learning, Big Data Analytics
+- **Advanced**: Neural Networks, Deep Learning, Computer Vision, Natural Language Processing
+- **Tools**: Python, R, SQL, TensorFlow, Keras, PyTorch, Hadoop, Spark, Tableau, Power BI
+
+### 💼 Career Roles
+| Role | Key Skills |
+| :--- | :--- |
+| **Data Scientist** | Python, R, SQL, ML algorithms, Data Visualization |
+| **Machine Learning Engineer** | TensorFlow, PyTorch, AWS/Azure/GCP |
+| **AI Research Scientist** | Deep Learning, Mathematical Modeling |
+| **Data Analyst** | Excel, SQL, Python, Tableau, Power BI |
+| **Data Engineer** | Hadoop, Spark, Kafka, ETL, Cloud |
+| **NLP Engineer** | NLTK, SpaCy, HuggingFace, Text Mining |
+| **BI Developer** | SQL, Power BI, Tableau, Python |
+
+### 💰 Salary Trends in India
+| Experience Level | Expected Salary |
+| :--- | :--- |
+| Entry Level (0–2 yrs) | ₹6 – ₹12 LPA |
+| Mid Level (3–5 yrs) | ₹12 – ₹25 LPA |
+| Senior Level (5+ yrs) | ₹25 – ₹50 LPA |
+| AI Research Scientist | ₹30 – ₹70 LPA |
+
+> 📈 AI & DS job market in India is growing at **CAGR 30–40%**, driven by healthcare, finance, e-commerce & the National AI Mission.
+
+### 🏢 Industries Hiring
+Healthcare, Finance & Fintech, E-Commerce, Automotive, Telecom, Defense, Education, Government
+
+### 🎯 Campus Life & Department
+- Part of MSAJCE, Siruseri, Chennai
+- Anna University affiliated, AICTE approved
+- Active clubs, professional societies (IEEE, CSI), hackathons, and project competitions
+- Strong placement support with top AI companies recruiting on campus""",
+        "citations": [{"source": "msajce_aids.md", "page": "1", "section": "Career Opportunities & Job Profiles"}],
+    },
+    {
         "query": "tell me about aids department in msajce",
         "answer": """B.Tech in Artificial Intelligence and Data Science (AI&DS) at MSAJCE:
 
@@ -1096,10 +1139,15 @@ COMPACT_TO_FULL_CAT = {
 }
 
 def normalize_query_for_hash(query: str) -> str:
-    """Normalize query by stripping whitespace, trailing punctuation, and lowercasing."""
+    """Normalize query: strip whitespace, ALL punctuation (!, ?, ., ,), lowercase, collapse spaces.
+    This ensures 'aids!!' and 'aids' hash to the same value for cache lookup."""
     if not query:
         return ""
-    return query.strip().rstrip("?").rstrip(".").rstrip("!").strip().lower()
+    import re as _re
+    q = query.strip().lower()
+    q = _re.sub(r"[!?.,'\"();:\-]+", " ", q)   # replace punctuation with space
+    q = _re.sub(r"\s+", " ", q).strip()         # collapse multiple spaces
+    return q
 
 def is_fee_query(query: str) -> bool:
     """Check if the query is a fee-related enquiry."""
