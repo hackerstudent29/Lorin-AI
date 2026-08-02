@@ -2741,34 +2741,19 @@ def chat_endpoint(req: ChatRequest, request: Request):
     history_msgs = get_recent_history(req.session_id, max_turns=1) if req.session_id else []
     has_history = len(history_msgs) > 0
 
-    active_query = corrected_query
-    was_rewritten = False
-    prep = None
-    q_vec = None
+    if has_history:
+        active_query, was_rewritten = query_rewriter.rewrite(corrected_query, req.session_id)
+    else:
+        active_query = corrected_query
+        was_rewritten = False
 
     import concurrent.futures
-    with concurrent.futures.ThreadPoolExecutor(max_workers=3) as executor:
-        # Start embedding corrected_query in parallel with intent and rewrite calls
-        fut_embed = executor.submit(get_nvidia_embedding, corrected_query, "query")
+    with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
+        fut_embed = executor.submit(get_nvidia_embedding, active_query, "query")
+        fut_prep = executor.submit(preprocess_query, active_query)
         
-        if has_history:
-            fut_rewrite = executor.submit(query_rewriter.rewrite, corrected_query, req.session_id)
-            fut_prep = executor.submit(preprocess_query, corrected_query)
-            
-            rewritten_query, was_rewritten = fut_rewrite.result()
-            prep = fut_prep.result()
-            
-            if was_rewritten:
-                active_query = rewritten_query
-                prep["keywords"] = active_query
-                # Re-embed the rewritten query synchronously since it changed
-                q_vec = get_nvidia_embedding(active_query, "query")
-            else:
-                q_vec = fut_embed.result()
-        else:
-            fut_prep = executor.submit(preprocess_query, corrected_query)
-            prep = fut_prep.result()
-            q_vec = fut_embed.result()
+        q_vec = fut_embed.result()
+        prep = fut_prep.result()
 
     # ── Step 2: Intent + keyword expansion on active_query ──────────────────────
     intent    = prep.get("intent", "college_query")

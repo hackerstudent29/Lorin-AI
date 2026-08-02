@@ -104,7 +104,8 @@ class QueryRewriter:
                 "Output ONLY the optimized, clean rewritten question without quotation marks or extra text."
             )
 
-        gateway_url = "http://localhost:3001"
+        import os
+        gateway_url = os.getenv("GATEWAY_PROXY_URL", "https://lorin-ai.vercel.app")
         try:
             try:
                 res = requests.post(
