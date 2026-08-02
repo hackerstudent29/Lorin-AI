@@ -1714,7 +1714,7 @@ def get_resource_links(keywords: str) -> str:
 
 
 # ── LLM routing helpers ────────────────────────────────────────────────────────
-GATEWAY_PROXY_URL = os.getenv("GATEWAY_PROXY_URL", "http://localhost:3001")
+GATEWAY_PROXY_URL = os.getenv("GATEWAY_PROXY_URL", "https://lorin-ai.vercel.app")
 
 # Models used for small/fast tasks via Vercel AI Gateway (Node.js proxy)
 _VERCEL_MODELS = {
@@ -1795,6 +1795,55 @@ def call_nvidia(messages: list, temperature: float = 0.1, max_tokens: int = 1000
     if stream:
         return res
     return res.json()
+
+
+def call_vercel_main(messages: list, temperature: float = 0.1, max_tokens: int = 1000, stream: bool = False, timeout: float = 60.0):
+    """Vercel gateway endpoint for main generation tasks."""
+    req_body = {
+        "model": "google/gemini-2.5-flash-lite",
+        "messages": messages,
+        "temperature": temperature,
+        "max_tokens": max_tokens,
+        "stream": stream
+    }
+    res = requests.post(
+        f"{GATEWAY_PROXY_URL}/v1/chat/completions",
+        headers={"Content-Type": "application/json"},
+        json=req_body,
+        timeout=timeout,
+        stream=stream,
+    )
+    res.raise_for_status()
+    logger.debug("[Vercel] main answer → google/gemini-2.5-flash-lite")
+    if stream:
+        return res
+    return res.json()
+
+
+def call_llm_multi_agent(messages: list, temperature: float = 0.1, max_tokens: int = 1000, timeout: float = 60.0):
+    """
+    Races NVIDIA NIM and Vercel AI Gateway for the fastest response (Multi-Agent).
+    """
+    import concurrent.futures
+    with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
+        f1 = executor.submit(call_nvidia, messages, temperature, max_tokens, False, timeout)
+        f2 = executor.submit(call_vercel_main, messages, temperature, max_tokens, False, timeout)
+        done, not_done = concurrent.futures.wait([f1, f2], return_when=concurrent.futures.FIRST_COMPLETED)
+        
+        # Cancel the slower request if possible (ThreadPoolExecutor doesn't truly cancel running tasks, but we ignore it)
+        try:
+            res = list(done)[0].result()
+            logger.info(f"[MultiAgent] Fastest agent won the race!")
+            return res
+        except Exception as e:
+            logger.warning(f"[MultiAgent] Primary agent failed ({e}), waiting for fallback...")
+            if not_done:
+                # Wait for the other one
+                done2, _ = concurrent.futures.wait(not_done, timeout=timeout)
+                if done2:
+                    return list(done2)[0].result()
+            raise
+
 
 
 # Backwards-compat alias (used by call sites not yet migrated)
@@ -2105,7 +2154,7 @@ def generate_answer(user_query: str, context_blocks: list, session_id: str = "")
     messages.append({"role": "user", "content": user_query})
 
     try:
-        rj = call_nvidia(
+        rj = call_llm_multi_agent(
             messages=messages,
             temperature=0.1,
             max_tokens=max_tok,
@@ -2827,7 +2876,7 @@ def chat_endpoint(req: ChatRequest, request: Request):
         return ChatResponse(
             answer=redacted_ans,
             citations=[Citation(**c) for c in citations_list],
-            modelUsed="meta/llama-3.1-70b-instruct",
+            modelUsed="multi-agent-fastest",
             isCached=False,
             tokenUsage=TokenUsage(prompt_tokens=total_p, completion_tokens=total_c, total_tokens=total_t),
             message_id=msg_id,
@@ -3121,7 +3170,7 @@ def chat_endpoint(req: ChatRequest, request: Request):
     return ChatResponse(
         answer=redacted_ans,
         citations=[Citation(**c) for c in citations_list],
-        modelUsed="meta/llama-3.1-70b-instruct",
+        modelUsed="multi-agent-fastest",
         isCached=False,
         tokenUsage=TokenUsage(prompt_tokens=total_p, completion_tokens=total_c, total_tokens=total_t),
         message_id=msg_id,
