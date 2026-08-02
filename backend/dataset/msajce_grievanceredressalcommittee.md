@@ -1,7 +1,7 @@
 # Grievance Redressal Committee
 
 ## 1. Committee Members and Contact Information
-The Grievance Redressal Committee, which also functions as the Disciplinary Committee, Vishaka Committee, and Posh Cell, can be contacted via email at grievance@**MSAJCE**-edu.in.
+The Grievance Redressal Committee, which also functions as the Disciplinary Committee, Vishaka Committee, and Posh Cell, can be contacted via email at [grievance@msajce-edu.in](mailto:grievance@msajce-edu.in).
 
 Ms. S. Ms. S. Usha <!--ent_483-->, Assistant Professor of English at **MSAJCE**, serves as the Convener and can be reached at sh.Ms. S. Usha <!--ent_486-->@**MSAJCE**-edu.in. Dr. K.S. Srinivasan <!--ent_038--> (Principal), serves as the Co-Convener and can be contacted at Principal@**MSAJCE**-edu.in. Mrs. Adhilakshmi Logamurthy <!--ent_396-->, an Advocate and Legal Consultant, serves as an External Member. Mr. Hussain Basha <!--ent_167--> from NGO-1, MasterMind Consultraining in Chennai, serves as an External Member and can be contacted at info@hussainbasha.com. Dr. Ushaa Eswaran <!--ent_084--> from NGO-2 serves as an External Member and can be reached at drushaaeswaran@gmail.com. Mr. K. Sivaraman <!--ent_184-->, an Advocate, serves as an External Member. Mr. Chandrasekaran <!--ent_139-->, Sub Inspector of Police, serves as an External Member. Dr. O.S. Ayisha <!--ent_051-->, Vice Principal of MSCAS in Chennai, serves as an External Member.
 

@@ -135,3 +135,36 @@ Siruseri has a vibrant food scene catering to IT professionals and students:
 ## 🚗 Fuel & Automotive
 - **Fuel Stations**: Multiple high-capacity fuel bunks (IOCL, BPCL, HPCL) with attached convenience stores (**Smart Bazaar**, **In & Out**) are located at the Siruseri entrance, Navalur, and Thazhambur.
 - **Service Centers**: Showrooms and service centers for major car and two-wheeler brands (Hyundai, Maruti, Honda, TVS) are clustered along the OMR service road near Navalur.
+
+## 🚨 Official Emergency Contact Numbers
+Here are the official emergency contact numbers specifically for the Siruseri IT Park (SIPCOT) area and its immediate jurisdiction (Kelambakkam/Chengalpattu):
+
+### 🚒 Fire & Rescue (Siruseri IT Park)
+The **SIPCOT IT Park Fire Station** is located inside the park premises.
+- **Station Phone**: **044-27470720**
+- **Mobile (Duty Officer)**: **+91-9445086139** / **+91-9600984344**
+- **Location**: First Cross Road, SIPCOT IT Park, Siruseri.
+- **Emergency Dial**: **101** (Routes to nearest unit).
+
+### 🚓 Police Station (Jurisdiction: Kelambakkam)
+Siruseri falls under the **Kelambakkam Police Station**.
+- **Station Phone**: **044-27474274** (Landline)
+- **Alternate/Post Phone**: **044-27475230**
+- **Location**: Old Mahabalipuram Road (OMR), Kelambakkam (approx. 2-3 km from Siruseri gate).
+- **Emergency Dial**: **100**.
+
+### 🏥 Government Hospitals (Nearest to Siruseri)
+There is no large government hospital *inside* Siruseri; the nearest government facilities are in Kelambakkam and Chengalpattu.
+- **Government Primary Health Centre (PHC), Kelambakkam**:
+    - **Phone**: **044-27474700**
+    - **Location**: Vandalur-Kelambakkam Road.
+- **Government Chengalpattu Medical College Hospital** (Major Trauma/Govt Facility):
+    - **Phone**: **044-27426566**
+    - **Distance**: ~15 km from Siruseri.
+- **Emergency Ambulance**: Dial **108** (Free government ambulance with life support).
+
+### 🏛️ District Administration & Control Rooms (Chengalpattu)
+Siruseri is in **Chengalpattu District**.
+- **District Collector (Chengalpattu)**: **044-27427412**
+- **District Disaster Control Room**: **1077** or **044-27427414**
+- **WhatsApp Helpline (Chengalpattu Dist.)**: **+91-9444272345**
