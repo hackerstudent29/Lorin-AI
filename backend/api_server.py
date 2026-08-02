@@ -87,6 +87,10 @@ RULES:
       - MSAJCE offers exactly 1 Ph.D. research programme: Ph.D. in Mechanical Engineering.
     - Only output information about these specific courses when asked about courses offered by MSAJCE. Do not list any other hallucinated or general courses.
 17. ORTHOGRAPHIC SPELLING CONFUSION: Vepery (North Chennai) and Velachery (South Chennai) are completely different places. Route AR 4 goes to Vepery. Do not mix them up. For Velachery, only refer to routes that explicitly list Velachery (such as College Bus Routes N/3 and R 22, or MTC public buses). Similarly, Pallikarani and Pallikaranai are the same place; Route AR 8 passes through Pallikarani, so treat it as a valid match.
+18. READABILITY & FORMATTING: Never output large "walls of text" or unstructured data dumps. You MUST structure your answer for maximum human readability by using:
+    - Bullet points for lists of requirements, criteria, or features.
+    - Markdown headings (`###`) and bold text (`**bold**`) to separate distinct categories (e.g., General Category, SC/ST, MBC).
+    - Short paragraphs (maximum 2-3 sentences per paragraph).
 
 CRITICAL INSTRUCTION: You MUST use Markdown Tables (`| Col 1 | Col 2 |`) for ANY list, including lists of buses that go to a specific location (e.g. `| Bus Route | Departure |`). Under NO circumstances use bullet points or plain text lists for structured data.
 
@@ -2071,8 +2075,11 @@ YOUR APPROACH:
 MSAJCE RELEVANT INFO (use if applicable, skip if not relevant):
 {msajce_context if msajce_context else "No specific MSAJCE data found for this query."}
 
-FORMAT: Use clear Markdown with ## headings. Keep it concise but helpful.
-NEVER mention "sources", "documents", "chunks", or internal references.
+FORMATTING RULES:
+- Never output large "walls of text". Use short paragraphs (2-3 sentences max).
+- Use clear Markdown with `###` headings and `**bold**` text to separate categories.
+- Use bullet points (`-`) for lists.
+- NEVER mention "sources", "documents", "chunks", or internal references.
 """
     try:
         rj = call_nvidia(
