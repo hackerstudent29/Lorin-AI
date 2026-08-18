@@ -1,0 +1,142 @@
+[
+  {
+    "id": "aa15cc25-18be-49ad-b7fd-1a6f6c2fde23",
+    "message_id": "24dc194a-e1c4-4e66-a313-f61b107775ae",
+    "session_id": "4aa35a51-543b-4e02-ab55-68996e80e8c4",
+    "rating": -1,
+    "created_at": "2026-08-02T13:21:05.469877+00:00"
+  },
+  {
+    "id": "85df8dd9-08c1-42fa-a988-a1f090f419c5",
+    "message_id": "be370135-80e8-4636-aec8-c9b37fddd05f",
+    "session_id": "6a9f33c6-b1cd-40db-ba6b-2b66dd572998",
+    "rating": -1,
+    "created_at": "2026-08-02T13:21:45.034836+00:00"
+  },
+  {
+    "id": "d456c622-7aae-40cd-9b4f-344e3677e711",
+    "message_id": "c0e22b8f-4a7a-46f8-85c4-3ce83e5e99d7",
+    "session_id": "d74f98b6-4da0-424e-a1d3-672bc82fb05e",
+    "rating": -1,
+    "created_at": "2026-08-02T13:51:35.822033+00:00"
+  },
+  {
+    "id": "dd175288-4b51-41ea-a310-01128ca8e1e7",
+    "message_id": "c73dd992-20d3-48b4-a1ab-3facb33c6032",
+    "session_id": "d74f98b6-4da0-424e-a1d3-672bc82fb05e",
+    "rating": -1,
+    "created_at": "2026-08-02T14:00:10.995725+00:00"
+  },
+  {
+    "id": "808206c4-2394-48aa-ab56-35ea8dad0c42",
+    "message_id": "07f66574-d80d-45d8-b299-21b2ff9c5e40",
+    "session_id": "d74f98b6-4da0-424e-a1d3-672bc82fb05e",
+    "rating": -1,
+    "created_at": "2026-08-02T14:03:41.405135+00:00"
+  },
+  {
+    "id": "2e74053f-741e-46de-9351-a296b434951f",
+    "message_id": "2c638359-f455-4f0b-81aa-07ee926e8ad5",
+    "session_id": "d74f98b6-4da0-424e-a1d3-672bc82fb05e",
+    "rating": -1,
+    "created_at": "2026-08-02T14:04:06.594224+00:00"
+  },
+  {
+    "id": "c405fd4c-5829-4b57-aed9-5b47c8541fe7",
+    "message_id": "4e332a19-7a22-45e9-a524-c3aef9174a3b",
+    "session_id": "d74f98b6-4da0-424e-a1d3-672bc82fb05e",
+    "rating": -1,
+    "created_at": "2026-08-02T14:04:34.092848+00:00"
+  },
+  {
+    "id": "25dab326-f07d-4057-83bb-ef94e9504682",
+    "message_id": "73a7fb08-6db3-40d9-864f-da2c298f1cef",
+    "session_id": "d74f98b6-4da0-424e-a1d3-672bc82fb05e",
+    "rating": -1,
+    "created_at": "2026-08-02T14:05:03.030529+00:00"
+  },
+  {
+    "id": "c3102b2e-cb41-47b4-8212-b4482dd07d9b",
+    "message_id": "82c68413-1522-45c5-a3b3-3457c793d3ea",
+    "session_id": "96d5217d-f826-4427-991a-e0c780096129",
+    "rating": -1,
+    "created_at": "2026-08-02T14:49:34.433197+00:00"
+  },
+  {
+    "id": "e04770ca-5496-4fea-8756-8bd00eb10b9a",
+    "message_id": "5137648d-d922-477e-b579-e4690d596c17",
+    "session_id": "96d5217d-f826-4427-991a-e0c780096129",
+    "rating": -1,
+    "created_at": "2026-08-02T15:20:35.443857+00:00"
+  },
+  {
+    "id": "c8e564e0-e969-473c-aff0-ae9e4842035c",
+    "message_id": "c9894f1a-6ecb-4a6b-950d-bc3d614e7bb1",
+    "session_id": "96d5217d-f826-4427-991a-e0c780096129",
+    "rating": 1,
+    "created_at": "2026-08-02T15:20:58.248478+00:00"
+  },
+  {
+    "id": "d159d10c-b645-460a-9b12-a04cecc5ec70",
+    "message_id": "bd5c5e82-0ae7-4ab1-ba48-708512476bcd",
+    "session_id": "96d5217d-f826-4427-991a-e0c780096129",
+    "rating": -1,
+    "created_at": "2026-08-03T05:42:14.624801+00:00"
+  },
+  {
+    "id": "9320e123-31d1-4bbb-ba6a-b7b6f291d5f3",
+    "message_id": "b155f8ae-7cf1-43ce-aedd-b2f136865208",
+    "session_id": "96d5217d-f826-4427-991a-e0c780096129",
+    "rating": -1,
+    "created_at": "2026-08-03T05:53:56.487018+00:00"
+  },
+  {
+    "id": "4ad4a41e-6004-4368-b724-45a439128197",
+    "message_id": "0ee3de10-37e1-43ec-850b-986118c49958",
+    "session_id": "96d5217d-f826-4427-991a-e0c780096129",
+    "rating": -1,
+    "created_at": "2026-08-03T05:54:01.780735+00:00"
+  },
+  {
+    "id": "4b90a753-d0a8-425c-9f52-bdd0d04f7a75",
+    "message_id": "8eb668fb-e169-47d0-bf3f-04dc3f0b0467",
+    "session_id": "96d5217d-f826-4427-991a-e0c780096129",
+    "rating": -1,
+    "created_at": "2026-08-03T05:54:04.229615+00:00"
+  },
+  {
+    "id": "17aae0c4-847d-4d2e-8924-81fb09c7d677",
+    "message_id": "89d6bfae-7bd8-4e24-998c-1b1a701d5fd3",
+    "session_id": "96d5217d-f826-4427-991a-e0c780096129",
+    "rating": -1,
+    "created_at": "2026-08-03T05:54:10.008250+00:00"
+  },
+  {
+    "id": "0fdc7994-8083-4454-ae72-e06d4e7f5ad8",
+    "message_id": "5dd2312a-1935-4f3e-bcb7-9a8b773ed4bb",
+    "session_id": "e281cd5e-5f59-43f4-94f1-7a673147f641",
+    "rating": -1,
+    "created_at": "2026-08-03T08:15:01.837474+00:00"
+  },
+  {
+    "id": "c11c4fed-098a-40a6-affe-4b8889290914",
+    "message_id": "63e2ce7e-f579-4302-aa50-d0571646cd33",
+    "session_id": "e281cd5e-5f59-43f4-94f1-7a673147f641",
+    "rating": -1,
+    "created_at": "2026-08-03T08:15:15.421786+00:00"
+  },
+  {
+    "id": "7d04e9c6-8bae-4293-8bf8-9af5a5f505ae",
+    "message_id": "875f20ec-c177-4add-8418-3356fa73a7eb",
+    "session_id": "bf6b6cfb-b7bd-4473-8522-0155c5407cfb",
+    "rating": -1,
+    "created_at": "2026-08-04T09:06:10.404184+00:00"
+  },
+  {
+    "id": "75c89784-0d06-4d22-adc8-ba5cea8fcd51",
+    "message_id": "495972d5-3301-40da-8651-8814c0a901d1",
+    "session_id": "0b6d81c9-e4ac-40c0-86aa-fcc0b777d37a",
+    "rating": -1,
+    "created_at": "2026-08-06T07:32:28.824892+00:00"
+  }
+]
