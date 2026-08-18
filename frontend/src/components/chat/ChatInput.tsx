@@ -41,19 +41,18 @@ export function ChatInput({ onSend, disabled, value, onValueChange }: Props) {
     <div
       className="sticky bottom-0 z-20 pt-6"
       style={{
-        background: "linear-gradient(to top, var(--background) 70%, oklch(from var(--background) l c h / 0%))",
+        background: "linear-gradient(to top, var(--background) 75%, transparent)",
       }}
     >
       <div className="mx-auto w-full max-w-5xl px-6 pb-4">
         <label htmlFor="chat-input" className="sr-only">Message</label>
         <div
-          className="flex items-end gap-2 rounded-3xl border px-3 py-2 backdrop-blur-xl transition-all"
+          className="flex items-end gap-2 rounded-3xl border px-3 py-2 backdrop-blur-xl transition-all focus-within:border-primary focus-within:ring-2 focus-within:ring-primary/20"
           style={{
             borderColor: "var(--border)",
-            backgroundColor: "oklch(from var(--card) l c h / 80%)",
-            boxShadow: "0 4px 24px -8px oklch(0 0 0 / 8%)",
+            backgroundColor: "var(--card)",
+            boxShadow: "0 4px 24px -8px rgba(0, 0, 0, 0.06)",
           }}
-          onFocus={() => {}}
         >
           <textarea
             id="chat-input"
@@ -63,7 +62,7 @@ export function ChatInput({ onSend, disabled, value, onValueChange }: Props) {
             onChange={(e) => setText(e.target.value)}
             onKeyDown={onKey}
             placeholder="Ask anything about MSAJCE…"
-            className="max-h-36 flex-1 resize-none bg-transparent py-2 px-2 text-[15px] leading-[1.5] placeholder:opacity-60 focus:outline-none"
+            className="max-h-36 flex-1 resize-none bg-transparent py-2 px-2 text-[15px] leading-[1.5] placeholder:text-[#64748B] focus:outline-none"
             style={{ color: "var(--foreground)" }}
           />
           <button
@@ -72,34 +71,15 @@ export function ChatInput({ onSend, disabled, value, onValueChange }: Props) {
             disabled={!hasText || disabled}
             aria-label="Send message"
             className={cn(
-              "mb-0.5 flex min-h-11 min-w-11 items-center justify-center rounded-2xl shadow-sm transition-all active:scale-95 cursor-pointer focus-visible:outline-none focus-visible:ring-2",
+              "mb-0.5 flex min-h-11 min-w-11 items-center justify-center rounded-2xl shadow-sm transition-all active:scale-95 cursor-pointer focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary bg-primary text-primary-foreground",
+              hasText && !disabled && "hover:opacity-90",
               !hasText && "opacity-40 cursor-not-allowed",
             )}
-            style={{
-              backgroundColor: "var(--primary)",
-              color: "var(--primary-foreground)",
-            }}
           >
             <SendHorizontal className="size-5" />
           </button>
         </div>
-        <p className="mt-2 text-center text-[11px]" style={{ color: "var(--muted-foreground)" }}>
-          Press{" "}
-          <kbd
-            className="rounded px-1 py-0.5 text-[10px]"
-            style={{ backgroundColor: "var(--muted)", color: "var(--muted-foreground)" }}
-          >
-            Enter
-          </kbd>{" "}
-          to send ·{" "}
-          <kbd
-            className="rounded px-1 py-0.5 text-[10px]"
-            style={{ backgroundColor: "var(--muted)", color: "var(--muted-foreground)" }}
-          >
-            Shift + Enter
-          </kbd>{" "}
-          for new line
-        </p>
+
       </div>
     </div>
   );

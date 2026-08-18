@@ -44,7 +44,7 @@ export function AdminDashboard() {
       <div className="mx-auto max-w-5xl">
         <header className="mb-8 flex items-center justify-between border-b pb-4 border-border">
           <h1 className="text-3xl font-bold">RAG Admin Dashboard</h1>
-          <Link to="/" className="text-primary hover:underline">
+          <Link to="/" className="text-emerald-600 hover:text-emerald-700 hover:underline font-medium">
             Back to Chat
           </Link>
         </header>
@@ -52,18 +52,18 @@ export function AdminDashboard() {
         {error && <div className="mb-4 rounded-md bg-red-500/20 p-4 text-red-500">{error}</div>}
 
         <div className="mb-8 grid grid-cols-1 gap-6 md:grid-cols-3">
-          <div className="rounded-xl border border-border p-6 shadow-sm">
+          <div className="rounded-xl border border-border p-6 shadow-sm bg-card">
             <h2 className="text-sm text-muted-foreground uppercase tracking-wide">Total Queries</h2>
             <p className="mt-2 text-4xl font-bold">{stats?.total_queries ?? "—"}</p>
           </div>
-          <div className="rounded-xl border border-border p-6 shadow-sm">
+          <div className="rounded-xl border border-border p-6 shadow-sm bg-card">
             <h2 className="text-sm text-muted-foreground uppercase tracking-wide">Cache Hits</h2>
-            <p className="mt-2 text-4xl font-bold text-green-500">{stats?.cache_hits ?? "—"}</p>
+            <p className="mt-2 text-4xl font-bold text-emerald-600">{stats?.cache_hits ?? "—"}</p>
           </div>
-          <div className="rounded-xl border border-border p-6 shadow-sm">
+          <div className="rounded-xl border border-border p-6 shadow-sm bg-card">
             <h2 className="text-sm text-muted-foreground uppercase tracking-wide">Feedback Rating</h2>
             <div className="mt-2 flex items-baseline gap-4">
-              <span className="text-4xl font-bold text-green-500">+{stats?.feedback.thumbs_up ?? 0}</span>
+              <span className="text-4xl font-bold text-emerald-600">+{stats?.feedback.thumbs_up ?? 0}</span>
               <span className="text-4xl font-bold text-red-500">-{stats?.feedback.thumbs_down ?? 0}</span>
             </div>
           </div>

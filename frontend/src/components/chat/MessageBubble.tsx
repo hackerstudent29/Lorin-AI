@@ -128,17 +128,17 @@ function InteractiveLink({ href: rawHref, children }: { href?: string; children?
 
 const mdComponents: Components = {
   h1: ({ children }) => (
-    <h1 className="font-serif-display text-lg font-semibold mt-3 mb-1.5" style={{ color: "var(--foreground)" }}>
+    <h1 className="text-lg font-black uppercase tracking-tighter mt-3 mb-1.5" style={{ color: "var(--primary)" }}>
       {children}
     </h1>
   ),
   h2: ({ children }) => (
-    <h2 className="font-serif-display text-base font-semibold mt-2.5 mb-1" style={{ color: "var(--foreground)" }}>
+    <h2 className="text-base font-black uppercase tracking-tighter mt-2.5 mb-1" style={{ color: "var(--primary)" }}>
       {children}
     </h2>
   ),
   h3: ({ children }) => (
-    <h3 className="text-sm font-semibold mt-2 mb-0.5" style={{ color: "var(--secondary-foreground)" }}>
+    <h3 className="text-sm font-semibold mt-2 mb-0.5" style={{ color: "var(--primary)" }}>
       {children}
     </h3>
   ),
@@ -228,20 +228,21 @@ export function MessageBubble({ message, isGroupStart, showTimestamp, sessionId,
           className={cn(
             "relative inline-block w-fit min-w-0 max-w-[96%] sm:max-w-[82%] md:max-w-[75%] lg:max-w-[72%]",
             "flex-none break-words rounded-2xl px-4 py-3 sm:px-5 text-[14.5px] sm:text-[15px] leading-[1.6]",
-            "shadow-[0_2px_10px_-4px_oklch(0_0_0_/8%)] transition-shadow hover:shadow-[0_6px_20px_-8px_oklch(0_0_0_/12%)]",
+            "shadow-sm transition-shadow hover:shadow-md border",
             isUser
-              ? "rounded-br-md animate-msg-in-user"
+              ? "rounded-br-md border-primary animate-msg-in-user"
               : "rounded-bl-md backdrop-blur-sm animate-msg-in-bot w-full"
           )}
           style={
             isUser
               ? {
-                  background: "linear-gradient(135deg, var(--primary), oklch(from var(--primary) l c h / 85%))",
-                  color: "var(--primary-foreground)",
+                  backgroundColor: "#005DA6",
+                  color: "#FFFFFF",
                 }
               : {
-                  backgroundColor: "oklch(from var(--secondary) l c h / 90%)",
+                  backgroundColor: "var(--secondary)",
                   color: "var(--secondary-foreground)",
+                  borderColor: "var(--border)",
                 }
           }
         >
@@ -269,13 +270,13 @@ export function MessageBubble({ message, isGroupStart, showTimestamp, sessionId,
             <div
               className="mt-3 pt-2 text-xs border-t animate-pill-in"
               style={{
-                borderColor: "oklch(from var(--primary) l c h / 25%)",
+                borderColor: "var(--border)",
                 animationDelay: "150ms",
               }}
             >
               <div
                 className="flex items-center gap-1 font-semibold mb-1"
-                style={{ color: "var(--secondary-foreground)" }}
+                style={{ color: "var(--primary)" }}
               >
                 <BookOpen className="size-3" />
                 <span>Verified Sources</span>
@@ -286,7 +287,7 @@ export function MessageBubble({ message, isGroupStart, showTimestamp, sessionId,
                     key={idx}
                     className="inline-flex items-center gap-1 rounded-full border px-2 py-0.5 text-[11px]"
                     style={{
-                      backgroundColor: "oklch(from var(--card) l c h / 70%)",
+                      backgroundColor: "var(--card)",
                       borderColor: "var(--border)",
                       color: "var(--muted-foreground)",
                     }}
@@ -304,7 +305,7 @@ export function MessageBubble({ message, isGroupStart, showTimestamp, sessionId,
             <div
               className="mt-3 pt-2 text-xs border-t animate-pill-in"
               style={{
-                borderColor: "oklch(from var(--primary) l c h / 20%)",
+                borderColor: "var(--border)",
                 animationDelay: "350ms",
               }}
             >
@@ -316,11 +317,23 @@ export function MessageBubble({ message, isGroupStart, showTimestamp, sessionId,
                   <button
                     key={idx}
                     onClick={() => onSuggestion(q)}
-                    className="text-left w-full rounded-lg border px-3 py-1.5 text-[12px] font-medium transition-all duration-200 hover:bg-muted cursor-pointer hover:translate-x-0.5"
+                    className="text-left w-full rounded-lg border px-3 py-1.5 text-[12px] font-medium transition-all duration-200 cursor-pointer hover:translate-x-0.5"
                     style={{
                       borderColor: "var(--border)",
-                      backgroundColor: "oklch(from var(--card) l c h / 40%)",
+                      backgroundColor: "var(--card)",
                       color: "var(--foreground)",
+                    }}
+                    onMouseEnter={(e) => {
+                      const el = e.currentTarget;
+                      el.style.backgroundColor = "var(--secondary)";
+                      el.style.borderColor = "var(--primary)";
+                      el.style.color = "var(--primary)";
+                    }}
+                    onMouseLeave={(e) => {
+                      const el = e.currentTarget;
+                      el.style.backgroundColor = "var(--card)";
+                      el.style.borderColor = "var(--border)";
+                      el.style.color = "var(--foreground)";
                     }}
                   >
                     {q}
@@ -335,15 +348,15 @@ export function MessageBubble({ message, isGroupStart, showTimestamp, sessionId,
             <div
               className="mt-2 pt-1.5 text-[10px] border-t flex flex-wrap items-center gap-x-2 gap-y-0.5 animate-pill-in"
               style={{
-                borderColor: "oklch(from var(--primary) l c h / 20%)",
-                color: "oklch(from var(--muted-foreground) l c h / 80%)",
+                borderColor: "var(--border)",
+                color: "var(--muted-foreground)",
                 animationDelay: "550ms",
               }}
             >
               <span>Model: {message.modelUsed}</span>
               <span>·</span>
               {message.isCached ? (
-                <span className="font-semibold" style={{ color: "oklch(0.65 0.17 145)" }}>
+                <span className="font-semibold" style={{ color: "var(--primary)" }}>
                   Cached ✓
                 </span>
               ) : (
@@ -352,7 +365,7 @@ export function MessageBubble({ message, isGroupStart, showTimestamp, sessionId,
                   <span>·</span>
                   <span>Completion: {message.tokenUsage.completion_tokens}t</span>
                   <span>·</span>
-                  <span className="font-semibold" style={{ color: "var(--secondary-foreground)" }}>
+                  <span className="font-semibold" style={{ color: "var(--foreground)" }}>
                     Total: {message.tokenUsage.total_tokens}t
                   </span>
                 </>

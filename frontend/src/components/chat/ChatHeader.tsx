@@ -1,5 +1,6 @@
 import { ThemeToggle } from "./ThemeToggle";
 import { SquarePen } from "lucide-react";
+import { MSAJLogo } from "../ui/MSAJLogo";
 
 interface ChatHeaderProps {
   onNewChat?: () => void;
@@ -9,34 +10,26 @@ export function ChatHeader({ onNewChat }: ChatHeaderProps) {
   return (
     <header
       className="sticky top-0 z-30 border-b backdrop-blur-xl"
-      style={{ borderColor: "var(--border)", backgroundColor: "oklch(from var(--background) l c h / 85%)" }}
+      style={{ borderColor: "var(--border)", backgroundColor: "var(--background)" }}
     >
       <div className="mx-auto flex max-w-5xl items-center justify-between px-3 py-2.5 sm:px-6 sm:py-3.5">
 
         {/* ── Left: Logo + Name ── */}
         <div className="flex items-center gap-2.5 min-w-0">
-          <div
-            className="flex shrink-0 size-8 sm:size-9 items-center justify-center rounded-xl sm:rounded-2xl text-sm font-serif-display font-semibold shadow-sm"
-            style={{
-              background: "linear-gradient(135deg, var(--primary), oklch(from var(--accent) l c h))",
-              color: "var(--primary-foreground)",
-            }}
-          >
-            M
-          </div>
+          <MSAJLogo size={34} glow variant="theme" className="shrink-0 transition-transform duration-300 hover:scale-105" />
           <div className="flex flex-col leading-tight min-w-0">
             <div className="flex items-center gap-1.5">
               <h1
-                className="font-serif-display text-sm sm:text-base font-semibold tracking-tight truncate"
+                className="font-black uppercase tracking-tighter text-sm sm:text-base leading-[0.95] truncate"
                 style={{ color: "var(--foreground)" }}
               >
                 MSAJCE Assistant
               </h1>
-              <span className="shrink-0 rounded-full px-2 py-0.5 text-[9px] font-extrabold tracking-wide uppercase border bg-amber-100/80 dark:bg-amber-950/40 text-amber-800 dark:text-amber-300 border-amber-200/60 dark:border-amber-900/30 shadow-2xs">
+              <span className="shrink-0 rounded-full px-2 py-0.5 text-[9px] font-black tracking-[0.2em] uppercase border bg-secondary text-secondary-foreground border-border shadow-2xs">
                 Code: 1301
               </span>
             </div>
-            <span className="text-[10px] sm:text-[11px] font-medium hidden xs:block" style={{ color: "var(--muted-foreground)" }}>
+            <span className="text-[10px] sm:text-[11px] font-medium hidden xs:block tracking-wide uppercase mt-0.5" style={{ color: "var(--muted-foreground)" }}>
               Your intelligent campus guide
             </span>
           </div>
@@ -53,37 +46,35 @@ export function ChatHeader({ onNewChat }: ChatHeaderProps) {
             className="group flex items-center gap-1.5 rounded-full border px-2.5 py-1.5 sm:px-3 sm:py-1 transition-all duration-300 cursor-pointer"
             style={{
               borderColor: "var(--border)",
-              backgroundColor: "oklch(from var(--card) l c h / 70%)",
+              backgroundColor: "var(--card)",
               textDecoration: "none",
             }}
             onMouseEnter={(e) => {
               const el = e.currentTarget;
-              el.style.borderColor = "oklch(0.7 0.18 145 / 50%)";
-              el.style.backgroundColor = "oklch(0.96 0.04 145 / 15%)";
-              el.style.boxShadow = "0 0 12px oklch(0.7 0.18 145 / 25%)";
+              el.style.borderColor = "var(--primary)";
+              el.style.backgroundColor = "var(--secondary)";
+              el.style.boxShadow = "0 0 12px rgba(0, 93, 166, 0.25)";
             }}
             onMouseLeave={(e) => {
               const el = e.currentTarget;
               el.style.borderColor = "var(--border)";
-              el.style.backgroundColor = "oklch(from var(--card) l c h / 70%)";
+              el.style.backgroundColor = "var(--card)";
               el.style.boxShadow = "none";
             }}
           >
-            {/* Pulsing green dot */}
+            {/* Pulsing blue dot */}
             <span className="relative flex size-2 shrink-0">
               <span
-                className="absolute inline-flex h-full w-full rounded-full opacity-75 animate-ping"
-                style={{ backgroundColor: "oklch(0.7 0.18 145)" }}
+                className="absolute inline-flex h-full w-full rounded-full opacity-75 animate-ping bg-primary"
               />
               <span
-                className="relative inline-flex size-2 rounded-full"
-                style={{ backgroundColor: "oklch(0.65 0.18 145)" }}
+                className="relative inline-flex size-2 rounded-full bg-primary"
               />
             </span>
             {/* Text hidden on very small screens */}
             <span
-              className="text-[11px] font-semibold hidden sm:inline"
-              style={{ color: "oklch(0.4 0.18 145)" }}
+              className="text-[11px] font-black uppercase tracking-[0.2em] hidden sm:inline"
+              style={{ color: "var(--primary)" }}
             >
               Apply Now
             </span>

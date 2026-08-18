@@ -74,13 +74,7 @@ function ChatApp() {
       className="relative flex h-screen flex-col transition-colors duration-200"
       style={{ backgroundColor: "var(--background)", color: "var(--foreground)" }}
     >
-      <div aria-hidden className="pointer-events-none fixed inset-0 -z-10 overflow-hidden">
-        <div className="absolute -top-24 -left-24 size-[420px] rounded-full blur-3xl"
-          style={{ background: "oklch(from var(--primary) l c h / 20%)" }} />
-        <div className="absolute top-1/3 -right-32 size-[380px] rounded-full blur-3xl"
-          style={{ background: "oklch(from var(--accent) l c h / 25%)" }} />
-        <div className="absolute -bottom-32 left-1/3 size-[360px] rounded-full blur-3xl"
-          style={{ background: "oklch(from var(--secondary) l c h / 40%)" }} />
+      <div aria-hidden className="pointer-events-none fixed inset-0 -z-10 overflow-hidden bg-background">
       </div>
 
       <ChatHeader onNewChat={newChat} />

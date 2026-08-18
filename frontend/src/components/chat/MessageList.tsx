@@ -14,6 +14,7 @@ import {
 import type { ChatMessage } from "@/types/chat";
 import { MessageBubble } from "./MessageBubble";
 import { TypingIndicator } from "./TypingIndicator";
+import { MSAJLogo } from "../ui/MSAJLogo";
 
 type Props = {
   messages: ChatMessage[];
@@ -109,18 +110,21 @@ export const MessageList = forwardRef<HTMLDivElement, Props>(function MessageLis
         ref={ref}
         className="relative flex h-full flex-col items-center justify-center px-4 py-6 text-center sm:px-6"
       >
+        {/* Animated Hero Logo Emblem */}
+        <div className="mb-4 animate-fade-up">
+          <div className="relative p-3 rounded-2xl bg-secondary border border-border shadow-lg backdrop-blur-md">
+            <MSAJLogo size={64} glow variant="theme" />
+          </div>
+        </div>
+
         {/* Hero heading */}
         <h2
-          className="font-serif-display text-4xl font-medium leading-tight tracking-tight sm:text-5xl md:text-6xl animate-fade-up"
+          className="font-black uppercase tracking-tighter text-4xl leading-tight sm:text-5xl md:text-6xl animate-fade-up"
           style={{ color: "var(--foreground)", animationDelay: "100ms" }}
         >
           Hello,{" "}
           <span
-            className="animate-gradient-shift bg-clip-text text-transparent"
-            style={{
-              backgroundImage:
-                "linear-gradient(90deg, var(--primary), var(--accent-foreground), oklch(from var(--secondary-foreground) l c h / 70%))",
-            }}
+            className="text-primary font-black uppercase tracking-tighter"
           >
             future engineer
           </span>
@@ -146,45 +150,36 @@ export const MessageList = forwardRef<HTMLDivElement, Props>(function MessageLis
                 className="group relative flex flex-col items-start gap-1.5 overflow-hidden rounded-xl border p-3 text-left backdrop-blur-sm transition-all duration-300 hover:-translate-y-0.5 animate-fade-up cursor-pointer"
                 style={{
                   borderColor: "var(--border)",
-                  backgroundColor: "oklch(from var(--card) l c h / 75%)",
+                  backgroundColor: "var(--card)",
                   animationDelay: `${260 + i * 45}ms`,
                 }}
                 onMouseEnter={(e) => {
                   const el = e.currentTarget;
-                  el.style.borderColor = "oklch(from var(--primary) l c h / 45%)";
-                  el.style.backgroundColor = "var(--card)";
-                  el.style.boxShadow = "0 8px 24px -12px oklch(0 0 0 / 12%)";
+                  el.style.borderColor = "var(--primary)";
+                  el.style.backgroundColor = "var(--secondary)";
+                  el.style.boxShadow = "0 8px 24px -12px rgba(0, 93, 166, 0.2)";
                 }}
                 onMouseLeave={(e) => {
                   const el = e.currentTarget;
                   el.style.borderColor = "var(--border)";
-                  el.style.backgroundColor = "oklch(from var(--card) l c h / 75%)";
+                  el.style.backgroundColor = "var(--card)";
                   el.style.boxShadow = "";
                 }}
               >
                 {/* Hover gradient overlay */}
                 <span
-                  className="pointer-events-none absolute inset-0 -z-10 opacity-0 transition-opacity duration-300 group-hover:opacity-100 rounded-xl"
-                  style={{
-                    background:
-                      "linear-gradient(135deg, oklch(from var(--primary) l c h / 8%), oklch(from var(--accent) l c h / 10%))",
-                  }}
+                  className="pointer-events-none absolute inset-0 -z-10 opacity-0 transition-opacity duration-300 group-hover:opacity-100 rounded-xl bg-secondary"
                 />
 
                 {/* Icon */}
                 <span
-                  className="flex size-7 items-center justify-center rounded-lg transition-transform duration-300 group-hover:scale-110"
-                  style={{
-                    background:
-                      "linear-gradient(135deg, oklch(from var(--primary) l c h / 20%), oklch(from var(--accent) l c h / 20%))",
-                    color: "var(--foreground)",
-                  }}
+                  className="flex size-7 items-center justify-center rounded-lg transition-transform duration-300 group-hover:scale-110 bg-secondary"
                 >
-                  <Icon className="size-3.5" strokeWidth={1.8} />
+                  <Icon className="size-4" style={{ color: "var(--primary)" }} strokeWidth={2} />
                 </span>
 
                 <span
-                  className="text-xs font-semibold leading-snug"
+                  className="text-xs font-semibold leading-snug group-hover:text-primary transition-colors"
                   style={{ color: "var(--foreground)" }}
                 >
                   {s.label}

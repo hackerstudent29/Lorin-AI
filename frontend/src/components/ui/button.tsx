@@ -12,12 +12,12 @@ const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
     return (
       <button
         className={cn(
-          "inline-flex items-center justify-center whitespace-nowrap rounded-xl text-sm font-medium transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500 disabled:pointer-events-none disabled:opacity-50 active:scale-95 cursor-pointer",
+          "inline-flex items-center justify-center whitespace-nowrap rounded-xl text-sm font-medium transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-600 disabled:pointer-events-none disabled:opacity-50 active:scale-95 cursor-pointer",
           {
-            "bg-gradient-to-r from-emerald-500 to-teal-600 text-white hover:opacity-90 shadow-md shadow-emerald-500/20": variant === "default",
-            "border border-slate-800 bg-slate-900/80 text-slate-200 hover:bg-slate-800 hover:text-white": variant === "outline",
-            "hover:bg-slate-800/60 text-slate-400 hover:text-slate-200": variant === "ghost",
-            "bg-slate-800 text-slate-200 hover:bg-slate-700": variant === "secondary",
+            "bg-gradient-to-r from-emerald-600 to-green-700 text-white hover:opacity-90 shadow-md shadow-emerald-600/20": variant === "default",
+            "border border-slate-200 bg-white text-slate-800 hover:bg-emerald-50 hover:text-emerald-700 hover:border-emerald-300": variant === "outline",
+            "hover:bg-emerald-50 text-slate-600 hover:text-emerald-700": variant === "ghost",
+            "bg-emerald-100 text-emerald-900 hover:bg-emerald-200": variant === "secondary",
           },
           {
             "h-10 px-4 py-2": size === "default",

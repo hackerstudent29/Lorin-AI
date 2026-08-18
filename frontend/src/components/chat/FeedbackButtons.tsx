@@ -26,7 +26,7 @@ export function FeedbackButtons({
   return (
     <div
       className="flex items-center gap-1.5 mt-2 pt-2 border-t"
-      style={{ borderColor: "oklch(from var(--primary) l c h / 15%)" }}
+      style={{ borderColor: "var(--border)" }}
     >
       <span
         className="text-[10px] mr-0.5"
@@ -57,7 +57,7 @@ export function FeedbackButtons({
             : { color: "var(--muted-foreground)" }
         }
         onMouseEnter={(e) => {
-          if (feedbackState === "none") e.currentTarget.style.color = "oklch(0.65 0.17 145)";
+          if (feedbackState === "none") e.currentTarget.style.color = "var(--primary)";
         }}
         onMouseLeave={(e) => {
           if (feedbackState === "none") e.currentTarget.style.color = "var(--muted-foreground)";
@@ -90,11 +90,11 @@ export function FeedbackButtons({
         )}
         style={
           feedbackState === "thumbs_down"
-            ? { background: "oklch(0.55 0.2 25)", color: "white" }
+            ? { background: "#EF4444", color: "#FFFFFF" }
             : { color: "var(--muted-foreground)" }
         }
         onMouseEnter={(e) => {
-          if (feedbackState === "none") e.currentTarget.style.color = "oklch(0.55 0.2 25)";
+          if (feedbackState === "none") e.currentTarget.style.color = "#EF4444";
         }}
         onMouseLeave={(e) => {
           if (feedbackState === "none") e.currentTarget.style.color = "var(--muted-foreground)";
