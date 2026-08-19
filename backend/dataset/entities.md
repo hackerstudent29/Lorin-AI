@@ -30,7 +30,7 @@
 
 ## Initiatives & Programs
 - **Government Initiatives**: KARMA (Kaushal Augmentation and Restructuring Mission of AICTE), Ek Bharat Shreshtha Bharat, Azadi Ka Amrit Mahotsav, Fit India Cyclothon, National Skills Qualifications Framework (NSQF)
-- **Skill Development Courses (KARMA)**: Computer Hardware Network Maintenance, Refrigeration and Air Conditioning Technician, AI and Machine Learning Developer, Additive Manufacturing Technician (3D printing), Embedded System Design (ARM Cortex), Architectural Drafting and Basic 3D Design (Autodesk Revit)
+- **Undergraduate Courses**: B.E. Computer Science and Engineering (CSE), B.E. Mechanical Engineering (Mech), B.E. Civil Engineering, B.E. Computer Science and Engineering in Cyber Security, B.E. Electronics and Communication Engineering (ECE), B.E. Electrical and Electronics Engineering (EEE), B.Tech Information Technology (IT), B.Tech Artificial Intelligence and Data Science (AIDS), B.Tech Artificial Intelligence and Machine Learning (AIML), B.Tech Computer Science and Business Systems (CSBS), B.Tech Electronics and Communication Engineering with Advanced Communication Technology (ECE-ACT), B.Tech Electronics Engineering with VLSI Design and Technology (ECE-VLSI), Science and Humanities
 
 ## Key People
 - **Principal**: Dr. K.S. Srinivasan <!--ent_038--> (Principal)

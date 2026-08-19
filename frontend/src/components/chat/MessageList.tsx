@@ -110,12 +110,6 @@ export const MessageList = forwardRef<HTMLDivElement, Props>(function MessageLis
         ref={ref}
         className="relative flex h-full flex-col items-center justify-center px-4 py-6 text-center sm:px-6"
       >
-        {/* Animated Hero Logo Emblem */}
-        <div className="mb-4 animate-fade-up">
-          <div className="relative p-3 rounded-2xl bg-secondary border border-border shadow-lg backdrop-blur-md">
-            <MSAJLogo size={64} glow variant="theme" />
-          </div>
-        </div>
 
         {/* Hero heading */}
         <h2

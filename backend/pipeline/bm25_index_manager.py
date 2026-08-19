@@ -11,7 +11,7 @@ logger = logging.getLogger(__name__)
 
 BM25_PATH       = Path("bm25_index/bm25.pkl")
 META_PATH       = Path("bm25_index/bm25_meta.pkl")
-COLLECTION_NAME = "college_knowledgebase"
+COLLECTION_NAME = "college_knowledgebase_backup"
 
 
 class BM25IndexManager:

@@ -92,6 +92,14 @@ RULES:
     - Bullet points for lists of requirements, criteria, or features.
     - Markdown headings (`###`) and bold text (`**bold**`) to separate distinct categories (e.g., General Category, SC/ST, MBC).
     - Short paragraphs (maximum 2-3 sentences per paragraph).
+19. MAPS AND LOCATIONS: 
+    - When a user asks for the college's location, address, or "where is the college", you MUST output the following exact markdown block on a new line:
+```map-location
+```
+    - When a user asks "direct me to the college", "how to reach from my location", or asks for directions to the college, you MUST output the following exact markdown block on a new line:
+```map-route
+```
+    - You may still provide a text explanation alongside the map blocks.
 
 CRITICAL INSTRUCTION: You MUST use Markdown Tables (`| Col 1 | Col 2 |`) for ANY list, including lists of buses that go to a specific location (e.g. `| Bus Route | Departure |`). Under NO circumstances use bullet points or plain text lists for structured data.
 
@@ -99,7 +107,7 @@ SOURCES:
 {context_str}
 """
 qdrant_client   = QdrantClient(url=QDRANT_URL, api_key=QDRANT_API_KEY, timeout=30.0)
-COLLECTION_NAME = "college_knowledgebase"
+COLLECTION_NAME = "college_knowledgebase_backup"
 
 try:
     qdrant_client.create_payload_index(
@@ -3354,6 +3362,14 @@ def chat_endpoint(req: ChatRequest, request: Request):
 
     redacted_ans = re.sub(r'<!--ent_\d+-->', '', answer)  # Strip leaked entity tags
     redacted_ans = redact_personal_phone_numbers(redacted_ans)
+    
+    # Force map blocks if LLM omitted them
+    aq_lower_for_map = active_query.lower()
+    if any(k in aq_lower_for_map for k in ["where is", "location of", "college location", "college address", "address of", "map for"]) and "map-location" not in redacted_ans and "map-route" not in redacted_ans:
+        redacted_ans += "\n\n```map-location\n```"
+    elif any(k in aq_lower_for_map for k in ["direct me", "directions", "route to", "how to reach", "direction from"]) and "map-route" not in redacted_ans and "map-location" not in redacted_ans:
+        redacted_ans += "\n\n```map-route\n```"
+
     msg_id = save_message(req.session_id, "assistant", redacted_ans, trace, prompt_tokens=total_p, completion_tokens=total_c, citations=citations_list)
 
     # ── Step 8: Cache result ──────────────────────────────────────────────────

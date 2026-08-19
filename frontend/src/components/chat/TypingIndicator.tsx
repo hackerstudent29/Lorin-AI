@@ -12,9 +12,10 @@ export function TypingIndicator() {
           {[0, 150, 300].map((delay) => (
             <span
               key={delay}
-              className="size-2 rounded-full animate-typing-dot bg-primary"
+              className="size-2 rounded-full animate-typing-dot"
               style={{
                 animationDelay: `${delay}ms`,
+                backgroundColor: "var(--primary)",
               }}
             />
           ))}

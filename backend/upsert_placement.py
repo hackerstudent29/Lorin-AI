@@ -17,7 +17,7 @@ load_dotenv()
 NVIDIA_API_KEY  = os.getenv("NVIDIA_API_KEY")
 QDRANT_URL      = os.getenv("QDRANT_URL")
 QDRANT_API_KEY  = os.getenv("QDRANT_API_KEY")
-COLLECTION_NAME = "college_knowledgebase"
+COLLECTION_NAME = "college_knowledgebase_backup"
 SOURCE_FILE     = "msajce_placement.md"
 CATEGORY        = "Placement & Careers"
 

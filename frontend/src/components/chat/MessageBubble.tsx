@@ -6,6 +6,7 @@ import { cn } from "@/lib/utils";
 import type { ChatMessage } from "@/types/chat";
 import type { Components } from "react-markdown";
 import { FeedbackButtons } from "@/components/chat/FeedbackButtons";
+import { CollegeLocationMap, CollegeRouteMap } from "@/components/chat/ChatMaps";
 
 type Props = {
   message: ChatMessage;
@@ -151,6 +152,12 @@ const mdComponents: Components = {
   hr: () => <hr />,
   blockquote: ({ children }) => <blockquote>{children}</blockquote>,
   code: ({ children, className }) => {
+    if (className === "language-map-location") {
+      return <CollegeLocationMap />;
+    }
+    if (className === "language-map-route") {
+      return <CollegeRouteMap />;
+    }
     if (className?.includes("language-")) {
       return <pre><code>{children}</code></pre>;
     }
@@ -252,15 +259,32 @@ export function MessageBubble({ message, isGroupStart, showTimestamp, sessionId,
           ) : (
             /* Bot messages: full markdown */
             <div className="bot-prose">
-              <ReactMarkdown remarkPlugins={[remarkGfm]} components={mdComponents}>
-                {processedContent}
-              </ReactMarkdown>
-              {/* Blinking cursor while streaming (no tokenUsage = still animating) */}
-              {isAnimating && message.content.length > 0 && !message.tokenUsage && (
-                <span
-                  className="animate-cursor-blink inline-block w-[2px] h-[1em] ml-0.5 align-middle rounded-sm"
-                  style={{ backgroundColor: "var(--primary)" }}
-                />
+              {message.content.length === 0 && isAnimating ? (
+                <div className="flex items-center gap-1.5 h-5 px-1 py-0.5">
+                  {[0, 150, 300].map((delay) => (
+                    <span
+                      key={delay}
+                      className="size-1.5 rounded-full animate-typing-dot"
+                      style={{
+                        animationDelay: `${delay}ms`,
+                        backgroundColor: "var(--primary)",
+                      }}
+                    />
+                  ))}
+                </div>
+              ) : (
+                <>
+                  <ReactMarkdown remarkPlugins={[remarkGfm]} components={mdComponents}>
+                    {processedContent}
+                  </ReactMarkdown>
+                  {/* Blinking cursor while streaming (no tokenUsage = still animating) */}
+                  {isAnimating && !message.tokenUsage && (
+                    <span
+                      className="animate-cursor-blink inline-block w-[2px] h-[1em] ml-0.5 align-middle rounded-sm"
+                      style={{ backgroundColor: "var(--primary)" }}
+                    />
+                  )}
+                </>
               )}
             </div>
           )}
