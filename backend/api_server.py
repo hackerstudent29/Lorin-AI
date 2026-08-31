@@ -43,6 +43,7 @@ logger = logging.getLogger(__name__)
 
 NVIDIA_API_KEY = os.getenv("NVIDIA_API_KEY")
 VERCEL_AI_GATEWAY_KEY = os.getenv("AI_GATEWAY_API_KEY")
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 QDRANT_URL     = os.getenv("QDRANT_URL")
 QDRANT_API_KEY = os.getenv("QDRANT_API_KEY")
 DATABASE_URL   = os.getenv("DATABASE_URL")
@@ -1817,52 +1818,88 @@ def call_nvidia(messages: list, temperature: float = 0.1, max_tokens: int = 1000
     return res.json()
 
 
-def call_vercel_main(messages: list, temperature: float = 0.1, max_tokens: int = 1000, stream: bool = False, timeout: float = 60.0):
-    """Vercel gateway endpoint for main generation tasks."""
+def call_openrouter(messages: list, temperature: float = 0.1, max_tokens: int = 1000, stream: bool = False, timeout: float = 60.0):
+    """Fallback using OpenRouter directly."""
+    # Use one of the working free models we tested
+    model = "nvidia/nemotron-3-ultra-550b-a55b:free"
+    headers = {
+        "Authorization": f"Bearer {OPENROUTER_API_KEY}",
+        "Content-Type": "application/json"
+    }
     req_body = {
-        "model": "google/gemini-2.5-flash-lite",
+        "model": model,
         "messages": messages,
         "temperature": temperature,
         "max_tokens": max_tokens,
         "stream": stream
     }
     res = requests.post(
-        f"{GATEWAY_PROXY_URL}/v1/chat/completions",
-        headers={"Content-Type": "application/json"},
+        "https://openrouter.ai/api/v1/chat/completions",
+        headers=headers,
         json=req_body,
         timeout=timeout,
         stream=stream,
     )
     res.raise_for_status()
-    logger.debug("[Vercel] main answer → google/gemini-2.5-flash-lite")
+    logger.debug(f"[OpenRouter] fallback → {model}")
     if stream:
         return res
     return res.json()
 
+def call_vercel_main(messages: list, temperature: float = 0.1, max_tokens: int = 1000, stream: bool = False, timeout: float = 60.0):
+    """Vercel gateway endpoint for main generation tasks."""
+    req_body = {
+        "model": "zai/glm-5.3-flash",
+        "messages": messages,
+        "temperature": temperature,
+        "max_tokens": max_tokens,
+        "stream": stream
+    }
+    headers = {
+        "Authorization": f"Bearer {VERCEL_AI_GATEWAY_KEY}",
+        "Content-Type": "application/json"
+    }
+    # Try calling Vercel Gateway directly first, as requested with the new key.
+    try:
+        res = requests.post(
+            "https://ai-gateway.vercel.sh/v1/chat/completions",
+            headers=headers,
+            json=req_body,
+            timeout=timeout,
+            stream=stream,
+        )
+        res.raise_for_status()
+        logger.debug("[Vercel] main answer → zai/glm-5.3-flash")
+        if stream:
+            return res
+        return res.json()
+    except Exception as e:
+        logger.warning(f"[Vercel Direct] Failed: {e}. Trying via proxy...")
+        # Fallback to proxy if direct call returns 403
+        res = requests.post(
+            f"{GATEWAY_PROXY_URL}/v1/chat/completions",
+            headers={"Content-Type": "application/json"},
+            json=req_body,
+            timeout=timeout,
+            stream=stream,
+        )
+        res.raise_for_status()
+        logger.debug("[Vercel Proxy] main answer → zai/glm-5.3-flash")
+        if stream:
+            return res
+        return res.json()
+
 
 def call_llm_multi_agent(messages: list, temperature: float = 0.1, max_tokens: int = 1000, timeout: float = 60.0):
     """
-    Races NVIDIA NIM and Vercel AI Gateway for the fastest response (Multi-Agent).
+    Tries Vercel Gateway first. If it fails, falls back immediately to OpenRouter for a consistent connection.
     """
-    import concurrent.futures
-    with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
-        f1 = executor.submit(call_nvidia, messages, temperature, max_tokens, False, timeout)
-        f2 = executor.submit(call_vercel_main, messages, temperature, max_tokens, False, timeout)
-        done, not_done = concurrent.futures.wait([f1, f2], return_when=concurrent.futures.FIRST_COMPLETED)
-        
-        # Cancel the slower request if possible (ThreadPoolExecutor doesn't truly cancel running tasks, but we ignore it)
-        try:
-            res = list(done)[0].result()
-            logger.info(f"[MultiAgent] Fastest agent won the race!")
-            return res
-        except Exception as e:
-            logger.warning(f"[MultiAgent] Primary agent failed ({e}), waiting for fallback...")
-            if not_done:
-                # Wait for the other one
-                done2, _ = concurrent.futures.wait(not_done, timeout=timeout)
-                if done2:
-                    return list(done2)[0].result()
-            raise
+    try:
+        return call_vercel_main(messages, temperature, max_tokens, False, timeout)
+    except Exception as e:
+        logger.warning(f"[LLM Routing] Vercel failed ({e}), switching immediately to OpenRouter fallback...")
+        return call_openrouter(messages, temperature, max_tokens, False, timeout)
+
 
 
 
