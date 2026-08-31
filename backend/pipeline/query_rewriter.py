@@ -126,7 +126,7 @@ class QueryRewriter:
                     "https://integrate.api.nvidia.com/v1/chat/completions",
                     headers={"Authorization": f"Bearer {self._api_key}", "Content-Type": "application/json"},
                     json={
-                        "model":       "meta/llama-3.1-8b-instruct",
+                        "model":       "meta/llama-3.2-11b-vision-instruct",
                         "messages":    [{"role": "user", "content": prompt}],
                         "temperature": 0.0,
                         "max_tokens":  200,
@@ -134,7 +134,6 @@ class QueryRewriter:
                     timeout=REWRITE_TIMEOUT_SEC,
                 )
                 res.raise_for_status()
-
             rewritten = res.json()["choices"][0]["message"]["content"].strip()
             # Strip any leading labels the model might add
             rewritten = re.sub(r"^(Standalone question:|Rewritten:|Question:)\s*", "", rewritten, flags=re.IGNORECASE).strip()

@@ -72,7 +72,7 @@ class FaithfulnessChecker:
                     "https://integrate.api.nvidia.com/v1/chat/completions",
                     headers={"Authorization": f"Bearer {self._api_key}", "Content-Type": "application/json"},
                     json={
-                        "model":       "meta/llama-3.1-8b-instruct",
+                        "model":       "meta/llama-3.2-11b-vision-instruct",
                         "messages":    [{"role": "user", "content": prompt}],
                         "temperature": 0.0,
                         "max_tokens":  5,

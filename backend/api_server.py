@@ -1800,19 +1800,19 @@ def call_vercel(messages: list, task: str = "classify", temperature: float = 0.0
 def call_nvidia(messages: list, temperature: float = 0.1, max_tokens: int = 1000, stream: bool = False, timeout: float = 60.0):
     """
     Route MAIN/HEAVY tasks (RAG answer, guidance) directly through NVIDIA NIM.
-    Uses meta/llama-3.1-8b-instruct for lightning-fast generation.
+    Uses meta/llama-3.2-11b-vision-instruct for lightning-fast generation.
     """
     headers = {"Authorization": f"Bearer {NVIDIA_API_KEY}", "Content-Type": "application/json"}
     res = requests.post(
         "https://integrate.api.nvidia.com/v1/chat/completions",
         headers=headers,
-        json={"model": "meta/llama-3.1-8b-instruct", "messages": messages,
+        json={"model": "meta/llama-3.2-11b-vision-instruct", "messages": messages,
               "temperature": temperature, "max_tokens": max_tokens, "stream": stream},
         timeout=timeout,
         stream=stream,
     )
     res.raise_for_status()
-    logger.debug("[NVIDIA] main answer → meta/llama-3.1-8b-instruct")
+    logger.debug("[NVIDIA] main answer → meta/llama-3.2-11b-vision-instruct")
     if stream:
         return res
     return res.json()
@@ -1892,13 +1892,18 @@ def call_vercel_main(messages: list, temperature: float = 0.1, max_tokens: int =
 
 def call_llm_multi_agent(messages: list, temperature: float = 0.1, max_tokens: int = 1000, timeout: float = 60.0):
     """
-    Tries Vercel Gateway first. If it fails, falls back immediately to OpenRouter for a consistent connection.
+    Tries Vercel Gateway first. If it fails, falls back to NVIDIA NIM (which has the active Llama-3.2-11b model),
+    and if that fails, falls back to OpenRouter.
     """
     try:
         return call_vercel_main(messages, temperature, max_tokens, False, timeout)
     except Exception as e:
-        logger.warning(f"[LLM Routing] Vercel failed ({e}), switching immediately to OpenRouter fallback...")
-        return call_openrouter(messages, temperature, max_tokens, False, timeout)
+        logger.warning(f"[LLM Routing] Vercel failed ({e}), switching to NVIDIA NIM fallback...")
+        try:
+            return call_nvidia(messages, temperature, max_tokens, False, timeout)
+        except Exception as e2:
+            logger.warning(f"[LLM Routing] NVIDIA NIM failed ({e2}), switching to OpenRouter fallback...")
+            return call_openrouter(messages, temperature, max_tokens, False, timeout)
 
 
 
@@ -2463,7 +2468,7 @@ Respond ONLY with valid JSON matching this schema:
             "https://integrate.api.nvidia.com/v1/chat/completions",
             headers={"Authorization": f"Bearer {NVIDIA_API_KEY}", "Content-Type": "application/json"},
             json={
-                "model": "meta/llama-3.1-8b-instruct",
+                "model": "meta/llama-3.2-11b-vision-instruct",
                 "messages": [{"role": "user", "content": judge_prompt}],
                 "temperature": 0.1
             },
@@ -2531,7 +2536,7 @@ Respond with the edited answer only. Do not add any preamble (like "Here is the 
                         "https://integrate.api.nvidia.com/v1/chat/completions",
                         headers={"Authorization": f"Bearer {NVIDIA_API_KEY}", "Content-Type": "application/json"},
                         json={
-                            "model": "meta/llama-3.1-70b-instruct",
+                            "model": "meta/llama-3.2-11b-vision-instruct",
                             "messages": [{"role": "user", "content": patch_prompt}],
                             "temperature": 0.1
                         },
@@ -3021,7 +3026,7 @@ def chat_endpoint(req: ChatRequest, request: Request):
         "velachery", "guindy", "tambaram", "adyar", "ennore", "porur",
         "sholinganallur", "kelambakkam", "broadway", "central",
     ]
-    if intent == "guidance_query" and any(k in active_query.lower() for k in transport_kw_check):
+    if intent == "guidance_query" and any(k in active_query.lower() for k in transport_kw_check) and not any(x in active_query.lower() for x in ["library", "office", "scholarship", "cbse", "board"]):
         logger.info(f"[Intent Override] Forcing guidance_query → college_query for transport query: '{active_query[:50]}'")
         intent = "college_query"
 
@@ -3098,7 +3103,7 @@ def chat_endpoint(req: ChatRequest, request: Request):
         "ar7", "ar8", "ar9", "ar10", "r21", "r22", "n/3", "n3", "ar 3", "ar 4", "ar 5", "ar 6", 
         "ar 7", "ar 8", "ar 9", "ar 10", "r 21", "r 22"
     ]
-    if any(k in active_query.lower() for k in transport_keywords):
+    if any(k in active_query.lower() for k in transport_keywords) and not any(x in active_query.lower() for x in ["library", "office", "scholarship", "cbse", "board"]):
         # Do NOT set category="Transport" because it causes 0 hits if the DB payload doesn't perfectly match,
         # which triggers an unfiltered fallback. source_file routing alone is strictly better.
         category = None
@@ -3303,13 +3308,28 @@ def chat_endpoint(req: ChatRequest, request: Request):
                         g_usage = chunk["usage"]
 
                 # Now that generation is done, generate followups and save to DB
-                followups_val = generate_followup_questions(user_query, answer_text, context_blocks=None)
+                followups_val = generate_followup_questions(user_query, answer_text)
                 
                 total_p = p_usage.get("prompt_tokens",0) + g_usage.get("prompt_tokens",0)
                 total_c = p_usage.get("completion_tokens",0) + g_usage.get("completion_tokens",0)
-                
                 redacted_ans = re.sub(r'<!--ent_\d+-->', '', answer_text)  # Strip leaked entity tags
                 redacted_ans = redact_personal_phone_numbers(redacted_ans)
+
+                trace = {
+                    "spell_corrections":         corrections,
+                    "was_rewritten":             was_rewritten,
+                    "original_query":            corrected_query,
+                    "rewritten_query":           active_query if was_rewritten else None,
+                    "category_filter":           category,
+                    "category_confidence":       cat_conf,
+                    "rrf_count":                 len(candidates),
+                    "max_rerank_logit":          max_logit,
+                    "rerank_used":               rerank_used,
+                    "faithfulness_check_invoked": False,
+                    "faithfulness_passed":        True,
+                    "bypass_cache":              getattr(req, "bypass_cache", False),
+                    "followups":                 followups_val,
+                }
                 msg_id_val = save_message(req.session_id, "assistant", redacted_ans, trace, prompt_tokens=total_p, completion_tokens=total_c, citations=citations_list)
                 
                 # Cache it
