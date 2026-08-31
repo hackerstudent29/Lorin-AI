@@ -343,7 +343,7 @@ def save_cache(cache: dict):
     except Exception:
         pass
 
-def get_nvidia_embeddings_batch(texts: list, batch_size: int = 20) -> list:
+def get_nvidia_embeddings_batch(texts: list, batch_size: int = 100) -> list:
     url = "https://ai-gateway.vercel.sh/v1/embeddings"
     headers = {"Authorization": f"Bearer {VERCEL_AI_GATEWAY_KEY}", "Content-Type": "application/json"}
     
@@ -395,7 +395,7 @@ def get_nvidia_embeddings_batch(texts: list, batch_size: int = 20) -> list:
                         cache[h_val] = emb
                         
                     print(f"   [Embed] Batch {i//batch_size + 1}/{total_batches} ({len(batch)} chunks) OK")
-                    time.sleep(0.15)
+                    time.sleep(30.0)  # Sleep 30 seconds between batches to avoid rate limits
                     success = True
                     break
                 except Exception as e:
@@ -599,8 +599,8 @@ def run():
 
     # Embed
     texts_to_embed = [c.text for c in all_chunks]
-    print("[EMBED] Generating vectors via NVIDIA nv-embedqa-e5-v5...\n")
-    embeddings = get_nvidia_embeddings_batch(texts_to_embed, batch_size=20)
+    print("[EMBED] Generating vectors via Vercel Gateway (text-embedding-3-large)...\n")
+    embeddings = get_nvidia_embeddings_batch(texts_to_embed, batch_size=100)
 
     # Build Qdrant points — deterministic ID from chunk_hash so re-runs upsert cleanly
     points = []
