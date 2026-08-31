@@ -19,17 +19,18 @@ from pipeline.chunker import SemanticChunker, Chunk, split_into_sections
 load_dotenv()
 
 NVIDIA_API_KEY = os.getenv("NVIDIA_API_KEY")
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 QDRANT_URL     = os.getenv("QDRANT_URL")
 QDRANT_API_KEY = os.getenv("QDRANT_API_KEY")
 DATABASE_URL   = os.getenv("DATABASE_URL")
 
-if not all([NVIDIA_API_KEY, QDRANT_URL, QDRANT_API_KEY, DATABASE_URL]):
+if not all([OPENROUTER_API_KEY, QDRANT_URL, QDRANT_API_KEY, DATABASE_URL]):
     print("[ERROR] Missing environment variables in .env!")
     sys.exit(1)
 
 qdrant_client   = QdrantClient(url=QDRANT_URL, api_key=QDRANT_API_KEY, timeout=60.0)
 COLLECTION_NAME = "college_knowledgebase_backup"
-VECTOR_DIM      = 1024
+VECTOR_DIM      = 2048
 MIN_CHUNK_LEN   = 60    # discard chunks shorter than this
 
 
@@ -343,8 +344,8 @@ def save_cache(cache: dict):
         pass
 
 def get_nvidia_embeddings_batch(texts: list, batch_size: int = 20) -> list:
-    url = "https://integrate.api.nvidia.com/v1/embeddings"
-    headers = {"Authorization": f"Bearer {NVIDIA_API_KEY}", "Content-Type": "application/json"}
+    url = "https://openrouter.ai/api/v1/embeddings"
+    headers = {"Authorization": f"Bearer {OPENROUTER_API_KEY}", "Content-Type": "application/json"}
     
     # Sanitize Unicode + truncate texts
     sanitized_texts = [sanitize_for_embed(t)[:MAX_EMBED_CHARS] for t in texts]
@@ -378,7 +379,7 @@ def get_nvidia_embeddings_batch(texts: list, batch_size: int = 20) -> list:
         for i in range(0, len(missing_texts), batch_size):
             batch = missing_texts[i:i + batch_size]
             batch_indices = missing_indices[i:i + batch_size]
-            payload = {"input": batch, "model": "nvidia/nv-embedqa-e5-v5", "input_type": "passage"}
+            payload = {"input": batch, "model": "nvidia/llama-nemotron-embed-vl-1b-v2:free"}
             success = False
             for attempt in range(3):
                 try:
@@ -410,7 +411,7 @@ def get_nvidia_embeddings_batch(texts: list, batch_size: int = 20) -> list:
                 print(f"   [INFO] Falling back to single-chunk embedding for batch {i//batch_size+1}...")
                 for j, single_text in enumerate(batch):
                     val_idx = batch_indices[j]
-                    single_payload = {"input": [single_text], "model": "nvidia/nv-embedqa-e5-v5", "input_type": "passage"}
+                    single_payload = {"input": [single_text], "model": "nvidia/llama-nemotron-embed-vl-1b-v2:free"}
                     res = None
                     try:
                         res = requests.post(url, headers=headers, json=single_payload, timeout=45)
@@ -427,7 +428,7 @@ def get_nvidia_embeddings_batch(texts: list, batch_size: int = 20) -> list:
                             try: details = f" | Details: {res.text}"
                             except Exception: pass
                         print(f"   [WARN] Single chunk {i+j} failed, using zero vector: {e2}{details}")
-                        all_embeddings[val_idx] = [0.0] * 1024  # placeholder so indices stay aligned
+                        all_embeddings[val_idx] = [0.0] * VECTOR_DIM  # placeholder so indices stay aligned
         
         # Save updated cache to disk
         save_cache(cache)
@@ -471,9 +472,9 @@ def run():
         field_schema=PayloadSchemaType.KEYWORD,
     )
 
-    conn = psycopg2.connect(DATABASE_URL)
-    conn.autocommit = True
-    cursor = conn.cursor()
+    # conn = psycopg2.connect(DATABASE_URL)
+    # conn.autocommit = True
+    # cursor = conn.cursor()
 
     all_chunks: list[Chunk] = []
 
@@ -512,15 +513,15 @@ def run():
 
             # Store clean text in Supabase
             title = base_name.replace(".pdf", "").replace("_", " ").replace("msajce ", "MSAJCE — ").title()
-            cursor.execute("""
-                INSERT INTO scraped_documents (title, source_url, content_type, category, raw_markdown, status)
-                VALUES (%s, %s, 'pdf', %s, %s, 'indexed')
-                ON CONFLICT (source_url) DO UPDATE
-                  SET raw_markdown = EXCLUDED.raw_markdown,
-                      category = EXCLUDED.category,
-                      status = 'indexed',
-                      updated_at = CURRENT_TIMESTAMP;
-            """, (title, base_name, category, full_raw.strip()))
+            # cursor.execute("""
+            #     INSERT INTO scraped_documents (title, source_url, content_type, category, raw_markdown, status)
+            #     VALUES (%s, %s, 'pdf', %s, %s, 'indexed')
+            #     ON CONFLICT (source_url) DO UPDATE
+            #       SET raw_markdown = EXCLUDED.raw_markdown,
+            #           category = EXCLUDED.category,
+            #           status = 'indexed',
+            #           updated_at = CURRENT_TIMESTAMP;
+            # """, (title, base_name, category, full_raw.strip()))
 
             # Chunk per page so page_number metadata stays accurate
             # Exception: transport PDFs — merge all pages first so route tables aren't split
@@ -586,8 +587,8 @@ def run():
         except Exception as e:
             print(f"      [ERROR] {e}\n")
 
-    cursor.close()
-    conn.close()
+    # cursor.close()
+    # conn.close()
 
     print(f"{'='*60}")
     print(f"  Total chunks to embed: {len(all_chunks)}")

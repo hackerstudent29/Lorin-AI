@@ -1772,29 +1772,12 @@ def call_vercel(messages: list, task: str = "classify", temperature: float = 0.0
         logger.debug(f"[Vercel] {task} → {model}")
         return res.json()
     except requests.exceptions.ConnectionError:
-        logger.debug(f"[Vercel] Proxy not running for {task}, falling back to NVIDIA...")
+        logger.debug(f"[Vercel] Proxy not running for {task}, falling back to OpenRouter...")
     except Exception as e:
-        logger.warning(f"[Vercel] {task} failed ({e}), falling back to NVIDIA...")
+        logger.warning(f"[Vercel] {task} failed ({e}), falling back to OpenRouter...")
 
-    # NVIDIA fallback for small tasks
-    fallback_body = {
-        "model": "meta/llama-3.1-8b-instruct",
-        "messages": messages,
-        "temperature": temperature,
-        "max_tokens": max_tokens
-    }
-    if task in ("classify", "rewrite", "faithful"):
-        fallback_body["response_format"] = {"type": "json_object"}
-        
-    res = requests.post(
-        "https://integrate.api.nvidia.com/v1/chat/completions",
-        headers={"Authorization": f"Bearer {NVIDIA_API_KEY}", "Content-Type": "application/json"},
-        json=fallback_body,
-        timeout=timeout,
-    )
-    res.raise_for_status()
-    logger.debug(f"[NVIDIA] {task} fallback → meta/llama-3.1-8b-instruct")
-    return res.json()
+    # OpenRouter fallback for small tasks
+    return call_openrouter(messages, temperature=temperature, max_tokens=max_tokens, stream=False, timeout=timeout)
 
 
 def call_nvidia(messages: list, temperature: float = 0.1, max_tokens: int = 1000, stream: bool = False, timeout: float = 60.0):
@@ -1914,13 +1897,14 @@ def call_llm(messages: list, model: str = "openai/gpt-4o-mini", temperature: flo
 # ── NVIDIA helpers ────────────────────────────────────────────────────────────
 def get_nvidia_embedding(text: str, input_type: str = "query") -> list:
     res = requests.post(
-        "https://integrate.api.nvidia.com/v1/embeddings",
-        headers={"Authorization": f"Bearer {NVIDIA_API_KEY}", "Content-Type": "application/json"},
-        json={"input": [text], "model": "nvidia/nv-embedqa-e5-v5", "input_type": input_type},
+        "https://openrouter.ai/api/v1/embeddings",
+        headers={"Authorization": f"Bearer {OPENROUTER_API_KEY}", "Content-Type": "application/json"},
+        json={"input": text, "model": "nvidia/llama-nemotron-embed-vl-1b-v2:free"},
         timeout=20,
     )
     res.raise_for_status()
     return res.json()["data"][0]["embedding"]
+
 
 
 def rerank_nvidia(query: str, passages: list) -> tuple:
@@ -1929,31 +1913,8 @@ def rerank_nvidia(query: str, passages: list) -> tuple:
     rankings: sorted [{index, logit}]. Falls back to identity on error.
     rerank_succeeded: bool — False means we used the cosine-similarity fallback.
     """
-    try:
-        res = requests.post(
-            "https://ai.api.nvidia.com/v1/retrieval/nvidia/llama-nemotron-rerank-1b-v2/reranking",
-            headers={"Authorization": f"Bearer {NVIDIA_API_KEY}", "Content-Type": "application/json"},
-            json={
-                "model":    "nvidia/llama-nemotron-rerank-1b-v2",
-                "query":    {"text": query},
-                "passages": [{"text": p} for p in passages],
-            },
-            timeout=25,
-        )
-        res.raise_for_status()
-        rankings = res.json().get("rankings", [])
-        rankings = sorted(rankings, key=lambda r: r.get("logit", r.get("score", 0)), reverse=True)
-
-        # Log all logit scores at DEBUG (Req 4.1)
-        for r in rankings:
-            score = r.get("logit", r.get("score", 0))
-            passed = score >= RERANK_SCORE_THRESHOLD
-            logger.debug(f"[Reranker] idx={r['index']} logit={score:.4f} passed={passed}")
-
-        return rankings, True
-    except Exception as e:
-        logger.warning(f"[Reranker] Rerank failed (cosine fallback): {e}")
-        return [{"index": i, "logit": 1.0} for i in range(len(passages))], False
+    # OpenRouter doesn't support reranking natively, fallback to cosine
+    return [{"index": i, "logit": 1.0} for i in range(len(passages))], False
 
 
 def generate_followup_questions(query: str, context_text: str = "") -> List[str]:
