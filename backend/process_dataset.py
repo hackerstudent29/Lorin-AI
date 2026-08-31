@@ -19,18 +19,18 @@ from pipeline.chunker import SemanticChunker, Chunk, split_into_sections
 load_dotenv()
 
 NVIDIA_API_KEY = os.getenv("NVIDIA_API_KEY")
-OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
+VERCEL_AI_GATEWAY_KEY = os.getenv("AI_GATEWAY_API_KEY")
 QDRANT_URL     = os.getenv("QDRANT_URL")
 QDRANT_API_KEY = os.getenv("QDRANT_API_KEY")
 DATABASE_URL   = os.getenv("DATABASE_URL")
 
-if not all([OPENROUTER_API_KEY, QDRANT_URL, QDRANT_API_KEY, DATABASE_URL]):
+if not all([VERCEL_AI_GATEWAY_KEY, QDRANT_URL, QDRANT_API_KEY, DATABASE_URL]):
     print("[ERROR] Missing environment variables in .env!")
     sys.exit(1)
 
 qdrant_client   = QdrantClient(url=QDRANT_URL, api_key=QDRANT_API_KEY, timeout=60.0)
 COLLECTION_NAME = "college_knowledgebase_backup"
-VECTOR_DIM      = 2048
+VECTOR_DIM      = 1024
 MIN_CHUNK_LEN   = 60    # discard chunks shorter than this
 
 
@@ -344,8 +344,8 @@ def save_cache(cache: dict):
         pass
 
 def get_nvidia_embeddings_batch(texts: list, batch_size: int = 20) -> list:
-    url = "https://openrouter.ai/api/v1/embeddings"
-    headers = {"Authorization": f"Bearer {OPENROUTER_API_KEY}", "Content-Type": "application/json"}
+    url = "https://ai-gateway.vercel.sh/v1/embeddings"
+    headers = {"Authorization": f"Bearer {VERCEL_AI_GATEWAY_KEY}", "Content-Type": "application/json"}
     
     # Sanitize Unicode + truncate texts
     sanitized_texts = [sanitize_for_embed(t)[:MAX_EMBED_CHARS] for t in texts]
@@ -379,7 +379,7 @@ def get_nvidia_embeddings_batch(texts: list, batch_size: int = 20) -> list:
         for i in range(0, len(missing_texts), batch_size):
             batch = missing_texts[i:i + batch_size]
             batch_indices = missing_indices[i:i + batch_size]
-            payload = {"input": batch, "model": "nvidia/llama-nemotron-embed-vl-1b-v2:free"}
+            payload = {"input": batch, "model": "text-embedding-3-large", "dimensions": 1024}
             success = False
             for attempt in range(3):
                 try:
@@ -411,7 +411,7 @@ def get_nvidia_embeddings_batch(texts: list, batch_size: int = 20) -> list:
                 print(f"   [INFO] Falling back to single-chunk embedding for batch {i//batch_size+1}...")
                 for j, single_text in enumerate(batch):
                     val_idx = batch_indices[j]
-                    single_payload = {"input": [single_text], "model": "nvidia/llama-nemotron-embed-vl-1b-v2:free"}
+                    single_payload = {"input": single_text, "model": "text-embedding-3-large", "dimensions": 1024}
                     res = None
                     try:
                         res = requests.post(url, headers=headers, json=single_payload, timeout=45)

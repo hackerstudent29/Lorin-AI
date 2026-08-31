@@ -1772,12 +1772,29 @@ def call_vercel(messages: list, task: str = "classify", temperature: float = 0.0
         logger.debug(f"[Vercel] {task} → {model}")
         return res.json()
     except requests.exceptions.ConnectionError:
-        logger.debug(f"[Vercel] Proxy not running for {task}, falling back to OpenRouter...")
+        logger.debug(f"[Vercel] Proxy not running for {task}, falling back to Vercel Gateway directly...")
     except Exception as e:
-        logger.warning(f"[Vercel] {task} failed ({e}), falling back to OpenRouter...")
+        logger.warning(f"[Vercel] {task} failed ({e}), falling back to Vercel Gateway directly...")
 
-    # OpenRouter fallback for small tasks
-    return call_openrouter(messages, temperature=temperature, max_tokens=max_tokens, stream=False, timeout=timeout)
+    # Vercel fallback for small tasks
+    fallback_body = {
+        "model": "gpt-4o-mini",
+        "messages": messages,
+        "temperature": temperature,
+        "max_tokens": max_tokens
+    }
+    if task in ("classify", "rewrite", "faithful"):
+        fallback_body["response_format"] = {"type": "json_object"}
+        
+    res = requests.post(
+        "https://ai-gateway.vercel.sh/v1/chat/completions",
+        headers={"Authorization": f"Bearer {VERCEL_AI_GATEWAY_KEY}", "Content-Type": "application/json"},
+        json=fallback_body,
+        timeout=timeout,
+    )
+    res.raise_for_status()
+    logger.debug(f"[Vercel Gateway] {task} fallback → gpt-4o-mini")
+    return res.json()
 
 
 def call_nvidia(messages: list, temperature: float = 0.1, max_tokens: int = 1000, stream: bool = False, timeout: float = 60.0):
@@ -1897,9 +1914,9 @@ def call_llm(messages: list, model: str = "openai/gpt-4o-mini", temperature: flo
 # ── NVIDIA helpers ────────────────────────────────────────────────────────────
 def get_nvidia_embedding(text: str, input_type: str = "query") -> list:
     res = requests.post(
-        "https://openrouter.ai/api/v1/embeddings",
-        headers={"Authorization": f"Bearer {OPENROUTER_API_KEY}", "Content-Type": "application/json"},
-        json={"input": text, "model": "nvidia/llama-nemotron-embed-vl-1b-v2:free"},
+        "https://ai-gateway.vercel.sh/v1/embeddings",
+        headers={"Authorization": f"Bearer {VERCEL_AI_GATEWAY_KEY}", "Content-Type": "application/json"},
+        json={"input": text, "model": "text-embedding-3-large", "dimensions": 1024},
         timeout=20,
     )
     res.raise_for_status()
