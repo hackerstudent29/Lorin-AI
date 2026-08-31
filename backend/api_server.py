@@ -108,7 +108,7 @@ SOURCES:
 {context_str}
 """
 qdrant_client   = QdrantClient(url=QDRANT_URL, api_key=QDRANT_API_KEY, timeout=30.0)
-COLLECTION_NAME = "college_knowledgebase_backup"
+COLLECTION_NAME = "nvidia"
 
 try:
     qdrant_client.create_payload_index(
@@ -1914,9 +1914,9 @@ def call_llm(messages: list, model: str = "openai/gpt-4o-mini", temperature: flo
 # ── NVIDIA helpers ────────────────────────────────────────────────────────────
 def get_nvidia_embedding(text: str, input_type: str = "query") -> list:
     res = requests.post(
-        "https://ai-gateway.vercel.sh/v1/embeddings",
-        headers={"Authorization": f"Bearer {VERCEL_AI_GATEWAY_KEY}", "Content-Type": "application/json"},
-        json={"input": text, "model": "text-embedding-3-large", "dimensions": 1024},
+        "https://integrate.api.nvidia.com/v1/embeddings",
+        headers={"Authorization": f"Bearer {NVIDIA_API_KEY}", "Content-Type": "application/json"},
+        json={"input": [text], "model": "nvidia/llama-nemotron-embed-vl-1b-v2", "input_type": input_type},
         timeout=20,
     )
     res.raise_for_status()
