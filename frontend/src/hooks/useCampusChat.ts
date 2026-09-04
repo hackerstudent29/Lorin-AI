@@ -4,7 +4,7 @@ import type { ChatMessage } from "@/types/chat";
 const CHARS_PER_TICK = 18;
 const TICK_MS = 12;
 
-const API_BASE = import.meta.env.VITE_API_URL || "";
+const API_BASE = import.meta.env.VITE_API_URL || (import.meta.env.DEV ? "" : "https://lorin-ai-production-7acc.up.railway.app");
 
 export function useCampusChat(onAnimationDone?: (userMsgId: string) => void) {
   const [messages, setMessages]   = useState<ChatMessage[]>([]);

@@ -29,8 +29,8 @@ const SUGGESTIONS = [
   {
     icon: GraduationCap,
     label: "Admission Guide",
-    hint: "Cutoffs, eligibility, steps",
-    query: "What is the admission procedure, eligibility, and TNEA cutoff for B.E / B.Tech at MSAJCE?",
+    hint: "Eligibility, pathways & criteria",
+    query: "What is the admission procedure and eligibility criteria for B.E / B.Tech at MSAJCE?",
   },
   {
     icon: Library,

@@ -1000,14 +1000,21 @@ Ask: *"tell me about the AIDS department"* for full details on studies, salary, 
     },
     # ── Question Cards Seeds ──────────────────────────────────────────────
     {
-        "query": "What is the admission procedure, eligibility, and TNEA cutoff for B.E / B.Tech at MSAJCE?",
+        "query": "What is the admission procedure and eligibility criteria for B.E / B.Tech at MSAJCE?",
+        "aliases": [
+            "What is the admission procedure, eligibility, and TNEA cutoff for B.E / B.Tech at MSAJCE?",
+            "What is the admission procedure and eligibility for B.E / B.Tech at MSAJCE?",
+            "admission procedure and eligibility criteria for be btech at msajce",
+            "admission procedure for msajce",
+            "eligibility criteria for be btech msajce"
+        ],
         "answer": """Mohamed Sathak A.J. College of Engineering (MSAJCE) admission details:
 
 ### 📝 Admission Procedure
-- **Counselling Route (50% Seats)**: Candidates who have completed HSC (Academic/Vocational) or Diploma can apply through the **TNEA (Tamil Nadu Engineering Admissions)** counselling process conducted by DOTE. Anna University Counselling Code: **1301**.
+- **Counselling Route (50% Seats)**: Candidates who have completed HSC (Academic/Vocational) or Diploma can apply through the **TNEA (Tamil Nadu Engineering Admissions)** counselling process conducted by DOTE. Anna University Counselling Code: **1108**.
 - **Management Route (50% Seats)**: Candidates can apply directly under the Management Quota based on merit in qualifying marks.
 - **NRI Admissions (5%)**: 5% of sanctioned seats are reserved under the NRI category. Unfilled NRI seats are allocated to general candidates on merit.
-- **Contact Admissions**: For admission queries, contact the general office helpline at **+91 99400 04500** or via email at **msajce.office@gmail.com**. You can also reach out to Physical Education Director Dr. K.P. Santhosh Nathan (ped.santhosh@msajce-edu.in) or Principal Dr. K.S. Srinivasan (principal@msajce-edu.in).
+- **Contact Admissions**: For admission queries, contact the general office helpline at **+91 99400 04500** or via email at **msajce.office@gmail.com**. You can also reach out to Head of Admission Dr. K.P. Santhosh Nathan (ped.santhosh@msajce-edu.in) or Principal Dr. K.S. Srinivasan (principal@msajce-edu.in).
 
 ### 🎓 Eligibility Criteria (UG B.E. / B.Tech)
 Pass in HSC (Academic/Vocational) or equivalent with a minimum average percentage in Mathematics, Physics, and Chemistry (MPC) put together:
@@ -1326,13 +1333,13 @@ COMPACT_TO_FULL_CAT = {
 }
 
 def normalize_query_for_hash(query: str) -> str:
-    """Normalize query: strip whitespace, ALL punctuation (!, ?, ., ,), lowercase, collapse spaces.
+    """Normalize query: strip whitespace, ALL punctuation (!, ?, ., ,, ;, :, -, /), lowercase, collapse spaces.
     This ensures 'aids!!' and 'aids' hash to the same value for cache lookup."""
     if not query:
         return ""
     import re as _re
     q = query.strip().lower()
-    q = _re.sub(r"[!?.,'\"();:\-]+", " ", q)   # replace punctuation with space
+    q = _re.sub(r"[!?.,'\"();:\-/]+", " ", q)   # replace punctuation including slashes with space
     q = _re.sub(r"\s+", " ", q).strip()         # collapse multiple spaces
     return q
 
@@ -1389,25 +1396,54 @@ def expand_query_abbreviations(query: str) -> str:
         expanded = re.sub(pattern, replacement, expanded, flags=re.IGNORECASE)
     return expanded
 
+STATIC_MEMORY_CACHE: dict[str, dict] = {}
+
+def build_memory_cache():
+    """Populate ultra-fast in-memory cache from SEED_CACHE and PREDEFINED_CACHE."""
+    global STATIC_MEMORY_CACHE
+    STATIC_MEMORY_CACHE = {}
+    try:
+        from seed_cache import PREDEFINED_CACHE
+        all_entries = SEED_CACHE + PREDEFINED_CACHE
+    except Exception as e:
+        all_entries = SEED_CACHE
+
+    for entry in all_entries:
+        queries = [entry["query"]] + entry.get("aliases", [])
+        for q in queries:
+            h = hashlib.sha256(normalize_query_for_hash(q).encode()).hexdigest()
+            STATIC_MEMORY_CACHE[h] = entry
+    logger.info(f"[MemoryCache] Loaded {len(STATIC_MEMORY_CACHE)} query hashes into in-memory cache.")
+
+build_memory_cache()
+
 def seed_cache_entries():
-    """Pre-populate query_cache with guaranteed correct answers for commonly failed queries."""
+    """Pre-populate query_cache with guaranteed correct answers in memory and DB."""
+    build_memory_cache()
+    try:
+        from seed_cache import PREDEFINED_CACHE
+        all_entries = SEED_CACHE + PREDEFINED_CACHE
+    except Exception:
+        all_entries = SEED_CACHE
+
     try:
         conn = db_connect(); conn.autocommit = True; cur = conn.cursor()
-        for entry in SEED_CACHE:
-            q_hash = hashlib.sha256(normalize_query_for_hash(entry["query"]).encode()).hexdigest()
-            # Upsert seeded cache entries to ensure they are always correct and updated
-            cur.execute("""
-                INSERT INTO query_cache (query_hash, query_text, response_text, citations)
-                VALUES (%s, %s, %s, %s)
-                ON CONFLICT (query_hash) DO UPDATE
-                    SET response_text = EXCLUDED.response_text,
-                        citations = EXCLUDED.citations,
-                        created_at = CURRENT_TIMESTAMP
-            """, (q_hash, entry["query"], entry["answer"], json.dumps(entry["citations"])))
-            logger.info(f"[SeedCache] Seeded/Updated: '{entry['query']}'")
+        for entry in all_entries:
+            queries = [entry["query"]] + entry.get("aliases", [])
+            for q in queries:
+                q_hash = hashlib.sha256(normalize_query_for_hash(q).encode()).hexdigest()
+                cur.execute("""
+                    INSERT INTO query_cache (query_hash, query_text, response_text, citations)
+                    VALUES (%s, %s, %s, %s)
+                    ON CONFLICT (query_hash) DO UPDATE
+                        SET response_text = EXCLUDED.response_text,
+                            citations = EXCLUDED.citations,
+                            created_at = CURRENT_TIMESTAMP
+                """, (q_hash, q, entry["answer"], json.dumps(entry.get("citations", []))))
         cur.close(); conn.close()
+        logger.info("[SeedCache] Seeded/Updated entries in PostgreSQL.")
     except Exception as e:
-        logger.warning(f"[SeedCache] Failed: {e}")
+        logger.warning(f"[SeedCache] PostgreSQL seed skipped/failed (in-memory cache is active and ready): {e}")
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -2842,7 +2878,7 @@ def get_transport_hints(query: str) -> str:
 
 
 @app.post("/api/chat")
-@limiter.limit("10/minute;25/day")
+@limiter.limit("60/minute;500/day")
 def chat_endpoint(req: ChatRequest, request: Request):
     user_query = expand_query_abbreviations(req.message.strip())
     if not user_query:
@@ -2906,8 +2942,29 @@ def chat_endpoint(req: ChatRequest, request: Request):
         )
 
     # ── Step 0a: Exact Cache lookup (bypasses all LLM processing) ─────────────
-    q_hash = hashlib.sha256(normalize_query_for_hash(user_query).encode()).hexdigest()
+    norm_q = normalize_query_for_hash(user_query)
+    q_hash = hashlib.sha256(norm_q.encode()).hexdigest()
     if not getattr(req, "bypass_cache", False):
+        # 1. Check ultra-fast In-Memory Cache (0ms, 100% resilient)
+        if q_hash in STATIC_MEMORY_CACHE:
+            cached_item = STATIC_MEMORY_CACHE[q_hash]
+            redacted_ans = redact_personal_phone_numbers(cached_item["answer"])
+            save_message(req.session_id, "user", user_query)
+            cached_msg_id = save_message(req.session_id, "assistant", redacted_ans, {"from_cache": True, "source": "memory_cache"})
+            cits = cached_item.get("citations", [])
+            citations_list = [Citation(**c) if isinstance(c, dict) else c for c in cits]
+            logger.info(f"[Cache] In-memory cache HIT for query: '{user_query[:50]}'")
+            return ChatResponse(
+                answer=redacted_ans,
+                citations=citations_list,
+                modelUsed="cache",
+                isCached=True,
+                tokenUsage=TokenUsage(prompt_tokens=0, completion_tokens=0, total_tokens=0),
+                message_id=cached_msg_id,
+                followups=cached_item.get("followups", [])
+            )
+
+        # 2. Database query_cache lookup
         try:
             conn = db_connect(); conn.autocommit = True; cur = conn.cursor()
             cur.execute("SELECT response_text, citations FROM query_cache WHERE query_hash=%s", (q_hash,))
@@ -2916,13 +2973,19 @@ def chat_endpoint(req: ChatRequest, request: Request):
                 cur.execute("UPDATE query_cache SET hit_count=hit_count+1, last_accessed=CURRENT_TIMESTAMP WHERE query_hash=%s", (q_hash,))
                 cur.close(); conn.close()
                 cits = json.loads(row[1]) if isinstance(row[1], str) else (row[1] or [])
+                citations_list = [Citation(**c) if isinstance(c, dict) else c for c in cits]
                 save_message(req.session_id, "user", user_query)
                 redacted_ans = redact_personal_phone_numbers(row[0])
-                cached_msg_id = save_message(req.session_id, "assistant", redacted_ans, {"from_cache": True})
-                return ChatResponse(answer=redacted_ans, citations=cits,
-                                    modelUsed="cache", isCached=True,
-                                    tokenUsage=TokenUsage(prompt_tokens=0,completion_tokens=0,total_tokens=0),
-                                    message_id=cached_msg_id)
+                cached_msg_id = save_message(req.session_id, "assistant", redacted_ans, {"from_cache": True, "source": "db_cache"})
+                logger.info(f"[Cache] DB cache HIT for query: '{user_query[:50]}'")
+                return ChatResponse(
+                    answer=redacted_ans,
+                    citations=citations_list,
+                    modelUsed="cache",
+                    isCached=True,
+                    tokenUsage=TokenUsage(prompt_tokens=0, completion_tokens=0, total_tokens=0),
+                    message_id=cached_msg_id
+                )
             cur.close(); conn.close()
         except Exception as e:
             logger.warning(f"[Cache] Lookup failed: {e}")

@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://lorin-ai-production-7acc.up.railway.app/api/:match*"
+    }
+  ]
+}
