@@ -554,15 +554,12 @@ This official knowledge base document compiles all verified redirecting web link
 - **[**MSAJCE** Cse Official Webpage](https://www.**MSAJCE**-edu.in/NewsLetter.php)**
   - **Category**: `PAGE_LINK` | **Source**: `msajce_cse.md`
   - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Cse at **MSAJCE**.
-- **[**MSAJCE** Developer Ramanathan Official Webpage](https://ram3d-portfolio.vercel.app)**
+- **[**MSAJCE** Developer Ramanathan Official Webpage](https://ram-portfolio3d.vercel.app)**
   - **Category**: `PAGE_LINK` | **Source**: `msajce_developer_ramanathan.md`
-  - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Developer Ramanathan at **MSAJCE**.
+  - **Summary**: Official portfolio website of Ramanathan S., Software Engineer and creator of Lorin AI at **MSAJCE**.
 - **[**MSAJCE** Developer Ramanathan GitHub Profile](https://github.com/hackerstudent29)**
   - **Category**: `PAGE_LINK` | **Source**: `msajce_developer_ramanathan.md`
   - **Summary**: GitHub profile of Ramanathan S., creator and architect of Lorin AI.
-- **[Lorin AI Official GitHub Repository](https://github.com/hackerstudent29/Lorin-AI)**
-  - **Category**: `PAGE_LINK` | **Source**: `msajce_developer_ramanathan.md`
-  - **Summary**: Official open-source GitHub repository for the MSAJCE Lorin AI chatbot project.
 - **[**MSAJCE** Ebsb Official Webpage](https://ekbharat.gov.in/activitycompleted/statepair_activity?statepair=Tamil+Nadu+%3a++Jammu-Kashmir+and+Ladakh&page=3)**
   - **Category**: `PAGE_LINK` | **Source**: `msajce_ebsb.md`
   - **Summary**: Official college institutional webpage providing comprehensive information, guidelines, and updates regarding Ebsb at **MSAJCE**.

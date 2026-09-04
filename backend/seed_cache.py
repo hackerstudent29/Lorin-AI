@@ -489,9 +489,8 @@ Ramanathan S. is the creator, architect, and lead developer of the **Lorin AI** 
 ---
 
 ### 🌐 Connect & Developer Links
-* 🔗 **Personal 3D Portfolio:** [https://ram3d-portfolio.vercel.app](https://ram3d-portfolio.vercel.app)
+* 🔗 **Personal 3D Portfolio:** [https://ram-portfolio3d.vercel.app](https://ram-portfolio3d.vercel.app)
 * 💻 **GitHub Profile:** [https://github.com/hackerstudent29](https://github.com/hackerstudent29)
-* 📦 **Lorin AI GitHub Repository:** [https://github.com/hackerstudent29/Lorin-AI](https://github.com/hackerstudent29/Lorin-AI)
 * 🏫 **College Official Website:** [https://www.msajce-edu.in](https://www.msajce-edu.in)
 """,
         "citations": [{"source": "msajce_developer_ramanathan.md", "page": "1", "section": "Developer Profile"}]
