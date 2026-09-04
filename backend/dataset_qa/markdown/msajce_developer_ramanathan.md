@@ -42,7 +42,7 @@ Java Backend Development, Spring Boot Microservices, Full-Stack Architecture, an
 What is the URL of Ramanathan S.'s personal portfolio website?
 
 **Answer**:
-https://ramanathanportfolio.vercel.app
+https://ram3d-portfolio.vercel.app
 
 ---
 ### Question 7 (Factoid)
@@ -240,6 +240,6 @@ Java Backend Development and Full-Stack Engineering
 What is the name of Ramanathan S.'s personal portfolio website?
 
 **Answer**:
-https://ramanathanportfolio.vercel.app
+https://ram3d-portfolio.vercel.app
 
 ---

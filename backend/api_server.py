@@ -61,7 +61,7 @@ RULES:
 5. Salary ranges from domain/career sections (e.g. "industry average Rs. 25 LPA") are NOT placement package facts — never present them as MSAJCE placement data.
 6. PARTIAL INFO / MISSING DETAILS: If you found partial info about the user's query, state the info you FOUND first clearly at the top. Only at the very end of your response, you may add: "For more details about [topic], contact: +91 99400 04500 or msajce.office@gmail.com." Do NOT start your answer by saying you couldn't find information if you actually found some relevant facts. If you found absolutely NOTHING, only then output: "I couldn't find details about [topic] in college records. Contact: +91 99400 04500 or msajce.office@gmail.com."
 7. AMBIGUOUS QUERIES: If the user asks for a department-level item or position (e.g., "HOD name", "syllabus") without specifying the department, ask the user which department they are interested in (e.g., CSE, ECE, IT, AI&DS, AI&ML, Civil, Mech, EEE, CSBS) or provide a list of available department options. Never arbitrarily select a random department.
-8. DEVELOPER & CREATOR ATTRIBUTION: If the user asks who created, built, or developed this chatbot, Lorin AI, Listen Zenify, ZenDrum Booking, or Zen Hostel, OR asks about "developer", "ram", "ramanathan", or "zendrum", identify **Ramanathan S.** (B.Tech IT, MSAJCE 2024-2028 batch) as the developer and ONLY tell them about Ramanathan. Do not confuse him with any other person. (Link: https://ramanathanportfolio.vercel.app)
+8. DEVELOPER & CREATOR ATTRIBUTION: If the user asks who created, built, or developed this chatbot, Lorin AI, Listen Zenify, ZenDrum Booking, or Zen Hostel, OR asks about "developer", "ram", "ramanathan", or "zendrum", identify **Ramanathan S.** (B.Tech IT, MSAJCE 2024-2028 batch) as the developer and ONLY tell them about Ramanathan. Do not confuse him with any other person. (Links: Portfolio: https://ram3d-portfolio.vercel.app | GitHub: https://github.com/hackerstudent29 | Repo: https://github.com/hackerstudent29/Lorin-AI)
 9. LINKS & URLS: Whenever a website link, official page URL, PDF download link, email address, or phone number is LITERALLY present in the SOURCES below, you MUST explicitly include the exact clickable link in your answer formatted as `[Link Title](https://...)` or plain URL. CRITICAL: Never invent, guess, or hallucinate links that are NOT explicitly written in the SOURCES. Under no circumstances should you output the domain name as "msa-jce" (with a hyphen between msa and jce); the official college abbreviation and domain name is strictly "msajce" (without any hyphen, e.g. msajce.ac.in, msajce-edu.in, or enrollonline.co.in/Registration/Apply/MSAJCE). Correct any misspelled links accordingly. If a link is not in the SOURCES, do not include a link.
 10. IMAGES & VISUAL MEDIA: If the user asks to see images, photos, or facilities, OR if image/media URLs (such as `.jpg`, `.png`, `.jpeg`, `.gif`) are present in the SOURCES for the requested topic (like sports, campus, labs, gym, events), you MUST include those image links in your answer formatted as markdown images: `![Image Description](image_url)` so they render visually in the chat!
 11. TRANSPORT QUERIES (COLLEGE BUS VS MTC BUS): When a user asks how to travel/reach the college from a specific area, or which bus goes to/passes through a specific stop:
@@ -151,9 +151,86 @@ def db_connect():
     return psycopg2.connect(DATABASE_URL)
 
 query_rewriter  = QueryRewriter(NVIDIA_API_KEY, db_conn_fn=db_connect)
-hybrid_retriever = None   # initialised after app startup (needs embed_fn)
+DEVELOPER_PROFILE_ANSWER = """### 👨‍💻 Developer Profile — Ramanathan S.
+**Creator & Architect of Lorin AI | Software Engineer**
+
+Ramanathan S. is the creator, architect, and lead developer of the **Lorin AI** Campus Assistant for Mohamed Sathak A.J. College of Engineering (MSAJCE).
+
+---
+
+### 🎓 Academic Background
+* **Degree:** Bachelor of Technology (B.Tech) in Information Technology
+* **Institution:** Mohamed Sathak A.J. College of Engineering (MSAJCE), Chennai
+* **Batch:** 2024 – 2028 | **CGPA:** 7.75
+
+---
+
+### 💼 Professional Experience & Internships
+* **CodeAlpha** — *Backend Development Intern* (Remote | July 2026 – August 2026)
+  * Designed production-grade REST APIs, structured relational data models, and implemented robust server-side validation and error handling for distributed services.
+* **Apollo Computer Education Ltd** — *Java Full-Stack Intern* (Chennai, India | January 2026)
+  * Engineered end-to-end full-stack web modules using Spring Boot, Spring Data JPA, and PostgreSQL, converting technical specifications into deployable microservices.
+
+---
+
+### 🛠️ Technical Stack & Core Expertise
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Backend & APIs** | Java, Spring Boot, Spring Data JPA, Hibernate, RESTful APIs, Microservices |
+| **AI & RAG Systems** | Qdrant Vector DB, NVIDIA NIM, Hybrid Search (Dense + BM25), Self-Healing LLM Pipelines, Llama 3.1 |
+| **Databases** | PostgreSQL, Supabase Cloud, Relational Schema Design |
+| **Frontend & 3D** | React, TypeScript, Tailwind CSS, Motion, WebSockets, Three.js / React Three Fiber, WebGL |
+| **DevOps & Cloud** | Docker, Git, Vercel, Railway, AWS, Vite |
+
+---
+
+### 🚀 Shipped Software & Featured Projects
+* **🤖 Lorin AI**: Enterprise RAG Assistant for MSAJCE with sub-second semantic caching, Qdrant hybrid retrieval, and automated feedback self-correction.
+* **🎵 Listen Zenify**: Full-stack music streaming platform with audio streaming, custom playlists, user library synchronization, and real-time playback (Java Spring Boot, PostgreSQL, React).
+* **🏟️ ZenDrum Booking**: Real-time sports turf & venue reservation platform with instant slot locking via WebSockets, dynamic pricing, and automated receipts (Java Spring Boot, WebSockets, PostgreSQL, React).
+* **🏢 Zen Hostel**: Digital hostel operations platform streamlining room allocations, warden dashboards, student gatepass processing, and maintenance ticketing (Java, Spring Boot, PostgreSQL, React).
+
+---
+
+### 🎯 Career Availability
+* Actively seeking remote software engineering internships and full-time backend development positions available starting in **Q1 2026**.
+
+---
+
+### 🌐 Connect & Developer Links
+* 🔗 **Personal 3D Portfolio:** [https://ram3d-portfolio.vercel.app](https://ram3d-portfolio.vercel.app)
+* 💻 **GitHub Profile:** [https://github.com/hackerstudent29](https://github.com/hackerstudent29)
+* 📦 **Lorin AI GitHub Repository:** [https://github.com/hackerstudent29/Lorin-AI](https://github.com/hackerstudent29/Lorin-AI)
+* 🏫 **College Official Website:** [https://www.msajce-edu.in](https://www.msajce-edu.in)"""
 
 SEED_CACHE: list[dict] = [
+    {
+        "query": "who is ram",
+        "aliases": [
+            "who is the developer",
+            "who is the creator",
+            "who developed you",
+            "who created you",
+            "who built you",
+            "tell me about ram",
+            "tell me about the developer",
+            "about the developer",
+            "developer of lorin ai",
+            "creator of lorin ai",
+            "ram",
+            "ramanathan",
+            "ramanathan s",
+            "who is ramanathan",
+            "who made you",
+            "tell me about ramanathan",
+            "ur host",
+            "your host",
+            "know more about ram",
+            "know more about the developer"
+        ],
+        "answer": DEVELOPER_PROFILE_ANSWER,
+        "citations": [{"source": "msajce_developer_ramanathan.md", "page": "1", "section": "Developer Profile"}]
+    },
     {
         "query": "nearest companies from msajce",
         "answer": """**Mohamed Sathak A.J. College of Engineering (MSAJCE)** is located on a sprawling 70-acre campus right inside the **SIPCOT IT Park, Siruseri**. Because of this strategic location, the college is surrounded by over a hundred leading multinational IT industries.
@@ -2055,7 +2132,7 @@ def preprocess_query(query: str) -> dict:
             "keywords": "",
             "category": None,
             "category_confidence": 0,
-            "direct_response": "I was developed by **Ramanathan S.** (B.Tech IT, MSAJCE 2024-2028 batch). He is the creator of this chatbot, Lorin AI, Listen Zenify, ZenDrum Booking, and Zen Hostel. You can learn more about him and his work at his portfolio: [https://ramanathanportfolio.vercel.app](https://ramanathanportfolio.vercel.app)",
+            "direct_response": DEVELOPER_PROFILE_ANSWER,
             "usage": {"prompt_tokens":0,"completion_tokens":0,"total_tokens":0}
         }
 
@@ -2924,18 +3001,20 @@ def chat_endpoint(req: ChatRequest, request: Request):
     elif uq_lower in thanks:
         direct_intent = "compliment"
         direct_ans = "You're welcome! Happy to help. If you have more questions about MSAJCE, just ask! 😊"
-    elif any(k in uq_lower for k in developer_keywords) or uq_lower in ["ram", "developer", "creator"]:
+    elif any(k in uq_lower for k in developer_keywords) or uq_lower in ["ram", "developer", "creator", "ramanathan"]:
         direct_intent = "developer_query"
-        direct_ans = "I was developed by **Ramanathan S.** (B.Tech IT, MSAJCE 2024-2028 batch). He is the creator of this chatbot, Lorin AI, Listen Zenify, ZenDrum Booking, and Zen Hostel. You can learn more about him and his work at his portfolio: [https://ramanathanportfolio.vercel.app](https://ramanathanportfolio.vercel.app)"
+        direct_ans = DEVELOPER_PROFILE_ANSWER
 
     if direct_ans:
         save_message(req.session_id, "user", user_query)
         msg_id = save_message(req.session_id, "assistant", direct_ans, {"intent": direct_intent})
+        is_cache_res = (direct_intent == "developer_query")
+        citations_list = [Citation(source="msajce_developer_ramanathan.md", page="1", section="Developer Profile")] if is_cache_res else []
         return ChatResponse(
             answer=direct_ans,
-            citations=[],
-            modelUsed="intent-classifier",
-            isCached=False,
+            citations=citations_list,
+            modelUsed="cache" if is_cache_res else "intent-classifier",
+            isCached=is_cache_res,
             tokenUsage=TokenUsage(prompt_tokens=0, completion_tokens=0, total_tokens=0),
             message_id=msg_id,
             followups=[]
@@ -3043,7 +3122,7 @@ def chat_endpoint(req: ChatRequest, request: Request):
         prep["direct_response"] = "You're welcome! Happy to help. If you have more questions about MSAJCE, just ask! 😊"
     elif any(k in aq_lower for k in developer_keywords) or aq_lower in ["ram", "ramanathan", "zendrum", "developer", "creator"]:
         intent = "developer_query"
-        prep["direct_response"] = "I was developed by **Ramanathan S.** (B.Tech IT, MSAJCE 2024-2028 batch). He is the creator of this chatbot, Lorin AI, Listen Zenify, ZenDrum Booking, and Zen Hostel. You can learn more about him and his work at his portfolio: [https://ramanathanportfolio.vercel.app](https://ramanathanportfolio.vercel.app)"
+        prep["direct_response"] = DEVELOPER_PROFILE_ANSWER
     else:
         # If the Vercel LLM classified it as a conversational intent but it didn't match our strict hardcoded lists,
         # it is likely a hallucinated intent. Force it back to college_query so it gets answered via RAG.

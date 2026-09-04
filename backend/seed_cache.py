@@ -417,6 +417,84 @@ MSAJCE encourages active participation in athletic tournaments, technology group
 | **Official Website** | — | [www.msajce-edu.in](https://www.msajce-edu.in) |
 """,
         "citations": [{"source": "msajce_about.md", "page": "1", "section": "Overview"}]
+    },
+    {
+        "query": "who is ram",
+        "aliases": [
+            "who is the developer",
+            "who is the creator",
+            "who developed you",
+            "who created you",
+            "who built you",
+            "tell me about ram",
+            "tell me about the developer",
+            "about the developer",
+            "developer of lorin ai",
+            "creator of lorin ai",
+            "ram",
+            "ramanathan",
+            "ramanathan s",
+            "who is ramanathan",
+            "who made you",
+            "tell me about ramanathan",
+            "ur host",
+            "your host",
+            "know more about ram",
+            "know more about the developer"
+        ],
+        "answer": """### 👨‍💻 Developer Profile — Ramanathan S.
+**Creator & Architect of Lorin AI | Software Engineer**
+
+Ramanathan S. is the creator, architect, and lead developer of the **Lorin AI** Campus Assistant for Mohamed Sathak A.J. College of Engineering (MSAJCE).
+
+---
+
+### 🎓 Academic Background
+* **Degree:** Bachelor of Technology (B.Tech) in Information Technology
+* **Institution:** Mohamed Sathak A.J. College of Engineering (MSAJCE), Chennai
+* **Batch:** 2024 – 2028 | **CGPA:** 7.75
+
+---
+
+### 💼 Professional Experience & Internships
+* **CodeAlpha** — *Backend Development Intern* (Remote | July 2026 – August 2026)
+  * Designed production-grade REST APIs, structured relational data models, and implemented robust server-side validation and error handling for distributed services.
+* **Apollo Computer Education Ltd** — *Java Full-Stack Intern* (Chennai, India | January 2026)
+  * Engineered end-to-end full-stack web modules using Spring Boot, Spring Data JPA, and PostgreSQL, converting technical specifications into deployable microservices.
+
+---
+
+### 🛠️ Technical Stack & Core Expertise
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Backend & APIs** | Java, Spring Boot, Spring Data JPA, Hibernate, RESTful APIs, Microservices |
+| **AI & RAG Systems** | Qdrant Vector DB, NVIDIA NIM, Hybrid Search (Dense + BM25), Self-Healing LLM Pipelines, Llama 3.1 |
+| **Databases** | PostgreSQL, Supabase Cloud, Relational Schema Design |
+| **Frontend & 3D** | React, TypeScript, Tailwind CSS, Motion, WebSockets, Three.js / React Three Fiber, WebGL |
+| **DevOps & Cloud** | Docker, Git, Vercel, Railway, AWS, Vite |
+
+---
+
+### 🚀 Shipped Software & Featured Projects
+* **🤖 Lorin AI**: Enterprise RAG Assistant for MSAJCE with sub-second semantic caching, Qdrant hybrid retrieval, and automated feedback self-correction.
+* **🎵 Listen Zenify**: Full-stack music streaming platform with audio streaming, custom playlists, user library synchronization, and real-time playback (Java Spring Boot, PostgreSQL, React).
+* **🏟️ ZenDrum Booking**: Real-time sports turf & venue reservation platform with instant slot locking via WebSockets, dynamic pricing, and automated receipts (Java Spring Boot, WebSockets, PostgreSQL, React).
+* **🏢 Zen Hostel**: Digital hostel operations platform streamlining room allocations, warden dashboards, student gatepass processing, and maintenance ticketing (Java, Spring Boot, PostgreSQL, React).
+
+---
+
+### 🎯 Career Availability
+* Actively seeking remote software engineering internships and full-time backend development positions available starting in **Q1 2026**.
+
+---
+
+### 🌐 Connect & Developer Links
+* 🔗 **Personal 3D Portfolio:** [https://ram3d-portfolio.vercel.app](https://ram3d-portfolio.vercel.app)
+* 💻 **GitHub Profile:** [https://github.com/hackerstudent29](https://github.com/hackerstudent29)
+* 📦 **Lorin AI GitHub Repository:** [https://github.com/hackerstudent29/Lorin-AI](https://github.com/hackerstudent29/Lorin-AI)
+* 🏫 **College Official Website:** [https://www.msajce-edu.in](https://www.msajce-edu.in)
+""",
+        "citations": [{"source": "msajce_developer_ramanathan.md", "page": "1", "section": "Developer Profile"}]
     }
 ]
 
