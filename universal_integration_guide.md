@@ -56,14 +56,17 @@ def verify_client_key(api_key: str = Security(api_key_header)):
 ### Implementation on Main Website (JavaScript Fetch):
 The college website developers will write this code to send messages to your backend.
 ```javascript
-async function sendQuery(userMessage) {
+async function sendQuery(userMessage, sessionId = null) {
     const response = await fetch("https://YOUR_FASTAPI_BACKEND_URL/api/chat", {
         method: "POST",
         headers: {
             "Content-Type": "application/json",
             "X-Chatbot-Key": "your_super_secret_client_key_123" // The key you defined above
         },
-        body: JSON.stringify({ query: userMessage })
+        body: JSON.stringify({ 
+            message: userMessage, 
+            session_id: sessionId || crypto.randomUUID() 
+        })
     });
     const data = await response.json();
     console.log("Lorin AI replied:", data.answer);

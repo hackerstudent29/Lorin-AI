@@ -16,19 +16,22 @@ This document provides a detailed, high-level architectural overview of the Moha
 - **Application Framework**: FastAPI (ASGI) running on Python 3.10+.
 - **ASGI Server**: Uvicorn.
 - **Rate Limiting**: Token-bucket rate limits using the Slowapi library:
-  - Chat queries (`/api/chat`): 10 queries per minute, 25 queries per day.
-  - User feedback (`/api/feedback`): 10 queries per minute.
+  - Chat queries (`/api/chat`): 60 queries per minute, 500 queries per day.
+  - User feedback (`/api/feedback`): 60 queries per minute.
 
 ### Database & Vector Engine
 - **Relational Storage**: Cloud-hosted PostgreSQL (via Supabase) utilizing pgBouncer for high-frequency connection pooling.
-- **Vector Database**: Qdrant Cloud Cluster. Matches embeddings in a single collection named `college_knowledgebase`.
+- **Two-Tier Caching System**:
+  - **Tier 1 (Static In-Memory Cache)**: Ultra-fast 0ms dictionary cache initialized at startup from predefined seed questions, hero cards, and developer aliases. Bypasses database and network latency entirely.
+  - **Tier 2 (PostgreSQL Semantic Cache)**: Dynamic `query_cache` table for learned queries, self-healing updates, and hit count tracking.
+- **Vector Database**: Qdrant Cloud Cluster. Matches embeddings in a high-accuracy collection named `nvidia`.
   - **Payload Indexes**: Registered on `source_file`, `category`, and `entity_ids` as keyword indexes for fast metadata filtering.
 
 ### LLMs & API Gateways
 - **Generation models**:
   - Primary: Google Gemini 2.5 Flash Lite (routed via Vercel AI Gateway).
-  - Fallback: Meta Llama 3.1 70B Instruct (NVIDIA NIM).
-- **Dense Embedding model**: NVIDIA NIM (`nvidia/nv-embedqa-e5-v5`, 1024 dimensions, 512 token max input limit).
+  - Fallback: Meta Llama 3.1 70B Instruct (NVIDIA NIM) / OpenRouter fallback routing.
+- **Dense Embedding model**: NVIDIA NIM (`nvidia/llama-nemotron-embed-vl-1b-v2` / `nvidia/nv-embedqa-e5-v5`, 1024 dimensions, 512 token max input limit).
 - **Re-ranking model**: NVIDIA NIM (`nvidia/llama-nemotron-rerank-1b-v2`).
 
 ---
@@ -107,8 +110,11 @@ If the current session contains previous messages, the query is passed to a rewr
 ### Step 3: Classification & Metadata Filtering
 The rewritten query is classified into a target category. If confidence exceeds the 60% threshold, a keyword filter is generated to restrict the subsequent vector search space.
 
-### Step 4: Semantic Cache Lookup
-The query is lowercased, spaces are stripped, punctuation is removed, and it is hashed using SHA-256. If the hash exists in the cache table, the response and citations are immediately returned (0ms retrieval latency).
+### Step 4: Two-Tier Cache Lookup
+The query is lowercased, spaces are collapsed, all punctuation is removed, and it is hashed using SHA-256:
+1. **Tier 1 (In-Memory)**: Looks up `STATIC_MEMORY_CACHE` in RAM for instant 0ms response times for all seed questions, hero cards, and developer query aliases.
+2. **Tier 2 (PostgreSQL)**: Queries the `query_cache` table for learned queries and updates hit counts.
+If a cache hit occurs, the response and citations are immediately returned with `isCached: True`.
 
 ### Step 5: Parallel Hybrid Retrieval
 If a cache miss occurs, the system executes two search threads in parallel:
